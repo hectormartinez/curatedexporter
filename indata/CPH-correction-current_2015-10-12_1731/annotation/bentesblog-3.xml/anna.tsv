@@ -1,0 +1,2202 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Så både de og bilen måtte bugseres retur til Østerbro, og der er udsigt til en klækkelig mekanikerregning.
+1-1	Så	O	
+1-2	både	O	
+1-3	de	O	
+1-4	og	O	
+1-5	bilen	B-noun.vehicle	
+1-6	måtte	O	
+1-7	bugseres	B-verb.motion	
+1-8	retur	O	
+1-9	til	O	
+1-10	Østerbro	B-noun.location	
+1-11	,	O	
+1-12	og	O	
+1-13	der	O	
+1-14	er	B-verb.stative	
+1-15	udsigt	B-noun.feeling	
+1-16	til	O	
+1-17	en	O	
+1-18	klækkelig	B-adj.all	
+1-19	mekanikerregning	B-noun.artifact	
+1-20	.	O	
+
+#id=2
+#text=Tags:nørderi, olivenbrød, rødbedesalat med avocado, Væksthus Hovedstadsregionen
+2-1	Tags	O	
+2-2	:	O	
+2-3	nørderi	O	
+2-4	,	O	
+2-5	olivenbrød	O	
+2-6	,	O	
+2-7	rødbedesalat	O	
+2-8	med	O	
+2-9	avocado	O	
+2-10	,	O	
+2-11	Væksthus	O	
+2-12	Hovedstadsregionen	O	
+
+#id=3
+#text=Men det er der en rigtig god grund til (altså ud over den, der hedder arbejde ).
+3-1	Men	O	
+3-2	det	O	
+3-3	er	O	
+3-4	der	O	
+3-5	en	O	
+3-6	rigtig	O	
+3-7	god	O	
+3-8	grund	O	
+3-9	til	O	
+3-10	(	O	
+3-11	altså	O	
+3-12	ud	O	
+3-13	over	O	
+3-14	den	O	
+3-15	,	O	
+3-16	der	O	
+3-17	hedder	O	
+3-18	arbejde	O	
+3-19	)	O	
+3-20	.	O	
+
+#id=4
+#text=Hurra!!
+4-1	Hurra	O	
+4-2	!	O	
+4-3	!	O	
+
+#id=5
+#text=Helt inde bagerst i højre overmund.
+5-1	Helt	O	
+5-2	inde	O	
+5-3	bagerst	O	
+5-4	i	O	
+5-5	højre	O	
+5-6	overmund	O	
+5-7	.	O	
+
+#id=6
+#text= Der var ikke mange.
+6-1	Der	O	
+6-2	var	O	
+6-3	ikke	O	
+6-4	mange	O	
+6-5	.	O	
+
+#id=7
+#text=Koldtvand er godt til bagning kan man læse på tjek på politiken.dk i en artikel, som bl.a. indeholder den indlysende udtalelse:
+7-1	Koldt	O	
+7-2	vand	O	
+7-3	er	O	
+7-4	godt	O	
+7-5	til	O	
+7-6	bagning	O	
+7-7	kan	O	
+7-8	man	O	
+7-9	læse	O	
+7-10	på	O	
+7-11	tjek	O	
+7-12	på	O	
+7-13	politiken	O	
+7-14	.	O	
+7-15	dk	O	
+7-16	i	O	
+7-17	en	O	
+7-18	artikel	O	
+7-19	,	O	
+7-20	som	O	
+7-21	bl	O	
+7-22	.	O	
+7-23	a	O	
+7-24	.	O	
+7-25	indeholder	O	
+7-26	den	O	
+7-27	indlysende	O	
+7-28	udtalelse	O	
+7-29	:	O	
+
+#id=8
+#text=PåFreakonomics har økonomiprofessor Steven Levitt (humoristisk) skrevet om undersøgelsen, og det har udløst debat.
+8-1	På	O	
+8-2	Freakonomics	O	
+8-3	har	O	
+8-4	økonomiprofessor	O	
+8-5	Steven	O	
+8-6	Levitt	O	
+8-7	(	O	
+8-8	humoristisk	O	
+8-9	)	O	
+8-10	skrevet	O	
+8-11	om	O	
+8-12	undersøgelsen	O	
+8-13	,	O	
+8-14	og	O	
+8-15	det	O	
+8-16	har	O	
+8-17	udløst	O	
+8-18	debat	O	
+8-19	.	O	
+
+#id=9
+#text=Togange på to dage er jeg nu stødt på pudsigheder, som enhver årvågen korrekturlæser burde have fanget.
+9-1	To	O	
+9-2	gange	O	
+9-3	på	O	
+9-4	to	O	
+9-5	dage	O	
+9-6	er	O	
+9-7	jeg	O	
+9-8	nu	O	
+9-9	stødt	O	
+9-10	på	O	
+9-11	pudsigheder	O	
+9-12	,	O	
+9-13	som	O	
+9-14	enhver	O	
+9-15	årvågen	O	
+9-16	korrekturlæser	O	
+9-17	burde	O	
+9-18	have	O	
+9-19	fanget	O	
+9-20	.	O	
+
+#id=10
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+10-1	Du	O	
+10-2	kan	O	
+10-3	skrive	O	
+10-4	en	O	
+10-5	kommentar	O	
+10-6	,	O	
+10-7	eller	O	
+10-8	sende	O	
+10-9	et	O	
+10-10	trackback	O	
+10-11	fra	O	
+10-12	dit	O	
+10-13	eget	O	
+10-14	site	O	
+10-15	.	O	
+
+#id=11
+#text=Detteindlæg blev udgivet den fredag, 18. juni 2010 kl. 18:00 og er gemt i Min have.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+11-1	Dette	O	
+11-2	indlæg	O	
+11-3	blev	O	
+11-4	udgivet	O	
+11-5	den	O	
+11-6	fredag	O	
+11-7	,	O	
+11-8	18	O	
+11-9	.	O	
+11-10	juni	O	
+11-11	2010	O	
+11-12	kl	O	
+11-13	.	O	
+11-14	18	O	
+11-15	:	O	
+11-16	00	O	
+11-17	og	O	
+11-18	er	O	
+11-19	gemt	O	
+11-20	i	O	
+11-21	Min	O	
+11-22	have	O	
+11-23	.	O	
+11-24	Du	O	
+11-25	kan	O	
+11-26	følge	O	
+11-27	alle	O	
+11-28	svar	O	
+11-29	til	O	
+11-30	dette	O	
+11-31	indlæg	O	
+11-32	via	O	
+11-33	RSS	O	
+11-34	2	O	
+11-35	.	O	
+11-36	0	O	
+11-37	-	O	
+11-38	feedet	O	
+11-39	.	O	
+
+#id=12
+#text=Nu kom det jo til at handle om mad igen .
+12-1	Nu	O	
+12-2	kom	O	
+12-3	det	O	
+12-4	jo	O	
+12-5	til	O	
+12-6	at	O	
+12-7	handle	O	
+12-8	om	O	
+12-9	mad	O	
+12-10	igen	O	
+12-11	.	O	
+
+#id=13
+#text=Selv om jeg ved, at det kan bruges til meget andet, fx deltagelse i grupper om diverse emner, brancher osv.
+13-1	Selv	O	
+13-2	om	O	
+13-3	jeg	O	
+13-4	ved	O	
+13-5	,	O	
+13-6	at	O	
+13-7	det	O	
+13-8	kan	O	
+13-9	bruges	O	
+13-10	til	O	
+13-11	meget	O	
+13-12	andet	O	
+13-13	,	O	
+13-14	fx	O	
+13-15	deltagelse	O	
+13-16	i	O	
+13-17	grupper	O	
+13-18	om	O	
+13-19	diverse	O	
+13-20	emner	O	
+13-21	,	O	
+13-22	brancher	O	
+13-23	osv	O	
+13-24	.	O	
+
+#id=14
+#text=Masseraf gange har jeg læst begejstrede ord om Jussi Adler-Olsens bøger bl.a. her  i blogland.
+14-1	Masser	O	
+14-2	af	O	
+14-3	gange	O	
+14-4	har	O	
+14-5	jeg	O	
+14-6	læst	O	
+14-7	begejstrede	O	
+14-8	ord	O	
+14-9	om	O	
+14-10	Jussi	O	
+14-11	Adler	O	
+14-12	-	O	
+14-13	Olsens	O	
+14-14	bøger	O	
+14-15	bl	O	
+14-16	.	O	
+14-17	a	O	
+14-18	.	O	
+14-19	her	O	
+14-20	i	O	
+14-21	blogland	O	
+14-22	.	O	
+
+#id=15
+#text=Hårdt.
+15-1	Hårdt	O	
+15-2	.	O	
+
+#id=16
+#text=Sådet var et tiltrængt udslag af fornuft, der fik manden i mit liv og mig  til at planlægge en tur i fitnesscenter i dag efter arbejde.
+16-1	Så	O	
+16-2	det	O	
+16-3	var	O	
+16-4	et	O	
+16-5	tiltrængt	O	
+16-6	udslag	O	
+16-7	af	O	
+16-8	fornuft	O	
+16-9	,	O	
+16-10	der	O	
+16-11	fik	O	
+16-12	manden	O	
+16-13	i	O	
+16-14	mit	O	
+16-15	liv	O	
+16-16	og	O	
+16-17	mig	O	
+16-18	til	O	
+16-19	at	O	
+16-20	planlægge	O	
+16-21	en	O	
+16-22	tur	O	
+16-23	i	O	
+16-24	fitnesscenter	O	
+16-25	i	O	
+16-26	dag	O	
+16-27	efter	O	
+16-28	arbejde	O	
+16-29	.	O	
+
+#id=17
+#text=Førstfik vi lige lidt mere kunst med på vejen på Spars parkeringsplads ved beklageligvis ikke, hvem kunstneren er.
+17-1	Først	O	
+17-2	fik	O	
+17-3	vi	O	
+17-4	lige	O	
+17-5	lidt	O	
+17-6	mere	O	
+17-7	kunst	O	
+17-8	med	O	
+17-9	på	O	
+17-10	vejen	O	
+17-11	på	O	
+17-12	Spars	O	
+17-13	parkeringsplads	O	
+17-14	ved	O	
+17-15	beklageligvis	O	
+17-16	ikke	O	
+17-17	,	O	
+17-18	hvem	O	
+17-19	kunstneren	O	
+17-20	er	O	
+17-21	.	O	
+
+#id=18
+#text=Derfor må her fx gerne bo et sammenbragt miks af sofaer, for de taler jo deres tydelige sprog om, at vi også er et sammenbragt miks af mennesker.
+18-1	Derfor	O	
+18-2	må	O	
+18-3	her	O	
+18-4	fx	O	
+18-5	gerne	O	
+18-6	bo	O	
+18-7	et	O	
+18-8	sammenbragt	O	
+18-9	miks	O	
+18-10	af	O	
+18-11	sofaer	O	
+18-12	,	O	
+18-13	for	O	
+18-14	de	O	
+18-15	taler	O	
+18-16	jo	O	
+18-17	deres	O	
+18-18	tydelige	O	
+18-19	sprog	O	
+18-20	om	O	
+18-21	,	O	
+18-22	at	O	
+18-23	vi	O	
+18-24	også	O	
+18-25	er	O	
+18-26	et	O	
+18-27	sammenbragt	O	
+18-28	miks	O	
+18-29	af	O	
+18-30	mennesker	O	
+18-31	.	O	
+
+#id=19
+#text=Detteindlæg blev udgivet den torsdag, 26. august 2010 kl. 20:55 og er gemt i At blogge, Vejr.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+19-1	Dette	O	
+19-2	indlæg	O	
+19-3	blev	O	
+19-4	udgivet	O	
+19-5	den	O	
+19-6	torsdag	O	
+19-7	,	O	
+19-8	26	O	
+19-9	.	O	
+19-10	august	O	
+19-11	2010	O	
+19-12	kl	O	
+19-13	.	O	
+19-14	20	O	
+19-15	:	O	
+19-16	55	O	
+19-17	og	O	
+19-18	er	O	
+19-19	gemt	O	
+19-20	i	O	
+19-21	At	O	
+19-22	blogge	O	
+19-23	,	O	
+19-24	Vejr	O	
+19-25	.	O	
+19-26	Du	O	
+19-27	kan	O	
+19-28	følge	O	
+19-29	alle	O	
+19-30	svar	O	
+19-31	til	O	
+19-32	dette	O	
+19-33	indlæg	O	
+19-34	via	O	
+19-35	RSS	O	
+19-36	2	O	
+19-37	.	O	
+19-38	0	O	
+19-39	-	O	
+19-40	feedet	O	
+19-41	.	O	
+
+#id=20
+#text=Detteindlæg blev udgivet den søndag,  21. februar 2010 kl. 20:03 og er gemt i Mad.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+20-1	Dette	O	
+20-2	indlæg	O	
+20-3	blev	O	
+20-4	udgivet	O	
+20-5	den	O	
+20-6	søndag	O	
+20-7	,	O	
+20-8	21	O	
+20-9	.	O	
+20-10	februar	O	
+20-11	2010	O	
+20-12	kl	O	
+20-13	.	O	
+20-14	20	O	
+20-15	:	O	
+20-16	03	O	
+20-17	og	O	
+20-18	er	O	
+20-19	gemt	O	
+20-20	i	O	
+20-21	Mad	O	
+20-22	.	O	
+20-23	Du	O	
+20-24	kan	O	
+20-25	følge	O	
+20-26	alle	O	
+20-27	svar	O	
+20-28	til	O	
+20-29	dette	O	
+20-30	indlæg	O	
+20-31	via	O	
+20-32	RSS	O	
+20-33	2	O	
+20-34	.	O	
+20-35	0	O	
+20-36	-	O	
+20-37	feedet	O	
+20-38	.	O	
+
+#id=21
+#text=Plastret, som lindrer smerten og ubehaget ved bi- og hvepsestik.
+21-1	Plastret	O	
+21-2	,	O	
+21-3	som	O	
+21-4	lindrer	O	
+21-5	smerten	O	
+21-6	og	O	
+21-7	ubehaget	O	
+21-8	ved	O	
+21-9	bi	O	
+21-10	-	O	
+21-11	og	O	
+21-12	hvepsestik	O	
+21-13	.	O	
+
+#id=22
+#text=Men jeg ved, at da vækkeuret bimlede klokken 6.30, var jeg laaaangt væk.
+22-1	Men	O	
+22-2	jeg	O	
+22-3	ved	O	
+22-4	,	O	
+22-5	at	O	
+22-6	da	O	
+22-7	vækkeuret	O	
+22-8	bimlede	O	
+22-9	klokken	O	
+22-10	6	O	
+22-11	.	O	
+22-12	30	O	
+22-13	,	O	
+22-14	var	O	
+22-15	jeg	O	
+22-16	laaaangt	O	
+22-17	væk	O	
+22-18	.	O	
+
+#id=23
+#text=altville se lettere ud, hvis man fjerner det lille, men langtfra undseelige stumme h fra det danske sprog.Det mener i hvert fald Dansk Sprognævn, som i forlængelse af sin anbefaling af, at det skal være tilladt at skrive såvel gymnasie med e i enden som gymnasium med ium, nu også anbefaler, at det skal være tilladt at skrive vad, vem, vor, vorfor, jælp, jerne og jul.
+23-1	alt	O	
+23-2	ville	O	
+23-3	se	O	
+23-4	lettere	O	
+23-5	ud	O	
+23-6	,	O	
+23-7	hvis	O	
+23-8	man	O	
+23-9	fjerner	O	
+23-10	det	O	
+23-11	lille	O	
+23-12	,	O	
+23-13	men	O	
+23-14	langtfra	O	
+23-15	undseelige	O	
+23-16	stumme	O	
+23-17	h	O	
+23-18	fra	O	
+23-19	det	O	
+23-20	danske	O	
+23-21	sprog	O	
+23-22	.	O	
+23-23	Det	O	
+23-24	mener	O	
+23-25	i	O	
+23-26	hvert	O	
+23-27	fald	O	
+23-28	Dansk	O	
+23-29	Sprognævn	O	
+23-30	,	O	
+23-31	som	O	
+23-32	i	O	
+23-33	forlængelse	O	
+23-34	af	O	
+23-35	sin	O	
+23-36	anbefaling	O	
+23-37	af	O	
+23-38	,	O	
+23-39	at	O	
+23-40	det	O	
+23-41	skal	O	
+23-42	være	O	
+23-43	tilladt	O	
+23-44	at	O	
+23-45	skrive	O	
+23-46	såvel	O	
+23-47	gymnasie	O	
+23-48	med	O	
+23-49	e	O	
+23-50	i	O	
+23-51	enden	O	
+23-52	som	O	
+23-53	gymnasium	O	
+23-54	med	O	
+23-55	ium	O	
+23-56	,	O	
+23-57	nu	O	
+23-58	også	O	
+23-59	anbefaler	O	
+23-60	,	O	
+23-61	at	O	
+23-62	det	O	
+23-63	skal	O	
+23-64	være	O	
+23-65	tilladt	O	
+23-66	at	O	
+23-67	skrive	O	
+23-68	vad	O	
+23-69	,	O	
+23-70	vem	O	
+23-71	,	O	
+23-72	vor	O	
+23-73	,	O	
+23-74	vorfor	O	
+23-75	,	O	
+23-76	jælp	O	
+23-77	,	O	
+23-78	jerne	O	
+23-79	og	O	
+23-80	jul	O	
+23-81	.	O	
+
+#id=24
+#text=Detteindlæg blev udgivet den søndag, 12. december 2010 kl. 13:29 og er gemt i Familie, Rodekassen.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+24-1	Dette	O	
+24-2	indlæg	O	
+24-3	blev	O	
+24-4	udgivet	O	
+24-5	den	O	
+24-6	søndag	O	
+24-7	,	O	
+24-8	12	O	
+24-9	.	O	
+24-10	december	O	
+24-11	2010	O	
+24-12	kl	O	
+24-13	.	O	
+24-14	13	O	
+24-15	:	O	
+24-16	29	O	
+24-17	og	O	
+24-18	er	O	
+24-19	gemt	O	
+24-20	i	O	
+24-21	Familie	O	
+24-22	,	O	
+24-23	Rodekassen	O	
+24-24	.	O	
+24-25	Du	O	
+24-26	kan	O	
+24-27	følge	O	
+24-28	alle	O	
+24-29	svar	O	
+24-30	til	O	
+24-31	dette	O	
+24-32	indlæg	O	
+24-33	via	O	
+24-34	RSS	O	
+24-35	2	O	
+24-36	.	O	
+24-37	0	O	
+24-38	-	O	
+24-39	feedet	O	
+24-40	.	O	
+
+#id=25
+#text=Faktiskholder jeg så meget af syrener, at jeg, da ægteskabssammenbruddet skilte mig fra den gamle villahave, gravede nogle skud op og lod dem flytte ind i mit singleliv.
+25-1	Faktisk	O	
+25-2	holder	O	
+25-3	jeg	O	
+25-4	så	O	
+25-5	meget	O	
+25-6	af	O	
+25-7	syrener	O	
+25-8	,	O	
+25-9	at	O	
+25-10	jeg	O	
+25-11	,	O	
+25-12	da	O	
+25-13	ægteskabssammenbruddet	O	
+25-14	skilte	O	
+25-15	mig	O	
+25-16	fra	O	
+25-17	den	O	
+25-18	gamle	O	
+25-19	villahave	O	
+25-20	,	O	
+25-21	gravede	O	
+25-22	nogle	O	
+25-23	skud	O	
+25-24	op	O	
+25-25	og	O	
+25-26	lod	O	
+25-27	dem	O	
+25-28	flytte	O	
+25-29	ind	O	
+25-30	i	O	
+25-31	mit	O	
+25-32	singleliv	O	
+25-33	.	O	
+
+#id=26
+#text=Og jeg er stolt over at se den selvstændige og målrettede datter, med smil på læben og glimt i øjet, som jeg har i dag!
+26-1	Og	O	
+26-2	jeg	O	
+26-3	er	O	
+26-4	stolt	O	
+26-5	over	O	
+26-6	at	O	
+26-7	se	O	
+26-8	den	O	
+26-9	selvstændige	O	
+26-10	og	O	
+26-11	målrettede	O	
+26-12	datter	O	
+26-13	,	O	
+26-14	med	O	
+26-15	smil	O	
+26-16	på	O	
+26-17	læben	O	
+26-18	og	O	
+26-19	glimt	O	
+26-20	i	O	
+26-21	øjet	O	
+26-22	,	O	
+26-23	som	O	
+26-24	jeg	O	
+26-25	har	O	
+26-26	i	O	
+26-27	dag	O	
+26-28	!	O	
+
+#id=27
+#text=Voresforsikringsselskab hyrede et skadeservicefirma, som pakkede hele husets indhold sammen og sendte mindst halvdelen af vores indbo til opmagasinering (det var tankevækkende, så lidt vi savnede af det under genhusningen).
+27-1	Vores	O	
+27-2	forsikringsselskab	O	
+27-3	hyrede	O	
+27-4	et	O	
+27-5	skadeservicefirma	O	
+27-6	,	O	
+27-7	som	O	
+27-8	pakkede	O	
+27-9	hele	O	
+27-10	husets	O	
+27-11	indhold	O	
+27-12	sammen	O	
+27-13	og	O	
+27-14	sendte	O	
+27-15	mindst	O	
+27-16	halvdelen	O	
+27-17	af	O	
+27-18	vores	O	
+27-19	indbo	O	
+27-20	til	O	
+27-21	opmagasinering	O	
+27-22	(	O	
+27-23	det	O	
+27-24	var	O	
+27-25	tankevækkende	O	
+27-26	,	O	
+27-27	så	O	
+27-28	lidt	O	
+27-29	vi	O	
+27-30	savnede	O	
+27-31	af	O	
+27-32	det	O	
+27-33	under	O	
+27-34	genhusningen	O	
+27-35	)	O	
+27-36	.	O	
+
+#id=28
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+28-1	Du	O	
+28-2	kan	O	
+28-3	skrive	O	
+28-4	en	O	
+28-5	kommentar	O	
+28-6	,	O	
+28-7	eller	O	
+28-8	sende	O	
+28-9	et	O	
+28-10	trackback	O	
+28-11	fra	O	
+28-12	dit	O	
+28-13	eget	O	
+28-14	site	O	
+28-15	.	O	
+
+#id=29
+#text=Og skred.
+29-1	Og	O	
+29-2	skred	O	
+29-3	.	O	
+
+#id=30
+#text=Johan Olsen, Kanten, P1, radioklumme
+30-1	Johan	O	
+30-2	Olsen	O	
+30-3	,	O	
+30-4	Kanten	O	
+30-5	,	O	
+30-6	P1	O	
+30-7	,	O	
+30-8	radioklumme	O	
+
+#id=31
+#text=Tags:efterår, myg, myggeplage, myggestik
+31-1	Tags	O	
+31-2	:	O	
+31-3	efterår	O	
+31-4	,	O	
+31-5	myg	O	
+31-6	,	O	
+31-7	myggeplage	O	
+31-8	,	O	
+31-9	myggestik	O	
+
+#id=32
+#text=Enformiddag med søvn og sløvhed og tosom brunch.
+32-1	En	O	
+32-2	formiddag	O	
+32-3	med	O	
+32-4	søvn	O	
+32-5	og	O	
+32-6	sløvhed	O	
+32-7	og	O	
+32-8	tosom	O	
+32-9	brunch	O	
+32-10	.	O	
+
+#id=33
+#text=Tags:
+33-1	Tags	O	
+33-2	:	O	
+
+#id=34
+#text=Tags:efterår, Jægerspris, lørdag, rengøring, solskin, Vester Strand
+34-1	Tags	O	
+34-2	:	O	
+34-3	efterår	O	
+34-4	,	O	
+34-5	Jægerspris	O	
+34-6	,	O	
+34-7	lørdag	O	
+34-8	,	O	
+34-9	rengøring	O	
+34-10	,	O	
+34-11	solskin	O	
+34-12	,	O	
+34-13	Vester	O	
+34-14	Strand	O	
+
+#id=35
+#text=Menjo, jeg klukkede en del, da jeg scrollede mig gennem billederne.
+35-1	Men	O	
+35-2	jo	O	
+35-3	,	O	
+35-4	jeg	O	
+35-5	klukkede	O	
+35-6	en	O	
+35-7	del	O	
+35-8	,	O	
+35-9	da	O	
+35-10	jeg	O	
+35-11	scrollede	O	
+35-12	mig	O	
+35-13	gennem	O	
+35-14	billederne	O	
+35-15	.	O	
+
+#id=36
+#text=Detteindlæg blev udgivet den tirsdag, 6. juli 2010 kl. 00:00 og er gemt i Mad, Min have.Du kan følge alle svar til  dette indlæg via RSS 2.0-feedet.
+36-1	Dette	O	
+36-2	indlæg	O	
+36-3	blev	O	
+36-4	udgivet	O	
+36-5	den	O	
+36-6	tirsdag	O	
+36-7	,	O	
+36-8	6	O	
+36-9	.	O	
+36-10	juli	O	
+36-11	2010	O	
+36-12	kl	O	
+36-13	.	O	
+36-14	00	O	
+36-15	:	O	
+36-16	00	O	
+36-17	og	O	
+36-18	er	O	
+36-19	gemt	O	
+36-20	i	O	
+36-21	Mad	O	
+36-22	,	O	
+36-23	Min	O	
+36-24	have	O	
+36-25	.	O	
+36-26	Du	O	
+36-27	kan	O	
+36-28	følge	O	
+36-29	alle	O	
+36-30	svar	O	
+36-31	til	O	
+36-32	dette	O	
+36-33	indlæg	O	
+36-34	via	O	
+36-35	RSS	O	
+36-36	2	O	
+36-37	.	O	
+36-38	0	O	
+36-39	-	O	
+36-40	feedet	O	
+36-41	.	O	
+
+#id=37
+#text=Tags:foto, sommer, stokroser, weekend
+37-1	Tags	O	
+37-2	:	O	
+37-3	foto	O	
+37-4	,	O	
+37-5	sommer	O	
+37-6	,	O	
+37-7	stokroser	O	
+37-8	,	O	
+37-9	weekend	O	
+
+#id=38
+#text=Hvader det lige, der sker for kvinder i Alt for damerne- og Femina-segmentet (sådan cirka, ud fra en helt uvidenskabelig og pseudosociologisk indplacering)?
+38-1	Hvad	O	
+38-2	er	O	
+38-3	det	O	
+38-4	lige	O	
+38-5	,	O	
+38-6	der	O	
+38-7	sker	O	
+38-8	for	O	
+38-9	kvinder	O	
+38-10	i	O	
+38-11	Alt	O	
+38-12	for	O	
+38-13	damerne	O	
+38-14	-	O	
+38-15	og	O	
+38-16	Femina	O	
+38-17	-	O	
+38-18	segmentet	O	
+38-19	(	O	
+38-20	sådan	O	
+38-21	cirka	O	
+38-22	,	O	
+38-23	ud	O	
+38-24	fra	O	
+38-25	en	O	
+38-26	helt	O	
+38-27	uvidenskabelig	O	
+38-28	og	O	
+38-29	pseudosociologisk	O	
+38-30	indplacering	O	
+38-31	)	O	
+38-32	?	O	
+
+#id=39
+#text=Nogle dage er hans sgu for irriterende til at blive elsket.
+39-1	Nogle	O	
+39-2	dage	O	
+39-3	er	O	
+39-4	hans	O	
+39-5	sgu	O	
+39-6	for	O	
+39-7	irriterende	O	
+39-8	til	O	
+39-9	at	O	
+39-10	blive	O	
+39-11	elsket	O	
+39-12	.	O	
+
+#id=40
+#text=Måske fordi jeg selv har svært ved at sætte præcise ord på Hvordan går det?-spørgsmålet.
+40-1	Måske	O	
+40-2	fordi	O	
+40-3	jeg	O	
+40-4	selv	O	
+40-5	har	O	
+40-6	svært	O	
+40-7	ved	O	
+40-8	at	O	
+40-9	sætte	O	
+40-10	præcise	O	
+40-11	ord	O	
+40-12	på	O	
+40-13	Hvordan	O	
+40-14	går	O	
+40-15	det	O	
+40-16	?	O	
+40-17	-	O	
+40-18	spørgsmålet	O	
+40-19	.	O	
+
+#id=41
+#text=Haen dejlig torsdag omend den ser lidt grå og fugtig ud .
+41-1	Ha	O	
+41-2	en	O	
+41-3	dejlig	O	
+41-4	torsdag	O	
+41-5	omend	O	
+41-6	den	O	
+41-7	ser	O	
+41-8	lidt	O	
+41-9	grå	O	
+41-10	og	O	
+41-11	fugtig	O	
+41-12	ud	O	
+41-13	.	O	
+
+#id=42
+#text=Detteindlæg blev udgivet den mandag, 29. juni 2009 kl. 22:09 og er gemt i  Natur, Vejr, Ægteskab.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+42-1	Dette	O	
+42-2	indlæg	O	
+42-3	blev	O	
+42-4	udgivet	O	
+42-5	den	O	
+42-6	mandag	O	
+42-7	,	O	
+42-8	29	O	
+42-9	.	O	
+42-10	juni	O	
+42-11	2009	O	
+42-12	kl	O	
+42-13	.	O	
+42-14	22	O	
+42-15	:	O	
+42-16	09	O	
+42-17	og	O	
+42-18	er	O	
+42-19	gemt	O	
+42-20	i	O	
+42-21	Natur	O	
+42-22	,	O	
+42-23	Vejr	O	
+42-24	,	O	
+42-25	Ægteskab	O	
+42-26	.	O	
+42-27	Du	O	
+42-28	kan	O	
+42-29	følge	O	
+42-30	alle	O	
+42-31	svar	O	
+42-32	til	O	
+42-33	dette	O	
+42-34	indlæg	O	
+42-35	via	O	
+42-36	RSS	O	
+42-37	2	O	
+42-38	.	O	
+42-39	0	O	
+42-40	-	O	
+42-41	feedet	O	
+42-42	.	O	
+
+#id=43
+#text=Deter nu en ret uovertruffen udsigt at ha .
+43-1	Det	O	
+43-2	er	O	
+43-3	nu	O	
+43-4	en	O	
+43-5	ret	O	
+43-6	uovertruffen	O	
+43-7	udsigt	O	
+43-8	at	O	
+43-9	ha	O	
+43-10	.	O	
+
+#id=44
+#text=Fødevarekontrollenrykkede ud til de butikker, hvor Kontant havde fundet genbrugs-kød, og de fandt overtrædelser af datomærkningsreglerne i syv ud af de ti butikker.
+44-1	Fødevarekontrollen	O	
+44-2	rykkede	O	
+44-3	ud	O	
+44-4	til	O	
+44-5	de	O	
+44-6	butikker	O	
+44-7	,	O	
+44-8	hvor	O	
+44-9	Kontant	O	
+44-10	havde	O	
+44-11	fundet	O	
+44-12	genbrugs	O	
+44-13	-	O	
+44-14	kød	O	
+44-15	,	O	
+44-16	og	O	
+44-17	de	O	
+44-18	fandt	O	
+44-19	overtrædelser	O	
+44-20	af	O	
+44-21	datomærkningsreglerne	O	
+44-22	i	O	
+44-23	syv	O	
+44-24	ud	O	
+44-25	af	O	
+44-26	de	O	
+44-27	ti	O	
+44-28	butikker	O	
+44-29	.	O	
+
+#id=45
+#text=Detteindlæg blev udgivet den fredag, 12. juni 2009 kl. 13:06 og er gemt i Helbred, Katte.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+45-1	Dette	O	
+45-2	indlæg	O	
+45-3	blev	O	
+45-4	udgivet	O	
+45-5	den	O	
+45-6	fredag	O	
+45-7	,	O	
+45-8	12	O	
+45-9	.	O	
+45-10	juni	O	
+45-11	2009	O	
+45-12	kl	O	
+45-13	.	O	
+45-14	13	O	
+45-15	:	O	
+45-16	06	O	
+45-17	og	O	
+45-18	er	O	
+45-19	gemt	O	
+45-20	i	O	
+45-21	Helbred	O	
+45-22	,	O	
+45-23	Katte	O	
+45-24	.	O	
+45-25	Du	O	
+45-26	kan	O	
+45-27	følge	O	
+45-28	alle	O	
+45-29	svar	O	
+45-30	til	O	
+45-31	dette	O	
+45-32	indlæg	O	
+45-33	via	O	
+45-34	RSS	O	
+45-35	2	O	
+45-36	.	O	
+45-37	0	O	
+45-38	-	O	
+45-39	feedet	O	
+45-40	.	O	
+
+#id=46
+#text=Vil du have billedet i høj opløsning, skal du betale for det.
+46-1	Vil	O	
+46-2	du	O	
+46-3	have	O	
+46-4	billedet	O	
+46-5	i	O	
+46-6	høj	O	
+46-7	opløsning	O	
+46-8	,	O	
+46-9	skal	O	
+46-10	du	O	
+46-11	betale	O	
+46-12	for	O	
+46-13	det	O	
+46-14	.	O	
+
+#id=47
+#text=Densidste film skal færdiggøres og finpudses og på fredag er der eksamen.
+47-1	Den	O	
+47-2	sidste	O	
+47-3	film	O	
+47-4	skal	O	
+47-5	færdiggøres	O	
+47-6	og	O	
+47-7	finpudses	O	
+47-8	og	O	
+47-9	på	O	
+47-10	fredag	O	
+47-11	er	O	
+47-12	der	O	
+47-13	eksamen	O	
+47-14	.	O	
+
+#id=48
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+48-1	Du	O	
+48-2	kan	O	
+48-3	skrive	O	
+48-4	en	O	
+48-5	kommentar	O	
+48-6	,	O	
+48-7	eller	O	
+48-8	sende	O	
+48-9	et	O	
+48-10	trackback	O	
+48-11	fra	O	
+48-12	dit	O	
+48-13	eget	O	
+48-14	site	O	
+48-15	.	O	
+
+#id=49
+#text=Til mandens glæde var der (som sædvanligt) ikke dild i huset.
+49-1	Til	O	
+49-2	mandens	O	
+49-3	glæde	O	
+49-4	var	O	
+49-5	der	O	
+49-6	(	O	
+49-7	som	O	
+49-8	sædvanligt	O	
+49-9	)	O	
+49-10	ikke	O	
+49-11	dild	O	
+49-12	i	O	
+49-13	huset	O	
+49-14	.	O	
+
+#id=50
+#text=Enaf de helt store inden for creative writing (som jeg har udsat masser af kursister for), Peter Elbow, kommer  til København.
+50-1	En	O	
+50-2	af	O	
+50-3	de	O	
+50-4	helt	O	
+50-5	store	O	
+50-6	inden	O	
+50-7	for	O	
+50-8	creative	O	
+50-9	writing	O	
+50-10	(	O	
+50-11	som	O	
+50-12	jeg	O	
+50-13	har	O	
+50-14	udsat	O	
+50-15	masser	O	
+50-16	af	O	
+50-17	kursister	O	
+50-18	for	O	
+50-19	)	O	
+50-20	,	O	
+50-21	Peter	O	
+50-22	Elbow	O	
+50-23	,	O	
+50-24	kommer	O	
+50-25	til	O	
+50-26	København	O	
+50-27	.	O	
+
+#id=51
+#text=Detteindlæg blev udgivet den lørdag, 6. juni 2009 kl. 11:09 og er gemt i Familie, Mad, Traditioner.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+51-1	Dette	O	
+51-2	indlæg	O	
+51-3	blev	O	
+51-4	udgivet	O	
+51-5	den	O	
+51-6	lørdag	O	
+51-7	,	O	
+51-8	6	O	
+51-9	.	O	
+51-10	juni	O	
+51-11	2009	O	
+51-12	kl	O	
+51-13	.	O	
+51-14	11	O	
+51-15	:	O	
+51-16	09	O	
+51-17	og	O	
+51-18	er	O	
+51-19	gemt	O	
+51-20	i	O	
+51-21	Familie	O	
+51-22	,	O	
+51-23	Mad	O	
+51-24	,	O	
+51-25	Traditioner	O	
+51-26	.	O	
+51-27	Du	O	
+51-28	kan	O	
+51-29	følge	O	
+51-30	alle	O	
+51-31	svar	O	
+51-32	til	O	
+51-33	dette	O	
+51-34	indlæg	O	
+51-35	via	O	
+51-36	RSS	O	
+51-37	2	O	
+51-38	.	O	
+51-39	0	O	
+51-40	-	O	
+51-41	feedet	O	
+51-42	.	O	
+
+#id=52
+#text=Hvorfor?
+52-1	Hvorfor	O	
+52-2	?	O	
+
+#id=53
+#text=Tags:foto, gråvejr, lys, tøvejr
+53-1	Tags	O	
+53-2	:	O	
+53-3	foto	O	
+53-4	,	O	
+53-5	gråvejr	O	
+53-6	,	O	
+53-7	lys	O	
+53-8	,	O	
+53-9	tøvejr	O	
+
+#id=54
+#text=Og ind i væksthusene, både Palmehuset og det med truede plantearter og det med kaktus og sukkulenter.
+54-1	Og	O	
+54-2	ind	O	
+54-3	i	O	
+54-4	væksthusene	O	
+54-5	,	O	
+54-6	både	O	
+54-7	Palmehuset	O	
+54-8	og	O	
+54-9	det	O	
+54-10	med	O	
+54-11	truede	O	
+54-12	plantearter	O	
+54-13	og	O	
+54-14	det	O	
+54-15	med	O	
+54-16	kaktus	O	
+54-17	og	O	
+54-18	sukkulenter	O	
+54-19	.	O	
+
+#id=55
+#text=Hvisjeg havde været i tvivl om behovet for et regeringsskifte (men det er jeg nu ikke!), da jeg startede på teksten, havde jeg garanteret ikke været det efter endt læsning og jeg er ikke engang socialdemokrat.
+55-1	Hvis	O	
+55-2	jeg	O	
+55-3	havde	O	
+55-4	været	O	
+55-5	i	O	
+55-6	tvivl	O	
+55-7	om	O	
+55-8	behovet	O	
+55-9	for	O	
+55-10	et	O	
+55-11	regeringsskifte	O	
+55-12	(	O	
+55-13	men	O	
+55-14	det	O	
+55-15	er	O	
+55-16	jeg	O	
+55-17	nu	O	
+55-18	ikke	O	
+55-19	!	O	
+55-20	)	O	
+55-21	,	O	
+55-22	da	O	
+55-23	jeg	O	
+55-24	startede	O	
+55-25	på	O	
+55-26	teksten	O	
+55-27	,	O	
+55-28	havde	O	
+55-29	jeg	O	
+55-30	garanteret	O	
+55-31	ikke	O	
+55-32	været	O	
+55-33	det	O	
+55-34	efter	O	
+55-35	endt	O	
+55-36	læsning	O	
+55-37	og	O	
+55-38	jeg	O	
+55-39	er	O	
+55-40	ikke	O	
+55-41	engang	O	
+55-42	socialdemokrat	O	
+55-43	.	O	
+
+#id=56
+#text=Og en nysgerrig kat, der var ved at skræmme livet af mig, da han lydløst sneg sig ind på mig.
+56-1	Og	O	
+56-2	en	O	
+56-3	nysgerrig	O	
+56-4	kat	O	
+56-5	,	O	
+56-6	der	O	
+56-7	var	O	
+56-8	ved	O	
+56-9	at	O	
+56-10	skræmme	O	
+56-11	livet	O	
+56-12	af	O	
+56-13	mig	O	
+56-14	,	O	
+56-15	da	O	
+56-16	han	O	
+56-17	lydløst	O	
+56-18	sneg	O	
+56-19	sig	O	
+56-20	ind	O	
+56-21	på	O	
+56-22	mig	O	
+56-23	.	O	
+
+#id=57
+#text=Men sushi behøver jo slet ikke at indeholde rå fisk.
+57-1	Men	O	
+57-2	sushi	O	
+57-3	behøver	O	
+57-4	jo	O	
+57-5	slet	O	
+57-6	ikke	O	
+57-7	at	O	
+57-8	indeholde	O	
+57-9	rå	O	
+57-10	fisk	O	
+57-11	.	O	
+
+#id=58
+#text=Helt ærlig.
+58-1	Helt	O	
+58-2	ærlig	O	
+58-3	.	O	
+
+#id=59
+#text=Solskinnetvar lokkende lækkert, og Fjordstien ligger lige rundt om hjørnet, så det lå lige for at hoppe på cyklen og cykle den smukke tur til Jyllinge (otte-ni kilometer).
+59-1	Solskinnet	O	
+59-2	var	O	
+59-3	lokkende	O	
+59-4	lækkert	O	
+59-5	,	O	
+59-6	og	O	
+59-7	Fjordstien	O	
+59-8	ligger	O	
+59-9	lige	O	
+59-10	rundt	O	
+59-11	om	O	
+59-12	hjørnet	O	
+59-13	,	O	
+59-14	så	O	
+59-15	det	O	
+59-16	lå	O	
+59-17	lige	O	
+59-18	for	O	
+59-19	at	O	
+59-20	hoppe	O	
+59-21	på	O	
+59-22	cyklen	O	
+59-23	og	O	
+59-24	cykle	O	
+59-25	den	O	
+59-26	smukke	O	
+59-27	tur	O	
+59-28	til	O	
+59-29	Jyllinge	O	
+59-30	(	O	
+59-31	otte	O	
+59-32	-	O	
+59-33	ni	O	
+59-34	kilometer	O	
+59-35	)	O	
+59-36	.	O	
+
+#id=60
+#text=Den er nemlig temmelig kedelig, men knap så iøjnefaldende .
+60-1	Den	O	
+60-2	er	O	
+60-3	nemlig	O	
+60-4	temmelig	O	
+60-5	kedelig	O	
+60-6	,	O	
+60-7	men	O	
+60-8	knap	O	
+60-9	så	O	
+60-10	iøjnefaldende	O	
+60-11	.	O	
+
+#id=61
+#text=Hanstejler, gør han, manden i mit liv, og fnyser grimt, når jeg siger sådan.
+61-1	Han	O	
+61-2	stejler	O	
+61-3	,	O	
+61-4	gør	O	
+61-5	han	O	
+61-6	,	O	
+61-7	manden	O	
+61-8	i	O	
+61-9	mit	O	
+61-10	liv	O	
+61-11	,	O	
+61-12	og	O	
+61-13	fnyser	O	
+61-14	grimt	O	
+61-15	,	O	
+61-16	når	O	
+61-17	jeg	O	
+61-18	siger	O	
+61-19	sådan	O	
+61-20	.	O	
+
+#id=62
+#text=(P.S.
+62-1	(	O	
+62-2	P	O	
+62-3	.	O	
+62-4	S	O	
+62-5	.	O	
+
+#id=63
+#text= Men når Post Danmark nu er så flinke at tilbyde en gratis krimi, Skrig under vand , leveret i Døgnposten, så tager jeg gerne imod (skønt jeg læser meget få krimier).
+63-1	Men	O	
+63-2	når	O	
+63-3	Post	O	
+63-4	Danmark	O	
+63-5	nu	O	
+63-6	er	O	
+63-7	så	O	
+63-8	flinke	O	
+63-9	at	O	
+63-10	tilbyde	O	
+63-11	en	O	
+63-12	gratis	O	
+63-13	krimi	O	
+63-14	,	O	
+63-15	Skrig	O	
+63-16	under	O	
+63-17	vand	O	
+63-18	,	O	
+63-19	leveret	O	
+63-20	i	O	
+63-21	Døgnposten	O	
+63-22	,	O	
+63-23	så	O	
+63-24	tager	O	
+63-25	jeg	O	
+63-26	gerne	O	
+63-27	imod	O	
+63-28	(	O	
+63-29	skønt	O	
+63-30	jeg	O	
+63-31	læser	O	
+63-32	meget	O	
+63-33	få	O	
+63-34	krimier	O	
+63-35	)	O	
+63-36	.	O	
+
+#id=64
+#text=Mange af jer kender jeg her fra blogland, fra jeres kommentarer og fra jeres egne blogs.
+64-1	Mange	O	
+64-2	af	O	
+64-3	jer	O	
+64-4	kender	O	
+64-5	jeg	O	
+64-6	her	O	
+64-7	fra	O	
+64-8	blogland	O	
+64-9	,	O	
+64-10	fra	O	
+64-11	jeres	O	
+64-12	kommentarer	O	
+64-13	og	O	
+64-14	fra	O	
+64-15	jeres	O	
+64-16	egne	O	
+64-17	blogs	O	
+64-18	.	O	
+
+#id=65
+#text=Men jeg havde nu tænkt mig, at pausen først skulle træde i kraft om en dag eller halvanden.
+65-1	Men	O	
+65-2	jeg	O	
+65-3	havde	O	
+65-4	nu	O	
+65-5	tænkt	O	
+65-6	mig	O	
+65-7	,	O	
+65-8	at	O	
+65-9	pausen	O	
+65-10	først	O	
+65-11	skulle	O	
+65-12	træde	O	
+65-13	i	O	
+65-14	kraft	O	
+65-15	om	O	
+65-16	en	O	
+65-17	dag	O	
+65-18	eller	O	
+65-19	halvanden	O	
+65-20	.	O	
+
+#id=66
+#text=Tags:
+66-1	Tags	O	
+66-2	:	O	
+
+#id=67
+#text=Frosten bed i kinderne, mens øjnene svælgede i det stille, overdådige snelandskab, og kameraet kom på overarbejde.
+67-1	Frosten	O	
+67-2	bed	O	
+67-3	i	O	
+67-4	kinderne	O	
+67-5	,	O	
+67-6	mens	O	
+67-7	øjnene	O	
+67-8	svælgede	O	
+67-9	i	O	
+67-10	det	O	
+67-11	stille	O	
+67-12	,	O	
+67-13	overdådige	O	
+67-14	snelandskab	O	
+67-15	,	O	
+67-16	og	O	
+67-17	kameraet	O	
+67-18	kom	O	
+67-19	på	O	
+67-20	overarbejde	O	
+67-21	.	O	
+
+#id=68
+#text=Deter jeg sikker på, at Møffe tænkte, da han for et øjeblik siden smuttede af sted på morgentur gennem de få ekstra par centimeter sne, der er faldet i Frederikssund.
+68-1	Det	O	
+68-2	er	O	
+68-3	jeg	O	
+68-4	sikker	O	
+68-5	på	O	
+68-6	,	O	
+68-7	at	O	
+68-8	Møffe	O	
+68-9	tænkte	O	
+68-10	,	O	
+68-11	da	O	
+68-12	han	O	
+68-13	for	O	
+68-14	et	O	
+68-15	øjeblik	O	
+68-16	siden	O	
+68-17	smuttede	O	
+68-18	af	O	
+68-19	sted	O	
+68-20	på	O	
+68-21	morgentur	O	
+68-22	gennem	O	
+68-23	de	O	
+68-24	få	O	
+68-25	ekstra	O	
+68-26	par	O	
+68-27	centimeter	O	
+68-28	sne	O	
+68-29	,	O	
+68-30	der	O	
+68-31	er	O	
+68-32	faldet	O	
+68-33	i	O	
+68-34	Frederikssund	O	
+68-35	.	O	
+
+#id=69
+#text=Engangnår åbningshysteriet er overstået, skal jeg da forbi og kigge på.
+69-1	Engang	O	
+69-2	når	O	
+69-3	åbningshysteriet	O	
+69-4	er	O	
+69-5	overstået	O	
+69-6	,	O	
+69-7	skal	O	
+69-8	jeg	O	
+69-9	da	O	
+69-10	forbi	O	
+69-11	og	O	
+69-12	kigge	O	
+69-13	på	O	
+69-14	.	O	
+
+#id=70
+#text=Tags:foto, januar, nytår, pandekager, Roskilde Fjord
+70-1	Tags	O	
+70-2	:	O	
+70-3	foto	O	
+70-4	,	O	
+70-5	januar	O	
+70-6	,	O	
+70-7	nytår	O	
+70-8	,	O	
+70-9	pandekager	O	
+70-10	,	O	
+70-11	Roskilde	O	
+70-12	Fjord	O	
+
+#id=71
+#text=Jegskal til et foredrag d. 23. marts.
+71-1	Jeg	O	
+71-2	skal	O	
+71-3	til	O	
+71-4	et	O	
+71-5	foredrag	O	
+71-6	d	O	
+71-7	.	O	
+71-8	23	O	
+71-9	.	O	
+71-10	marts	O	
+71-11	.	O	
+
+#id=72
+#text=Menselvfølgelig får han lov at ligge der, ham Møffe.
+72-1	Men	O	
+72-2	selvfølgelig	O	
+72-3	får	O	
+72-4	han	O	
+72-5	lov	O	
+72-6	at	O	
+72-7	ligge	O	
+72-8	der	O	
+72-9	,	O	
+72-10	ham	O	
+72-11	Møffe	O	
+72-12	.	O	
+
+#id=73
+#text=Jeg får nemlig både samvær og ensomhed!
+73-1	Jeg	O	
+73-2	får	O	
+73-3	nemlig	O	
+73-4	både	O	
+73-5	samvær	O	
+73-6	og	O	
+73-7	ensomhed	O	
+73-8	!	O	
+
+#id=74
+#text=Oggu er han provokerende, mr.
+74-1	Og	O	
+74-2	gu	O	
+74-3	er	O	
+74-4	han	O	
+74-5	provokerende	O	
+74-6	,	O	
+74-7	mr	O	
+74-8	.	O	
+
+#id=75
+#text=Her er det Artemis og en hjort.
+75-1	Her	O	
+75-2	er	O	
+75-3	det	O	
+75-4	Artemis	O	
+75-5	og	O	
+75-6	en	O	
+75-7	hjort	O	
+75-8	.	O	
+
+#id=76
+#text=Mad, madlavning, rødkål, wok
+76-1	Mad	O	
+76-2	,	O	
+76-3	madlavning	O	
+76-4	,	O	
+76-5	rødkål	O	
+76-6	,	O	
+76-7	wok	O	
+
+#id=77
+#text=På at installere styresystem, flytte data, finde programmer frem og få dem på plads igen (og investere i dem, der manglede).
+77-1	På	O	
+77-2	at	O	
+77-3	installere	O	
+77-4	styresystem	O	
+77-5	,	O	
+77-6	flytte	O	
+77-7	data	O	
+77-8	,	O	
+77-9	finde	O	
+77-10	programmer	O	
+77-11	frem	O	
+77-12	og	O	
+77-13	få	O	
+77-14	dem	O	
+77-15	på	O	
+77-16	plads	O	
+77-17	igen	O	
+77-18	(	O	
+77-19	og	O	
+77-20	investere	O	
+77-21	i	O	
+77-22	dem	O	
+77-23	,	O	
+77-24	der	O	
+77-25	manglede	O	
+77-26	)	O	
+77-27	.	O	
+
+#id=78
+#text=Tags:cykel, regn, regntøj
+78-1	Tags	O	
+78-2	:	O	
+78-3	cykel	O	
+78-4	,	O	
+78-5	regn	O	
+78-6	,	O	
+78-7	regntøj	O	
+
+#id=79
+#text=Dendanske udgave får den unge chefkok Wassim Hallal som frontfigur, og p.t. søger TV2 dygtige kokke, der tør deltage i programmet.
+79-1	Den	O	
+79-2	danske	O	
+79-3	udgave	O	
+79-4	får	O	
+79-5	den	O	
+79-6	unge	O	
+79-7	chefkok	O	
+79-8	Wassim	O	
+79-9	Hallal	O	
+79-10	som	O	
+79-11	frontfigur	O	
+79-12	,	O	
+79-13	og	O	
+79-14	p	O	
+79-15	.	O	
+79-16	t	O	
+79-17	.	O	
+79-18	søger	O	
+79-19	TV2	O	
+79-20	dygtige	O	
+79-21	kokke	O	
+79-22	,	O	
+79-23	der	O	
+79-24	tør	O	
+79-25	deltage	O	
+79-26	i	O	
+79-27	programmet	O	
+79-28	.	O	
+
+#id=80
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+80-1	Du	O	
+80-2	kan	O	
+80-3	skrive	O	
+80-4	en	O	
+80-5	kommentar	O	
+80-6	,	O	
+80-7	eller	O	
+80-8	sende	O	
+80-9	et	O	
+80-10	trackback	O	
+80-11	fra	O	
+80-12	dit	O	
+80-13	eget	O	
+80-14	site	O	
+80-15	.	O	
+
+#id=81
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+81-1	Du	O	
+81-2	kan	O	
+81-3	skrive	O	
+81-4	en	O	
+81-5	kommentar	O	
+81-6	,	O	
+81-7	eller	O	
+81-8	sende	O	
+81-9	et	O	
+81-10	trackback	O	
+81-11	fra	O	
+81-12	dit	O	
+81-13	eget	O	
+81-14	site	O	
+81-15	.	O	
+
+#id=82
+#text=Alenei december smider danske husholdninger mad i skraldespanden for over 1,5 milliarder kroner, viser en beregning, som erhvervsorganisationen Landbrug & Fødevarer har foretaget  for Lørdagsliv.
+82-1	Alene	O	
+82-2	i	O	
+82-3	december	O	
+82-4	smider	O	
+82-5	danske	O	
+82-6	husholdninger	O	
+82-7	mad	O	
+82-8	i	O	
+82-9	skraldespanden	O	
+82-10	for	O	
+82-11	over	O	
+82-12	1	O	
+82-13	,	O	
+82-14	5	O	
+82-15	milliarder	O	
+82-16	kroner	O	
+82-17	,	O	
+82-18	viser	O	
+82-19	en	O	
+82-20	beregning	O	
+82-21	,	O	
+82-22	som	O	
+82-23	erhvervsorganisationen	O	
+82-24	Landbrug	O	
+82-25	&	O	
+82-26	Fødevarer	O	
+82-27	har	O	
+82-28	foretaget	O	
+82-29	for	O	
+82-30	Lørdagsliv	O	
+82-31	.	O	
+
+#id=83
+#text=Hun var på vej til sin anden af slagsen, og så sad hendes mor der i sin højt fremskredne alder og sagde, at hun aldrig havde været til 1. maj.
+83-1	Hun	O	
+83-2	var	O	
+83-3	på	O	
+83-4	vej	O	
+83-5	til	O	
+83-6	sin	O	
+83-7	anden	O	
+83-8	af	O	
+83-9	slagsen	O	
+83-10	,	O	
+83-11	og	O	
+83-12	så	O	
+83-13	sad	O	
+83-14	hendes	O	
+83-15	mor	O	
+83-16	der	O	
+83-17	i	O	
+83-18	sin	O	
+83-19	højt	O	
+83-20	fremskredne	O	
+83-21	alder	O	
+83-22	og	O	
+83-23	sagde	O	
+83-24	,	O	
+83-25	at	O	
+83-26	hun	O	
+83-27	aldrig	O	
+83-28	havde	O	
+83-29	været	O	
+83-30	til	O	
+83-31	1	O	
+83-32	.	O	
+83-33	maj	O	
+83-34	.	O	
+
+#id=84
+#text=Skøntdyrlægen anbefalede 10 indedage,  forbarmede jeg mig over Møffe i morges og lod ham gå på udgang.
+84-1	Skønt	O	
+84-2	dyrlægen	O	
+84-3	anbefalede	O	
+84-4	10	O	
+84-5	indedage	O	
+84-6	,	O	
+84-7	forbarmede	O	
+84-8	jeg	O	
+84-9	mig	O	
+84-10	over	O	
+84-11	Møffe	O	
+84-12	i	O	
+84-13	morges	O	
+84-14	og	O	
+84-15	lod	O	
+84-16	ham	O	
+84-17	gå	O	
+84-18	på	O	
+84-19	udgang	O	
+84-20	.	O	
+
+#id=85
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+85-1	Du	O	
+85-2	kan	O	
+85-3	skrive	O	
+85-4	en	O	
+85-5	kommentar	O	
+85-6	,	O	
+85-7	eller	O	
+85-8	sende	O	
+85-9	et	O	
+85-10	trackback	O	
+85-11	fra	O	
+85-12	dit	O	
+85-13	eget	O	
+85-14	site	O	
+85-15	.	O	
+
+#id=86
+#text=Nærvær.
+86-1	Nærvær	O	
+86-2	.	O	
+
+#id=87
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+87-1	Du	O	
+87-2	kan	O	
+87-3	skrive	O	
+87-4	en	O	
+87-5	kommentar	O	
+87-6	,	O	
+87-7	eller	O	
+87-8	sende	O	
+87-9	et	O	
+87-10	trackback	O	
+87-11	fra	O	
+87-12	dit	O	
+87-13	eget	O	
+87-14	site	O	
+87-15	.	O	
+
+#id=88
+#text=Faktisk er vandet strømmet ned over Manhattan hele dagen på den mest irriterende måde .
+88-1	Faktisk	O	
+88-2	er	O	
+88-3	vandet	O	
+88-4	strømmet	O	
+88-5	ned	O	
+88-6	over	O	
+88-7	Manhattan	O	
+88-8	hele	O	
+88-9	dagen	O	
+88-10	på	O	
+88-11	den	O	
+88-12	mest	O	
+88-13	irriterende	O	
+88-14	måde	O	
+88-15	.	O	
+
+#id=89
+#text=i Forfatterforeningen.
+89-1	i	O	
+89-2	Forfatterforeningen	O	
+89-3	.	O	
+
+#id=90
+#text=Detteindlæg blev udgivet den onsdag, 12. august 2009 kl. 11:42 og er gemt i At blogge, Kvindeliv, Min have.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+90-1	Dette	O	
+90-2	indlæg	O	
+90-3	blev	O	
+90-4	udgivet	O	
+90-5	den	O	
+90-6	onsdag	O	
+90-7	,	O	
+90-8	12	O	
+90-9	.	O	
+90-10	august	O	
+90-11	2009	O	
+90-12	kl	O	
+90-13	.	O	
+90-14	11	O	
+90-15	:	O	
+90-16	42	O	
+90-17	og	O	
+90-18	er	O	
+90-19	gemt	O	
+90-20	i	O	
+90-21	At	O	
+90-22	blogge	O	
+90-23	,	O	
+90-24	Kvindeliv	O	
+90-25	,	O	
+90-26	Min	O	
+90-27	have	O	
+90-28	.	O	
+90-29	Du	O	
+90-30	kan	O	
+90-31	følge	O	
+90-32	alle	O	
+90-33	svar	O	
+90-34	til	O	
+90-35	dette	O	
+90-36	indlæg	O	
+90-37	via	O	
+90-38	RSS	O	
+90-39	2	O	
+90-40	.	O	
+90-41	0	O	
+90-42	-	O	
+90-43	feedet	O	
+90-44	.	O	
+
+#id=91
+#text=Med sne på vejen og sne i luften.
+91-1	Med	O	
+91-2	sne	O	
+91-3	på	O	
+91-4	vejen	O	
+91-5	og	O	
+91-6	sne	O	
+91-7	i	O	
+91-8	luften	O	
+91-9	.	O	
+
+#id=92
+#text=Og en livlig opdatering fra de seneste 11 dage.
+92-1	Og	O	
+92-2	en	O	
+92-3	livlig	O	
+92-4	opdatering	O	
+92-5	fra	O	
+92-6	de	O	
+92-7	seneste	O	
+92-8	11	O	
+92-9	dage	O	
+92-10	.	O	
+
+#id=93
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+93-1	Du	O	
+93-2	kan	O	
+93-3	skrive	O	
+93-4	en	O	
+93-5	kommentar	O	
+93-6	,	O	
+93-7	eller	O	
+93-8	sende	O	
+93-9	et	O	
+93-10	trackback	O	
+93-11	fra	O	
+93-12	dit	O	
+93-13	eget	O	
+93-14	site	O	
+93-15	.	O	
+
+#id=94
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+94-1	Du	O	
+94-2	kan	O	
+94-3	skrive	O	
+94-4	en	O	
+94-5	kommentar	O	
+94-6	,	O	
+94-7	eller	O	
+94-8	sende	O	
+94-9	et	O	
+94-10	trackback	O	
+94-11	fra	O	
+94-12	dit	O	
+94-13	eget	O	
+94-14	site	O	
+94-15	.	O	
+
+#id=95
+#text=Skaldu ud og proviantere på lørdag?
+95-1	Skal	O	
+95-2	du	O	
+95-3	ud	O	
+95-4	og	O	
+95-5	proviantere	O	
+95-6	på	O	
+95-7	lørdag	O	
+95-8	?	O	
+
+#id=96
+#text=Forledendag blev hun 16, min lille unge.
+96-1	Forleden	O	
+96-2	dag	O	
+96-3	blev	O	
+96-4	hun	O	
+96-5	16	O	
+96-6	,	O	
+96-7	min	O	
+96-8	lille	O	
+96-9	unge	O	
+96-10	.	O	
+
+#id=97
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+97-1	Du	O	
+97-2	kan	O	
+97-3	skrive	O	
+97-4	en	O	
+97-5	kommentar	O	
+97-6	,	O	
+97-7	eller	O	
+97-8	sende	O	
+97-9	et	O	
+97-10	trackback	O	
+97-11	fra	O	
+97-12	dit	O	
+97-13	eget	O	
+97-14	site	O	
+97-15	.	O	
+
+#id=98
+#text=Hardu tillid til den siddende regering? spurgte Catinét Research mig i går i et telefoninterview.
+98-1	Har	O	
+98-2	du	O	
+98-3	tillid	O	
+98-4	til	O	
+98-5	den	O	
+98-6	siddende	O	
+98-7	regering	O	
+98-8	?	O	
+98-9	spurgte	O	
+98-10	Catinét	O	
+98-11	Research	O	
+98-12	mig	O	
+98-13	i	O	
+98-14	går	O	
+98-15	i	O	
+98-16	et	O	
+98-17	telefoninterview	O	
+98-18	.	O	
+
+#id=99
+#text=Husk, at du kan køre helt gratis med S-toget i dag.
+99-1	Husk	O	
+99-2	,	O	
+99-3	at	O	
+99-4	du	O	
+99-5	kan	O	
+99-6	køre	O	
+99-7	helt	O	
+99-8	gratis	O	
+99-9	med	O	
+99-10	S	O	
+99-11	-	O	
+99-12	toget	O	
+99-13	i	O	
+99-14	dag	O	
+99-15	.	O	
+
+#id=100
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+100-1	Du	O	
+100-2	kan	O	
+100-3	skrive	O	
+100-4	en	O	
+100-5	kommentar	O	
+100-6	,	O	
+100-7	eller	O	
+100-8	sende	O	
+100-9	et	O	
+100-10	trackback	O	
+100-11	fra	O	
+100-12	dit	O	
+100-13	eget	O	
+100-14	site	O	
+100-15	.	O	
+

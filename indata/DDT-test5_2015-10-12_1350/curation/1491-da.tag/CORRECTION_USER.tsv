@@ -1,0 +1,220 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mangetusinde kom altså med i jagten på " Basse " , fordi politiet anså det for givet , at bortføreren før eller siden ville komme i berøring med systemet .
+1-1	Mange	O	
+1-2	tusinde	B-noun.quantity	
+1-3	kom	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+1-4	altså	O	
+1-5	med	O	
+1-6	i	O	
+1-7	jagten	B-noun.act|B-noun.TOP|B-noun.vehicle|B-noun.cognition	
+1-8	på	O	
+1-9	"	O	
+1-10	Basse	B-noun.person|B-noun.food	
+1-11	"	O	
+1-12	,	O	
+1-13	fordi	O	
+1-14	politiet	B-noun.institution	
+1-15	anså	B-verb.cognition	
+1-16	det	O	
+1-17	for	O	
+1-18	givet	O	
+1-19	,	O	
+1-20	at	O	
+1-21	bortføreren	B-noun.person	
+1-22	før	O	
+1-23	eller	O	
+1-24	siden	O	
+1-25	ville	B-verb.cognition	
+1-26	komme	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+1-27	i	O	
+1-28	berøring	B-noun.act	
+1-29	med	O	
+1-30	systemet	B-noun.motive|B-noun.attribute|B-noun.artifact|B-noun.group|B-noun.cognition|B-noun.object	
+1-31	.	O	
+
+#id=2
+#text=Detkunne ske i form af lægebesøg , vaccination , barnedåb eller navngivning , men alt syntes at være forgæves .
+2-1	Det	O	
+2-2	kunne	B-verb.social	
+2-3	ske	B-verb.phenomenon|B-verb.act	
+2-4	i	O	
+2-5	form	B-noun.communication|B-noun.shape|B-noun.container|B-noun.object|B-noun.cognition|B-noun.TOP|B-noun.motive	
+2-6	af	O	
+2-7	lægebesøg	O	
+2-8	,	O	
+2-9	vaccination	B-noun.act	
+2-10	,	O	
+2-11	barnedåb	B-noun.act	
+2-12	eller	O	
+2-13	navngivning	O	
+2-14	,	O	
+2-15	men	O	
+2-16	alt	O	
+2-17	syntes	B-verb.stative|B-verb.cognition	
+2-18	at	O	
+2-19	være	B-verb.TOP|B-verb.social|B-verb.stative	
+2-20	forgæves	O	
+2-21	.	O	
+
+#id=3
+#text=Pludseligskete der imidlertid en overraskende udvikling .
+3-1	Pludselig	O	
+3-2	skete	B-verb.phenomenon|B-verb.act	
+3-3	der	O	
+3-4	imidlertid	O	
+3-5	en	O	
+3-6	overraskende	O	
+3-7	udvikling	B-noun.event|B-noun.relation|B-noun.phenomenon|B-noun.act	
+3-8	.	O	
+
+#id=4
+#text=En30-årig , barnløs kvinde fra Aalborg meldte sig hos politiet og tilstod otte måneder efter " Basses " bortkomst , at hun havde kastet drengen i Odense Å .
+4-1	En	O	
+4-2	30-årig	B-adj.time	
+4-3	,	O	
+4-4	barnløs	O	
+4-5	kvinde	B-noun.person	
+4-6	fra	O	
+4-7	Aalborg	O	
+4-8	meldte	B-verb.communication	
+4-9	sig	O	
+4-10	hos	O	
+4-11	politiet	B-noun.institution	
+4-12	og	O	
+4-13	tilstod	B-verb.communication	
+4-14	otte	O	
+4-15	måneder	B-noun.time	
+4-16	efter	O	
+4-17	"	O	
+4-18	Basses	B-noun.person|B-noun.food	
+4-19	"	O	
+4-20	bortkomst	O	
+4-21	,	O	
+4-22	at	O	
+4-23	hun	O	
+4-24	havde	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+4-25	kastet	B-verb.phenomenon|B-verb.act|B-verb.possession|B-verb.motion	
+4-26	drengen	B-noun.artifact|B-noun.person	
+4-27	i	O	
+4-28	Odense	O	
+4-29	Å	B-noun.communication|B-noun.location	
+4-30	.	O	
+
+#id=5
+#text=Erkendelsenfaldt dog fra hinanden efter grundige afhøringer hos politiet .
+5-1	Erkendelsen	B-noun.cognition|B-noun.feeling	
+5-2	faldt	B-verb.motion|B-verb.act|B-verb.phenomenon	
+5-3	dog	O	
+5-4	fra	O	
+5-5	hinanden	O	
+5-6	efter	O	
+5-7	grundige	B-adj.all	
+5-8	afhøringer	O	
+5-9	hos	O	
+5-10	politiet	B-noun.institution	
+5-11	.	O	
+
+#id=6
+#text=Kvindenhavde end ikke været i Odense på gerningstidspunktet , og Anna Bü rgel kunne på én gang både ånde lettet op og på_ny leve i uvished om sønnens skæbne .
+6-1	Kvinden	B-noun.person	
+6-2	havde	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+6-3	end	O	
+6-4	ikke	O	
+6-5	været	B-verb.TOP|B-verb.social|B-verb.stative	
+6-6	i	O	
+6-7	Odense	O	
+6-8	på	O	
+6-9	gerningstidspunktet	B-noun.time	
+6-10	,	O	
+6-11	og	O	
+6-12	Anna	O	
+6-13	Bü	O	
+6-14	rgel	O	
+6-15	kunne	B-verb.social	
+6-16	på	O	
+6-17	én	O	
+6-18	gang	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+6-19	både	O	
+6-20	ånde	B-verb.act|B-verb.emotion	
+6-21	lettet	B-verb.change|B-verb.phenomenon|B-verb.motion	
+6-22	op	O	
+6-23	og	O	
+6-24	på_ny	O	
+6-25	leve	B-verb.motion|B-verb.act|B-verb.phenomenon	
+6-26	i	O	
+6-27	uvished	B-noun.cognition	
+6-28	om	O	
+6-29	sønnens	B-noun.person	
+6-30	skæbne	B-noun.act|B-noun.person	
+6-31	.	O	
+
+#id=7
+#text=Nokengang stod man på bar bund i efterforskningen , selv_om alle tænkelige kræfter havde været sat ind såvel lokalt som nationalt lige efter bortførslen gennem de forskellige myndigheder .
+7-1	Nok	O	
+7-2	engang	O	
+7-3	stod	B-verb.motion|B-verb.communication|B-verb.stative|B-verb.act|B-verb.emotion	
+7-4	man	O	
+7-5	på	O	
+7-6	bar	B-adj.phys	
+7-7	bund	B-noun.TOP|B-noun.quantity|B-noun.artifact|B-noun.location|B-noun.object|B-noun.food	
+7-8	i	O	
+7-9	efterforskningen	B-noun.act	
+7-10	,	O	
+7-11	selv_om	O	
+7-12	alle	O	
+7-13	tænkelige	O	
+7-14	kræfter	B-noun.attribute|B-noun.phenomenon|B-noun.feeling	
+7-15	havde	B-verb.perception|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+7-16	været	B-verb.TOP|B-verb.social|B-verb.stative	
+7-17	sat	B-verb.motion|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.change|B-verb.phenomenon	
+7-18	ind	O	
+7-19	såvel	O	
+7-20	lokalt	O	
+7-21	som	O	
+7-22	nationalt	B-adj.social	
+7-23	lige	O	
+7-24	efter	O	
+7-25	bortførslen	O	
+7-26	gennem	O	
+7-27	de	O	
+7-28	forskellige	B-adj.phys|B-adj.all	
+7-29	myndigheder	B-noun.institution|B-noun.feeling|B-noun.cognition	
+7-30	.	O	
+
+#id=8
+#text=Politietappellerede nok engang til hele den danske befolkning om at holde øjne og ører åbne samt at lede i sommer- og kolonihavehuse efter mistænkelige eksistenser , men lige lidt hjalp det .
+8-1	Politiet	B-noun.institution	
+8-2	appellerede	B-verb.phenomenon|B-verb.communication	
+8-3	nok	O	
+8-4	engang	O	
+8-5	til	O	
+8-6	hele	B-adj.phys	
+8-7	den	O	
+8-8	danske	B-adj.social|B-adj.phys	
+8-9	befolkning	B-noun.person	
+8-10	om	O	
+8-11	at	O	
+8-12	holde	B-verb.motion|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.social|B-verb.phenomenon	
+8-13	øjne	B-noun.body|B-noun.phenomenon|B-noun.artifact	
+8-14	og	O	
+8-15	ører	B-noun.body|B-noun.person|B-noun.artifact	
+8-16	åbne	B-adj.all|B-adj.phys|B-adj.mental	
+8-17	samt	O	
+8-18	at	O	
+8-19	lede	B-verb.motion|B-verb.communication|B-verb.act|B-verb.phenomenon	
+8-20	i	O	
+8-21	sommer-	O	
+8-22	og	O	
+8-23	kolonihavehuse	B-noun.building	
+8-24	efter	O	
+8-25	mistænkelige	B-adj.phys|B-adj.mental	
+8-26	eksistenser	B-noun.person|B-noun.phenomenon	
+8-27	,	O	
+8-28	men	O	
+8-29	lige	O	
+8-30	lidt	O	
+8-31	hjalp	B-verb.act	
+8-32	det	O	
+8-33	.	O	
+

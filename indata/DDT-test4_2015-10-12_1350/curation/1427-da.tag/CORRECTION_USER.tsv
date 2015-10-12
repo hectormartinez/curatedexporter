@@ -1,0 +1,207 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ANTHONYHOPKINS er ikke kun ond og grusom .
+1-1	ANTHONY	O	
+1-2	HOPKINS	O	
+1-3	er	B-verb.TOP|B-verb.social|B-verb.stative	
+1-4	ikke	O	
+1-5	kun	O	
+1-6	ond	B-adj.social	
+1-7	og	O	
+1-8	grusom	B-adj.phys|B-adj.all	
+1-9	.	O	
+
+#id=2
+#text=Hankan også spille the good guy .
+2-1	Han	O	
+2-2	kan	B-verb.social	
+2-3	også	O	
+2-4	spille	B-verb.motion|B-verb.act|B-verb.communication|B-verb.creation|B-verb.social|B-verb.change	
+2-5	the	O	
+2-6	good	O	
+2-7	guy	O	
+2-8	.	O	
+
+#id=3
+#text=Detbeviser han i FRANCIS FORD COPPOLAS nye film om Dracula , hvor HOPKINS spiller helten Van Helsing , der skal få bugt med udyret .
+3-1	Det	O	
+3-2	beviser	B-verb.communication	
+3-3	han	O	
+3-4	i	O	
+3-5	FRANCIS	O	
+3-6	FORD	O	
+3-7	COPPOLAS	O	
+3-8	nye	B-adj.time	
+3-9	film	B-noun.object|B-noun.container|B-noun.artifact	
+3-10	om	O	
+3-11	Dracula	O	
+3-12	,	O	
+3-13	hvor	O	
+3-14	HOPKINS	O	
+3-15	spiller	B-verb.motion|B-verb.act|B-verb.creation|B-verb.communication|B-verb.social|B-verb.change	
+3-16	helten	B-noun.animal|B-noun.person	
+3-17	Van	B-noun.object|B-noun.vehicle	
+3-18	Helsing	O	
+3-19	,	O	
+3-20	der	O	
+3-21	skal	B-verb.motion|B-verb.phenomenon	
+3-22	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+3-23	bugt	B-noun.location	
+3-24	med	O	
+3-25	udyret	B-noun.object|B-noun.person|B-noun.animal	
+3-26	.	O	
+
+#id=4
+#text=Aproposudyr , så har den engelske skuespiller jo også fået bugt med sit eget , alkoholen .
+4-1	Apropos	O	
+4-2	udyr	B-noun.object|B-noun.person|B-noun.animal	
+4-3	,	O	
+4-4	så	O	
+4-5	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+4-6	den	O	
+4-7	engelske	B-adj.social	
+4-8	skuespiller	B-noun.person	
+4-9	jo	O	
+4-10	også	O	
+4-11	fået	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+4-12	bugt	B-noun.location	
+4-13	med	O	
+4-14	sit	O	
+4-15	eget	O	
+4-16	,	O	
+4-17	alkoholen	B-noun.artifact|B-noun.food	
+4-18	.	O	
+
+#id=5
+#text=Meninden det lykkedes , var han så langt ude , at han nogle morgener vågnede og intet ku' huske fra nattens  strabadser .
+5-1	Men	O	
+5-2	inden	O	
+5-3	det	O	
+5-4	lykkedes	B-verb.phenomenon	
+5-5	,	O	
+5-6	var	B-verb.TOP|B-verb.social|B-verb.stative	
+5-7	han	O	
+5-8	så	O	
+5-9	langt	B-adj.time|B-adj.phys	
+5-10	ude	O	
+5-11	,	O	
+5-12	at	O	
+5-13	han	O	
+5-14	nogle	O	
+5-15	morgener	B-noun.time	
+5-16	vågnede	B-verb.change|B-verb.phenomenon	
+5-17	og	O	
+5-18	intet	O	
+5-19	ku'	B-verb.social	
+5-20	huske	B-verb.cognition	
+5-21	fra	O	
+5-22	nattens	B-noun.time	
+5-23	strabadser	B-noun.act	
+5-24	.	O	
+
+#id=6
+#text="Jeg ku' blive i tvivl , om jeg havde myrdet nogen i nattens løb , og var nødt til at gå ud og checke bilen for at se , om der var blod , " fortæller HOPKINS .
+6-1	"	O	
+6-2	Jeg	O	
+6-3	ku'	B-verb.social	
+6-4	blive	B-verb.motion|B-verb.act|B-verb.change|B-tative|B-verb.phenomenon|B-verb.TOP	
+6-5	i	O	
+6-6	tvivl	B-noun.cognition	
+6-7	,	O	
+6-8	om	O	
+6-9	jeg	O	
+6-10	havde	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+6-11	myrdet	B-verb.act|B-verb.creation	
+6-12	nogen	O	
+6-13	i	O	
+6-14	nattens	B-noun.time	
+6-15	løb	B-noun.event|B-noun.cognition|B-noun.act|B-noun.artifact|B-noun.body|B-noun.location	
+6-16	,	O	
+6-17	og	O	
+6-18	var	B-verb.TOP|B-verb.social|B-verb.stative	
+6-19	nødt	O	
+6-20	til	O	
+6-21	at	O	
+6-22	gå	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+6-23	ud	O	
+6-24	og	O	
+6-25	checke	O	
+6-26	bilen	B-noun.vehicle	
+6-27	for	O	
+6-28	at	O	
+6-29	se	B-verb.motion|B-verb.communication|B-verb.social|B-verb.cognition|B-verb.act|B-verb.emotion|B-verb.change|B-verb.phenomenon	
+6-30	,	O	
+6-31	om	O	
+6-32	der	O	
+6-33	var	B-verb.TOP|B-verb.social|B-verb.stative	
+6-34	blod	B-noun.feeling|B-noun.substance	
+6-35	,	O	
+6-36	"	O	
+6-37	fortæller	B-verb.communication	
+6-38	HOPKINS	O	
+6-39	.	O	
+
+#id=7
+#text=STEVENSPIELBERG måtte iscenesætte sit eget private eventyr her for_nylig .
+7-1	STEVEN	O	
+7-2	SPIELBERG	O	
+7-3	måtte	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+7-4	iscenesætte	B-verb.social	
+7-5	sit	O	
+7-6	eget	O	
+7-7	private	B-adj.social|B-adj.all	
+7-8	eventyr	B-noun.act|B-noun.feeling|B-noun.communication	
+7-9	her	O	
+7-10	for_nylig	O	
+7-11	.	O	
+
+#id=8
+#text=Hans23-årige nevø Christopher var nemlig forsvundet under en vandretur i Los Angeles National Forest , og da det lokale politi måtte opgive efter to dage , satte SPIELBERG selv to helikoptere på i jagten .
+8-1	Hans	O	
+8-2	23-årige	O	
+8-3	nevø	B-noun.person	
+8-4	Christopher	O	
+8-5	var	B-verb.TOP|B-verb.social|B-verb.stative	
+8-6	nemlig	O	
+8-7	forsvundet	B-verb.motion|B-verb.act|B-verb.phenomenon	
+8-8	under	O	
+8-9	en	O	
+8-10	vandretur	B-noun.act	
+8-11	i	O	
+8-12	Los	B-noun.animal|B-noun.building	
+8-13	Angeles	O	
+8-14	National	O	
+8-15	Forest	O	
+8-16	,	O	
+8-17	og	O	
+8-18	da	O	
+8-19	det	O	
+8-20	lokale	O	
+8-21	politi	B-noun.institution	
+8-22	måtte	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+8-23	opgive	B-verb.act|B-verb.communication	
+8-24	efter	O	
+8-25	to	O	
+8-26	dage	B-noun.time	
+8-27	,	O	
+8-28	satte	B-verb.motion|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.change|B-verb.phenomenon	
+8-29	SPIELBERG	O	
+8-30	selv	O	
+8-31	to	O	
+8-32	helikoptere	B-noun.vehicle	
+8-33	på	O	
+8-34	i	O	
+8-35	jagten	B-noun.act|B-noun.TOP|B-noun.vehicle|B-noun.cognition	
+8-36	.	O	
+
+#id=9
+#text=Nevøenblev fundet efter et par timer .
+9-1	Nevøen	B-noun.person	
+9-2	blev	B-OP|B-verb.act|B-verb.stative	
+9-3	fundet	B-verb.motion|B-verb.act|B-verb.cognition|B-verb.phenomenon	
+9-4	efter	O	
+9-5	et	O	
+9-6	par	B-noun.quantity|B-noun.TOP|B-noun.person|B-noun.group	
+9-7	timer	B-noun.time|B-noun.artifact	
+9-8	.	O	
+

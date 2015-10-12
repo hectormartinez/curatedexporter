@@ -1,0 +1,228 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Formandenfor Folketingets sundhedsudvalg , fremskridtsmanden Jan Køpke Christensen , sagde i_går , at hans parti , når Folketinget igen mødes , vil fremsætte et forslag om , at der i den danske straffelov indsættes en paragraf , der " klart og tydeligt ulovliggør , at HIV-smittede personer bevidst smitter andre . "
+1-1	Formanden	B-noun.person	
+1-2	for	O	
+1-3	Folketingets	B-noun.person	
+1-4	sundhedsudvalg	B-noun.person	
+1-5	,	O	
+1-6	fremskridtsmanden	B-noun.person	
+1-7	Jan	O	
+1-8	Køpke	O	
+1-9	Christensen	O	
+1-10	,	O	
+1-11	sagde	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+1-12	i_går	O	
+1-13	,	O	
+1-14	at	O	
+1-15	hans	O	
+1-16	parti	B-noun.act|B-noun.location|B-noun.artifact|B-noun.person	
+1-17	,	O	
+1-18	når	O	
+1-19	Folketinget	B-noun.person	
+1-20	igen	O	
+1-21	mødes	B-verb.social|B-verb.perception|B-verb.act|B-verb.motion	
+1-22	,	O	
+1-23	vil	B-verb.cognition	
+1-24	fremsætte	B-.communication	
+1-25	et	O	
+1-26	forslag	B-noun.act|B-noun.phenomenon	
+1-27	om	O	
+1-28	,	O	
+1-29	at	O	
+1-30	der	O	
+1-31	i	O	
+1-32	den	O	
+1-33	danske	B-adj.social|B-adj.phys	
+1-34	straffelov	B-noun.motive	
+1-35	indsættes	B-verb.motion|B-verb.communication	
+1-36	en	O	
+1-37	paragraf	B-noun.communication	
+1-38	,	O	
+1-39	der	O	
+1-40	"	O	
+1-41	klart	B-adj.phys|B-adj.all|B-adj.mental	
+1-42	og	O	
+1-43	tydeligt	B-adj.all	
+1-44	ulovliggør	O	
+1-45	,	O	
+1-46	at	O	
+1-47	HIV-smittede	O	
+1-48	personer	B-noun.person	
+1-49	bevidst	B-adj.mental	
+1-50	smitter	B-verb.phenomenon	
+1-51	andre	O	
+1-52	.	O	
+1-53	"	O	
+
+#id=2
+#text=JanKøbke Christensen henviser til den 34-årige haitianer , der er sigtet for bevidst at have smittet andre med HIV .
+2-1	Jan	O	
+2-2	Købke	O	
+2-3	Christensen	O	
+2-4	henviser	B-verb.change|B-verb.communication	
+2-5	til	O	
+2-6	den	O	
+2-7	34-årige	O	
+2-8	haitianer	B-noun.person	
+2-9	,	O	
+2-10	der	O	
+2-11	er	B-verb.TOP|B-verb.social|B-verb.stative	
+2-12	sigtet	B-verb.act|B-verb.phenomenon|B-verb.change	
+2-13	for	O	
+2-14	bevidst	B-adj.mental	
+2-15	at	O	
+2-16	have	B-verb.perception|B-verb.cognition|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+2-17	smittet	B-verb.phenomenon	
+2-18	andre	O	
+2-19	med	O	
+2-20	HIV	B-noun.object|B-noun.act	
+2-21	.	O	
+
+#id=3
+#text=NÆPPEFLERTAL
+3-1	NÆPPE	O	
+3-2	FLERTAL	B-noun.quantity|B-noun.person	
+
+#id=4
+#text=Menumiddelbart ser det ikke ud til , at der kan samles flertal for forslaget i Folketinget .
+4-1	Men	O	
+4-2	umiddelbart	B-adj.all	
+4-3	ser	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+4-4	det	O	
+4-5	ikke	O	
+4-6	ud	O	
+4-7	til	O	
+4-8	,	O	
+4-9	at	O	
+4-10	der	O	
+4-11	kan	B-verb.social	
+4-12	samles	B-verb.change|B-verb.act|B-verb.motion	
+4-13	flertal	B-noun.quantity|B-noun.person	
+4-14	for	O	
+4-15	forslaget	B-noun.act|B-noun.phenomenon	
+4-16	i	O	
+4-17	Folketinget	B-noun.person	
+4-18	.	O	
+
+#id=5
+#text="Vi vil afvente dommen mod  den sigtede haitianer , " siger Elisabeth Arnold .
+5-1	"	O	
+5-2	Vi	O	
+5-3	vil	B-verb.cognition	
+5-4	afvente	O	
+5-5	dommen	B-noun.act|B-noun.communication	
+5-6	mod	O	
+5-7	den	O	
+5-8	sigtede	B-verb.change|B-verb.act|B-verb.phenomenon	
+5-9	haitianer	B-noun.person	
+5-10	,	O	
+5-11	"	O	
+5-12	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+5-13	Elisabeth	O	
+5-14	Arnold	O	
+5-15	.	O	
+
+#id=6
+#text="Der er jo ikke noget , der tyder på , at han ikke kan dømmes ifølge de to paragraffer , han er sigtet efter .
+6-1	"	O	
+6-2	Der	O	
+6-3	er	B-verb.TOP|B-verb.social|B-verb.stative	
+6-4	jo	O	
+6-5	ikke	O	
+6-6	noget	O	
+6-7	,	O	
+6-8	der	O	
+6-9	tyder	B-verb.cognition|B-verb.emotion	
+6-10	på	O	
+6-11	,	O	
+6-12	at	O	
+6-13	han	O	
+6-14	ikke	O	
+6-15	kan	B-verb.social	
+6-16	dømmes	B-verb.cognition|B-verb.communication	
+6-17	ifølge	O	
+6-18	de	O	
+6-19	to	O	
+6-20	paragraffer	B-noun.communication	
+6-21	,	O	
+6-22	han	O	
+6-23	er	B-verb.TOP|B-verb.social|B-verb.stative	
+6-24	sigtet	B-verb.act|B-verb.phenomenon|B-verb.change	
+6-25	efter	O	
+6-26	.	O	
+
+#id=7
+#text=Nemligat han forsætligt udøver legemsbeskadigelse mod andre og bringer andres liv i fare .
+7-1	Nemlig	O	
+7-2	at	O	
+7-3	han	O	
+7-4	forsætligt	O	
+7-5	udøver	B-verb.change|B-verb.creation|B-verb.act	
+7-6	legemsbeskadigelse	O	
+7-7	mod	O	
+7-8	andre	O	
+7-9	og	O	
+7-10	bringer	B-verb.change|B-verb.motion	
+7-11	andres	O	
+7-12	liv	B-noun.object|B-noun.attribute|B-noun.phenomenon|B-noun.time|B-noun.body|B-noun.person|B-noun.feeling|B-noun.state|B-noun.event	
+7-13	i	O	
+7-14	fare	B-noun.TOP|B-noun.phenomenon|B-noun.state	
+7-15	.	O	
+
+#id=8
+#text=Dømmeshan , vil en ændring af straffeloven være unødvendig , men frikendes han , vil det måske være relevant .
+8-1	Dømmes	B-verb.cognition|B-verb.communication	
+8-2	han	O	
+8-3	,	O	
+8-4	vil	B-verb.cognition	
+8-5	en	O	
+8-6	ændring	B-noun.act	
+8-7	af	O	
+8-8	straffeloven	B-noun.motive	
+8-9	være	B-verb.TOP|B-verb.social|B-verb.stative	
+8-10	unødvendig	O	
+8-11	,	O	
+8-12	men	O	
+8-13	frikendes	B-verb.communication	
+8-14	han	O	
+8-15	,	O	
+8-16	vil	B-verb.cognition	
+8-17	det	O	
+8-18	måske	O	
+8-19	være	B-verb.TOP|B-verb.social|B-verb.stative	
+8-20	relevant	B-adj.all	
+8-21	.	O	
+
+#id=9
+#text=Menmin holdning er , at det vil være langt mere effektivt , hvis lægerne offentligt erklærer , at de vil bryde tavshedspligten , " siger Elisabeth Arnold .
+9-1	Men	O	
+9-2	min	O	
+9-3	holdning	B-noun.cognition|B-noun.phenomenon	
+9-4	er	B-verb.TOP|B-verb.social|B-verb.stative	
+9-5	,	O	
+9-6	at	O	
+9-7	det	O	
+9-8	vil	B-verb.cognition	
+9-9	være	B-verb.TOP|B-verb.social|B-verb.stative	
+9-10	langt	B-adj.time|B-adj.phys	
+9-11	mere	O	
+9-12	effektivt	B-adj.all	
+9-13	,	O	
+9-14	hvis	O	
+9-15	lægerne	B-noun.communication|B-noun.person	
+9-16	offentligt	B-adj.social	
+9-17	erklærer	B-verb.communication	
+9-18	,	O	
+9-19	at	O	
+9-20	de	O	
+9-21	vil	B-verb.cognition	
+9-22	bryde	B-verb.possession|B-verb.act	
+9-23	tavshedspligten	B-noun.motive	
+9-24	,	O	
+9-25	"	O	
+9-26	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+9-27	Elisabeth	O	
+9-28	Arnold	O	
+9-29	.	O	
+

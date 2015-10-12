@@ -1,0 +1,222 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Dronningenhar to gange før i sin regeringstid holdt bal for et bredt udsnit inden for kunstens verden .
+1-1	Dronningen	B-noun.animal|B-noun.person|B-noun.artifact	
+1-2	har	B-verb.perception|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+1-3	to	O	
+1-4	gange	B-noun.act|B-noun.TOP|B-noun.artifact|B-noun.location|B-noun.quantity	
+1-5	før	O	
+1-6	i	O	
+1-7	sin	O	
+1-8	regeringstid	B-noun.time	
+1-9	holdt	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.social|B-verb.phenomenon	
+1-10	bal	B-noun.act|B-noun.artifact	
+1-11	for	O	
+1-12	et	O	
+1-13	bredt	B-adj.phys	
+1-14	udsnit	B-noun.object	
+1-15	inden	O	
+1-16	for	O	
+1-17	kunstens	B-noun.domain|B-noun.artifact|B-noun.feeling|B-noun.act	
+1-18	verden	B-noun.location|B-noun.act|B-noun.quantity|B-noun.phenomenon|B-noun.group|B-noun.person|B-noun.cognition|B-noun.object	
+1-19	.	O	
+
+#id=2
+#text=Detvar i 1976 og i 1985 .
+2-1	Det	O	
+2-2	var	B-verb.TOP|B-verb.social|B-verb.stative	
+2-3	i	O	
+2-4	1976	O	
+2-5	og	O	
+2-6	i	O	
+2-7	1985	O	
+2-8	.	O	
+
+#id=3
+#text=Kunstnernebehøver ikke at frygte , at de ved den lejlighed selv skal levere et nummer .
+3-1	Kunstnerne	B-noun.person	
+3-2	behøver	B-verb.stative|B-nomenon	
+3-3	ikke	O	
+3-4	at	O	
+3-5	frygte	B-verb.emotion	
+3-6	,	O	
+3-7	at	O	
+3-8	de	O	
+3-9	ved	O	
+3-10	den	O	
+3-11	lejlighed	B-noun.time|B-noun.TOP|B-noun.artifact	
+3-12	selv	O	
+3-13	skal	B-verb.motion|B-verb.phenomenon	
+3-14	levere	B-verb.possession|B-verb.change|B-verb.act|B-verb.motion	
+3-15	et	O	
+3-16	nummer	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.act	
+3-17	.	O	
+
+#id=4
+#text=Livgardenspiller taffelmusik , og der skal danses lancier .
+4-1	Livgarden	B-noun.person	
+4-2	spiller	B-verb.motion|B-verb.creation|B-verb.communication|B-verb.social|B-verb.act|B-verb.change	
+4-3	taffelmusik	B-noun.domain	
+4-4	,	O	
+4-5	og	O	
+4-6	der	O	
+4-7	skal	B-verb.motion|B-verb.phenomenon	
+4-8	danses	B-verb.act	
+4-9	lancier	O	
+4-10	.	O	
+
+#id=5
+#text=Hvemder skal spille op til dans , skal helst være en overraskelse .
+5-1	Hvem	O	
+5-2	der	O	
+5-3	skal	B-verb.motion|B-verb.phenomenon	
+5-4	spille	B-verb.motion|B-verb.communication|B-verb.act|B-verb.creation|B-verb.social|B-verb.change	
+5-5	op	O	
+5-6	til	O	
+5-7	dans	B-noun.act|B-noun.artifact	
+5-8	,	O	
+5-9	skal	B-verb.motion|B-verb.phenomenon	
+5-10	helst	O	
+5-11	være	B-verb.TOP|B-verb.social|B-verb.stative	
+5-12	en	O	
+5-13	overraskelse	B-noun.act|B-noun.feeling	
+5-14	.	O	
+
+#id=6
+#text=PRINSERNEER MED
+6-1	PRINSERNE	B-noun.body|B-noun.person	
+6-2	ER	B-verb.TOP|B-verb.social|B-verb.stative	
+6-3	MED	O	
+
+#id=7
+#text=KronprinsFrederik og prins Joachim , der i denne weekend kommer hjem fra Malaysia , hvor de har været på ferie med deres far prins Henrik , skal også med til ballet .
+7-1	Kronprins	B-noun.person	
+7-2	Frederik	O	
+7-3	og	O	
+7-4	prins	B-noun.body|B-noun.person	
+7-5	Joachim	O	
+7-6	,	O	
+7-7	der	O	
+7-8	i	O	
+7-9	denne	O	
+7-10	weekend	B-noun.time	
+7-11	kommer	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+7-12	hjem	O	
+7-13	fra	O	
+7-14	Malaysia	O	
+7-15	,	O	
+7-16	hvor	O	
+7-17	de	O	
+7-18	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+7-19	været	B-verb.TOP|B-verb.social|B-verb.stative	
+7-20	på	O	
+7-21	ferie	B-noun.time	
+7-22	med	O	
+7-23	deres	O	
+7-24	far	B-noun.animal|B-noun.person|B-noun.object	
+7-25	prins	B-noun.body|B-noun.person	
+7-26	Henrik	O	
+7-27	,	O	
+7-28	skal	B-verb.motion|B-verb.phenomenon	
+7-29	også	O	
+7-30	med	O	
+7-31	til	O	
+7-32	ballet	B-noun.institution|B-noun.act|B-noun.artifact|B-noun.domain	
+7-33	.	O	
+
+#id=8
+#text=PrinsHenrik kommer først om en uge hjem fra Malaysia , hvor han skal sejle .
+8-1	Prins	B-noun.body|B-noun.person	
+8-2	Henrik	O	
+8-3	kommer	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+8-4	først	O	
+8-5	om	O	
+8-6	en	O	
+8-7	uge	B-noun.time	
+8-8	hjem	O	
+8-9	fra	O	
+8-10	Malaysia	O	
+8-11	,	O	
+8-12	hvor	O	
+8-13	han	O	
+8-14	skal	B-verb.motion|B-verb.phenomenon	
+8-15	sejle	B-verb.motion|B-verb.emotion|B-verb.act|B-verb.phenomenon	
+8-16	.	O	
+
+#id=9
+#text=Afde mange andre , der glæder sig over hoffets invitation kan nævnes balletdanserne Alexander Kølpin og Rose Gad , operasanger Guido Paevatalu og hans kone Susanne Rolind , Eva Deichmann på Det Kgl. Teater , der har arbejdet meget sammen med Dronningen i forbindelse med Dronningens sceneografi på " Et Folkesagn " , og Margrethe har i den sammenhæng heller ikke glemt sine kolleger , sceneografen Lars Juhl og Jens Jacob Worsaae .
+9-1	Af	O	
+9-2	de	O	
+9-3	mange	O	
+9-4	andre	O	
+9-5	,	O	
+9-6	der	O	
+9-7	glæder	B-verb.change	
+9-8	sig	O	
+9-9	over	O	
+9-10	hoffets	B-noun.person	
+9-11	invitation	B-noun.communication	
+9-12	kan	B-verb.social	
+9-13	nævnes	B-verb.communication	
+9-14	balletdanserne	B-noun.person	
+9-15	Alexander	O	
+9-16	Kølpin	O	
+9-17	og	O	
+9-18	Rose	B-noun.act|B-noun.food|B-noun.plant	
+9-19	Gad	O	
+9-20	,	O	
+9-21	operasanger	B-noun.person	
+9-22	Guido	O	
+9-23	Paevatalu	O	
+9-24	og	O	
+9-25	hans	O	
+9-26	kone	B-noun.person	
+9-27	Susanne	O	
+9-28	Rolind	O	
+9-29	,	O	
+9-30	Eva	O	
+9-31	Deichmann	O	
+9-32	på	O	
+9-33	Det	O	
+9-34	Kgl.	O	
+9-35	Teater	B-noun.institution|B-noun.building|B-noun.domain	
+9-36	,	O	
+9-37	der	O	
+9-38	har	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+9-39	arbejdet	B-verb.social	
+9-40	meget	O	
+9-41	sammen	O	
+9-42	med	O	
+9-43	Dronningen	B-noun.animal|B-noun.person|B-noun.artifact	
+9-44	i	O	
+9-45	forbindelse	B-noun.attribute|B-noun.location|B-noun.phenomenon	
+9-46	med	O	
+9-47	Dronningens	B-noun.animal|B-noun.person|B-noun.artifact	
+9-48	sceneografi	O	
+9-49	på	O	
+9-50	"	O	
+9-51	Et	O	
+9-52	Folkesagn	O	
+9-53	"	O	
+9-54	,	O	
+9-55	og	O	
+9-56	Margrethe	O	
+9-57	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+9-58	i	O	
+9-59	den	O	
+9-60	sammenhæng	B-noun.relation|B-noun.communication	
+9-61	heller	O	
+9-62	ikke	O	
+9-63	glemt	B-verb.cognition|B-verb.emotion	
+9-64	sine	O	
+9-65	kolleger	B-noun.person	
+9-66	,	O	
+9-67	sceneografen	O	
+9-68	Lars	O	
+9-69	Juhl	O	
+9-70	og	O	
+9-71	Jens	B-noun.person	
+9-72	Jacob	O	
+9-73	Worsaae	O	
+9-74	.	O	
+

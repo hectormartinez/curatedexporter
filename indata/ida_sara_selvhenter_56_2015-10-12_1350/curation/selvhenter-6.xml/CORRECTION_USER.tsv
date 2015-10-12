@@ -1,0 +1,2003 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=BritneySpears udgav et nyt album.
+1-1	Britney	Britney	NP:siu#:--:----	O	
+1-2	Spears	Spears	NP:siu#:--:----	O	
+1-3	udgav	udgive	VF:----:ta:----	B-verb.communication	
+1-4	et	en	PI:s-un:--:----	O	
+1-5	nyt	ny	AC:siun:--:p---	B-adj.time	
+1-6	album	album	NC:siun:--:----	B-noun.communication|B-noun.artifact	
+1-7	.	.	ZP	O	
+
+#id=2
+#text=>:D Dem kan du faktisk købe to af for 200 kr.
+2-1	>	>	NP:siu#:--:----	O	
+2-2	:	:	ZP	O	
+2-3	D	d	NP:siu#:--:----	B-noun.communication|B-noun.phenomenon	
+2-4	Dem	Dem	XY:----:--:----	O	
+2-5	kan	kunne	VF:----:sa:----	B-verb.social	
+2-6	du	du	PP:s-nc:--:-2n-	O	
+2-7	faktisk	faktisk	AD:----:--:p---	B-adj.phys	
+2-8	købe	købe	VI:----:-a:----	B-verb.possession|B-verb.act	
+2-9	to	to	LC:--u-:--:----	O	
+2-10	af	af	T-:----:--:----	O	
+2-11	for	for	T-:----:--:----	O	
+2-12	200	200	LC:--u-:--:----	O	
+2-13	kr	krone	NC:piu#:--:----	O	
+2-14	.	.	ZP	O	
+
+#id=3
+#text=Hvis du har lyst til at gøre det, skal du da have lov til det... (var det ikke tydeligt nok i sidste indlæg?)
+3-1	Hvis	hvis	CS:----:--:----	O	
+3-2	du	du	PP:s-nc:--:-2n-	O	
+3-3	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+3-4	lyst	lyst	NC:siuc:--:----	B-noun.feeling	
+3-5	til	til	T-:----:--:----	O	
+3-6	at	at	UI:----:--:----	O	
+3-7	gøre	gøre	VI:----:-a:----	B-verb.change|B-verb.creation|B-verb.act|B-verb.phenomenon	
+3-8	det	det	PP:s-un:--:-3n-	O	
+3-9	,	,	ZD	O	
+3-10	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+3-11	du	du	PP:s-nc:--:-2n-	O	
+3-12	da	da	D-:----:--:u---	O	
+3-13	have	have	VI:----:-a:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+3-14	lov	lov	NC:§§u§:--:----	B-noun.motive|B-noun.act|B-noun.attribute|B-noun.cognition|B-noun.institution	
+3-15	til	til	T-:----:--:----	O	
+3-16	det	det	PP:s-un:--:-3n-	O	
+3-17	.	.	ZP	O	
+3-18	.	.	ZP	O	
+3-19	.	.	ZP	O	
+3-20	(	(	ZD	O	
+3-21	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+3-22	det	det	PP:s-un:--:-3n-	O	
+3-23	ikke	ikke	D-:----:--:u---	O	
+3-24	tydeligt	tydelig	AD:----:--:p---	B-adj.all	
+3-25	nok	nok	D-:----:--:u---	O	
+3-26	i	i	T-:----:--:----	O	
+3-27	sidste	sidste	AC:§§u§:--:p---	B-adj.time	
+3-28	indlæg	indlæg	NC:siun:--:----	B-noun.act|B-noun.artifact|B-noun.communication	
+3-29	?	?	ZQ	O	
+3-30	)	)	ZD	O	
+
+#id=4
+#text=Men for det meste, så er det i bund og grund glat og går ca. 10 cm. ned over skuldrerne.
+4-1	Men	men	CC:----:--:----	O	
+4-2	for	for	T-:----:--:----	O	
+4-3	det	den	PM:s-un:--:----	O	
+4-4	meste	megen	AC:sdu#:--:s---	O	
+4-5	,	,	ZD	O	
+4-6	så	så	D-:----:--:u---	O	
+4-7	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+4-8	det	det	PP:s-un:--:-3n-	O	
+4-9	i	i	T-:----:--:----	O	
+4-10	bund	bund	NC:siuc:--:----	B-noun.TOP|B-noun.quantity|B-noun.artifact|B-noun.location|B-noun.object|B-noun.food	
+4-11	og	og	CC:----:--:----	O	
+4-12	grund	grund	AC:siuc:--:p---	O	
+4-13	glat	glat	AC:siu§:--:p---	B-adj.phys	
+4-14	og	og	CC:----:--:----	O	
+4-15	går	gå	VF:----:sa:----	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+4-16	ca	cirka	D-:----:--:u---	O	
+4-17	.	.	ZP	O	
+4-18	10	10	LC:--u-:--:----	O	
+4-19	cm	centimeter	NC:piu#:--:----	O	
+4-20	.	.	ZP	O	
+4-21	ned	ned	D-:----:--:u---	O	
+4-22	over	over	-	O	
+4-23	skuldrerne	skuldrerne	XY:----:--:----	O	
+4-24	.	.	ZP	O	
+
+#id=5
+#text=Jegbrækkede begge arme og slog 1½ tand ud på min skiferie sidste år...
+5-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+5-2	brækkede	brække	VF:----:ta:----	B-verb.change|B-verb.creation|B-verb.act	
+5-3	begge	begge	PM:p-u#:--:----	O	
+5-4	arme	arm	AC:p#u#:--:p---	O	
+5-5	og	og	CC:----:--:----	O	
+5-6	slog	slå	VF:----:ta:----	B-rb.social|B-verb.creation|B-verb.phenomenon|B-verb.act|B-verb.motion	
+5-7	1½	1½	NP:siu#:--:----	O	
+5-8	tand	tand	NC:siuc:--:----	B-noun.object|B-noun.body	
+5-9	ud	ud	D-:----:--:u---	O	
+5-10	på	på	T-:----:--:----	O	
+5-11	min	min	PO:s--c:--:-1ns	O	
+5-12	skiferie	skiferie	NC:siuc:--:----	B-noun.time	
+5-13	sidste	sidste	AC:§§u§:--:p---	B-adj.time	
+5-14	år	år	NC:siun:--:----	B-noun.time	
+5-15	.	.	ZP	O	
+5-16	.	.	ZP	O	
+5-17	.	.	ZP	O	
+
+#id=6
+#text=h0mpingAnimAlZ.nu
+6-1	h0mpingAnimAlZ	h0mpingAnimAlZ	XY:----:--:----	O	
+6-2	.	.	XY:----:--:----	O	
+6-3	nu	nu	XY:----:--:----	O	
+
+#id=7
+#text=Hjemkundskab i 9. klasse!? :shock:
+7-1	Hjemkundskab	hjemkundskab	NC:siuc:--:----	B-noun.domain	
+7-2	i	i	T-:----:--:----	O	
+7-3	9	9	LC:--u-:--:----	O	
+7-4	.	.	ZP	O	
+7-5	klasse	klasse	NC:siuc:--:----	B-noun.attribute|B-noun.group|B-noun.person|B-noun.artifact	
+7-6	!	!	ZP	O	
+7-7	?	?	ZQ	O	
+7-8	:	:	ZP	O	
+7-9	shock	shock	XS:----:--:----	O	
+7-10	:	:	ZP	O	
+
+#id=8
+#text=Der følger jo altid noget dårligt med det gode.
+8-1	Der	der	US:----:--:----	O	
+8-2	følger	følge	VF:----:sa:----	B-verb.motion	
+8-3	jo	jo	D-:----:--:u---	O	
+8-4	altid	altid	D-:----:--:u---	O	
+8-5	noget	nogen	PI:s-un:--:----	O	
+8-6	dårligt	dårlig	AC:siun:--:p---	B-adj.social|B-adj.all|B-adj.phys	
+8-7	med	med	T-:----:--:----	O	
+8-8	det	den	PM:s-un:--:----	O	
+8-9	gode	god	AC:sdu#:--:p---	B-adj.all	
+8-10	.	.	ZP	O	
+
+#id=9
+#text=Den selvbruner jeg bruger lige nu (den er god til mig, men vil jo  have en der er lidt dyrere) koster 40,- for 250 ml. (hvilket er lidt stort) og det svarer måske til at du ville tage sol 10-15 gange.
+9-1	Den	den	PM:s-uc:--:----	O	
+9-2	selvbruner	selvbruner	NC:siuc:--:----	B-noun.artifact	
+9-3	jeg	jeg	NC:siun:--:----	O	
+9-4	bruger	bruge	VF:----:sa:----	B-verb.act|B-verb.communication	
+9-5	lige	lige	D-:----:--:u---	O	
+9-6	nu	nu	D-:----:--:u---	O	
+9-7	(	(	ZD	O	
+9-8	den	den	PP:s-uc:--:-3n-	O	
+9-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+9-10	god	god	AC:siuc:--:p---	B-adj.all	
+9-11	til	til	T-:----:--:----	O	
+9-12	mig	jeg	PP:s-uc:--:-1#-	O	
+9-13	,	,	ZD	O	
+9-14	men	men	CC:----:--:----	O	
+9-15	vil	ville	VF:----:sa:----	B-verb.cognition	
+9-16	jo	jo	D-:----:--:u---	O	
+9-17	have	have	VI:----:-a:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+9-18	en	en	PI:s-uc:--:----	O	
+9-19	der	der	US:----:--:----	O	
+9-20	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+9-21	lidt	lidt	AD:----:--:p---	O	
+9-22	dyrere	dyr	AC:##u#:--:c---	B-adj.all	
+9-23	)	)	ZD	O	
+9-24	koster	koste	VF:----:sa:----	B-verb.stative	
+9-25	40	40	LC:--u-:--:----	O	
+9-26	,	,	ZD	O	
+9-27	-	-	NC:piu#:--:----	O	
+9-28	for	for	T-:----:--:----	O	
+9-29	250	250	:----	O	
+9-30	ml	ml	XS:----:--:----	O	
+9-31	.	.	ZP	O	
+9-32	(	(	ZD	O	
+9-33	hvilket	hvilken	PR:s-un:--:----	O	
+9-34	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+9-35	lidt	lidt	AD:----:--:p---	O	
+9-36	stort	stor	AC:siun:--:p---	B-adj.phys	
+9-37	)	)	ZD	O	
+9-38	og	og	CC:----:--:----	O	
+9-39	det	det	PP:s-un:--:-3n-	O	
+9-40	svarer	svare	VF:----:sa:----	B-verb.possession|B-verb.communication	
+9-41	måske	måske	D-:----:--:u---	O	
+9-42	til	til	T-:----:--:----	O	
+9-43	at	at	CS:----:--:----	O	
+9-44	du	du	PP:s-nc:--:-2n-	O	
+9-45	ville	ville	VF:----:ta:----	B-verb.cognition	
+9-46	tage	tage	VI:----:-a:----	B-verb.possession|B-verb.social|B-verb.cognition|B-verb.act|B-verb.creation|B-verb.change|B-verb.motion	
+9-47	sol	sol	NC:siun:--:----	B-noun.object|B-noun.artifact|B-noun.phenomenon|B-noun.substance	
+9-48	10	10	LC:--u-:--:----	O	
+9-49	-	-	ZH	O	
+9-50	15	15	LC:--u-:--:----	O	
+9-51	gange	gang	NC:piu#:--:----	B-noun.act|B-noun.TOP|B-noun.artifact|B-noun.location|B-noun.quantity	
+9-52	.	.	ZP	O	
+
+#id=10
+#text=Ellerat "stikke halen mellem benene" :D
+10-1	Eller	eller	CC:----:--:----	O	
+10-2	at	at	CS:----:--:----	O	
+10-3	"	"	ZI	O	
+10-4	stikke	stikke	VI:----:-a:----	B-verb.motion|B-verb.creation|B-verb.communication|B-verb.change|B-verb.act|B-verb.phenomenon	
+10-5	halen	hale	NC:sduc:--:----	B-noun.body|B-noun.artifact	
+10-6	mellem	mellem	T-:----:--:----	O	
+10-7	benene	ben	NC:pdu#:--:----	B-noun.body|B-noun.artifact	
+10-8	"	"	ZI	O	
+10-9	:	:	ZP	O	
+10-10	D	D	PP:s-un:--:-3n-	O	
+
+#id=11
+#text=Var det ham som havde manipuleret for vildt med de optagelser som han havde taget da han interviewede Michael Jackson?
+11-1	Var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+11-2	det	det	PP:s-un:--:-3n-	O	
+11-3	ham	han	PP:s-uc:--:-3n-	O	
+11-4	som	som	US:----:--:----	O	
+11-5	havde	have	VF:----:ta:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+11-6	manipuleret	manipulere	VT:siu#:t-:----	B-verb.act	
+11-7	for	for	T-:----:--:----	O	
+11-8	vildt	vildt	NC:siun:--:----	B-noun.animal|B-noun.food	
+11-9	med	med	T-:----:--:----	O	
+11-10	de	den	PM:p-u#:--:----	O	
+11-11	optagelser	optagelse	NC:piu#:--:----	B-noun.act|B-noun.motive|B-noun.phenomenon|B-noun.artifact	
+11-12	som	som	US:----:--:----	O	
+11-13	han	han	PP:s-nc:--:-3n-	O	
+11-14	havde	have	:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+11-15	taget	tage	VT:siu#:t-:----	B-verb.possession|B-verb.cognition|B-verb.act|B-verb.change|B-verb.social|B-verb.creation|B-verb.motion	
+11-16	da	da	CS:----:--:----	O	
+11-17	han	han	PP:s-nc:--:-3n-	O	
+11-18	interviewede	interviewe	VF:----:ta:----	O	
+11-19	Michael	Michael	NP:siu#:--:----	O	
+11-20	Jackson	Jackson	NP:siu#:--:----	O	
+11-21	?	?	ZQ	O	
+
+#id=12
+#text=YES! lol
+12-1	YES	yes	I-:----:--:----	O	
+12-2	!	!	ZP	O	
+12-3	lol	lol	NC:siuc:--:----	O	
+
+#id=13
+#text=Det kan jeg da godt, idet der er blandet 20%? samf.
+13-1	Det	det	PP:s-un:--:-3n-	O	
+13-2	kan	kunne	VF:----:sa:----	B-verb.social	
+13-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+13-4	da	da	D-:----:--:u---	O	
+13-5	godt	god	AD:----:--:p---	B-adj.all	
+13-6	,	,	ZD	O	
+13-7	idet	idet	CS:----:--:----	O	
+13-8	der	der	US:----:--:----	O	
+13-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+13-10	blandet	blande	VT:siu#:t-:----	B-verb.creation	
+13-11	20%	20%	NP:siu#:--:----	O	
+13-12	?	?	XY:----:--:----	O	
+13-13	samf	saMF	NC:siuc:--:----	O	
+13-14	.	.	ZP	O	
+
+#id=14
+#text=René
+14-1	René	René	NP:siu#:--:----	O	
+
+#id=15
+#text=Påwww.gitte-bolling.dk er der også nogle gode ting - men kun kosmetik og sådan.
+15-1	På	På	XY:----:--:----	O	
+15-2	www	www	XY:----:--:----	O	
+15-3	.	.	XY:----:--:----	O	
+15-4	gitte	gitte	XY:----:--:----	O	
+15-5	-	-	XY:----:--:----	O	
+15-6	bolling	bolling	XY:----:--:----	O	
+15-7	.	.	XY:----:--:----	O	
+15-8	dk	dk	XY:----:--:----	O	
+15-9	er	er	XY:----:--:----	O	
+15-10	der	der	XY:----:--:----	O	
+15-11	også	også	XY:----:--:----	O	
+15-12	nogle	nogle	XY:----:--:----	O	
+15-13	gode	gode	XY:----:--:----	O	
+15-14	ting	ting	XY:----:--:----	O	
+15-15	-	-	XY:----:--:----	O	
+15-16	men	men	XY:----:--:----	O	
+15-17	kun	kun	XY:----:--:----	O	
+15-18	kosmetik	kosmetik	XY:----:--:----	O	
+15-19	og	og	XY:----:--:----	O	
+15-20	sådan	sådan	XY:----:--:----	O	
+15-21	.	.	XY:----:--:----	O	
+
+#id=16
+#text=jeghader når man er forelsket  i en person, som man ikke kender :? det er så plat
+16-1	jeg	jeg	XY:----:--:----	O	
+16-2	hader	hader	XY:----:--:----	O	
+16-3	når	når	XY:----:--:----	O	
+16-4	man	man	XY:----:--:----	O	
+16-5	er	er	XY:----:--:----	O	
+16-6	forelsket	forelsket	XY:----:--:----	O	
+16-7	i	i	XY:----:--:----	O	
+16-8	en	en	XY:----:--:----	O	
+16-9	person	person	XY:----:--:----	O	
+16-10	,	,	XY:----:--:----	O	
+16-11	som	som	XY:----:--:----	O	
+16-12	man	man	XY:----:--:----	O	
+16-13	ikke	ikke	XY:----:--:----	O	
+16-14	kender	kender	XY:----:--:----	O	
+16-15	:	:	XY:----:--:----	O	
+16-16	?	?	XY:----:--:----	O	
+16-17	det	det	XY:----:--:----	O	
+16-18	er	er	XY:----:--:----	O	
+16-19	så	så	XY:----:--:----	O	
+16-20	plat	plat	AC:##g#:--:c---	O	
+
+#id=17
+#text=Ja, gør jeg også - Men ville lige høre om der var nogen speciel grund. lol
+17-1	Ja	ja	I-:----:--:----	O	
+17-2	,	,	ZD	O	
+17-3	gør	gø	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.creation	
+17-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+17-5	også	også	D-:----:--:u---	O	
+17-6	-	-	NC:piu#:--:----	O	
+17-7	Men	men	CC:----:--:----	O	
+17-8	ville	ville	VF:----:ta:----	B-verb.cognition	
+17-9	lige	lige	D-:----:--:u---	O	
+17-10	høre	høre	VI:----:-a:----	B-verb.phenomenon	
+17-11	om	om	CS:----:--:----	O	
+17-12	der	der	US:----:--:----	O	
+17-13	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+17-14	nogen	nogen	PI:s-uc:--:----	O	
+17-15	speciel	speciel	AC:siuc:--:p---	B-adj.all	
+17-16	grund	grund	NC:siuc:--:----	B-noun.object|B-noun.location|B-noun.act	
+17-17	.	.	ZP	O	
+17-18	lol	lol	NC:siuc:--:----	O	
+
+#id=18
+#text=Jeghar desværre lidt lavvande i kassebeholdningen for tiden:(
+18-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+18-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+18-3	desværre	desværre	D-:----:--:u---	O	
+18-4	lidt	lidt	AC:siu§:--:p---	O	
+18-5	lavvande	lavvande	NC:siun:--:----	B-noun.phenomenon	
+18-6	i	i	T-:----:--:----	O	
+18-7	kassebeholdningen	kassebeholdning	NC:sduc:--:----	B-noun.quantity	
+18-8	for	for	T-:----:--:----	O	
+18-9	tiden	tid	NC:sduc:--:----	B-noun.communication|B-noun.time|B-noun.attribute|B-noun.motive|B-noun.quantity|B-noun.TOP	
+18-10	:	:	ZP	O	
+18-11	(	(	ZD	O	
+
+#id=19
+#text=Jo,selvfølgelig 8)
+19-1	Jo	jo	I-:----:--:----	O	
+19-2	,	,	ZD	O	
+19-3	selvfølgelig	selvfølgelig	D-:----:--:u---	O	
+19-4	8	8	LC:--u-:--:----	O	
+19-5	)	)	ZD	O	
+
+#id=20
+#text=Hmm...de er ellers ret kendte så vidt jeg ved :)
+20-1	Hmm	hmm	I-:----:--:----	O	
+20-2	.	.	ZP	O	
+20-3	.	.	ZP	O	
+20-4	.	.	ZP	O	
+20-5	de	de	PP:p-n#:--:-3n-	O	
+20-6	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+20-7	ellers	ellers	D-:----:--:u---	O	
+20-8	ret	ret	D-:----:--:u---	O	
+20-9	kendte	kende	VF:----:ta:----	B-verb.cognition|B-verb.communication|B-verb.emotion	
+20-10	så	så	D-:----:--:u---	O	
+20-11	vidt	vidt	D-:----:--:u---	O	
+20-12	jeg	jeg	PP:s-nc:--:-1n-	O	
+20-13	ved	vide	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+20-14	:	:	ZP	O	
+20-15	)	)	ZD	O	
+
+#id=21
+#text=:D
+21-1	:	:	ZP	O	
+21-2	D	D	PP:s-un:--:-3n-	O	
+
+#id=22
+#text=Harlige søgt på KaZaA og fundet 4 slags af sangen ;) (Lauren Caught My eye)
+22-1	Har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+22-2	lige	lige	D-:----:--:u---	O	
+22-3	søgt	søge	VT:siu#:t-:----	B-verb.motion|B-verb.act|B-verb.cognition	
+22-4	på	på	T-:----:--:----	O	
+22-5	KaZaA	KaZaA	NP:siu#:--:----	O	
+22-6	og	og	CC:----:--:----	O	
+22-7	fundet	finde	VT:siu#:t-:----	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+22-8	4	4	LC:--u-:--:----	O	
+22-9	slags	slags	NC:piu#:--:----	B-noun.TOP|B-noun.artifact|B-noun.phenomenon|B-noun.time|B-noun.act|B-noun.food	
+22-10	af	af	T-:----:--:----	O	
+22-11	sangen	sang	NC:sduc:--:----	B-noun.act|B-noun.artifact|B-noun.phenomenon|B-noun.communication	
+22-12	;	;	ZP	O	
+22-13	)	)	ZD	O	
+22-14	(	(	ZD	O	
+22-15	Lauren	Lauren	NP:siu#:--:----	O	
+22-16	Caught	Caught	NP:siu#:--:----	O	
+22-17	My	My	XF:----:--:----	O	
+22-18	eye	eyE	XF:----:--:----	O	
+22-19	)	)	ZD	O	
+
+#id=23
+#text=Joder gør!
+23-1	Jo	jo	D-:----:--:u---	O	
+23-2	der	der	US:----:--:----	O	
+23-3	gør	gø	VF:----:sa:----	B-verb.change|B-verb.communication|B-verb.phenomenon|B-verb.act|B-verb.creation	
+23-4	!	!	ZP	O	
+
+#id=24
+#text=Jeg har sådan set aldrig rigtig mere på end det, MÅSKE en øjenskygge engang imellem til fest og så'en, den er fra Oriflame og er virkelig pæn/holdbar.
+24-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+24-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+24-3	sådan	sådan	D-:----:--:u---	O	
+24-4	set	se	VT:siu#:t-:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+24-5	aldrig	aldrig	D-:----:--:u---	O	
+24-6	rigtig	rigtig	AD:----:--:p---	B-adj.phys	
+24-7	mere	megen	AC:##u#:--:c---	O	
+24-8	på	på	T-:----:--:----	O	
+24-9	end	end	CS:----:--:----	O	
+24-10	det	det	PP:s-un:--:-3n-	O	
+24-11	,	,	ZD	O	
+24-12	MÅSKE	måske	D-:----:--:u---	O	
+24-13	en	en	PI:s-uc:--:----	O	
+24-14	øjenskygge	øjenskygge	NC:siuc:--:----	O	
+24-15	engang	engang	D-:----:--:u---	O	
+24-16	imellem	imellem	T-:----:--:----	O	
+24-17	til	til	T-:----:--:----	O	
+24-18	fest	fest	NC:siuc:--:----	B-noun.act|B-noun.TOP|B-noun.attribute	
+24-19	og	og	CC:----:--:----	O	
+24-20	så	så	D-:----:--:u---	O	
+24-21	'	'	ZA	O	
+24-22	en	@en	MN:sduc:--:----	O	
+24-23	,	,	ZD	O	
+24-24	den	den	PP:s-uc:--:-3n-	O	
+24-25	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+24-26	fra	fra	T-:----:--:----	O	
+24-27	Oriflame	Oriflame	NP:siu#:--:----	O	
+24-28	og	og	CC:----:--:----	O	
+24-29	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+24-30	virkelig	virkelig	D-:----:--:u---	O	
+24-31	pæn	pæn	AC:siuc:--:p---	B-adj.phys	
+24-32	/	/	NC:siuc:--:----	O	
+24-33	holdbar	holdbar	AC:siuc:--:p---	B-adj.phys	
+24-34	.	.	ZP	O	
+
+#id=25
+#text=Jo...
+25-1	Jo	jo	D-:----:--:u---	O	
+25-2	.	.	ZP	O	
+25-3	.	.	ZP	O	
+25-4	.	.	ZP	O	
+
+#id=26
+#text=Man burde jo helt klart få "respekt" når man skyder ved siden af.
+26-1	Man	man	PI:#-uc:--:----	O	
+26-2	burde	burde	VF:----:ta:----	B-verb.TOP	
+26-3	jo	jo	D-:----:--:u---	O	
+26-4	helt	hel	AD:----:--:p---	B-adj.phys	
+26-5	klart	klar	AD:----:--:p---	B-adj.phys|B-adj.all|B-adj.mental	
+26-6	få	få	VI:----:-a:----	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+26-7	"	"	ZI	O	
+26-8	respekt	respekt	NC:siuc:--:----	B-noun.feeling	
+26-9	"	"	ZI	O	
+26-10	når	når	CS:----:--:----	O	
+26-11	man	man	PI:#-uc:--:----	O	
+26-12	skyder	skyde	VF:----:sa:----	B-verb.motion|B-verb.communication|B-verb.act|B-verb.phenomenon	
+26-13	ved	ved	T-:----:--:----	O	
+26-14	siden	side	NC:sduc:--:----	B-noun.communication|B-noun.person|B-noun.attribute|B-noun.object|B-noun.cognition|B-noun.location|B-noun.motive	
+26-15	af	af	T-:----:--:----	O	
+26-16	.	.	ZP	O	
+
+#id=27
+#text=Haha,skal lige sætte gang i det her.
+27-1	Haha	Haha	NP:siu#:--:----	O	
+27-2	,	,	ZD	O	
+27-3	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+27-4	lige	lige	D-:----:--:u---	O	
+27-5	sætte	sætte	VI:----:-a:----	B-verb.motion|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.change|B-verb.phenomenon	
+27-6	gang	gang	NC:siuc:--:----	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+27-7	i	i	T-:----:--:----	O	
+27-8	det	det	PP:s-un:--:-3n-	O	
+27-9	her	her	D-:----:--:u---	O	
+27-10	.	.	ZP	O	
+
+#id=28
+#text=Kaffedufter godt, men smager ikke godt - Synes jeg :P Varm kakao gør godt!
+28-1	Kaffe	kaffe	NC:siuc:--:----	B-noun.act|B-noun.food|B-noun.container|B-noun.plant	
+28-2	dufter	dufte	VF:----:sa:----	O	
+28-3	godt	god	AD:----:--:p---	B-adj.all	
+28-4	,	,	ZD	O	
+28-5	men	men	CC:----:--:----	O	
+28-6	smager	smage	VF:----:sa:----	B-verb.phenomenon	
+28-7	ikke	ikke	D-:----:--:u---	O	
+28-8	godt	god	AD:----:--:p---	B-adj.all	
+28-9	-	-	NC:piu#:--:----	O	
+28-10	Synes	syne	:----:sp:----	B-verb.stative|B-verb.cognition	
+28-11	jeg	jeg	PP:s-nc:--:-1n-	O	
+28-12	:	:	ZP	O	
+28-13	P	pro	T-:----:--:----	O	
+28-14	Varm	varm	AC:siuc:--:p---	B-adj.phys|B-adj.all	
+28-15	kakao	kakao	NC:siuc:--:----	B-noun.food	
+28-16	gør	gø	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.creation	
+28-17	godt	god	AD:----:--:p---	B-adj.all	
+28-18	!	!	ZP	O	
+
+#id=29
+#text=lolja, lidt agurk er der altså over den :P
+29-1	lol	lol	NC:siuc:--:----	O	
+29-2	ja	ja	NC:siun:--:----	B-noun.act	
+29-3	,	,	ZD	O	
+29-4	lidt	lidt	AC:siu§:--:p---	O	
+29-5	agurk	agurk	NC:siuc:--:----	B-noun.plant|B-noun.food	
+29-6	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+29-7	der	der	US:----:--:----	O	
+29-8	altså	altså	D-:----:--:u---	O	
+29-9	over	over	T-:----:--:----	O	
+29-10	den	den	PP:s-uc:--:-3n-	O	
+29-11	:	:	ZP	O	
+29-12	P	P	NP:siu#:--:----	B-noun.communication	
+
+#id=30
+#text=Som jeg sagde :P
+30-1	Som	som	US:----:--:----	O	
+30-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+30-3	sagde	sige	VF:----:ta:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+30-4	:	:	ZP	O	
+30-5	P	P	NP:siu#:--:----	B-noun.communication	
+
+#id=31
+#text=Jeg giver en person der tør være anderledes i opførsel, og udseende, 1000 gange mere respekt, end en der har det nyeste tøj fra den lokale tøj-købmand, og holdningerne fra lokal-avisen og BT.
+31-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+31-2	giver	give	VF:----:sa:----	B-verb.possession|B-verb.communication|B-verb.act	
+31-3	en	en	PI:s-uc:--:----	O	
+31-4	person	person	NC:siuc:--:----	B-noun.person	
+31-5	der	der	US:----:--:----	O	
+31-6	tør	turde	VF:----:sa:----	B-verb.change|B-verb.emotion|B-verb.motion|B-verb.phenomenon	
+31-7	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+31-8	anderledes	anderledes	AC:§§u§:--:p---	B-adj.all	
+31-9	i	i	T-:----:--:----	O	
+31-10	opførsel	opførsel	NC:siuc:--:----	B-noun.act	
+31-11	,	,	ZD	O	
+31-12	og	og	CC:----:--:----	O	
+31-13	udseende	udseende	NC:siun:--:----	B-noun.phenomenon	
+31-14	,	,	ZD	O	
+31-15	1000	1000	LC:--u-:--:----	O	
+31-16	gange	gang	NC:piu#:--:----	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+31-17	mere	megen	AC:##u#:--:c---	O	
+31-18	respekt	respekt	NC:siuc:--:----	B-noun.feeling	
+31-19	,	,	ZD	O	
+31-20	end	end	CS:----:--:----	O	
+31-21	en	en	PI:s-uc:--:----	O	
+31-22	der	der	US:----:--:----	O	
+31-23	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+31-24	det	den	PM:s-un:--:----	O	
+31-25	nyeste	ny	AC:§du§:--:s---	B-adj.time	
+31-26	tøj	tøj	NC:siun:--:----	B-noun.artifact	
+31-27	fra	fra	T-:----:--:----	O	
+31-28	den	den	PM:s-uc:--:----	O	
+31-29	lokale	lokal	AC:sdu#:--:p---	O	
+31-30	tøj	tøj	NW:----:--:----	B-noun.artifact	
+31-31	-	-	ZH	O	
+31-32	købmand	købmand	NC:siuc:--:----	B-noun.person|B-noun.building	
+31-33	,	,	ZD	O	
+31-34	og	og	CC:----:--:----	O	
+31-35	holdningerne	holdning	NC:pdu#:--:----	B-noun.cognition|B-noun.phenomenon	
+31-36	fra	fra	T-:----:--:----	O	
+31-37	lokal	lokal	NW:----:--:----	O	
+31-38	-	-	ZH	O	
+31-39	avisen	avis	NC:sduc:--:----	B-noun.institution|B-noun.person|B-noun.communication	
+31-40	og	og	CC:----:--:----	O	
+31-41	BT	BT	NP:siu#:--:----	O	
+31-42	.	.	ZP	O	
+
+#id=32
+#text=Føj og fuck hvor synd tænker man så.
+32-1	Føj	føj	I-:----:--:----	O	
+32-2	og	og	CC:----:--:----	O	
+32-3	fuck	fuck	I-:----:--:----	O	
+32-4	hvor	hvor	D-:----:--:u---	O	
+32-5	synd	synd	AC:§§u§:--:p---	O	
+32-6	tænker	tænke	VF:----:sa:----	B-verb.cognition|B-verb.act	
+32-7	man	man	PI:#-uc:--:----	O	
+32-8	så	så	D-:----:--:u---	O	
+32-9	.	.	ZP	O	
+
+#id=33
+#text=Det er så strengt sådan noget :[~@007C]
+33-1	Det	det	PP:s-un:--:-3n-	O	
+33-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+33-3	så	så	D-:----:--:u---	O	
+33-4	strengt	streng	AD:----:--:p---	B-adj.all	
+33-5	sådan	sådan	D-:----:--:u---	O	
+33-6	noget	nogen	PI:s-un:--:----	O	
+33-7	:	:	ZP	O	
+33-8	[~@007C]	~	ZD	O	
+
+#id=34
+#text=Måske er det det, der er galt?
+34-1	Måske	måske	D-:----:--:u---	O	
+34-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+34-3	det	det	PP:s-un:--:-3n-	O	
+34-4	det	det	PP:s-un:--:-3n-	O	
+34-5	,	,	ZD	O	
+34-6	der	der	US:----:--:----	O	
+34-7	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+34-8	galt	gal	AD:----:--:p---	B-adj.mental|B-adj.all	
+34-9	?	?	ZQ	O	
+
+#id=35
+#text=René
+35-1	René	René	NP:siu#:--:----	O	
+
+#id=36
+#text=Du skal aldrig på skiferie igen, går jeg ud fra? :P
+36-1	Du	du	PP:s-nc:--:-2n-	O	
+36-2	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+36-3	aldrig	aldrig	D-:----:--:u---	O	
+36-4	på	på	T-:----:--:----	O	
+36-5	skiferie	skiferie	NC:siuc:--:----	B-noun.time	
+36-6	igen	igen	D-:----:--:u---	O	
+36-7	,	,	ZD	O	
+36-8	går	gå	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+36-9	jeg	jeg	PP:s-nc:--:-1n-	O	
+36-10	ud	ud	D-:----:--:u---	O	
+36-11	fra	fra	D-:----:--:u---	O	
+36-12	?	?	ZQ	O	
+36-13	:	:	ZP	O	
+36-14	P	P	NP:siu#:--:----	B-noun.communication	
+
+#id=37
+#text=Det syns['@00B4]jeg, altså ;)
+37-1	Det	den	PM:s-un:--:----	O	
+37-2	syns	syn	NC:sign:--:----	B-noun.act|B-noun.phenomenon|B-noun.cognition|B-noun.body	
+37-3	['@00B4]	'	ZA	O	
+37-4	jeg	jeg	NC:siun:--:----	O	
+37-5	,	,	ZD	O	
+37-6	altså	altså	D-:----:--:u---	O	
+37-7	;	;	ZP	O	
+37-8	)	)	ZD	O	
+
+#id=38
+#text=Siden har jeg været online -Noget mange af mine venner rynker på næsen af, men fuck det?! lool
+38-1	Siden	Siden	XY:----:--:----	O	
+38-2	har	har	-:----	O	
+38-3	jeg	jeg	XY:----:--:----	O	
+38-4	været	været	XY:----:--:----	O	
+38-5	online	online	XY:----:--:----	O	
+38-6	-	-	XY:----:--:----	O	
+38-7	Noget	Noget	XY:----:--:----	O	
+38-8	mange	mange	XY:----:--:----	O	
+38-9	af	af	XY:----:--:----	O	
+38-10	mine	mine	XY:----:--:----	O	
+38-11	venner	venner	XY:----:--:----	O	
+38-12	rynker	rynker	XY:----:--:----	O	
+38-13	på	på	XY:----:--:----	O	
+38-14	næsen	næsen	XY:----:--:----	O	
+38-15	af	af	XY:----:--:----	O	
+38-16	,	,	XY:----:--:----	O	
+38-17	men	men	XY:----:--:----	O	
+38-18	fuck	fuck	XY:----:--:----	O	
+38-19	det	det	XY:----:--:----	O	
+38-20	?	?	XY:----:--:----	O	
+38-21	!	!	XY:----:--:----	O	
+38-22	lool	lool	XY:----:--:----	O	
+
+#id=39
+#text=Haha :P Kaffe var iøvrigt det eneste jeg brugte for at klare den!
+39-1	Haha	Haha	NP:siu#:--:----	O	
+39-2	:	:	ZP	O	
+39-3	P	pro	T-:----:--:----	O	
+39-4	Kaffe	kaffe	NC:siuc:--:----	B-noun.act|B-noun.food|B-noun.container|B-noun.plant	
+39-5	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+39-6	iøvrigt	iøvrigt	D-:----:--:u---	O	
+39-7	det	den	PM:s-un:--:----	O	
+39-8	eneste	eneste	AC:§§u§:--:p---	O	
+39-9	jeg	jeg	NC:siun:--:----	O	
+39-10	brugte	bruge	VF:----:ta:----	B-verb.act|B-verb.communication	
+39-11	for	for	T-:----:--:----	O	
+39-12	at	at	UI:----:--:----	O	
+39-13	klare	klare	VI:----:-a:----	B-verb.phenomenon|B-verb.change|B-verb.act|B-verb.emotion	
+39-14	den	den	PP:s-uc:--:-3n-	O	
+39-15	!	!	ZP	O	
+
+#id=40
+#text=Jeg kunne godt lide hende i rødt-undertøj-ludersko-fede-lår-perioden :D
+40-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+40-2	kunne	kunne	VF:----:ta:----	B-verb.social	
+40-3	godt	god	AD:----:--:p---	B-adj.all	
+40-4	lide	lide	VI:----:-a:----	B-verb.phenomenon|B-verb.emotion	
+40-5	hende	hun	PP:s-uc:--:-3n-	O	
+40-6	i	i	T-:----:--:----	O	
+40-7	rødt	rød	AD:----:--:p---	O	
+40-8	-	-	NC:piu#:--:----	O	
+40-9	undertøj	undertøj	NW:----:--:----	B-noun.artifact	
+40-10	-	-	ZH	O	
+40-11	ludersko	ludersko	NW:----:--:----	O	
+40-12	-	-	ZH	O	
+40-13	fede	fed	AC:p#u#:--:p---	B-adj.phys	
+40-14	-	-	NC:piu#:--:----	O	
+40-15	lår	lår	NW:----:--:----	B-noun.body|B-noun.food	
+40-16	-	-	ZH	O	
+40-17	perioden	periode	NC:sduc:--:----	B-noun.time	
+40-18	:	:	ZP	O	
+40-19	D	D	PP:s-un:--:-3n-	O	
+
+#id=41
+#text=Nogen der vil være venlige at forklare hvad der menes med det ord? lol Men i hvert fald, så har jeg lidt længere end skulderlangt hår, som nogle gange har naturlige krøller, men ikke vedvarende! -Spørg' ikk hvorfor jeg trykkede page, det lød bare godt? øhh
+41-1	Nogen	Nogen	XY:----:--:----	O	
+41-2	der	der	XY:----:--:----	O	
+41-3	vil	vil	XY:----:--:----	O	
+41-4	være	være	XY:----:--:----	O	
+41-5	venlige	venlige	XY:----:--:----	O	
+41-6	at	at	XY:----:--:----	O	
+41-7	forklare	forklare	XY:----:--:----	O	
+41-8	hvad	hvad	XY:----:--:----	O	
+41-9	der	der	XY:----:--:----	O	
+41-10	menes	menes	XY:----:--:----	O	
+41-11	med	med	XY:----:--:----	O	
+41-12	det	det	XY:----:--:----	O	
+41-13	ord	ord	XY:----:--:----	O	
+41-14	?	?	XY:----:--:----	O	
+41-15	lol	lol	XY:----:--:----	O	
+41-16	Men	Men	XY:----:--:----	O	
+41-17	i	i	XY:----:--:----	O	
+41-18	hvert	hvert	XY:----:--:----	O	
+41-19	fald	fald	XY:----:--:----	O	
+41-20	,	,	XY:----:--:----	O	
+41-21	så	så	XY:----:--:----	O	
+41-22	har	har	XY:----:--:----	O	
+41-23	jeg	jeg	XY:----:--:----	O	
+41-24	lidt	lidt	XY:----:--:----	O	
+41-25	længere	længere	XY:----:--:----	O	
+41-26	end	end	XY:----:--:----	O	
+41-27	skulderlangt	skulderlangt	XY:----:--:----	O	
+41-28	hår	hår	XY:----:--:----	O	
+41-29	,	,	XY:----:--:----	O	
+41-30	som	som	XY:----:--:----	O	
+41-31	nogle	nogle	XY:----:--:----	O	
+41-32	gange	gange	XY:----:--:----	O	
+41-33	har	har	XY:----:--:----	O	
+41-34	naturlige	naturlige	XY:----:--:----	O	
+41-35	krøller	krøller	XY:----:--:----	O	
+41-36	,	,	XY:----:--:----	O	
+41-37	men	men	XY:----:--:----	O	
+41-38	ikke	ikke	XY:----:--:----	O	
+41-39	vedvarende	vedvarende	XY:----:--:----	O	
+41-40	!	!	XY:----:--:----	O	
+41-41	-	-	XY:----:--:----	O	
+41-42	Spørg	Spørg	XY:----:--:----	O	
+41-43	'	'	XY:----:--:----	O	
+41-44	ikk	ikk	XY:----:--:----	O	
+41-45	hvorfor	hvorfor	XY:----:--:----	O	
+41-46	jeg	jeg	XY:----:--:----	O	
+41-47	trykkede	trykkede	XY:----:--:----	O	
+41-48	page	page	XY:----:--:----	O	
+41-49	,	,	XY:----:--:----	O	
+41-50	det	det	XY:----:--:----	O	
+41-51	lød	lød	XY:----:--:----	O	
+41-52	bare	bare	XY:----:--:----	O	
+41-53	godt	godt	XY:----:--:----	O	
+41-54	?	?	XY:----:--:----	O	
+41-55	øhh	øhh	XY:----:--:----	O	
+
+#id=42
+#text=Virkelig provo..
+42-1	Virkelig	virkelig	D-:----:--:u---	O	
+42-2	provo	provo	NC:siuc:--:----	B-noun.person	
+42-3	.	.	ZP	O	
+42-4	.	.	ZP	O	
+
+#id=43
+#text=Og Cats..!
+43-1	Og	og	CC:----:--:----	O	
+43-2	Cats	Cats	NP:siu#:--:----	O	
+43-3	.	.	ZP	O	
+43-4	.	.	ZP	O	
+43-5	!	!	ZP	O	
+
+#id=44
+#text=Det synes jeg *G* Synes det ser mega fedt ud, fordi det bliver lidt maskulint så.
+44-1	Det	det	PP:s-un:--:-3n-	O	
+44-2	synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+44-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+44-4	*G*	*G*	NP:siu#:--:----	O	
+44-5	Synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+44-6	det	det	PP:s-un:--:-3n-	O	
+44-7	ser	se	VF:----:sa:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+44-8	mega	mega	XY:----:--:----	O	
+44-9	fedt	fedt	NC:siun:--:----	B-d|B-noun.artifact|B-noun.body	
+44-10	ud	ud	D-:----:--:u---	O	
+44-11	,	,	ZD	O	
+44-12	fordi	fordi	CS:----:--:----	O	
+44-13	det	det	PP:s-un:--:-3n-	O	
+44-14	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+44-15	lidt	lidt	AD:----:--:p---	O	
+44-16	maskulint	maskulin	AD:----:--:p---	B-adj.social|B-adj.all	
+44-17	så	så	D-:----:--:u---	O	
+44-18	.	.	ZP	O	
+
+#id=45
+#text=Mia,jeg ser din pointe - Men måske skulle du ikke tage det så personligt ;)
+45-1	Mia	Mia	NP:siu#:--:----	O	
+45-2	,	,	ZD	O	
+45-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+45-4	ser	se	VF:----:sa:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+45-5	din	din	XY:----:--:----	O	
+45-6	pointe	pointe	NW:----:--:----	B-noun.act|B-noun.attribute	
+45-7	-	-	ZH	O	
+45-8	Men	men	CC:----:--:----	O	
+45-9	måske	måske	D-:----:--:u---	O	
+45-10	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+45-11	du	du	PP:s-nc:--:-2n-	O	
+45-12	ikke	ikke	D-:----:--:u---	O	
+45-13	tage	tage	VI:----:-a:----	B-verb.possession|B-verb.social|B-verb.cognition|B-verb.act|B-verb.creation|B-verb.change|B-verb.motion	
+45-14	det	det	PP:s-un:--:-3n-	O	
+45-15	så	så	D-:----:--:u---	O	
+45-16	personligt	personlig	AC:siun:--:p---	B-adj.social|B-adj.all	
+45-17	;	;	ZP	O	
+45-18	)	)	ZD	O	
+
+#id=46
+#text=Du skal altså ikke tilberede noget først, lol.
+46-1	Du	du	PP:s-nc:--:-2n-	O	
+46-2	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+46-3	altså	altså	D-:----:--:u---	O	
+46-4	ikke	ikke	D-:----:--:u---	O	
+46-5	tilberede	tilberede	VI:----:-a:----	B-verb.change	
+46-6	noget	nogen	PI:s-un:--:----	O	
+46-7	først	først	D-:----:--:u---	O	
+46-8	,	,	ZD	O	
+46-9	lol	lol	NC:piu#:--:----	O	
+46-10	.	.	ZP	O	
+
+#id=47
+#text=Derfindes ikke seje smileys..
+47-1	Der	der	US:----:--:----	O	
+47-2	findes	finde	VF:----:sp:----	B-verb.phenomenon|B-verb.stative|B-verb.cognition|B-verb.act|B-verb.motion	
+47-3	ikke	ikke	D-:----:--:u---	O	
+47-4	seje	sej	AC:p#u#:--:p---	B-adj.phys|B-adj.all	
+47-5	smileys	smiley	NC:piu#:--:----	B-noun.artifact	
+47-6	.	.	ZP	O	
+47-7	.	.	ZP	O	
+
+#id=48
+#text=Believe it or not...
+48-1	Believe	Believe	NP:siu#:--:----	O	
+48-2	it	it	XF:----:--:----	O	
+48-3	or	or	XY:----:--:----	O	
+48-4	not	not	XF:----:--:----	O	
+48-5	.	.	ZP	O	
+48-6	.	.	ZP	O	
+48-7	.	.	ZP	O	
+
+#id=49
+#text=Og jeg kunne godt tænke mig én der duftede af våde orme i jorden efter det har regnet, lol Tror du ikke, det er bedst at den slags bliver holdt ude i naturen? :D
+49-1	Og	og	CC:----:--:----	O	
+49-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+49-3	kunne	kunne	VF:----:ta:----	B-verb.social	
+49-4	godt	god	AD:----:--:p---	B-adj.all	
+49-5	tænke	tænke	VI:----:-a:----	B-verb.cognition|B-verb.act	
+49-6	mig	jeg	PP:s-uc:--:-1#-	O	
+49-7	én	en	PI:s-uc:--:----	O	
+49-8	der	der	US:----:--:----	O	
+49-9	duftede	dufte	VF:----:ta:----	O	
+49-10	af	af	T-:----:--:----	O	
+49-11	våde	våd	AC:p#u#:--:p---	B-adj.phys|B-adj.all	
+49-12	orme	orm	NC:piu#:--:----	B-noun.animal|B-noun.communication	
+49-13	i	i	T-:----:--:----	O	
+49-14	jorden	jord	NC:sduc:--:----	B-noun.object|B-noun.TOP|B-noun.location	
+49-15	efter	efter	T-:----:--:----	O	
+49-16	det	det	PP:s-un:--:-3n-	O	
+49-17	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+49-18	regnet	regne	VT:siu#:t-:----	B-verb.motion|B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+49-19	,	,	ZD	O	
+49-20	lol	lol	NC:piu#:--:----	O	
+49-21	Tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+49-22	du	du	PP:s-nc:--:-2n-	O	
+49-23	ikke	ikke	D-:----:--:u---	O	
+49-24	,	,	ZD	O	
+49-25	det	det	PP:s-un:--:-3n-	O	
+49-26	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+49-27	bedst	god	AC:§§u§:--:s---	B-adj.all	
+49-28	at	at	CS:----:--:----	O	
+49-29	den	den	PM:s-uc:--:----	O	
+49-30	slags	slags	NC:siuc:--:----	B-noun.TOP|B-noun.artifact|B-noun.phenomenon|B-noun.time|B-noun.act|B-noun.food	
+49-31	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+49-32	holdt	holde	VT:siu#:t-:----	B-verb.motion|B-verb.act|B-verb.communication|B-verb.social|B-verb.cognition|B-verb.phenomenon	
+49-33	ude	ude	D-:----:--:u---	O	
+49-34	i	i	T-:----:--:----	O	
+49-35	naturen	natur	NC:sduc:--:----	B-noun.location|B-noun.artifact|B-noun.phenomenon|B-noun.feeling|B-noun.attribute|B-noun.object	
+49-36	?	?	ZQ	O	
+49-37	:	:	ZP	O	
+49-38	D	D	PP:s-un:--:-3n-	O	
+
+#id=50
+#text=Tror næsten jeg vil gå meget efter den, tak for hjælpen :D
+50-1	Tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+50-2	næsten	næsten	D-:----:--:u---	O	
+50-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+50-4	vil	ville	VF:----:sa:----	B-verb.cognition	
+50-5	gå	gå	VI:----:-a:----	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+50-6	meget	megen	AD:----:--:p---	O	
+50-7	efter	efter	T-:----:--:----	O	
+50-8	den	den	PP:s-uc:--:-3n-	O	
+50-9	,	,	ZD	O	
+50-10	tak	tak	NC:siuc:--:----	B-noun.object|B-noun.act|B-noun.quantity|B-noun.body	
+50-11	for	for	T-:----:--:----	O	
+50-12	hjælpen	hjælp	NC:sduc:--:----	B-noun.act|B-noun.person|B-noun.artifact	
+50-13	:	:	ZP	O	
+50-14	D	D	PP:s-un:--:-3n-	O	
+
+#id=51
+#text=Det er blevet kedeligt og ensformligt med tiden, har brug for nye udfodringer :/
+51-1	Det	det	PP:s-un:--:-3n-	O	
+51-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+51-3	blevet	blive	VT:siu#:t-:----	B-verb.TOP|B-verb.act|B-verb.stative	
+51-4	kedeligt	kedelig	AD:----:--:p---	B-adj.social|B-adj.all|B-adj.mental|B-adj.phys	
+51-5	og	og	CC:----:--:----	O	
+51-6	ensformligt	ensformligt	AD:----:--:p---	O	
+51-7	med	med	T-:----:--:----	O	
+51-8	tiden	tid	NC:sduc:--:----	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+51-9	,	,	ZD	O	
+51-10	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+51-11	brug	brug	NC:siuc:--:----	B-noun.building|B-noun.attribute|B-noun.act|B-noun.cognition	
+51-12	for	for	T-:----:--:----	O	
+51-13	nye	ny	AC:p#u#:--:p---	B-adj.time	
+51-14	udfodringer	udfodring	NC:piu#:--:----	O	
+51-15	:	:	ZP	O	
+51-16	/	/	NC:siuc:--:----	O	
+
+#id=52
+#text=Ja, Jim Carrey er sjov..
+52-1	Ja	ja	I-:----:--:----	O	
+52-2	,	,	ZD	O	
+52-3	Jim	Jim	NP:siu#:--:----	O	
+52-4	Carrey	Carrey	NP:siu#:--:----	O	
+52-5	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+52-6	sjov	sjov	AC:siuc:--:p---	B-adj.mental	
+52-7	.	.	ZP	O	
+52-8	.	.	ZP	O	
+
+#id=53
+#text=Har ikke ventet et år til den tid, forgæves.
+53-1	Har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+53-2	ikke	ikke	D-:----:--:u---	O	
+53-3	ventet	vente	VT:siu#:t-:----	B-verb.stative	
+53-4	et	en	PI:s-un:--:----	O	
+53-5	år	år	NC:siun:--:----	B-noun.time	
+53-6	til	til	T-:----:--:----	O	
+53-7	den	den	PM:s-uc:--:----	O	
+53-8	tid	tid	NC:siuc:--:----	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+53-9	,	,	ZD	O	
+53-10	forgæves	forgæves	AD:----:--:p---	O	
+53-11	.	.	ZP	O	
+
+#id=54
+#text=Hmm,MCD mad der smager skønt, der må være noget galt her...
+54-1	Hmm	hmm	I-:----:--:----	O	
+54-2	,	,	ZD	O	
+54-3	MCD	MCD	NP:siu#:--:----	O	
+54-4	mad	mad	NC:siuc:--:----	B-noun.food	
+54-5	der	der	US:----:--:----	O	
+54-6	smager	smage	VF:----:sa:----	B-verb.phenomenon	
+54-7	skønt	skøn	AC:siun:--:p---	O	
+54-8	,	,	ZD	O	
+54-9	der	der	US:----:--:----	O	
+54-10	må	måtte	VF:----:sa:----	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+54-11	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+54-12	noget	nogen	PI:s-un:--:----	O	
+54-13	galt	gal	AC:siun:--:p---	B-adj.mental|B-adj.all	
+54-14	her	her	D-:----:--:u---	O	
+54-15	.	.	ZP	O	
+54-16	.	.	ZP	O	
+54-17	.	.	ZP	O	
+
+#id=55
+#text=Deter der også sket på begge mine efterskoler og min folkeskole? lol..
+55-1	Det	det	PP:s-un:--:-3n-	O	
+55-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+55-3	der	der	US:----:--:----	O	
+55-4	også	også	D-:----:--:u---	O	
+55-5	sket	ske	VT:siu#:t-:----	B-verb.phenomenon|B-verb.act	
+55-6	på	på	T-:----:--:----	O	
+55-7	begge	begge	PM:p-u#:--:----	O	
+55-8	mine	mine	NW:----:--:----	B-noun.location|B-noun.artifact|B-noun.phenomenon	
+55-9	efterskoler	efterskole	NC:piu#:--:----	B-noun.institution	
+55-10	og	og	CC:----:--:----	O	
+55-11	min	min	PO:s--c:--:-1ns	O	
+55-12	folkeskole	folkeskole	NC:siuc:--:----	B-noun.institution|B-noun.building	
+55-13	?	?	XY:----:--:----	O	
+55-14	lol	lol	NC:siuc:--:----	O	
+55-15	.	.	ZP	O	
+55-16	.	.	ZP	O	
+
+#id=56
+#text= Det tror jeg såmænd også, at de er.. de skal bare ramme flest mulige, så alliancen bliver kritiseret mest muligt..Ja der dør flere end der burde gøre. End hvis vi førte krig ved at de to parter gav hinanden hånden inden kampen. Og hvor man gik ud på en stor mark og kæmpede. (Lyder helt Braveheart-agtigt). Men den måde fører man ikke krig på. USA er selv et glimrende eksempel med deres nye "ret" til at føre forebyggende krige.
+56-1	Det	det	PP:s-un:--:-3n-	O	
+56-2	tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+56-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+56-4	såmænd	såmænd	D-:----:--:u---	O	
+56-5	også	også	D-:----:--:u---	O	
+56-6	,	,	ZD	O	
+56-7	at	at	CS:----:--:----	O	
+56-8	de	de	PP:p-n#:--:-3n-	O	
+56-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+56-10	.	.	ZP	O	
+56-11	.	.	ZP	O	
+56-12	de	de	PP:p-n#:--:-3n-	O	
+56-13	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+56-14	bare	bare	D-:----:--:u---	O	
+56-15	ramme	ramme	VI:----:-a:----	B-verb.motion|B-verb.act	
+56-16	flest	flest	XY:----:--:----	O	
+56-17	mulige	mulig	AC:sdu#:--:p---	B-adj.phys	
+56-18	,	,	ZD	O	
+56-19	så	så	CS:----:--:----	O	
+56-20	alliancen	alliance	NC:sduc:--:----	B-noun.person|B-noun.motive	
+56-21	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+56-22	kritiseret	kritisere	VT:siu#:t-:----	B-verb.communication	
+56-23	mest	megen	AD:----:--:s---	O	
+56-24	muligt	mulig	AC:siun:--:p---	B-adj.phys	
+56-25	.	.	ZP	O	
+56-26	.	.	ZP	O	
+56-27	Ja	_	_	B-noun.act	
+56-28	der	_	_	O	
+56-29	dør	_	_	B-verb.phenomenon|B-noun.location|B-noun.artifact	
+56-30	flere	_	_	O	
+56-31	end	_	_	B-verb.change|B-verb.phenomenon	
+56-32	der	_	_	O	
+56-33	burde	_	_	B-verb.TOP	
+56-34	gøre	_	_	B-verb.change|B-verb.creation|B-verb.act|B-verb.phenomenon	
+56-35	.	_	_	O	
+56-36	End	_	_	B-verb.change|B-verb.phenomenon	
+56-37	hvis	_	_	O	
+56-38	vi	_	_	B-verb.cognition|B-verb.communication|B-verb.act	
+56-39	førte	_	_	B-verb.motion|B-verb.act|B-verb.creation|B-verb.phenomenon	
+56-40	krig	_	_	B-noun.act|B-noun.state|B-noun.communication	
+56-41	ved	_	_	B-noun.time|B-verb.emotion|B-verb.cognition	
+56-42	at	_	_	O	
+56-43	de	_	_	O	
+56-44	to	_	_	O	
+56-45	parter	_	_	B-verb.phenomenon|B-noun.person|B-verb.act|B-noun.quantity	
+56-46	gav	_	_	B-verb.possession|B-verb.communication|B-verb.act	
+56-47	hinanden	_	_	O	
+56-48	hånden	_	_	B-noun.act|B-noun.location|B-noun.communication|B-noun.body	
+56-49	inden	_	_	B-noun.artifact|B-noun.location	
+56-50	kampen	_	_	B-noun.act|B-noun.motive	
+56-51	.	_	_	O	
+56-52	Og	_	_	O	
+56-53	hvor	_	_	O	
+56-54	man	_	_	B-verb.creation	
+56-55	gik	_	_	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+56-56	ud	_	_	O	
+56-57	på	_	_	B-noun.time|B-noun.artifact|B-noun.object|B-noun.body|B-noun.person|B-noun.act|B-noun.quantity|B-noun.attribute|B-noun.TOP|B-noun.feeling|B-noun.motive|B-noun.communication	
+56-58	en	_	_	O	
+56-59	stor	_	_	B-adj.phys	
+56-60	mark	_	_	B-noun.artifact|B-noun.location	
+56-61	og	_	_	O	
+56-62	kæmpede	_	_	B-verb.act|B-verb.communication	
+56-63	.	_	_	O	
+56-64	(	_	_	O	
+56-65	Lyder	_	_	B-verb.social|B-verb.communication|B-noun.attribute|B-verb.phenomenon	
+56-66	helt	_	_	B-noun.animal|B-noun.person|B-adj.phys	
+56-67	Braveheart	_	_	O	
+56-68	-	_	_	O	
+56-69	agtigt	_	_	O	
+56-70	)	_	_	O	
+56-71	.	_	_	O	
+56-72	Men	_	_	B-noun.act|B-verb.communication|B-verb.cognition	
+56-73	den	_	_	O	
+56-74	måde	_	_	B-noun.motive|B-noun.TOP|B-noun.communication	
+56-75	fører	_	_	B-verb.motion|B-noun.person|B-verb.act|B-verb.creation|B-verb.phenomenon	
+56-76	man	_	_	B-verb.creation	
+56-77	ikke	_	_	O	
+56-78	krig	_	_	B-noun.act|B-noun.state|B-noun.communication	
+56-79	på	_	_	B-noun.time|B-noun.artifact|B-noun.object|B-noun.body|B-noun.person|B-noun.act|B-noun.quantity|B-noun.attribute|B-noun.TOP|B-noun.feeling|B-noun.motive|B-noun.communication	
+56-80	.	_	_	O	
+56-81	USA	_	_	O	
+56-82	er	_	_	B-verb.TOP|B-verb.social|B-verb.stative	
+56-83	selv	_	_	B-noun.attribute	
+56-84	et	_	_	O	
+56-85	glimrende	_	_	B-adj.all	
+56-86	eksempel	_	_	B-noun.attribute|B-noun.person	
+56-87	med	_	_	B-noun.communication|B-noun.person|B-noun.act|B-noun.quantity|B-noun.artifact|B-noun.body|B-noun.cognition|B-verb.act|B-noun.institution|B-noun.plant	
+56-88	deres	_	_	O	
+56-89	nye	_	_	B-adj.time	
+56-90	"	_	_	O	
+56-91	ret	_	_	B-verb.change|B-noun.person|B-adj.phys|B-noun.artifact|B-verb.communication|B-noun.institution|B-noun.cognition|B-verb.act|B-adj.all|B-noun.food	
+56-92	"	_	_	O	
+56-93	til	_	_	B-noun.substance|B-noun.object|B-noun.phenomenon|B-noun.quantity|B-noun.artifact|B-noun.food|B-noun.plant|B-noun.institution|B-noun.person|B-adj.phys|B-noun.attribute|B-noun.communication|B-noun.motive|B-noun.building|B-noun.container|B-noun.location|B-noun.time|B-noun.body|B-noun.cognition|B-noun.group|B-noun.act|B-noun.state|B-noun.event|B-adj.all|B-noun.feeling|B-noun.TOP	
+56-94	at	_	_	O	
+56-95	føre	_	_	B-verb.phenomenon|B-verb.creation|B-verb.act|B-adj.phys|B-verb.motion	
+56-96	forebyggende	_	_	B-verb.act	
+56-97	krige	_	_	B-noun.act|B-noun.state|B-noun.communication	
+56-98	.	_	_	O	
+
+#id=57
+#text=Men det bliver måske for svært for nogle
+57-1	Men	men	CC:----:--:----	O	
+57-2	det	det	PP:s-un:--:-3n-	O	
+57-3	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+57-4	måske	måske	D-:----:--:u---	O	
+57-5	for	for	T-:----:--:----	O	
+57-6	svært	svær	AD:----:--:p---	B-adj.all	
+57-7	for	for	T-:----:--:----	O	
+57-8	nogle	nogen	PI:p-u#:--:----	O	
+
+#id=58
+#text=Igen, det er pisse sort :)
+58-1	Igen	Igen	XY:----:--:----	O	
+58-2	,	,	XY:----:--:----	O	
+58-3	det	det	XY:----:--:----	O	
+58-4	er	er	XY:----:--:----	O	
+58-5	pisse	pisse	XY:----:--:----	O	
+58-6	sort	sort	XY:----:--:----	O	
+58-7	:	:	XY:----:--:----	O	
+58-8	)	)	XY:----:--:----	O	
+
+#id=59
+#text=Og da vi med klassen skulle se Anne Franks hus i Amsterdam, da blev vi bestemt ikke mindre skuffede.
+59-1	Og	og	CC:----:--:----	O	
+59-2	da	da	CS:----:--:----	O	
+59-3	vi	vi	PP:p-nc:--:-1n-	O	
+59-4	med	med	T-:----:--:----	O	
+59-5	klassen	klasse	NC:sduc:--:----	B-noun.attribute|B-noun.group|B-noun.person|B-noun.artifact	
+59-6	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+59-7	se	se	VI:----:-a:----	B-verb.motion|B-verb.act|B-verb.communication|B-verb.change|B-verb.social|B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+59-8	Anne	Anne	NP:siu#:--:----	O	
+59-9	Franks	Frank	NP:sig#:--:----	O	
+59-10	hus	hus	NC:siun:--:----	B-noun.location|B-noun.feeling|B-noun.building|B-noun.person	
+59-11	i	i	T-:----:--:----	O	
+59-12	Amsterdam	Amsterdam	NP:siu#:--:----	O	
+59-13	,	,	ZD	O	
+59-14	da	da	D-:----:--:u---	O	
+59-15	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+59-16	vi	vi	PP:p-nc:--:-1n-	O	
+59-17	bestemt	bestemme	VT:siu#:t-:----	B-verb.cognition|B-verb.act	
+59-18	ikke	ikke	D-:----:--:u---	O	
+59-19	mindre	liden	AD:----:--:c---	B-adj.phys	
+59-20	skuffede	skuffe	VP:p#u#:t-:----	B-verb.motion	
+59-21	.	.	ZP	O	
+
+#id=60
+#text=Vi var inde og høre om antropologi her i efteråret, og seriøst, jeg troede også det var spændende, but it sounds boooring!
+60-1	Vi	vi	PP:p-nc:--:-1n-	O	
+60-2	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+60-3	inde	inde	D-:----:--:u---	O	
+60-4	og	og	CC:----:--:----	O	
+60-5	høre	høre	VI:----:-a:----	B-verb.phenomenon	
+60-6	om	om	T-:----:--:----	O	
+60-7	antropologi	antropologi	NC:siuc:--:----	B-noun.domain	
+60-8	her	her	D-:----:--:u---	O	
+60-9	i	i	T-:----:--:----	O	
+60-10	efteråret	efterår	NC:sdun:--:----	B-noun.time	
+60-11	,	,	ZD	O	
+60-12	og	og	CC:----:--:----	O	
+60-13	seriøst	seriøs	AC:siun:--:p---	B-adj.mental	
+60-14	,	,	ZD	O	
+60-15	jeg	jeg	PP:s-nc:--:-1n-	O	
+60-16	troede	tro	VF:----:ta:----	B-verb.cognition|B-verb.emotion	
+60-17	også	også	D-:----:--:u---	O	
+60-18	det	det	PP:s-un:--:-3n-	O	
+60-19	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+60-20	spændende	spændende	AC:§§u§:--:p---	B-adj.mental|B-adj.all	
+60-21	,	,	ZD	O	
+60-22	but	but	XY:----:--:----	O	
+60-23	it	it	XF:----:--:----	O	
+60-24	sounds	sound	NW:----:--:----	O	
+60-25	boooring	boooring	NC:siuc:--:----	O	
+60-26	!	!	ZP	O	
+
+#id=61
+#text=LOL.
+61-1	LOL	LOL	NP:siu#:--:----	O	
+61-2	.	.	ZP	O	
+
+#id=62
+#text=Det ved jeg ikke noget om, men alt hvad der kræver at an redigerer i noget, ville jeg holde mig fra?!
+62-1	Det	det	PP:s-un:--:-3n-	O	
+62-2	ved	vide	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+62-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+62-4	ikke	ikke	D-:----:--:u---	O	
+62-5	noget	nogen	PI:s-un:--:----	O	
+62-6	om	om	T-:----:--:----	O	
+62-7	,	,	ZD	O	
+62-8	men	men	CC:----:--:----	O	
+62-9	alt	al	PI:s-un:--:----	O	
+62-10	hvad	hvad	PR:s-u#:--:----	O	
+62-11	der	der	:----	O	
+62-12	kræver	kræve	VF:----:sa:----	B-verb.communication	
+62-13	at	at	CS:----:--:----	O	
+62-14	an	an	D-:----:--:u---	O	
+62-15	redigerer	redigere	VF:----:sa:----	B-verb.change	
+62-16	i	i	T-:----:--:----	O	
+62-17	noget	nogen	PI:s-un:--:----	O	
+62-18	,	,	ZD	O	
+62-19	ville	ville	VF:----:ta:----	B-verb.cognition	
+62-20	jeg	jeg	PP:s-nc:--:-1n-	O	
+62-21	holde	holde	VI:----:-a:----	B-verb.motion|B-verb.act|B-verb.communication|B-verb.social|B-verb.cognition|B-verb.phenomenon	
+62-22	mig	jeg	PP:s-uc:--:-1#-	O	
+62-23	fra	fra	D-:----:--:u---	O	
+62-24	?	?	ZQ	O	
+62-25	!	!	ZP	O	
+
+#id=63
+#text=Ok:D Heinz, Heinz, Heinz :D
+63-1	Ok	ok	I-:----:--:----	O	
+63-2	:	:	ZP	O	
+63-3	D	d	NP:siu#:--:----	B-noun.communication|B-noun.phenomenon	
+63-4	Heinz	Heinz	NP:siu#:--:----	O	
+63-5	,	,	ZD	O	
+63-6	Heinz	Heinz	NP:siu#:--:----	O	
+63-7	,	,	ZD	O	
+63-8	Heinz	Heinz	NP:siu#:--:----	O	
+63-9	:	:	ZP	O	
+63-10	D	D	PP:s-un:--:-3n-	O	
+
+#id=64
+#text=Ja har skuda helt glemt Friends!
+64-1	Ja	ja	NC:siun:--:----	B-noun.act	
+64-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+64-3	skuda	skuda	D-:----:--:u---	O	
+64-4	helt	hel	AD:----:--:p---	B-adj.phys	
+64-5	glemt	glemt	VT:siu#:t-:----	B-verb.cognition|B-verb.emotion	
+64-6	Friends	Friends	XF:----:--:----	O	
+64-7	!	!	ZP	O	
+
+#id=65
+#text=Vil sgida se den adresse jeg reklamerer for! *G*
+65-1	Vil	ville	VF:----:sa:----	B-verb.cognition	
+65-2	sgida	sgida	D-:----:--:u---	O	
+65-3	se	se	VI:----:-a:----	B-verb.motion|B-verb.communication|B-verb.social|B-verb.cognition|B-verb.act|B-verb.emotion|B-verb.change|B-verb.phenomenon	
+65-4	den	den	PM:s-uc:--:----	O	
+65-5	adresse	adresse	NC:siuc:--:----	B-noun.communication	
+65-6	jeg	jeg	NC:siun:--:----	O	
+65-7	reklamerer	reklamere	VF:----:sa:----	B-verb.communication	
+65-8	for	for	T-:----:--:----	O	
+65-9	!	!	ZP	O	
+65-10	*G*	*G*	NP:siu#:--:----	O	
+
+#id=66
+#text=Og det ville da være lige så ladt hvis pressen altid kun var positive som hvis de altid var negative overfor ham.
+66-1	Og	og	CC:----:--:----	O	
+66-2	det	det	PP:s-un:--:-3n-	O	
+66-3	ville	ville	VF:----:ta:----	B-verb.cognition	
+66-4	da	da	D-:----:--:u---	O	
+66-5	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+66-6	lige	lige	D-:----:--:u---	O	
+66-7	så	så	D-:----:--:u---	O	
+66-8	ladt	lad	AC:siun:--:p---	O	
+66-9	hvis	hvis	CS:----:--:----	O	
+66-10	pressen	presse	NC:sduc:--:----	B-noun.act|B-noun.person|B-noun.motive|B-noun.artifact	
+66-11	altid	altid	D-:----:--:u---	O	
+66-12	kun	kun	D-:----:--:u---	O	
+66-13	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+66-14	positive	positiv	AC:p#u#:--:p---	B-adj.phys|B-adj.all	
+66-15	som	som	US:----:--:----	O	
+66-16	hvis	hvis	CS:----:--:----	O	
+66-17	de	de	PP:p-n#:--:-3n-	O	
+66-18	altid	altid	D-:----:--:u---	O	
+66-19	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+66-20	negative	negativ	AC:p#u#:--:p---	B-adj.phys|B-adj.all|B-adj.mental	
+66-21	overfor	overfor	T-:----:--:----	O	
+66-22	ham	han	PP:s-uc:--:-3n-	O	
+66-23	.	.	ZP	O	
+
+#id=67
+#text=IÅrhus kender jeg et dejligt lille sted der sælger de BEDSTE kolde sandwichbrød.
+67-1	I	i	T-:----:--:----	O	
+67-2	Århus	Århus	NP:siu#:--:----	O	
+67-3	kender	kende	VF:----:sa:----	B-verb.cognition|B-verb.communication|B-verb.emotion	
+67-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+67-5	et	en	PI:s-un:--:----	O	
+67-6	dejligt	dejlig	AC:siun:--:p---	B-adj.phys|B-adj.all	
+67-7	lille	lille	AC:s§u§:--:p---	B-adj.phys	
+67-8	sted	sted	NC:siun:--:----	B-noun.object|B-noun.building|B-noun.cognition|B-noun.location|B-noun.time	
+67-9	der	der	US:----:--:----	O	
+67-10	sælger	sælge	VF:----:sa:----	B-verb.possession|B-verb.act	
+67-11	de	den	PM:p-u#:--:----	O	
+67-12	BEDSTE	god	AC:§du§:--:s---	B-adj.all	
+67-13	kolde	kold	AC:sdu#:--:p---	B-adj.social|B-adj.mental|B-adj.phys	
+67-14	sandwichbrød	sandwichbrød	NC:siun:--:----	B-noun.food	
+67-15	.	.	ZP	O	
+
+#id=68
+#text=Da jeg skrev det var det sådan på siden at der var flere end bare de 2, og der kunne jeg bedst lide billede nr. 2 ( Det med brushene ) som så åbenbart er øverst nu..
+68-1	Da	da	CS:----:--:----	O	
+68-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+68-3	skrev	skrive	VF:----:ta:----	B-verb.creation|B-verb.communication	
+68-4	det	det	PP:s-un:--:-3n-	O	
+68-5	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+68-6	det	det	PP:s-un:--:-3n-	O	
+68-7	sådan	sådan	D-:----:--:u---	O	
+68-8	på	på	T-:----:--:----	O	
+68-9	siden	siden	D-:----:--:u---	O	
+68-10	at	at	CS:----:--:----	O	
+68-11	der	der	US:----:--:----	O	
+68-12	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+68-13	flere	mange	AC:##u#:--:c---	O	
+68-14	end	end	CS:----:--:----	O	
+68-15	bare	bare	D-:----:--:u---	O	
+68-16	de	den	PM:p-u#:--:----	O	
+68-17	2	2	LC:--u-:--:----	O	
+68-18	,	,	ZD	O	
+68-19	og	og	CC:----:--:----	O	
+68-20	der	der	US:----:--:----	O	
+68-21	kunne	kunne	VF:----:ta:----	B-verb.social	
+68-22	jeg	jeg	PP:s-nc:--:-1n-	O	
+68-23	bedst	god	AD:----:--:s---	B-adj.all	
+68-24	lide	lide	VI:----:-a:----	B-verb.phenomenon|B-verb.emotion	
+68-25	billede	billede	NC:siun:--:----	B-noun.object|B-noun.artifact|B-noun.cognition	
+68-26	nr	nr	XS:----:--:----	O	
+68-27	.	.	ZP	O	
+68-28	2	2	LC:--u-:--:----	O	
+68-29	(	(	ZD	O	
+68-30	Det	det	PP:s-un:--:-3n-	O	
+68-31	med	med	T-:----:--:----	O	
+68-32	brushene	brush	NC:pdu#:--:----	O	
+68-33	)	)	ZD	O	
+68-34	som	som	US:----:--:----	O	
+68-35	så	så	D-:----:--:u---	O	
+68-36	åbenbart	åbenbart	D-:----:--:u---	O	
+68-37	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+68-38	øverst	øvre	--	B-adj.all	
+68-39	nu	nu	D-:----:--:u---	O	
+68-40	.	.	ZP	O	
+68-41	.	.	ZP	O	
+
+#id=69
+#text=Grøn, våd, lettere svampet, fattig, høj... etc. (der manglede noget i dette forum!)
+69-1	Grøn	grøn	AC:siuc:--:p---	B-adj.all	
+69-2	,	,	ZD	O	
+69-3	våd	våd	AC:siuc:--:p---	B-adj.phys|B-adj.all	
+69-4	,	,	ZD	O	
+69-5	lettere	let	AD:----:--:c---	B-adj.phys|B-adj.all	
+69-6	svampet	svampet	AC:siu§:--:p---	O	
+69-7	,	,	ZD	O	
+69-8	fattig	fattig	AC:siuc:--:p---	B-adj.phys|B-adj.all	
+69-9	,	,	ZD	O	
+69-10	høj	høj	AC:siuc:--:p---	B-adj.phys|B-adj.all	
+69-11	.	.	ZP	O	
+69-12	.	.	ZP	O	
+69-13	.	.	ZP	O	
+69-14	etc	etc	D-:----:--:u---	O	
+69-15	.	.	ZP	O	
+69-16	(	(	ZD	O	
+69-17	der	der	US:----:--:----	O	
+69-18	manglede	mangle	VF:----:ta:----	B-verb.stative|B-verb.act|B-verb.motion	
+69-19	noget	nogen	PI:s-un:--:----	O	
+69-20	i	i	T-:----:--:----	O	
+69-21	dette	denne	PM:s-un:--:----	O	
+69-22	forum	forum	NC:siun:--:----	B-noun.cognition|B-noun.person	
+69-23	!	!	ZP	O	
+69-24	)	)	ZD	O	
+
+#id=70
+#text=Jeg vil ikke fremstå  som en følelsesbombe der er ved at springe, og fortælle om hvor stor en forskel på hvad betyder hvad?
+70-1	Jeg	Jeg	XY:----:--:----	O	
+70-2	vil	vil	XY:----:--:----	O	
+70-3	ikke	ikke	XY:----:--:----	O	
+70-4	fremstå	fremstå	XY:----:--:----	O	
+70-5	som	som	XY:----:--:----	O	
+70-6	en	en	XY:----:--:----	O	
+70-7	følelsesbombe	følelsesbombe	XY:----:--:----	O	
+70-8	der	der	XY:----:--:----	O	
+70-9	er	er	XY:----:--:----	O	
+70-10	ved	ved	XY:----:--:----	O	
+70-11	at	at	XY:----:--:----	O	
+70-12	springe	springe	XY:----:--:----	O	
+70-13	,	,	XY:----:--:----	O	
+70-14	og	og	XY:----:--:----	O	
+70-15	fortælle	fortælle	XY:----:--:----	O	
+70-16	om	om	XY:----:--:----	O	
+70-17	hvor	hvor	XY:----:--:----	O	
+70-18	stor	stor	XY:----:--:----	O	
+70-19	en	en	XY:----:--:----	O	
+70-20	forskel	forskel	XY:----:--:----	O	
+70-21	på	på	--:--:----	O	
+70-22	hvad	hvad	XY:----:--:----	O	
+70-23	betyder	betyder	XY:----:--:----	O	
+70-24	hvad	hvad	XY:----:--:----	O	
+70-25	?	?	XY:----:--:----	O	
+
+#id=71
+#text=Min familie når jeg har været til fest i byen: "Nå nåh, du er nok rigtig med tømmermænd  hva'?" (Igen, nej, får aldrig tømmermænd) "Nåh nåh, fik du kysset med en masse fyre" (nøh) "Er du sikker på du kom hjem inat?
+71-1	Min	Min	XY:----:--:----	O	
+71-2	familie	familie	XY:----:--:----	O	
+71-3	når	når	XY:----:--:----	O	
+71-4	jeg	jeg	XY:----:--:----	O	
+71-5	har	har	XY:----:--:----	O	
+71-6	været	været	XY:----:--:----	O	
+71-7	til	til	XY:----:--:----	O	
+71-8	fest	fest	XY:----:--:----	O	
+71-9	i	i	XY:----:--:----	O	
+71-10	byen	byen	XY:----:--:----	O	
+71-11	:	:	XY:----:--:----	O	
+71-12	"	"	XY:----:--:----	O	
+71-13	Nå	Nå	XY:----:--:----	O	
+71-14	nåh	nåh	XY:----:--:----	O	
+71-15	,	,	XY:----:--:----	O	
+71-16	du	du	XY:----:--:----	O	
+71-17	er	er	XY:----:--:----	O	
+71-18	nok	nok	XY:----:--:----	O	
+71-19	rigtig	rigtig	XY:----:--:----	O	
+71-20	med	med	XY:----:--:----	O	
+71-21	tømmermænd	tømmermænd	XY:----:--:----	O	
+71-22	hva	hva	XY:----:--:----	O	
+71-23	'	'	XY:----:--:----	O	
+71-24	?	?	XY:----:--:----	O	
+71-25	"	"	XY:----:--:----	O	
+71-26	(	(	XY:----:--:----	O	
+71-27	Igen	Igen	XY:----:--:----	O	
+71-28	,	,	XY:----:--:----	O	
+71-29	nej	nej	XY:----:--:----	O	
+71-30	,	,	XY:----:--:----	O	
+71-31	får	får	XY:----:--:----	O	
+71-32	aldrig	aldrig	XY:----:--:----	O	
+71-33	tømmermænd	tømmermænd	XY:----:--:----	O	
+71-34	)	)	XY:----:--:----	O	
+71-35	"	"	XY:----:--:----	O	
+71-36	Nåh	Nåh	XY:----:--:----	O	
+71-37	nåh	nåh	XY:----:--:----	O	
+71-38	,	,	XY:----:--:----	O	
+71-39	fik	fik	XY:----:--:----	O	
+71-40	du	du	XY:----:--:----	O	
+71-41	kysset	kysset	XY:----:--:----	O	
+71-42	med	med	XY:----:--:----	O	
+71-43	en	en	XY:----:--:----	O	
+71-44	masse	masse	XY:----:--:----	O	
+71-45	fyre	fyre	XY:----:--:----	O	
+71-46	"	"	XY:----:--:----	O	
+71-47	(	(	XY:----:--:----	O	
+71-48	nøh	nøh	XY:----:--:----	O	
+71-49	)	)	XY:----:--:----	O	
+71-50	"	"	XY:----:--:----	O	
+71-51	Er	Er	XY:----:--:----	O	
+71-52	du	du	XY:----:--:----	O	
+71-53	sikker	sikker	XY:----:--:----	O	
+71-54	på	på	XY:----:--:----	O	
+71-55	du	du	XY:----:--:----	O	
+71-56	kom	kom	XY:----:--:----	O	
+71-57	hjem	hjem	XY:----:--:----	O	
+71-58	inat	inat	XY:----:--:----	O	
+71-59	?	?	XY:----:--:----	O	
+
+#id=72
+#text=okey..nu har jeg ikke en skid forstand på mozilla og alt det der.. men hvis man har det.. skal man så ikke "slette" internet explorer??!
+72-1	okey	okey	XY:----:--:----	O	
+72-2	.	.	XY:----:--:----	O	
+72-3	.	.	XY:----:--:----	O	
+72-4	nu	nu	XY:----:--:----	O	
+72-5	har	har	XY:----:--:----	O	
+72-6	jeg	jeg	XY:----:--:----	O	
+72-7	ikke	ikke	XY:----:--:----	O	
+72-8	en	en	XY:----:--:----	O	
+72-9	skid	skid	XY:----:--:----	O	
+72-10	forstand	forstand	XY:----:--:----	O	
+72-11	på	på	XY:----:--:----	O	
+72-12	mozilla	mozilla	XY:----:--:----	O	
+72-13	og	og	XY:----:--:----	O	
+72-14	alt	alt	XY:----:--:----	O	
+72-15	det	det	XY:----:--:----	O	
+72-16	der	der	XY:----:--:----	O	
+72-17	.	.	XY:----:--:----	O	
+72-18	.	.	XY:----:--:----	O	
+72-19	men	men	XY:----:--:----	O	
+72-20	hvis	hvis	XY:----:--:----	O	
+72-21	man	man	XY:----:--:----	O	
+72-22	har	har	XY:----:--:----	O	
+72-23	det	det	XY:----:--:----	O	
+72-24	.	.	XY:----:--:----	O	
+72-25	.	.	XY:----:--:----	O	
+72-26	skal	skal	XY:----:--:----	O	
+72-27	man	man	XY:----:--:----	O	
+72-28	så	så	XY:----:--:----	O	
+72-29	ikke	ikke	XY:----:--:----	O	
+72-30	"	"	XY:----:--:----	O	
+72-31	slette	slette	XY:----:--:----	O	
+72-32	"	"	XY:----:--:----	O	
+72-33	internet	internet	XY:----:--:----	O	
+72-34	explorer	explorer	XY:----:--:----	O	
+72-35	?	?	XY:----:--:----	O	
+72-36	?	?	XY:----:--:----	O	
+72-37	!	!	XY:----:--:----	O	
+
+#id=73
+#text=Men hvis ikke, så synes jeg egentligt det er meget fedt..
+73-1	Men	men	CC:----:--:----	O	
+73-2	hvis	hvis	CS:----:--:----	O	
+73-3	ikke	ikke	D-:----:--:u---	O	
+73-4	,	,	ZD	O	
+73-5	så	så	D-:----:--:u---	O	
+73-6	synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+73-7	jeg	jeg	PP:s-nc:--:-1n-	O	
+73-8	egentligt	egentlig	AD:----:--:p---	O	
+73-9	det	det	PP:s-un:--:-3n-	O	
+73-10	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+73-11	meget	megen	AD:----:--:p---	O	
+73-12	fedt	fed	AC:siun:--:p---	B-adj.phys	
+73-13	.	.	ZP	O	
+73-14	.	.	ZP	O	
+
+#id=74
+#text=Har dog ændret mig og jeg nægter at gå så lavt mere!
+74-1	Har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+74-2	dog	dog	D-:----:--:u---	O	
+74-3	ændret	ændre	VT:siu#:t-:----	B-verb.change|B-verb.act	
+74-4	mig	jeg	PP:s-uc:--:-1#-	O	
+74-5	og	og	CC:----:--:----	O	
+74-6	jeg	jeg	PP:s-nc:--:-1n-	O	
+74-7	nægter	nægte	VF:----:sa:----	B-verb.act|B-verb.communication	
+74-8	at	at	UI:----:--:----	O	
+74-9	gå	gå	VI:----:-a:----	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+74-10	så	så	D-:----:--:u---	O	
+74-11	lavt	lav	AD:----:--:p---	B-adj.phys|B-adj.mental	
+74-12	mere	megen	AC:##u#:--:c---	O	
+74-13	!	!	ZP	O	
+
+#id=75
+#text=Husker det ikke...
+75-1	Husker	huske	VF:----:sa:----	B-verb.cognition	
+75-2	det	det	PP:s-un:--:-3n-	O	
+75-3	ikke	ikke	D-:----:--:u---	O	
+75-4	.	.	ZP	O	
+75-5	.	.	ZP	O	
+75-6	.	.	ZP	O	
+
+#id=76
+#text=Erjeg virkelig den eneste der elsker det?
+76-1	Er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+76-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+76-3	virkelig	virkelig	D-:----:--:u---	O	
+76-4	den	den	PM:s-uc:--:----	O	
+76-5	eneste	eneste	AC:§§u§:--:p---	O	
+76-6	der	der	----	O	
+76-7	elsker	elske	VF:----:sa:----	B-verb.social|B-verb.emotion|B-verb.cognition	
+76-8	det	det	PP:s-un:--:-3n-	O	
+76-9	?	?	ZQ	O	
+
+#id=77
+#text=Raceuroligheder i f.eks.
+77-1	Raceuroligheder	raceuroligheder	NC:piu#:--:----	O	
+77-2	i	i	T-:----:--:----	O	
+77-3	f	for	T-:----:--:----	O	
+77-4	.	.	ZP	O	
+77-5	eks	eksempel	NC:siun:--:----	B-noun.person	
+77-6	.	.	ZP	O	
+
+#id=78
+#text=Der findes helt sikkert mange talentfulde sangerinder.
+78-1	Der	der	US:----:--:----	O	
+78-2	findes	finde	VF:----:sp:----	B-verb.phenomenon|B-verb.stative|B-verb.cognition|B-verb.act|B-verb.motion	
+78-3	helt	hel	AD:----:--:p---	B-adj.phys	
+78-4	sikkert	sikker	AD:----:--:p---	B-adj.mental|B-adj.all	
+78-5	mange	mangen	AC:p#u#:--:p---	O	
+78-6	talentfulde	talentfuld	AC:p#u#:--:p---	B-adj.mental	
+78-7	sangerinder	sangerinde	NC:piu#:--:----	B-noun.person	
+78-8	.	.	ZP	O	
+
+#id=79
+#text=SåHelene, her er dit Michael Jackson emne...!
+79-1	Så	så	CS:----:--:----	O	
+79-2	Helene	Helene	NP:siu#:--:----	O	
+79-3	,	,	ZD	O	
+79-4	her	her	D-:----:--:u---	O	
+79-5	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+79-6	dit	dit	XY:----:--:----	O	
+79-7	Michael	Michael	NP:siu#:--:----	O	
+79-8	Jackson	Jackson	NP:siu#:--:----	O	
+79-9	emne	emne	NC:siun:--:----	B-noun.person|B-noun.TOP	
+79-10	.	.	ZP	O	
+79-11	.	.	ZP	O	
+79-12	.	.	ZP	O	
+79-13	!	!	ZP	O	
+
+#id=80
+#text=Uha,hvem fører nu, hva' Helene? :twisted:
+80-1	Uha	uha	I-:----:--:----	O	
+80-2	,	,	ZD	O	
+80-3	hvem	hvem	PR:#-uc:--:----	O	
+80-4	fører	føre	VF:----:sa:----	B-verb.motion|B-verb.creation|B-verb.act|B-verb.phenomenon	
+80-5	nu	nu	D-:----:--:u---	O	
+80-6	,	,	ZD	O	
+80-7	hva	hvad	PR:s-u#:--:----	O	
+80-8	'	'	ZA	O	
+80-9	Helene	Helene	NP:siu#:--:----	O	
+80-10	?	?	ZQ	O	
+80-11	:	:	ZP	O	
+80-12	twisted	twisted	NC:siun:--:----	O	
+80-13	:	:	ZP	O	
+
+#id=81
+#text=erdet ikke ret simpelt ? dobbelt så mange piger = dobbelt så mget af det gode ? sådan har jeg i hvert fald altid betragtet det :)
+81-1	er	er	XY:----:--:----	O	
+81-2	det	det	XY:----:--:----	O	
+81-3	ikke	ikke	XY:----:--:----	O	
+81-4	ret	ret	XY:----:--:----	O	
+81-5	simpelt	simpelt	XY:----:--:----	O	
+81-6	?	?	XY:----:--:----	O	
+81-7	dobbelt	dobbelt	XY:----:--:----	O	
+81-8	så	så	XY:----:--:----	O	
+81-9	mange	mange	XY:----:--:----	O	
+81-10	piger	piger	XY:----:--:----	O	
+81-11	=	=	XY:----:--:----	O	
+81-12	dobbelt	dobbelt	XY:----:--:----	O	
+81-13	så	så	XY:----:--:----	O	
+81-14	mget	mget	XY:----:--:----	O	
+81-15	af	af	XY:----:--:----	O	
+81-16	det	det	XY:----:--:----	O	
+81-17	gode	gode	XY:----:--:----	O	
+81-18	?	?	XY:----:--:----	O	
+81-19	sådan	sådan	XY:----:--:----	O	
+81-20	har	har	XY:----:--:----	O	
+81-21	jeg	jeg	XY:----:--:----	O	
+81-22	i	i	XY:----:--:----	O	
+81-23	hvert	hvert	XY:----:--:----	O	
+81-24	fald	fald	XY:----:--:----	O	
+81-25	altid	altid	XY:----:--:----	O	
+81-26	betragtet	betragtet	XY:----:--:----	O	
+81-27	det	det	XY:----:--:----	O	
+81-28	:	:	XY:----:--:----	O	
+81-29	)	)	XY:----:--:----	O	
+
+#id=82
+#text=Den har ventet alt for længe :cry:
+82-1	Den	den	PP:s-uc:--:-3n-	O	
+82-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+82-3	ventet	vente	VT:siu#:t-:----	B-verb.stative	
+82-4	alt	al	PI:s-un:--:----	O	
+82-5	for	for	T-:----:--:----	O	
+82-6	længe	længe	D-:----:--:u---	O	
+82-7	:	:	ZP	O	
+82-8	cry	cry	NC:siun:--:----	O	
+82-9	:	:	ZP	O	
+
+#id=83
+#text=Mon ikke, man straks vågner når man hører ordet "million"? ;)
+83-1	Mon	mon	D-:----:--:u---	O	
+83-2	ikke	ikke	D-:----:--:u---	O	
+83-3	,	,	ZD	O	
+83-4	man	man	PI:#-uc:--:----	O	
+83-5	straks	straks	D-:----:--:u---	O	
+83-6	vågner	vågne	VF:----:sa:----	B-verb.change|B-verb.phenomenon	
+83-7	når	når	CS:----:--:----	O	
+83-8	man	man	PI:#-uc:--:----	O	
+83-9	hører	høre	VF:----:sa:----	B-verb.phenomenon	
+83-10	ordet	ord	NC:sdun:--:----	B-noun.act|B-noun.communication	
+83-11	"	"	ZI	O	
+83-12	million	million	NC:siuc:--:----	B-noun.quantity	
+83-13	"	"	XY:----:--:----	O	
+83-14	?	?	ZQ	O	
+83-15	;	;	ZP	O	
+83-16	)	)	ZD	O	
+
+#id=84
+#text=min avatars "heropsykodreamer" er titlen på min yndlingssang
+84-1	min	min	XY:----:--:----	O	
+84-2	avatars	avatars	XY:----:--:----	O	
+84-3	"	"	XY:----:--:----	O	
+84-4	heropsykodreamer	heropsykodreamer	XY:----:--:----	O	
+84-5	"	"	XY:----:--:----	O	
+84-6	er	er	XY:----:--:----	O	
+84-7	titlen	titlen	XY:----:--:----	O	
+84-8	på	på	XY:----:--:----	O	
+84-9	min	min	XY:----:--:----	O	
+84-10	yndlingssang	yndlingssang	XY:----:--:----	O	
+
+#id=85
+#text=Nåokay, jeg vidste sgu ikke at de havde lavet flere hehe :)
+85-1	Nå	nå	I-:----:--:----	O	
+85-2	okay	okay	AC:§§u§:--:p---	O	
+85-3	,	,	ZD	O	
+85-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+85-5	vidste	vide	VF:----:ta:----	B-verb.cognition|B-verb.emotion	
+85-6	sgu	sgu	D-:----:--:u---	O	
+85-7	ikke	ikke	D-:----:--:u---	O	
+85-8	at	at	CS:----:--:----	O	
+85-9	de	de	PP:p-n#:--:-3n-	O	
+85-10	havde	have	VF:----:ta:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+85-11	lavet	lave	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.creation|B-verb.phenomenon	
+85-12	flere	mange	AC:##u#:--:c---	O	
+85-13	hehe	hehe	XY:----:--:----	O	
+85-14	:	:	ZP	O	
+85-15	)	)	ZD	O	
+
+#id=86
+#text=Jam'nvelkommen til, da. :)
+86-1	Jam	Jam	XY:----:--:----	O	
+86-2	'	'	ZA	O	
+86-3	n	N	NP:siu#:--:----	B-noun.communication	
+86-4	velkommen	velkommen	AC:siuc:--:p---	O	
+86-5	til	til	T-:----:--:----	O	
+86-6	,	,	ZD	O	
+86-7	da	da	D-:----:--:u---	O	
+86-8	.	.	ZP	O	
+86-9	:	:	ZP	O	
+86-10	)	)	ZD	O	
+
+#id=87
+#text=Det minder mig om en veninde  jeg har, som har en kæreste der hedder Casper :D VELKOMMEN til dig Casper!
+87-1	Det	det	PP:s-un:--:-3n-	O	
+87-2	minder	minde	VF:----:sa:----	B-verb.cognition|B-verb.communication	
+87-3	mig	jeg	PP:s-uc:--:-1#-	O	
+87-4	om	om	T-:----:--:----	O	
+87-5	en	en	PI:s-uc:--:----	O	
+87-6	veninde	veninde	NC:siuc:--:----	B-noun.person	
+87-7	jeg	jeg	NC:siun:--:----	O	
+87-8	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+87-9	,	,	ZD	O	
+87-10	som	som	US:----:--:----	O	
+87-11	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+87-12	en	en	PI:s-uc:--:----	O	
+87-13	kæreste	kæreste	NC:siuc:--:----	B-noun.person	
+87-14	der	der	US:----:--:----	O	
+87-15	hedder	hedde	VF:----:sa:----	O	
+87-16	Casper	Casper	NP:siu#:--:----	O	
+87-17	:	:	ZP	O	
+87-18	D	d	NP:siu#:--:----	B-noun.communication|B-noun.phenomenon	
+87-19	VELKOMMEN	velkommen	AC:siuc:--:p---	O	
+87-20	til	til	T-:----:--:----	O	
+87-21	dig	dig	XY:----:--:----	O	
+87-22	Casper	Casper	NP:siu#:--:----	O	
+87-23	!	!	ZP	O	
+
+#id=88
+#text=Det er en Deodorant med en sten i, og så putter man vand på den, og så skulle den altså virke..
+88-1	Det	det	PP:s-un:--:-3n-	O	
+88-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+88-3	en	en	PI:s-uc:--:----	O	
+88-4	Deodorant	deodorant	NC:siuc:--:----	B-noun.container|B-noun.artifact	
+88-5	med	med	T-:----:--:----	O	
+88-6	en	en	PI:s-uc:--:----	O	
+88-7	sten	sten	NC:siuc:--:----	B-noun.object|B-noun.artifact|B-noun.plant|B-noun.body	
+88-8	i	i	T-:----:--:----	O	
+88-9	,	,	ZD	O	
+88-10	og	og	CC:----:--:----	O	
+88-11	så	så	D-:----:--:u---	O	
+88-12	putter	putte	VF:----:sa:----	B-verb.motion|B-verb.act	
+88-13	man	man	PI:#-uc:--:----	O	
+88-14	vand	vand	NC:siun:--:----	B-noun.location|B-noun.substance|B-noun.container|B-noun.artifact	
+88-15	på	på	T-:----:--:----	O	
+88-16	den	den	PP:s-uc:--:-3n-	O	
+88-17	,	,	ZD	O	
+88-18	og	og	CC:----:--:----	O	
+88-19	så	så	D-:----:--:u---	O	
+88-20	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+88-21	den	den	PP:s-uc:--:-3n-	O	
+88-22	altså	altså	D-:----:--:u---	O	
+88-23	virke	virke	NC:siun:--:----	B-noun.event	
+88-24	.	.	ZP	O	
+88-25	.	.	ZP	O	
+
+#id=89
+#text=Ogjeg vil gerne vise min røv. (Kom så, alle sammen - fortsæt og vi ændrer domænet til naughtttycamwhorEsdk.org)
+89-1	Og	og	CC:----:--:----	O	
+89-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+89-3	vil	ville	VF:----:sa:----	B-verb.cognition	
+89-4	gerne	gerne	D-:----:--:u---	O	
+89-5	vise	vise	VI:----:-a:----	B-verb.social|B-verb.communication	
+89-6	min	min	PO:s--c:--:-1ns	O	
+89-7	røv	røv	NC:siuc:--:----	B-noun.body|B-noun.communication	
+89-8	.	.	ZP	O	
+89-9	(	(	ZD	O	
+89-10	Kom	komme	VF:----:ta:----	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+89-11	så	så	D-:----:--:u---	O	
+89-12	,	,	ZD	O	
+89-13	alle	al	PI:p-u#:--:----	O	
+89-14	sammen	sammen	D-:----:--:u---	O	
+89-15	-	-	NC:piu#:--:----	O	
+89-16	fortsæt	fortsæt	NC:piu#:--:----	O	
+89-17	og	og	CC:----:--:----	O	
+89-18	vi	vi	PP:p-nc:--:-1n-	O	
+89-19	ændrer	ændre	VF:----:sa:----	B-verb.change|B-verb.act	
+89-20	domænet	domæne	NC:sdun:--:----	B-noun.location	
+89-21	til	til	T-:----:--:----	O	
+89-22	naughtttycamwhorEsdk	naughtttycamwhorEsdk	NP:siu#:--:----	O	
+89-23	.	.	ZP	O	
+89-24	org	org	XS:----:--:----	O	
+89-25	)	)	ZD	O	
+
+#id=90
+#text= Hvis jeg vidste, at det hele bare er forudbestemt, så ville jeg ikke føle at det er mit liv, jeg lever.
+90-1	Hvis	hvis	CS:----:--:----	O	
+90-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+90-3	vidste	vide	VF:----:ta:----	B-verb.cognition|B-verb.emotion	
+90-4	,	,	ZD	O	
+90-5	at	at	CS:----:--:----	O	
+90-6	det	den	PM:s-un:--:----	O	
+90-7	hele	hel	AC:sdu#:--:p---	B-adj.phys	
+90-8	bare	bare	D-:----:--:u---	O	
+90-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+90-10	forudbestemt	forudbestemme	VT:siu#:t-:----	O	
+90-11	,	,	ZD	O	
+90-12	så	så	D-:----:--:u---	O	
+90-13	ville	ville	VF:----:ta:----	B-verb.cognition	
+90-14	jeg	jeg	PP:s-nc:--:-1n-	O	
+90-15	ikke	ikke	D-:----:--:u---	O	
+90-16	føle	føle	VI:----:-a:----	B-verb.motion|B-verb.emotion|B-verb.creation|B-verb.phenomenon	
+90-17	at	at	CS:----:--:----	O	
+90-18	det	det	PP:s-un:--:-3n-	O	
+90-19	er	er	XY:----:--:----	O	
+90-20	mit	mit	XF:----:--:----	O	
+90-21	liv	liv	NC:siun:--:----	B-noun.object|B-noun.body|B-noun.person|B-noun.attribute|B-noun.phenomenon|B-noun.state|B-noun.time|B-noun.feeling|B-noun.event	
+90-22	,	,	ZD	O	
+90-23	jeg	jeg	PP:s-nc:--:-1n-	O	
+90-24	lever	leve	VF:----:sa:----	B-verb.possession|B-verb.change|B-verb.act|B-verb.motion|B-verb.phenomenon	
+90-25	.	.	ZP	O	
+
+#id=91
+#text=Hvad kan man være? :?:
+91-1	Hvad	Hvad	XY:----:--:----	O	
+91-2	kan	kunne	VF:----:sa:----	B-verb.social	
+91-3	man	n	PI:#-uc:--:----	O	
+91-4	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+91-5	?	?	ZQ	O	
+91-6	:	:	ZP	O	
+91-7	?	?	ZQ	O	
+91-8	:	:	ZP	O	
+
+#id=92
+#text=Pepsi Max er bare ikke sagen? :shock:
+92-1	Pepsi	Pepsi	NP:siu#:--:----	O	
+92-2	Max	Max	NP:siu#:--:----	O	
+92-3	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+92-4	bare	bare	D-:----:--:u---	O	
+92-5	ikke	ikke	D-:----:--:u---	O	
+92-6	sagen	sag	NC:sduc:--:----	B-noun.communication|B-noun.act|B-noun.attribute|B-noun.phenomenon|B-noun.cognition|B-noun.person|B-noun.institution|B-noun.food	
+92-7	?	?	ZQ	O	
+92-8	:	:	ZP	O	
+92-9	shock	shock	XS:----:--:----	O	
+92-10	:	:	ZP	O	
+
+#id=93
+#text=8
+93-1	8	8	LC:--u-:--:----	O	
+
+#id=94
+#text=Havdeengang en fuldstændig syg lærer.
+94-1	Havde	have	VF:----:ta:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+94-2	engang	engang	D-:----:--:u---	O	
+94-3	en	en	PI:s-uc:--:----	O	
+94-4	fuldstændig	fuldstændig	AC:siuc:--:p---	B-adj.all	
+94-5	syg	syg	AC:siuc:--:p---	B-adj.phys|B-adj.mental	
+94-6	lærer	lærer	NC:siuc:--:----	B-noun.motive|B-noun.act|B-noun.person|B-noun.cognition	
+94-7	.	.	ZP	O	
+
+#id=95
+#text=Men det virker fandme ikke :/
+95-1	Men	men	CC:----:--:----	O	
+95-2	det	det	PP:s-un:--:-3n-	O	
+95-3	virker	virke	VF:----:sa:----	B-verb.social|B-verb.phenomenon	
+95-4	fandme	fandme	D-:----:--:u---	O	
+95-5	ikke	ikke	D-:----:--:u---	O	
+95-6	:	:	ZP	O	
+95-7	/	/	NC:siuc:--:----	O	
+
+#id=96
+#text=Prøv at sig "Jeppe på bjærget" :) ..
+96-1	Prøv	prøve	VM:----:--:----	B-verb.phenomenon|B-verb.act	
+96-2	at	at	CS:----:--:----	O	
+96-3	sig	sige	VM:----:--:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+96-4	"	"	ZI	O	
+96-5	Jeppe	Jeppe	NP:siu#:--:----	O	
+96-6	på	på	T-:----:--:----	O	
+96-7	bjærget	bjærg	NC:sdun:--:----	O	
+96-8	"	"	ZI	O	
+96-9	:	:	ZP	O	
+96-10	)	)	ZD	O	
+96-11	.	.	ZP	O	
+96-12	.	.	ZP	O	
+
+#id=97
+#text=Hvis man vil opnå den slags status, skal man nok ikke høre Kashmir..
+97-1	Hvis	hvis	CS:----:--:----	O	
+97-2	man	man	PI:#-uc:--:----	O	
+97-3	vil	ville	VF:----:sa:----	B-verb.cognition	
+97-4	opnå	opnå	VI:----:-a:----	B-verb.act	
+97-5	den	den	PM:s-uc:--:----	O	
+97-6	slags	slags	NC:siuc:--:----	B-noun.TOP|B-noun.phenomenon|B-noun.act|B-noun.artifact|B-noun.time|B-noun.food	
+97-7	status	status	NC:siuc:--:----	B-bute|B-noun.cognition	
+97-8	,	,	ZD	O	
+97-9	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+97-10	man	man	PI:#-uc:--:----	O	
+97-11	nok	nok	D-:----:--:u---	O	
+97-12	ikke	ikke	D-:----:--:u---	O	
+97-13	høre	høre	VI:----:-a:----	B-verb.phenomenon	
+97-14	Kashmir	kashmir	NC:siuc:--:----	B-noun.artifact	
+97-15	.	.	ZP	O	
+97-16	.	.	ZP	O	
+
+#id=98
+#text=Jegsynes sgu at Friis og Co. laver accessories i neonfarver.
+98-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+98-2	synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+98-3	sgu	sgu	D-:----:--:u---	O	
+98-4	at	at	CS:----:--:----	O	
+98-5	Friis	Friis	NP:siu#:--:----	O	
+98-6	og	og	CC:----:--:----	O	
+98-7	Co	Co	XY:----:--:----	O	
+98-8	.	.	ZP	O	
+98-9	laver	lave	VF:----:sa:----	B-verb.change|B-verb.creation|B-verb.act|B-verb.phenomenon	
+98-10	accessories	accessories	VI:----:-p:----	O	
+98-11	i	i	T-:----:--:----	O	
+98-12	neonfarver	neonfarve	NC:piu#:--:----	O	
+98-13	.	.	ZP	O	
+
+#id=99
+#text=Deter så supergodt at du tager initiativet lol >:D Nå, men øhm..hm.. jeg bliver ikke så skide tit forelsket, men jeg kan tit se på en fyr hvor jeg tænker "der er noget særligt over ham her" uden at jeg overhovedet har snakket med ham, lol :I og så går jeg og drømmer lidt over ham, og så er han glemt 2 dage efter.
+99-1	Det	det	PP:s-un:--:-3n-	O	
+99-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+99-3	så	så	D-:----:--:u---	O	
+99-4	supergodt	supergod	AC:siun:--:p---	B-adj.all	
+99-5	at	at	CS:----:--:----	O	
+99-6	du	du	PP:s-nc:--:-2n-	O	
+99-7	tager	tage	VF:----:sa:----	B-verb.motion|B-verb.act|B-verb.creation|B-verb.social|B-verb.cognition|B-verb.change|B-verb.possession	
+99-8	initiativet	initiativ	NC:sdun:--:----	B-noun.act|B-noun.feeling	
+99-9	lol	lol	NC:siuc:--:----	O	
+99-10	>	>	NP:siu#:--:----	O	
+99-11	:	:	ZP	O	
+99-12	D	D	PP:s-un:--:-3n-	O	
+99-13	Nå	nå	VI:----:-a:----	B-verb.motion|B-verb.communication|B-verb.act	
+99-14	,	,	ZD	O	
+99-15	men	men	CC:----:--:----	O	
+99-16	øhm	øhm	I-:----:--:----	O	
+99-17	.	.	ZP	O	
+99-18	.	.	ZP	O	
+99-19	hm	hm	I-:----:--:----	O	
+99-20	.	.	ZP	O	
+99-21	.	.	ZP	O	
+99-22	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-23	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+99-24	ikke	ikke	D-:----:--:u---	O	
+99-25	så	så	D-:----:--:u---	O	
+99-26	skide	skide	AD:----:--:p---	O	
+99-27	tit	tit	D-:----:--:u---	O	
+99-28	forelsket	forelske	VT:siu#:t-:----	O	
+99-29	,	,	ZD	O	
+99-30	men	men	CC:----:--:----	O	
+99-31	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-32	kan	kunne	VF:----:sa:----	B-verb.social	
+99-33	tit	tit	D-:----:--:u---	O	
+99-34	se	se	VI:----:-a:----	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.change|B-verb.social|B-verb.emotion|B-verb.phenomenon	
+99-35	på	på	T-:----:--:----	O	
+99-36	en	en	PI:s-uc:--:----	O	
+99-37	fyr	fyr	NC:siuc:--:----	B-noun.building|B-noun.artifact|B-noun.person|B-noun.plant	
+99-38	hvor	hvor	D-:----:--:u---	O	
+99-39	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-40	tænker	tænke	VF:----:sa:----	B-verb.cognition|B-verb.act	
+99-41	"	"	ZI	O	
+99-42	der	der	US:----:--:----	O	
+99-43	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+99-44	noget	nogen	PI:s-un:--:----	O	
+99-45	særligt	særlig	AC:siun:--:p---	B-adj.all	
+99-46	over	over	T-:----:--:----	O	
+99-47	ham	han	PP:s-uc:--:-3n-	O	
+99-48	her	her	D-:----:--:u---	O	
+99-49	"	"	ZI	O	
+99-50	uden	uden	T-:----:--:----	O	
+99-51	at	at	CS:----:--:----	O	
+99-52	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-53	overhovedet	overhovedet	D-:----:--:u---	O	
+99-54	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+99-55	snakket	snakke	VT:siu#:t-:----	B-verb.communication	
+99-56	med	med	T-:----:--:----	O	
+99-57	ham	han	PP:s-uc:--:-3n-	O	
+99-58	,	,	ZD	O	
+99-59	lol	lol	NC:piu#:--:----	O	
+99-60	:	:	ZP	O	
+99-61	I	i	T-:----:--:----	O	
+99-62	og	og	CC:----:--:----	O	
+99-63	så	så	D-:----:--:u---	O	
+99-64	går	gå	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+99-65	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-66	og	og	CC:----:--:----	O	
+99-67	drømmer	drømme	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+99-68	lidt	lidt	AD:----:--:p---	O	
+99-69	over	over	T-:----:--:----	O	
+99-70	ham	han	PP:s-uc:--:-3n-	O	
+99-71	,	,	ZD	O	
+99-72	og	og	CC:----:--:----	O	
+99-73	så	så	D-:----:--:u---	O	
+99-74	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+99-75	han	han	PP:s-nc:--:-3n-	O	
+99-76	glemt	glemt	VT:siu#:t-:----	B-verb.cognition|B-verb.emotion	
+99-77	2	2	LC:--u-:--:----	O	
+99-78	dage	dag	NC:piu#:--:----	B-noun.time	
+99-79	efter	efter	T-:----:--:----	O	
+99-80	.	.	ZP	O	
+
+#id=100
+#text=Men ja, generelt så har specielt én af mine onkler altid en finurlig indskydelse.. skønt.
+100-1	Men	men	CC:----:--:----	O	
+100-2	ja	ja	I-:----:--:----	O	
+100-3	,	,	ZD	O	
+100-4	generelt	generel	AD:----:--:p---	B-adj.all	
+100-5	så	så	D-:----:--:u---	O	
+100-6	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+100-7	specielt	speciel	AD:----:--:p---	B-adj.all	
+100-8	én	en	PI:s-uc:--:----	O	
+100-9	af	af	T-:----:--:----	O	
+100-10	mine	min	PO:p--#:--:-1ns	O	
+100-11	onkler	onkel	NC:piu#:--:----	B-noun.person	
+100-12	altid	altid	D-:----:--:u---	O	
+100-13	en	en	PI:s-uc:--:----	O	
+100-14	finurlig	finurlig	AC:siuc:--:p---	O	
+100-15	indskydelse	indskydelse	NC:siuc:--:----	B-noun.feeling	
+100-16	.	.	ZP	O	
+100-17	.	.	ZP	O	
+100-18	skønt	skønt	CS:----:--:----	O	
+100-19	.	.	ZP	O	
+

@@ -1,0 +1,253 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ODENSE: Det gik helt grassat for OB i det fynske lokalopgør .
+1-1	ODENSE	O	
+1-2	:	O	
+1-3	Det	O	
+1-4	gik	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+1-5	helt	B-adj.phys	
+1-6	grassat	O	
+1-7	for	O	
+1-8	OB	O	
+1-9	i	O	
+1-10	det	O	
+1-11	fynske	O	
+1-12	lokalopgør	B-noun.act	
+1-13	.	O	
+
+#id=2
+#text=Landsholdsspilleren, Lars Elstrup , og Jens Madsen blev udvist .
+2-1	Landsholdsspilleren	B-noun.person	
+2-2	,	O	
+2-3	Lars	O	
+2-4	Elstrup	O	
+2-5	,	O	
+2-6	og	O	
+2-7	Jens	B-noun.person	
+2-8	Madsen	O	
+2-9	blev	B-verb.TOP|B-verb.act|B-verb.stative	
+2-10	udvist	B-verb.act|B-verb.communication	
+2-11	.	O	
+
+#id=3
+#text=Demest rabiate tilhængere kunne heller ikke styre sig .
+3-1	De	O	
+3-2	mest	O	
+3-3	rabiate	O	
+3-4	tilhængere	B-noun.person	
+3-5	kunne	B-verb.social	
+3-6	heller	O	
+3-7	ikke	O	
+3-8	styre	B-verb.motion|B-verb.communication|B-verb.act	
+3-9	sig	O	
+3-10	.	O	
+
+#id=4
+#text=Dommeren, Villy Nielsen , måtte have beskyttelse af kontrollører for at slippe fri af truende OB-fans ved pausen og efter kampen .
+4-1	Dommeren	B-noun.person	
+4-2	,	O	
+4-3	Villy	O	
+4-4	Nielsen	O	
+4-5	,	O	
+4-6	måtte	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+4-7	have	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+4-8	beskyttelse	B-noun.act|B-noun.artifact	
+4-9	af	O	
+4-10	kontrollører	B-noun.person	
+4-11	for	O	
+4-12	at	O	
+4-13	slippe	B-verb.motion|B-verb.act|B-verb.possession|B-verb.phenomenon	
+4-14	fri	B-adj.all	
+4-15	af	O	
+4-16	truende	B-verb.communication	
+4-17	OB-fans	O	
+4-18	ved	O	
+4-19	pausen	B-noun.time	
+4-20	og	O	
+4-21	efter	O	
+4-22	kampen	B-noun.act|B-noun.motive	
+4-23	.	O	
+
+#id=5
+#text="Sorte svin , sorte svin , " skreg omkring 30 fanatikere , mens kontrollørerne dannede kæde , så ingen slap igennem .
+5-1	"	O	
+5-2	Sorte	B-adj.phys|B-adj.all	
+5-3	svin	B-noun.animal|B-noun.person	
+5-4	,	O	
+5-5	sorte	B-adj.phys|B-adj.all	
+5-6	svin	B-noun.animal|B-noun.person	
+5-7	,	O	
+5-8	"	O	
+5-9	skreg	B-verb.phenomenon|B-verb.communication|B-verb.perception	
+5-10	omkring	O	
+5-11	30	O	
+5-12	fanatikere	B-noun.person	
+5-13	,	O	
+5-14	mens	O	
+5-15	kontrollørerne	B-noun.person	
+5-16	dannede	B-verb.phenomenon	
+5-17	kæde	B-noun.institution|B-noun.person|B-noun.group|B-noun.artifact	
+5-18	,	O	
+5-19	så	O	
+5-20	ingen	O	
+5-21	slap	B-verb.motion|B-verb.possession|B-verb.act|B-verb.phenomenon	
+5-22	igennem	O	
+5-23	.	O	
+
+#id=6
+#text=OBhavde vundet rub og stub , syv sejre i træk , men i_går styrtede det hele sammen .
+6-1	OB	O	
+6-2	havde	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+6-3	vundet	B-verb.change|B-verb.act|B-verb.phenomenon	
+6-4	rub	O	
+6-5	og	O	
+6-6	stub	B-noun.body|B-noun.plant|B-noun.location	
+6-7	,	O	
+6-8	syv	O	
+6-9	sejre	B-noun.act|B-noun.cognition	
+6-10	i	O	
+6-11	træk	B-noun.act|B-noun.phenomenon|B-noun.artifact|B-noun.attribute	
+6-12	,	O	
+6-13	men	O	
+6-14	i_går	O	
+6-15	styrtede	B-verb.motion	
+6-16	det	O	
+6-17	hele	B-adj.phys	
+6-18	sammen	O	
+6-19	.	O	
+
+#id=7
+#text="De striv'de " fik rø'e tæsk og rø'e kort .
+7-1	"	O	
+7-2	De	O	
+7-3	striv'de	O	
+7-4	"	O	
+7-5	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+7-6	rø'e	O	
+7-7	tæsk	B-noun.act|B-noun.TOP	
+7-8	og	O	
+7-9	rø'e	O	
+7-10	kort	B-noun.communication|B-noun.artifact	
+7-11	.	O	
+
+#id=8
+#text=Engrusom aften for OB .
+8-1	En	O	
+8-2	grusom	B-adj.phys|B-adj.all	
+8-3	aften	B-noun.time	
+8-4	for	O	
+8-5	OB	O	
+8-6	.	O	
+
+#id=9
+#text=JensMadsens udvisning i det 43. minut var diskutabel .
+9-1	Jens	B-noun.person	
+9-2	Madsens	O	
+9-3	udvisning	O	
+9-4	i	O	
+9-5	det	O	
+9-6	43.	O	
+9-7	minut	B-noun.time	
+9-8	var	B-verb.TOP|B-verb.social|B-verb.stative	
+9-9	diskutabel	O	
+9-10	.	O	
+
+#id=10
+#text=Detlignede mere et hændeligt sammenstød end en bevidst handling , den såkaldte nødbremse , da OBeren stoppede Lars Larsen lige uden for feltet .
+10-1	Det	O	
+10-2	lignede	O	
+10-3	mere	O	
+10-4	et	O	
+10-5	hændeligt	O	
+10-6	sammenstød	B-noun.act	
+10-7	end	O	
+10-8	en	O	
+10-9	bevidst	B-adj.mental	
+10-10	handling	B-noun.event|B-noun.act	
+10-11	,	O	
+10-12	den	O	
+10-13	såkaldte	O	
+10-14	nødbremse	B-noun.artifact|B-noun.TOP	
+10-15	,	O	
+10-16	da	O	
+10-17	OBeren	O	
+10-18	stoppede	B-verb.change|B-verb.act|B-verb.motion|B-verb.phenomenon|B-verb.social	
+10-19	Lars	O	
+10-20	Larsen	O	
+10-21	lige	O	
+10-22	uden	O	
+10-23	for	O	
+10-24	feltet	B-noun.person|B-noun.location|B-noun.cognition|B-noun.artifact|B-noun.domain	
+10-25	.	O	
+
+#id=11
+#text="Lars kantede sig ind foran mig .
+11-1	"	O	
+11-2	Lars	O	
+11-3	kantede	B-verb.motion|B-verb.act|B-verb.phenomenon	
+11-4	sig	O	
+11-5	ind	O	
+11-6	foran	O	
+11-7	mig	O	
+11-8	.	O	
+
+#id=12
+#text=Jegkunne ikke undgå at ramme ham .
+12-1	Jeg	O	
+12-2	kunne	B-verb.social	
+12-3	ikke	O	
+12-4	undgå	B-verb.social|B-verb.act|B-verb.phenomenon	
+12-5	at	O	
+12-6	ramme	B-verb.motion|B-verb.act	
+12-7	ham	O	
+12-8	.	O	
+
+#id=13
+#text=Ingenaf os rørte i_øvrigt bolden , " forklarede Jens Madsen .
+13-1	Ingen	O	
+13-2	af	O	
+13-3	os	O	
+13-4	rørte	B-verb.change|B-verb.creation|B-verb.act|B-verb.motion	
+13-5	i_øvrigt	O	
+13-6	bolden	B-noun.object|B-noun.artifact|B-noun.body|B-noun.act	
+13-7	,	O	
+13-8	"	O	
+13-9	forklarede	B-verb.communication	
+13-10	Jens	B-noun.person	
+13-11	Madsen	O	
+13-12	.	O	
+
+#id=14
+#text=Tilgengæld var der ingen tvivl om , at Lars Elstrup forløb sig .
+14-1	Til	O	
+14-2	gengæld	B-noun.act	
+14-3	var	B-verb.TOP|B-verb.social|B-verb.stative	
+14-4	der	O	
+14-5	ingen	O	
+14-6	tvivl	B-noun.cognition	
+14-7	om	O	
+14-8	,	O	
+14-9	at	O	
+14-10	Lars	O	
+14-11	Elstrup	O	
+14-12	forløb	B-verb.motion|B-verb.phenomenon	
+14-13	sig	O	
+14-14	.	O	
+
+#id=15
+#text=Hansparkede B1909s Ole Juel ned som en hævnakt 20 minutter før tid .
+15-1	Han	O	
+15-2	sparkede	B-verb.act	
+15-3	B1909s	O	
+15-4	Ole	O	
+15-5	Juel	O	
+15-6	ned	O	
+15-7	som	O	
+15-8	en	O	
+15-9	hævnakt	B-noun.act	
+15-10	20	O	
+15-11	minutter	B-noun.time	
+15-12	før	O	
+15-13	tid	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+15-14	.	O	
+

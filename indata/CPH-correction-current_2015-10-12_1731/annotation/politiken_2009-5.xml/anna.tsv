@@ -1,0 +1,2167 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=IHolstebro tør de ikke lade en skulptur stå ude om natten.
+1-1	I	O	
+1-2	Holstebro	B-noun.location	
+1-3	tør	B-verb.emotion	
+1-4	de	O	
+1-5	ikke	O	
+1-6	lade	B-verb.act	
+1-7	en	O	
+1-8	skulptur	B-noun.artifact	
+1-9	stå	B-verb.act	
+1-10	ude	O	
+1-11	om	O	
+1-12	natten	B-noun.time	
+1-13	.	O	
+
+#id=2
+#text=Drengenbetragtes af politiet som farlig, og derfor blev han efterlyst med navn og billede, selv om retten har nedlagt navneforbud.
+2-1	Drengen	O	
+2-2	betragtes	O	
+2-3	af	O	
+2-4	politiet	O	
+2-5	som	O	
+2-6	farlig	O	
+2-7	,	O	
+2-8	og	O	
+2-9	derfor	O	
+2-10	blev	O	
+2-11	han	O	
+2-12	efterlyst	O	
+2-13	med	O	
+2-14	navn	O	
+2-15	og	O	
+2-16	billede	O	
+2-17	,	O	
+2-18	selv	O	
+2-19	om	O	
+2-20	retten	O	
+2-21	har	O	
+2-22	nedlagt	O	
+2-23	navneforbud	O	
+2-24	.	O	
+
+#id=3
+#text=4.
+3-1	4	O	
+3-2	.	O	
+
+#id=4
+#text=30-årige Staal har i denne sæson været på isen for HV 71, der netop har hentet sølv i den svenske eliteserie, men nu trækker hans gamle klub med et attraktivt tilbud.
+4-1	30	O	
+4-2	-	O	
+4-3	årige	O	
+4-4	Staal	O	
+4-5	har	O	
+4-6	i	O	
+4-7	denne	O	
+4-8	sæson	O	
+4-9	været	O	
+4-10	på	O	
+4-11	isen	O	
+4-12	for	O	
+4-13	HV	O	
+4-14	71	O	
+4-15	,	O	
+4-16	der	O	
+4-17	netop	O	
+4-18	har	O	
+4-19	hentet	O	
+4-20	sølv	O	
+4-21	i	O	
+4-22	den	O	
+4-23	svenske	O	
+4-24	eliteserie	O	
+4-25	,	O	
+4-26	men	O	
+4-27	nu	O	
+4-28	trækker	O	
+4-29	hans	O	
+4-30	gamle	O	
+4-31	klub	O	
+4-32	med	O	
+4-33	et	O	
+4-34	attraktivt	O	
+4-35	tilbud	O	
+4-36	.	O	
+
+#id=5
+#text=Til den tid forventer regionen at have været igennem en ny udbudsrunde, skriver Dagbladet Ringsted og Sjællandske.
+5-1	Til	O	
+5-2	den	O	
+5-3	tid	O	
+5-4	forventer	O	
+5-5	regionen	O	
+5-6	at	O	
+5-7	have	O	
+5-8	været	O	
+5-9	igennem	O	
+5-10	en	O	
+5-11	ny	O	
+5-12	udbudsrunde	O	
+5-13	,	O	
+5-14	skriver	O	
+5-15	Dagbladet	O	
+5-16	Ringsted	O	
+5-17	og	O	
+5-18	Sjællandske	O	
+5-19	.	O	
+
+#id=6
+#text=Ja, det var åbenlyst for alle i den tribunebuldrende hal i den  kroatiske havneby Porec:
+6-1	Ja	O	
+6-2	,	O	
+6-3	det	O	
+6-4	var	O	
+6-5	åbenlyst	O	
+6-6	for	O	
+6-7	alle	O	
+6-8	i	O	
+6-9	den	O	
+6-10	tribunebuldrende	O	
+6-11	hal	O	
+6-12	i	O	
+6-13	den	O	
+6-14	kroatiske	O	
+6-15	havneby	O	
+6-16	Porec	O	
+6-17	:	O	
+
+#id=7
+#text="Vived godt, at vi er de bedste.
+7-1	"	O	
+7-2	Vi	O	
+7-3	ved	O	
+7-4	godt	O	
+7-5	,	O	
+7-6	at	O	
+7-7	vi	O	
+7-8	er	O	
+7-9	de	O	
+7-10	bedste	O	
+7-11	.	O	
+
+#id=8
+#text=Det er blevet til en serie grafiske kunsttryk, der hver især er produceret i et oplag på 2.000 stk. "Som fagnørder i begge verdener har  vi lagt vægt på et grafisk kunsttryk af høj håndværksmæssig kvalitet", fortæller Anders
+8-1	Det	O	
+8-2	er	O	
+8-3	blevet	O	
+8-4	til	O	
+8-5	en	O	
+8-6	serie	O	
+8-7	grafiske	O	
+8-8	kunsttryk	O	
+8-9	,	O	
+8-10	der	O	
+8-11	hver	O	
+8-12	især	O	
+8-13	er	O	
+8-14	produceret	O	
+8-15	i	O	
+8-16	et	O	
+8-17	oplag	O	
+8-18	på	O	
+8-19	2	O	
+8-20	.	O	
+8-21	000	O	
+8-22	stk	O	
+8-23	.	O	
+8-24	"	O	
+8-25	Som	O	
+8-26	fagnørder	O	
+8-27	i	O	
+8-28	begge	O	
+8-29	verdener	O	
+8-30	har	O	
+8-31	vi	O	
+8-32	lagt	O	
+8-33	vægt	O	
+8-34	på	O	
+8-35	et	O	
+8-36	grafisk	O	
+8-37	kunsttryk	O	
+8-38	af	O	
+8-39	høj	O	
+8-40	håndværksmæssig	O	
+8-41	kvalitet	O	
+8-42	"	O	
+8-43	,	O	
+8-44	fortæller	O	
+8-45	Anders	O	
+
+#id=9
+#text=Overfaldsmanden bøjer sig over ham og siger:
+9-1	Overfaldsmanden	O	
+9-2	bøjer	O	
+9-3	sig	O	
+9-4	over	O	
+9-5	ham	O	
+9-6	og	O	
+9-7	siger	O	
+9-8	:	O	
+
+#id=10
+#text=Det skulle have stået "lidt mere end halvdelen".
+10-1	Det	O	
+10-2	skulle	O	
+10-3	have	O	
+10-4	stået	O	
+10-5	"	O	
+10-6	lidt	O	
+10-7	mere	O	
+10-8	end	O	
+10-9	halvdelen	O	
+10-10	"	O	
+10-11	.	O	
+
+#id=11
+#text=Derer ingen tvivl om, at samtidsforfattere, som kan ramme et stort publikum, også fremover vil få tilbudt store forskud", mener Hans Henrik Schwab.
+11-1	Der	O	
+11-2	er	O	
+11-3	ingen	O	
+11-4	tvivl	O	
+11-5	om	O	
+11-6	,	O	
+11-7	at	O	
+11-8	samtidsforfattere	O	
+11-9	,	O	
+11-10	som	O	
+11-11	kan	O	
+11-12	ramme	O	
+11-13	et	O	
+11-14	stort	O	
+11-15	publikum	O	
+11-16	,	O	
+11-17	også	O	
+11-18	fremover	O	
+11-19	vil	O	
+11-20	få	O	
+11-21	tilbudt	O	
+11-22	store	O	
+11-23	forskud	O	
+11-24	"	O	
+11-25	,	O	
+11-26	mener	O	
+11-27	Hans	O	
+11-28	Henrik	O	
+11-29	Schwab	O	
+11-30	.	O	
+
+#id=12
+#text="Ja,det gør jeg.
+12-1	"	O	
+12-2	Ja	O	
+12-3	,	O	
+12-4	det	O	
+12-5	gør	O	
+12-6	jeg	O	
+12-7	.	O	
+
+#id=13
+#text=Det er noget, man ikke rigtigt kan forberede sig på", sagde tidligere pilot Denny Walsh til CNN.
+13-1	Det	O	
+13-2	er	O	
+13-3	noget	O	
+13-4	,	O	
+13-5	man	O	
+13-6	ikke	O	
+13-7	rigtigt	O	
+13-8	kan	O	
+13-9	forberede	O	
+13-10	sig	O	
+13-11	på	O	
+13-12	"	O	
+13-13	,	O	
+13-14	sagde	O	
+13-15	tidligere	O	
+13-16	pilot	O	
+13-17	Denny	O	
+13-18	Walsh	O	
+13-19	til	O	
+13-20	CNN	O	
+13-21	.	O	
+
+#id=14
+#text=Findesder ikke et eneste stykke papir i Vatikanets kældre om alt det?
+14-1	Findes	O	
+14-2	der	O	
+14-3	ikke	O	
+14-4	et	O	
+14-5	eneste	O	
+14-6	stykke	O	
+14-7	papir	O	
+14-8	i	O	
+14-9	Vatikanets	O	
+14-10	kældre	O	
+14-11	om	O	
+14-12	alt	O	
+14-13	det	O	
+14-14	?	O	
+
+#id=15
+#text="Jeghar gang i forhandlinger med arrangørerne af både Giro d'Italia og Vuelta a España, og jeg anser det bestemt for muligt, at vi kommer til start i hvert fald i en af de to store begivenheder allerede i år.
+15-1	"	O	
+15-2	Jeg	O	
+15-3	har	O	
+15-4	gang	O	
+15-5	i	O	
+15-6	forhandlinger	O	
+15-7	med	O	
+15-8	arrangørerne	O	
+15-9	af	O	
+15-10	både	O	
+15-11	Giro	O	
+15-12	d	O	
+15-13	'	O	
+15-14	Italia	O	
+15-15	og	O	
+15-16	Vuelta	O	
+15-17	a	O	
+15-18	España	O	
+15-19	,	O	
+15-20	og	O	
+15-21	jeg	O	
+15-22	anser	O	
+15-23	det	O	
+15-24	bestemt	O	
+15-25	for	O	
+15-26	muligt	O	
+15-27	,	O	
+15-28	at	O	
+15-29	vi	O	
+15-30	kommer	O	
+15-31	til	O	
+15-32	start	O	
+15-33	i	O	
+15-34	hvert	O	
+15-35	fald	O	
+15-36	i	O	
+15-37	en	O	
+15-38	af	O	
+15-39	de	O	
+15-40	to	O	
+15-41	store	O	
+15-42	begivenheder	O	
+15-43	allerede	O	
+15-44	i	O	
+15-45	år	O	
+15-46	.	O	
+
+#id=16
+#text=Clint Eastwood spiller sig selv i stålhjelm og kaki.
+16-1	Clint	O	
+16-2	Eastwood	O	
+16-3	spiller	O	
+16-4	sig	O	
+16-5	selv	O	
+16-6	i	O	
+16-7	stålhjelm	O	
+16-8	og	O	
+16-9	kaki	O	
+16-10	.	O	
+
+#id=17
+#text=I 2020 skal udledningen af bl.
+17-1	I	O	
+17-2	2020	O	
+17-3	skal	O	
+17-4	udledningen	O	
+17-5	af	O	
+17-6	bl	O	
+17-7	.	O	
+
+#id=18
+#text=Historiener noget lignende vor egen klassiker ' Mød mig på Cassiopeia'.
+18-1	Historien	O	
+18-2	er	O	
+18-3	noget	O	
+18-4	lignende	O	
+18-5	vor	O	
+18-6	egen	O	
+18-7	klassiker	O	
+18-8	'	O	
+18-9	Mød	O	
+18-10	mig	O	
+18-11	på	O	
+18-12	Cassiopeia	O	
+18-13	'	O	
+18-14	.	O	
+
+#id=19
+#text=IDEN anden af to aktuelle - og i øvrigt ganske komplementerende - biografier på dansk, ' Michelle Obama - en biografi', understøtter Liza Mundy billedet af Michelle Obama som "en lidt gammeldags person, en kvinde, som gerne vil have en traditionel, intakt familie omkring sig ved bordet, og som først og fremmest ser sig selv som mor".
+19-1	I	O	
+19-2	DEN	O	
+19-3	anden	O	
+19-4	af	O	
+19-5	to	O	
+19-6	aktuelle	O	
+19-7	-	O	
+19-8	og	O	
+19-9	i	O	
+19-10	øvrigt	O	
+19-11	ganske	O	
+19-12	komplementerende	O	
+19-13	-	O	
+19-14	biografier	O	
+19-15	på	O	
+19-16	dansk	O	
+19-17	,	O	
+19-18	'	O	
+19-19	Michelle	O	
+19-20	Obama	O	
+19-21	-	O	
+19-22	en	O	
+19-23	biografi	O	
+19-24	'	O	
+19-25	,	O	
+19-26	understøtter	O	
+19-27	Liza	O	
+19-28	Mundy	O	
+19-29	billedet	O	
+19-30	af	O	
+19-31	Michelle	O	
+19-32	Obama	O	
+19-33	som	O	
+19-34	"	O	
+19-35	en	O	
+19-36	lidt	O	
+19-37	gammeldags	O	
+19-38	person	O	
+19-39	,	O	
+19-40	en	O	
+19-41	kvinde	O	
+19-42	,	O	
+19-43	som	O	
+19-44	gerne	O	
+19-45	vil	O	
+19-46	have	O	
+19-47	en	O	
+19-48	traditionel	O	
+19-49	,	O	
+19-50	intakt	O	
+19-51	familie	O	
+19-52	omkring	O	
+19-53	sig	O	
+19-54	ved	O	
+19-55	bordet	O	
+19-56	,	O	
+19-57	og	O	
+19-58	som	O	
+19-59	først	O	
+19-60	og	O	
+19-61	fremmest	O	
+19-62	ser	O	
+19-63	sig	O	
+19-64	selv	O	
+19-65	som	O	
+19-66	mor	O	
+19-67	"	O	
+19-68	.	O	
+
+#id=20
+#text=4læserbreve og debatindlæg handlede om Lars Løkkes kvalifikationer til statsministerposten.
+20-1	4	O	
+20-2	læserbreve	O	
+20-3	og	O	
+20-4	debatindlæg	O	
+20-5	handlede	O	
+20-6	om	O	
+20-7	Lars	O	
+20-8	Løkkes	O	
+20-9	kvalifikationer	O	
+20-10	til	O	
+20-11	statsministerposten	O	
+20-12	.	O	
+
+#id=21
+#text=Nårman tager ordet for at tage ...
+21-1	Når	O	
+21-2	man	O	
+21-3	tager	O	
+21-4	ordet	O	
+21-5	for	O	
+21-6	at	O	
+21-7	tage	O	
+21-8	.	O	
+21-9	.	O	
+21-10	.	O	
+
+#id=22
+#text=Pave Benedikt XVI mener ikke, at kondomer er svaret på kampen mod aids i Afrika.
+22-1	Pave	O	
+22-2	Benedikt	O	
+22-3	XVI	O	
+22-4	mener	O	
+22-5	ikke	O	
+22-6	,	O	
+22-7	at	O	
+22-8	kondomer	O	
+22-9	er	O	
+22-10	svaret	O	
+22-11	på	O	
+22-12	kampen	O	
+22-13	mod	O	
+22-14	aids	O	
+22-15	i	O	
+22-16	Afrika	O	
+22-17	.	O	
+
+#id=23
+#text=ole ras.
+23-1	ole	O	
+23-2	ras	O	
+23-3	.	O	
+
+#id=24
+#text=Fraførste kvartal 2008 til første kvartal 2009 forsvandt hele 11.200 job i branchen.
+24-1	Fra	O	
+24-2	første	O	
+24-3	kvartal	O	
+24-4	2008	O	
+24-5	til	O	
+24-6	første	O	
+24-7	kvartal	O	
+24-8	2009	O	
+24-9	forsvandt	O	
+24-10	hele	O	
+24-11	11	O	
+24-12	.	O	
+24-13	200	O	
+24-14	job	O	
+24-15	i	O	
+24-16	branchen	O	
+24-17	.	O	
+
+#id=25
+#text=Så indtaster man engangskoden og er så logget ind.
+25-1	Så	O	
+25-2	indtaster	O	
+25-3	man	O	
+25-4	engangskoden	O	
+25-5	og	O	
+25-6	er	O	
+25-7	så	O	
+25-8	logget	O	
+25-9	ind	O	
+25-10	.	O	
+
+#id=26
+#text=Første betingelse er, at danskerklubberne ikke kommer med i NHL-slutspillet, som er godt i gang, når der spilles VM.
+26-1	Første	O	
+26-2	betingelse	O	
+26-3	er	O	
+26-4	,	O	
+26-5	at	O	
+26-6	danskerklubberne	O	
+26-7	ikke	O	
+26-8	kommer	O	
+26-9	med	O	
+26-10	i	O	
+26-11	NHL	O	
+26-12	-	O	
+26-13	slutspillet	O	
+26-14	,	O	
+26-15	som	O	
+26-16	er	O	
+26-17	godt	O	
+26-18	i	O	
+26-19	gang	O	
+26-20	,	O	
+26-21	når	O	
+26-22	der	O	
+26-23	spilles	O	
+26-24	VM	O	
+26-25	.	O	
+
+#id=27
+#text=Beskæftigelsesudvalgetunder den statslige Ankestyrelse behandler typisk klager over kommunal kontanthjælp.
+27-1	Beskæftigelsesudvalget	O	
+27-2	under	O	
+27-3	den	O	
+27-4	statslige	O	
+27-5	Ankestyrelse	O	
+27-6	behandler	O	
+27-7	typisk	O	
+27-8	klager	O	
+27-9	over	O	
+27-10	kommunal	O	
+27-11	kontanthjælp	O	
+27-12	.	O	
+
+#id=28
+#text=BoWeymann mener derimod, at filmen og hans fortælling kan være med til at afholde unge mennesker fra at følge i hans fodspor.
+28-1	Bo	O	
+28-2	Weymann	O	
+28-3	mener	O	
+28-4	derimod	O	
+28-5	,	O	
+28-6	at	O	
+28-7	filmen	O	
+28-8	og	O	
+28-9	hans	O	
+28-10	fortælling	O	
+28-11	kan	O	
+28-12	være	O	
+28-13	med	O	
+28-14	til	O	
+28-15	at	O	
+28-16	afholde	O	
+28-17	unge	O	
+28-18	mennesker	O	
+28-19	fra	O	
+28-20	at	O	
+28-21	følge	O	
+28-22	i	O	
+28-23	hans	O	
+28-24	fodspor	O	
+28-25	.	O	
+
+#id=29
+#text=Her blev det stormet af tyske elitesoldater, og alle gidsler blev befriet.
+29-1	Her	O	
+29-2	blev	O	
+29-3	det	O	
+29-4	stormet	O	
+29-5	af	O	
+29-6	tyske	O	
+29-7	elitesoldater	O	
+29-8	,	O	
+29-9	og	O	
+29-10	alle	O	
+29-11	gidsler	O	
+29-12	blev	O	
+29-13	befriet	O	
+29-14	.	O	
+
+#id=30
+#text=ritzau
+30-1	ritzau	O	
+
+#id=31
+#text=De moderate muslimer kender Koranen, de kender argumenterne, og de kan give de unge kvalificeret modspil.
+31-1	De	O	
+31-2	moderate	O	
+31-3	muslimer	O	
+31-4	kender	O	
+31-5	Koranen	O	
+31-6	,	O	
+31-7	de	O	
+31-8	kender	O	
+31-9	argumenterne	O	
+31-10	,	O	
+31-11	og	O	
+31-12	de	O	
+31-13	kan	O	
+31-14	give	O	
+31-15	de	O	
+31-16	unge	O	
+31-17	kvalificeret	O	
+31-18	modspil	O	
+31-19	.	O	
+
+#id=32
+#text=I perioden 1980-91 var han redaktør af fagbladet Praktiserende Speciallæger.
+32-1	I	O	
+32-2	perioden	O	
+32-3	1980	O	
+32-4	-	O	
+32-5	91	O	
+32-6	var	O	
+32-7	han	O	
+32-8	redaktør	O	
+32-9	af	O	
+32-10	fagbladet	O	
+32-11	Praktiserende	O	
+32-12	Speciallæger	O	
+32-13	.	O	
+
+#id=33
+#text=Resultaterne af undersøgelsen vil kunne få stor betydning for valget af optimal behandling for den enkelte patient.
+33-1	Resultaterne	O	
+33-2	af	O	
+33-3	undersøgelsen	O	
+33-4	vil	O	
+33-5	kunne	O	
+33-6	få	O	
+33-7	stor	O	
+33-8	betydning	O	
+33-9	for	O	
+33-10	valget	O	
+33-11	af	O	
+33-12	optimal	O	
+33-13	behandling	O	
+33-14	for	O	
+33-15	den	O	
+33-16	enkelte	O	
+33-17	patient	O	
+33-18	.	O	
+
+#id=34
+#text=I februar sagde Nokia, at koncernen planlægger at reducere medarbejderstaben globalt med 1.000 ansatte via frivillige aftrædelser.
+34-1	I	O	
+34-2	februar	O	
+34-3	sagde	O	
+34-4	Nokia	O	
+34-5	,	O	
+34-6	at	O	
+34-7	koncernen	O	
+34-8	planlægger	O	
+34-9	at	O	
+34-10	reducere	O	
+34-11	medarbejderstaben	O	
+34-12	globalt	O	
+34-13	med	O	
+34-14	1	O	
+34-15	.	O	
+34-16	000	O	
+34-17	ansatte	O	
+34-18	via	O	
+34-19	frivillige	O	
+34-20	aftrædelser	O	
+34-21	.	O	
+
+#id=35
+#text=PolitikenPlus tilbyder i samarbejde med Statens Naturhistoriske Museum og Institut for Filosofi og Idéhistorie ved Aarhus Universitet en foredragsrække om Darwin og evolution.
+35-1	Politiken	O	
+35-2	Plus	O	
+35-3	tilbyder	O	
+35-4	i	O	
+35-5	samarbejde	O	
+35-6	med	O	
+35-7	Statens	O	
+35-8	Naturhistoriske	O	
+35-9	Museum	O	
+35-10	og	O	
+35-11	Institut	O	
+35-12	for	O	
+35-13	Filosofi	O	
+35-14	og	O	
+35-15	Idéhistorie	O	
+35-16	ved	O	
+35-17	Aarhus	O	
+35-18	Universitet	O	
+35-19	en	O	
+35-20	foredragsrække	O	
+35-21	om	O	
+35-22	Darwin	O	
+35-23	og	O	
+35-24	evolution	O	
+35-25	.	O	
+
+#id=36
+#text=Selvdeltog jeg i demonstrationen denne dag og på trods af, at hen  ved 1.000 tamilere havde taget turen til København fra hele landet, mødte kun 2-3 danskere op i løbet af dagen.
+36-1	Selv	O	
+36-2	deltog	O	
+36-3	jeg	O	
+36-4	i	O	
+36-5	demonstrationen	O	
+36-6	denne	O	
+36-7	dag	O	
+36-8	og	O	
+36-9	på	O	
+36-10	trods	O	
+36-11	af	O	
+36-12	,	O	
+36-13	at	O	
+36-14	hen	O	
+36-15	ved	O	
+36-16	1	O	
+36-17	.	O	
+36-18	000	O	
+36-19	tamilere	O	
+36-20	havde	O	
+36-21	taget	O	
+36-22	turen	O	
+36-23	til	O	
+36-24	København	O	
+36-25	fra	O	
+36-26	hele	O	
+36-27	landet	O	
+36-28	,	O	
+36-29	mødte	O	
+36-30	kun	O	
+36-31	2	O	
+36-32	-	O	
+36-33	3	O	
+36-34	danskere	O	
+36-35	op	O	
+36-36	i	O	
+36-37	løbet	O	
+36-38	af	O	
+36-39	dagen	O	
+36-40	.	O	
+
+#id=37
+#text=11læserbreve og debatindlæg handlede om Fogh og hans nye job som Nato-generalsekretær.
+37-1	11	O	
+37-2	læserbreve	O	
+37-3	og	O	
+37-4	debatindlæg	O	
+37-5	handlede	O	
+37-6	om	O	
+37-7	Fogh	O	
+37-8	og	O	
+37-9	hans	O	
+37-10	nye	O	
+37-11	job	O	
+37-12	som	O	
+37-13	Nato	O	
+37-14	-	O	
+37-15	generalsekretær	O	
+37-16	.	O	
+
+#id=38
+#text=PræsidentBill Clinton havde det skidt om morgenen 20.
+38-1	Præsident	O	
+38-2	Bill	O	
+38-3	Clinton	O	
+38-4	havde	O	
+38-5	det	O	
+38-6	skidt	O	
+38-7	om	O	
+38-8	morgenen	O	
+38-9	20	O	
+38-10	.	O	
+
+#id=39
+#text=Og det var det første, de gjorde, danskerne, da de efter at være fløjet ind til et snedækket Zagreb og have kørt tre og en halv time i bus gennem det smukkeste, bakkede og skovklædte vinterlandskab rullede ind i Porec ved Adriaterhavet og blev indkvarteret på hotel Diamant.
+39-1	Og	O	
+39-2	det	O	
+39-3	var	O	
+39-4	det	O	
+39-5	første	O	
+39-6	,	O	
+39-7	de	O	
+39-8	gjorde	O	
+39-9	,	O	
+39-10	danskerne	O	
+39-11	,	O	
+39-12	da	O	
+39-13	de	O	
+39-14	efter	O	
+39-15	at	O	
+39-16	være	O	
+39-17	fløjet	O	
+39-18	ind	O	
+39-19	til	O	
+39-20	et	O	
+39-21	snedækket	O	
+39-22	Zagreb	O	
+39-23	og	O	
+39-24	have	O	
+39-25	kørt	O	
+39-26	tre	O	
+39-27	og	O	
+39-28	en	O	
+39-29	halv	O	
+39-30	time	O	
+39-31	i	O	
+39-32	bus	O	
+39-33	gennem	O	
+39-34	det	O	
+39-35	smukkeste	O	
+39-36	,	O	
+39-37	bakkede	O	
+39-38	og	O	
+39-39	skovklædte	O	
+39-40	vinterlandskab	O	
+39-41	rullede	O	
+39-42	ind	O	
+39-43	i	O	
+39-44	Porec	O	
+39-45	ved	O	
+39-46	Adriaterhavet	O	
+39-47	og	O	
+39-48	blev	O	
+39-49	indkvarteret	O	
+39-50	på	O	
+39-51	hotel	O	
+39-52	Diamant	O	
+39-53	.	O	
+
+#id=40
+#text=Udbruddetfra de fremmødte professorer, studerende og det tekniske personale kom, fordi de har følt sig alt andet end velorienterede om, hvorfor ledelsen fyrer 24  forskere og 13 personer blandt det tekniske og administrative personale.
+40-1	Udbruddet	O	
+40-2	fra	O	
+40-3	de	O	
+40-4	fremmødte	O	
+40-5	professorer	O	
+40-6	,	O	
+40-7	studerende	O	
+40-8	og	O	
+40-9	det	O	
+40-10	tekniske	O	
+40-11	personale	O	
+40-12	kom	O	
+40-13	,	O	
+40-14	fordi	O	
+40-15	de	O	
+40-16	har	O	
+40-17	følt	O	
+40-18	sig	O	
+40-19	alt	O	
+40-20	andet	O	
+40-21	end	O	
+40-22	velorienterede	O	
+40-23	om	O	
+40-24	,	O	
+40-25	hvorfor	O	
+40-26	ledelsen	O	
+40-27	fyrer	O	
+40-28	24	O	
+40-29	forskere	O	
+40-30	og	O	
+40-31	13	O	
+40-32	personer	O	
+40-33	blandt	O	
+40-34	det	O	
+40-35	tekniske	O	
+40-36	og	O	
+40-37	administrative	O	
+40-38	personale	O	
+40-39	.	O	
+
+#id=41
+#text=I 1978 vendte han hjem til sin fædrene gård, godset Egemarke, som han overtog efter sin far, Aage Lohmann Poulsen.
+41-1	I	O	
+41-2	1978	O	
+41-3	vendte	O	
+41-4	han	O	
+41-5	hjem	O	
+41-6	til	O	
+41-7	sin	O	
+41-8	fædrene	O	
+41-9	gård	O	
+41-10	,	O	
+41-11	godset	O	
+41-12	Egemarke	O	
+41-13	,	O	
+41-14	som	O	
+41-15	han	O	
+41-16	overtog	O	
+41-17	efter	O	
+41-18	sin	O	
+41-19	far	O	
+41-20	,	O	
+41-21	Aage	O	
+41-22	Lohmann	O	
+41-23	Poulsen	O	
+41-24	.	O	
+
+#id=42
+#text=I aften kan man blandt andet møde de  unge håb Fleet Foxes, Tiny Vipers og The Lonely H samt Seattles største succes i de senere år - Band Of Horses, som spillede på Roskilde Festival i 2008.
+42-1	I	O	
+42-2	aften	O	
+42-3	kan	O	
+42-4	man	O	
+42-5	blandt	O	
+42-6	andet	O	
+42-7	møde	O	
+42-8	de	O	
+42-9	unge	O	
+42-10	håb	O	
+42-11	Fleet	O	
+42-12	Foxes	O	
+42-13	,	O	
+42-14	Tiny	O	
+42-15	Vipers	O	
+42-16	og	O	
+42-17	The	O	
+42-18	Lonely	O	
+42-19	H	O	
+42-20	samt	O	
+42-21	Seattles	O	
+42-22	største	O	
+42-23	succes	O	
+42-24	i	O	
+42-25	de	O	
+42-26	senere	O	
+42-27	år	O	
+42-28	-	O	
+42-29	Band	O	
+42-30	Of	O	
+42-31	Horses	O	
+42-32	,	O	
+42-33	som	O	
+42-34	spillede	O	
+42-35	på	O	
+42-36	Roskilde	O	
+42-37	Festival	O	
+42-38	i	O	
+42-39	2008	O	
+42-40	.	O	
+
+#id=43
+#text=NielsOlsen står bag de to manipulerede billeder ovenfor.
+43-1	Niels	O	
+43-2	Olsen	O	
+43-3	står	O	
+43-4	bag	O	
+43-5	de	O	
+43-6	to	O	
+43-7	manipulerede	O	
+43-8	billeder	O	
+43-9	ovenfor	O	
+43-10	.	O	
+
+#id=44
+#text=Togtrafikken mellem Vejle og Århus var i går lammet i flere timer efter en personpåkørsel ved Horsens.
+44-1	Togtrafikken	O	
+44-2	mellem	O	
+44-3	Vejle	O	
+44-4	og	O	
+44-5	Århus	O	
+44-6	var	O	
+44-7	i	O	
+44-8	går	O	
+44-9	lammet	O	
+44-10	i	O	
+44-11	flere	O	
+44-12	timer	O	
+44-13	efter	O	
+44-14	en	O	
+44-15	personpåkørsel	O	
+44-16	ved	O	
+44-17	Horsens	O	
+44-18	.	O	
+
+#id=45
+#text=Endelig strider det ifølge advokaterne mod konventionens artikel om bevægelsesfrihed, når de skal melde sig i Sandholm flere gange om ugen.
+45-1	Endelig	O	
+45-2	strider	O	
+45-3	det	O	
+45-4	ifølge	O	
+45-5	advokaterne	O	
+45-6	mod	O	
+45-7	konventionens	O	
+45-8	artikel	O	
+45-9	om	O	
+45-10	bevægelsesfrihed	O	
+45-11	,	O	
+45-12	når	O	
+45-13	de	O	
+45-14	skal	O	
+45-15	melde	O	
+45-16	sig	O	
+45-17	i	O	
+45-18	Sandholm	O	
+45-19	flere	O	
+45-20	gange	O	
+45-21	om	O	
+45-22	ugen	O	
+45-23	.	O	
+
+#id=46
+#text=Nården tidligere dobbelte danske mester i cykelcross Joachim Parbo i dag forsøger at tilbageerobre den hjemlige trone i Helsingør, jagter han også point til verdensranglisten med henblik på at være startberettiget ved VM i Holland om tre uger.
+46-1	Når	O	
+46-2	den	O	
+46-3	tidligere	O	
+46-4	dobbelte	O	
+46-5	danske	O	
+46-6	mester	O	
+46-7	i	O	
+46-8	cykelcross	O	
+46-9	Joachim	O	
+46-10	Parbo	O	
+46-11	i	O	
+46-12	dag	O	
+46-13	forsøger	O	
+46-14	at	O	
+46-15	tilbageerobre	O	
+46-16	den	O	
+46-17	hjemlige	O	
+46-18	trone	O	
+46-19	i	O	
+46-20	Helsingør	O	
+46-21	,	O	
+46-22	jagter	O	
+46-23	han	O	
+46-24	også	O	
+46-25	point	O	
+46-26	til	O	
+46-27	verdensranglisten	O	
+46-28	med	O	
+46-29	henblik	O	
+46-30	på	O	
+46-31	at	O	
+46-32	være	O	
+46-33	startberettiget	O	
+46-34	ved	O	
+46-35	VM	O	
+46-36	i	O	
+46-37	Holland	O	
+46-38	om	O	
+46-39	tre	O	
+46-40	uger	O	
+46-41	.	O	
+
+#id=47
+#text=Dennevirksomhed har valgt at halvere arbejdstiden for 292 medarbejdere i Gråsten og Nordborg.
+47-1	Denne	O	
+47-2	virksomhed	O	
+47-3	har	O	
+47-4	valgt	O	
+47-5	at	O	
+47-6	halvere	O	
+47-7	arbejdstiden	O	
+47-8	for	O	
+47-9	292	O	
+47-10	medarbejdere	O	
+47-11	i	O	
+47-12	Gråsten	O	
+47-13	og	O	
+47-14	Nordborg	O	
+47-15	.	O	
+
+#id=48
+#text="Du har ret, politik her er blevet en familieaffære med de samme efternavne.
+48-1	"	O	
+48-2	Du	O	
+48-3	har	O	
+48-4	ret	O	
+48-5	,	O	
+48-6	politik	O	
+48-7	her	O	
+48-8	er	O	
+48-9	blevet	O	
+48-10	en	O	
+48-11	familieaffære	O	
+48-12	med	O	
+48-13	de	O	
+48-14	samme	O	
+48-15	efternavne	O	
+48-16	.	O	
+
+#id=49
+#text=Ulykken skete, da kvinden var i gang med at fyre op.
+49-1	Ulykken	O	
+49-2	skete	O	
+49-3	,	O	
+49-4	da	O	
+49-5	kvinden	O	
+49-6	var	O	
+49-7	i	O	
+49-8	gang	O	
+49-9	med	O	
+49-10	at	O	
+49-11	fyre	O	
+49-12	op	O	
+49-13	.	O	
+
+#id=50
+#text="Fortredje måned  i træk kørte 95 procent af vores tog ellers til tiden, så er det stjerneærgerligt, at der kommer en enkelt dag og ødelægger det hele", siger Niels Martin Methman.
+50-1	"	O	
+50-2	For	O	
+50-3	tredje	O	
+50-4	måned	O	
+50-5	i	O	
+50-6	træk	O	
+50-7	kørte	O	
+50-8	95	O	
+50-9	procent	O	
+50-10	af	O	
+50-11	vores	O	
+50-12	tog	O	
+50-13	ellers	O	
+50-14	til	O	
+50-15	tiden	O	
+50-16	,	O	
+50-17	så	O	
+50-18	er	O	
+50-19	det	O	
+50-20	stjerneærgerligt	O	
+50-21	,	O	
+50-22	at	O	
+50-23	der	O	
+50-24	kommer	O	
+50-25	en	O	
+50-26	enkelt	O	
+50-27	dag	O	
+50-28	og	O	
+50-29	ødelægger	O	
+50-30	det	O	
+50-31	hele	O	
+50-32	"	O	
+50-33	,	O	
+50-34	siger	O	
+50-35	Niels	O	
+50-36	Martin	O	
+50-37	Methman	O	
+50-38	.	O	
+
+#id=51
+#text=Igår kunne Politiken afsløre, at to dokumenter i fangesagen er bortkommet i Forsvarsministeriets egne arkiver.
+51-1	I	O	
+51-2	går	O	
+51-3	kunne	O	
+51-4	Politiken	O	
+51-5	afsløre	O	
+51-6	,	O	
+51-7	at	O	
+51-8	to	O	
+51-9	dokumenter	O	
+51-10	i	O	
+51-11	fangesagen	O	
+51-12	er	O	
+51-13	bortkommet	O	
+51-14	i	O	
+51-15	Forsvarsministeriets	O	
+51-16	egne	O	
+51-17	arkiver	O	
+51-18	.	O	
+
+#id=52
+#text=I modersange som ' Meinem Kinde' og ' Muttertändelei' mangler Tilling den fornødne empati i forhold til teksten.
+52-1	I	O	
+52-2	modersange	O	
+52-3	som	O	
+52-4	'	O	
+52-5	Meinem	O	
+52-6	Kinde	O	
+52-7	'	O	
+52-8	og	O	
+52-9	'	O	
+52-10	Muttertändelei	O	
+52-11	'	O	
+52-12	mangler	O	
+52-13	Tilling	O	
+52-14	den	O	
+52-15	fornødne	O	
+52-16	empati	O	
+52-17	i	O	
+52-18	forhold	O	
+52-19	til	O	
+52-20	teksten	O	
+52-21	.	O	
+
+#id=53
+#text=Videnskabsministeriethåber, at et nyt forskningsskib i mellemklassen på 25-35 meter kan finansieres af en særlig pulje under de såkaldte globaliseringsmidler.
+53-1	Videnskabsministeriet	O	
+53-2	håber	O	
+53-3	,	O	
+53-4	at	O	
+53-5	et	O	
+53-6	nyt	O	
+53-7	forskningsskib	O	
+53-8	i	O	
+53-9	mellemklassen	O	
+53-10	på	O	
+53-11	25	O	
+53-12	-	O	
+53-13	35	O	
+53-14	meter	O	
+53-15	kan	O	
+53-16	finansieres	O	
+53-17	af	O	
+53-18	en	O	
+53-19	særlig	O	
+53-20	pulje	O	
+53-21	under	O	
+53-22	de	O	
+53-23	såkaldte	O	
+53-24	globaliseringsmidler	O	
+53-25	.	O	
+
+#id=54
+#text=Såer der mere klar udmelding i bekendelserne, når Allen holder sig til det udsyn, der kendes fra damebladsklummerne.
+54-1	Så	O	
+54-2	er	O	
+54-3	der	O	
+54-4	mere	O	
+54-5	klar	O	
+54-6	udmelding	O	
+54-7	i	O	
+54-8	bekendelserne	O	
+54-9	,	O	
+54-10	når	O	
+54-11	Allen	O	
+54-12	holder	O	
+54-13	sig	O	
+54-14	til	O	
+54-15	det	O	
+54-16	udsyn	O	
+54-17	,	O	
+54-18	der	O	
+54-19	kendes	O	
+54-20	fra	O	
+54-21	damebladsklummerne	O	
+54-22	.	O	
+
+#id=55
+#text=Mereend 91.000 kinesere omkom i fjor ved ulykker i trafikken  og på arbejdspladser, rapporterer lokale medier.
+55-1	Mere	O	
+55-2	end	O	
+55-3	91	O	
+55-4	.	O	
+55-5	000	O	
+55-6	kinesere	O	
+55-7	omkom	O	
+55-8	i	O	
+55-9	fjor	O	
+55-10	ved	O	
+55-11	ulykker	O	
+55-12	i	O	
+55-13	trafikken	O	
+55-14	og	O	
+55-15	på	O	
+55-16	arbejdspladser	O	
+55-17	,	O	
+55-18	rapporterer	O	
+55-19	lokale	O	
+55-20	medier	O	
+55-21	.	O	
+
+#id=56
+#text=Tilbagestår i så fald foreløbig modkandidater fra Polen og Bulgarien.
+56-1	Tilbage	O	
+56-2	står	O	
+56-3	i	O	
+56-4	så	O	
+56-5	fald	O	
+56-6	foreløbig	O	
+56-7	modkandidater	O	
+56-8	fra	O	
+56-9	Polen	O	
+56-10	og	O	
+56-11	Bulgarien	O	
+56-12	.	O	
+
+#id=57
+#text=Så giver I bare fremmede frø mulighed for at spire.
+57-1	Så	O	
+57-2	giver	O	
+57-3	I	O	
+57-4	bare	O	
+57-5	fremmede	O	
+57-6	frø	O	
+57-7	mulighed	O	
+57-8	for	O	
+57-9	at	O	
+57-10	spire	O	
+57-11	.	O	
+
+#id=58
+#text=MetteThomsen:
+58-1	Mette	O	
+58-2	Thomsen	O	
+58-3	:	O	
+
+#id=59
+#text=Ebbe Juul-Heider, Beder, 63, sanger, fotomodel, skuespiller Birte Tove, Holte, 64, koncerndirektør, cand.polit.
+59-1	Ebbe	O	
+59-2	Juul	O	
+59-3	-	O	
+59-4	Heider	O	
+59-5	,	O	
+59-6	Beder	O	
+59-7	,	O	
+59-8	63	O	
+59-9	,	O	
+59-10	sanger	O	
+59-11	,	O	
+59-12	fotomodel	O	
+59-13	,	O	
+59-14	skuespiller	O	
+59-15	Birte	O	
+59-16	Tove	O	
+59-17	,	O	
+59-18	Holte	O	
+59-19	,	O	
+59-20	64	O	
+59-21	,	O	
+59-22	koncerndirektør	O	
+59-23	,	O	
+59-24	cand	O	
+59-25	.	O	
+59-26	polit	O	
+59-27	.	O	
+
+#id=60
+#text=Drop stokkemetoder
+60-1	Drop	O	
+60-2	stokkemetoder	O	
+
+#id=61
+#text=-Lad være med at løbe med på den ide, at almindelige husejere og boligkøbere på nogen måde reelt har et betydeligt ansvar for den aktuelle krise.
+61-1	-	O	
+61-2	Lad	O	
+61-3	være	O	
+61-4	med	O	
+61-5	at	O	
+61-6	løbe	O	
+61-7	med	O	
+61-8	på	O	
+61-9	den	O	
+61-10	ide	O	
+61-11	,	O	
+61-12	at	O	
+61-13	almindelige	O	
+61-14	husejere	O	
+61-15	og	O	
+61-16	boligkøbere	O	
+61-17	på	O	
+61-18	nogen	O	
+61-19	måde	O	
+61-20	reelt	O	
+61-21	har	O	
+61-22	et	O	
+61-23	betydeligt	O	
+61-24	ansvar	O	
+61-25	for	O	
+61-26	den	O	
+61-27	aktuelle	O	
+61-28	krise	O	
+61-29	.	O	
+
+#id=62
+#text=45 år i dag.
+62-1	45	O	
+62-2	år	O	
+62-3	i	O	
+62-4	dag	O	
+62-5	.	O	
+
+#id=63
+#text=Henning Gade-Rasmussen, Hvidovre, 83, fhv. underdirektør, bibliotekar Ib Mortensen, Værløse, 83, overlæge, dr.med.
+63-1	Henning	O	
+63-2	Gade	O	
+63-3	-	O	
+63-4	Rasmussen	O	
+63-5	,	O	
+63-6	Hvidovre	O	
+63-7	,	O	
+63-8	83	O	
+63-9	,	O	
+63-10	fhv	O	
+63-11	.	O	
+63-12	underdirektør	O	
+63-13	,	O	
+63-14	bibliotekar	O	
+63-15	Ib	O	
+63-16	Mortensen	O	
+63-17	,	O	
+63-18	Værløse	O	
+63-19	,	O	
+63-20	83	O	
+63-21	,	O	
+63-22	overlæge	O	
+63-23	,	O	
+63-24	dr	O	
+63-25	.	O	
+63-26	med	O	
+63-27	.	O	
+
+#id=64
+#text=Minegen far fik f.
+64-1	Min	O	
+64-2	egen	O	
+64-3	far	O	
+64-4	fik	O	
+64-5	f	O	
+64-6	.	O	
+
+#id=65
+#text=Reglen om forudgående uddannelse kan dog fraviges, hvis den pågældende uddannelse er forældet, eller der er tale om en person med en ledighed på minimum 9 måneder.
+65-1	Reglen	O	
+65-2	om	O	
+65-3	forudgående	O	
+65-4	uddannelse	O	
+65-5	kan	O	
+65-6	dog	O	
+65-7	fraviges	O	
+65-8	,	O	
+65-9	hvis	O	
+65-10	den	O	
+65-11	pågældende	O	
+65-12	uddannelse	O	
+65-13	er	O	
+65-14	forældet	O	
+65-15	,	O	
+65-16	eller	O	
+65-17	der	O	
+65-18	er	O	
+65-19	tale	O	
+65-20	om	O	
+65-21	en	O	
+65-22	person	O	
+65-23	med	O	
+65-24	en	O	
+65-25	ledighed	O	
+65-26	på	O	
+65-27	minimum	O	
+65-28	9	O	
+65-29	måneder	O	
+65-30	.	O	
+
+#id=66
+#text=Xtracon-Skakligaentegnede spændende i år.
+66-1	Xtracon	O	
+66-2	-	O	
+66-3	Skakligaen	O	
+66-4	tegnede	O	
+66-5	spændende	O	
+66-6	i	O	
+66-7	år	O	
+66-8	.	O	
+
+#id=67
+#text=Guldbrandsens dokumentar er fair
+67-1	Guldbrandsens	O	
+67-2	dokumentar	O	
+67-3	er	O	
+67-4	fair	O	
+
+#id=68
+#text=Passagererne kan kun konstatere, at det er en opfølgning på afgifter for bl.a.
+68-1	Passagererne	O	
+68-2	kan	O	
+68-3	kun	O	
+68-4	konstatere	O	
+68-5	,	O	
+68-6	at	O	
+68-7	det	O	
+68-8	er	O	
+68-9	en	O	
+68-10	opfølgning	O	
+68-11	på	O	
+68-12	afgifter	O	
+68-13	for	O	
+68-14	bl	O	
+68-15	.	O	
+68-16	a	O	
+68-17	.	O	
+
+#id=69
+#text=,Kræftens Bekæmpelse og Herlev Hospital.
+69-1	,	O	
+69-2	Kræftens	O	
+69-3	Bekæmpelse	O	
+69-4	og	O	
+69-5	Herlev	O	
+69-6	Hospital	O	
+69-7	.	O	
+
+#id=70
+#text=Zimbabwespræsident, Robert Mugabe, bør anklages for forbrydelser mod menneskeheden på grund af menneskerettighedskrænkelser og sammenbruddet i Zimbabwes sundhedssystem, anbefaler organisationen Læger for Menneskerettigheder efter et besøg i Zimbabwe i sidste måned.
+70-1	Zimbabwes	O	
+70-2	præsident	O	
+70-3	,	O	
+70-4	Robert	O	
+70-5	Mugabe	O	
+70-6	,	O	
+70-7	bør	O	
+70-8	anklages	O	
+70-9	for	O	
+70-10	forbrydelser	O	
+70-11	mod	O	
+70-12	menneskeheden	O	
+70-13	på	O	
+70-14	grund	O	
+70-15	af	O	
+70-16	menneskerettighedskrænkelser	O	
+70-17	og	O	
+70-18	sammenbruddet	O	
+70-19	i	O	
+70-20	Zimbabwes	O	
+70-21	sundhedssystem	O	
+70-22	,	O	
+70-23	anbefaler	O	
+70-24	organisationen	O	
+70-25	Læger	O	
+70-26	for	O	
+70-27	Menneskerettigheder	O	
+70-28	efter	O	
+70-29	et	O	
+70-30	besøg	O	
+70-31	i	O	
+70-32	Zimbabwe	O	
+70-33	i	O	
+70-34	sidste	O	
+70-35	måned	O	
+70-36	.	O	
+
+#id=71
+#text=Der kræves blot en holdningsændring.
+71-1	Der	O	
+71-2	kræves	O	
+71-3	blot	O	
+71-4	en	O	
+71-5	holdningsændring	O	
+71-6	.	O	
+
+#id=72
+#text=AntiDoping Danmark testede i 2007 173 personer i motionscentre.
+72-1	Anti	O	
+72-2	Doping	O	
+72-3	Danmark	O	
+72-4	testede	O	
+72-5	i	O	
+72-6	2007	O	
+72-7	173	O	
+72-8	personer	O	
+72-9	i	O	
+72-10	motionscentre	O	
+72-11	.	O	
+
+#id=73
+#text=Rejsertog først turen hen til Commonwealth-kirkegården, hvor 7.367 gravsten markerer ofrene fra Storbritannien, New Zealand, Australien, Canada, Sydafrika, Grækenland, Frankrig, Indien og Malaysia.
+73-1	Rejser	O	
+73-2	tog	O	
+73-3	først	O	
+73-4	turen	O	
+73-5	hen	O	
+73-6	til	O	
+73-7	Commonwealth	O	
+73-8	-	O	
+73-9	kirkegården	O	
+73-10	,	O	
+73-11	hvor	O	
+73-12	7	O	
+73-13	.	O	
+73-14	367	O	
+73-15	gravsten	O	
+73-16	markerer	O	
+73-17	ofrene	O	
+73-18	fra	O	
+73-19	Storbritannien	O	
+73-20	,	O	
+73-21	New	O	
+73-22	Zealand	O	
+73-23	,	O	
+73-24	Australien	O	
+73-25	,	O	
+73-26	Canada	O	
+73-27	,	O	
+73-28	Sydafrika	O	
+73-29	,	O	
+73-30	Grækenland	O	
+73-31	,	O	
+73-32	Frankrig	O	
+73-33	,	O	
+73-34	Indien	O	
+73-35	og	O	
+73-36	Malaysia	O	
+73-37	.	O	
+
+#id=74
+#text=En dansk ekstrem-skiløber i 30' erne døde i går efter at være styrtet ned ad et fjeld i Rauma i Norge.
+74-1	En	O	
+74-2	dansk	O	
+74-3	ekstrem	O	
+74-4	-	O	
+74-5	skiløber	O	
+74-6	i	O	
+74-7	30	O	
+74-8	'	O	
+74-9	erne	O	
+74-10	døde	O	
+74-11	i	O	
+74-12	går	O	
+74-13	efter	O	
+74-14	at	O	
+74-15	være	O	
+74-16	styrtet	O	
+74-17	ned	O	
+74-18	ad	O	
+74-19	et	O	
+74-20	fjeld	O	
+74-21	i	O	
+74-22	Rauma	O	
+74-23	i	O	
+74-24	Norge	O	
+74-25	.	O	
+
+#id=75
+#text=Der har været en lang tradition for hemmeligholdelse i IOC.
+75-1	Der	O	
+75-2	har	O	
+75-3	været	O	
+75-4	en	O	
+75-5	lang	O	
+75-6	tradition	O	
+75-7	for	O	
+75-8	hemmeligholdelse	O	
+75-9	i	O	
+75-10	IOC	O	
+75-11	.	O	
+
+#id=76
+#text=-Nu har min kone og jeg slidt derude i syv samfulde aar, spillet baade sommer og vinter og søgt at følge den store, gamle dames linje.
+76-1	-	O	
+76-2	Nu	O	
+76-3	har	O	
+76-4	min	O	
+76-5	kone	O	
+76-6	og	O	
+76-7	jeg	O	
+76-8	slidt	O	
+76-9	derude	O	
+76-10	i	O	
+76-11	syv	O	
+76-12	samfulde	O	
+76-13	aar	O	
+76-14	,	O	
+76-15	spillet	O	
+76-16	baade	O	
+76-17	sommer	O	
+76-18	og	O	
+76-19	vinter	O	
+76-20	og	O	
+76-21	søgt	O	
+76-22	at	O	
+76-23	følge	O	
+76-24	den	O	
+76-25	store	O	
+76-26	,	O	
+76-27	gamle	O	
+76-28	dames	O	
+76-29	linje	O	
+76-30	.	O	
+
+#id=77
+#text=Men det er ikke lige meget, om den klassiske musik præsenteres på det danske sprog og på en dansk kulturbaggrund eller på en tysk eller fransk.
+77-1	Men	O	
+77-2	det	O	
+77-3	er	O	
+77-4	ikke	O	
+77-5	lige	O	
+77-6	meget	O	
+77-7	,	O	
+77-8	om	O	
+77-9	den	O	
+77-10	klassiske	O	
+77-11	musik	O	
+77-12	præsenteres	O	
+77-13	på	O	
+77-14	det	O	
+77-15	danske	O	
+77-16	sprog	O	
+77-17	og	O	
+77-18	på	O	
+77-19	en	O	
+77-20	dansk	O	
+77-21	kulturbaggrund	O	
+77-22	eller	O	
+77-23	på	O	
+77-24	en	O	
+77-25	tysk	O	
+77-26	eller	O	
+77-27	fransk	O	
+77-28	.	O	
+
+#id=78
+#text=22-årigeMarcus Tracy valgte torsdag danske AaB i stedet for amerikansk fodbold.
+78-1	22	O	
+78-2	-	O	
+78-3	årige	O	
+78-4	Marcus	O	
+78-5	Tracy	O	
+78-6	valgte	O	
+78-7	torsdag	O	
+78-8	danske	O	
+78-9	AaB	O	
+78-10	i	O	
+78-11	stedet	O	
+78-12	for	O	
+78-13	amerikansk	O	
+78-14	fodbold	O	
+78-15	.	O	
+
+#id=79
+#text=Sex er stadigvæk lige om hjørnet og nu og da alt, men også nogle gange for Hank som æg uden salt.
+79-1	Sex	O	
+79-2	er	O	
+79-3	stadigvæk	O	
+79-4	lige	O	
+79-5	om	O	
+79-6	hjørnet	O	
+79-7	og	O	
+79-8	nu	O	
+79-9	og	O	
+79-10	da	O	
+79-11	alt	O	
+79-12	,	O	
+79-13	men	O	
+79-14	også	O	
+79-15	nogle	O	
+79-16	gange	O	
+79-17	for	O	
+79-18	Hank	O	
+79-19	som	O	
+79-20	æg	O	
+79-21	uden	O	
+79-22	salt	O	
+79-23	.	O	
+
+#id=80
+#text=Det er ikke småting, troende har takket Jesus for gennem årene.
+80-1	Det	O	
+80-2	er	O	
+80-3	ikke	O	
+80-4	småting	O	
+80-5	,	O	
+80-6	troende	O	
+80-7	har	O	
+80-8	takket	O	
+80-9	Jesus	O	
+80-10	for	O	
+80-11	gennem	O	
+80-12	årene	O	
+80-13	.	O	
+
+#id=81
+#text=Thi først brød han igennem til det store publikum med den på mange måder uhyre vellykkede filmatisering af Umberto Ecos ' Rosens navn'.
+81-1	Thi	O	
+81-2	først	O	
+81-3	brød	O	
+81-4	han	O	
+81-5	igennem	O	
+81-6	til	O	
+81-7	det	O	
+81-8	store	O	
+81-9	publikum	O	
+81-10	med	O	
+81-11	den	O	
+81-12	på	O	
+81-13	mange	O	
+81-14	måder	O	
+81-15	uhyre	O	
+81-16	vellykkede	O	
+81-17	filmatisering	O	
+81-18	af	O	
+81-19	Umberto	O	
+81-20	Ecos	O	
+81-21	'	O	
+81-22	Rosens	O	
+81-23	navn	O	
+81-24	'	O	
+81-25	.	O	
+
+#id=82
+#text=Blandt realkreditobligationerne lukkede 4-35' erne 0,62 point lavere i kurs 91,48 med en effektiv rente på 4,93 pct.
+82-1	Blandt	O	
+82-2	realkreditobligationerne	O	
+82-3	lukkede	O	
+82-4	4	O	
+82-5	-	O	
+82-6	35	O	
+82-7	'	O	
+82-8	erne	O	
+82-9	0	O	
+82-10	,	O	
+82-11	62	O	
+82-12	point	O	
+82-13	lavere	O	
+82-14	i	O	
+82-15	kurs	O	
+82-16	91	O	
+82-17	,	O	
+82-18	48	O	
+82-19	med	O	
+82-20	en	O	
+82-21	effektiv	O	
+82-22	rente	O	
+82-23	på	O	
+82-24	4	O	
+82-25	,	O	
+82-26	93	O	
+82-27	pct	O	
+82-28	.	O	
+
+#id=83
+#text=Tyskland har imidlertid denne gang i modsætning til i Oberhof både Andrea Henkel og Magdalena Neuner til rådighed, og de udgør sammen med Kati Wilhelm og enten Kathrin Hitzer  eller Simone Hauswald kvartetten i den sidste styrkeprøve af denne art inden VM.
+83-1	Tyskland	O	
+83-2	har	O	
+83-3	imidlertid	O	
+83-4	denne	O	
+83-5	gang	O	
+83-6	i	O	
+83-7	modsætning	O	
+83-8	til	O	
+83-9	i	O	
+83-10	Oberhof	O	
+83-11	både	O	
+83-12	Andrea	O	
+83-13	Henkel	O	
+83-14	og	O	
+83-15	Magdalena	O	
+83-16	Neuner	O	
+83-17	til	O	
+83-18	rådighed	O	
+83-19	,	O	
+83-20	og	O	
+83-21	de	O	
+83-22	udgør	O	
+83-23	sammen	O	
+83-24	med	O	
+83-25	Kati	O	
+83-26	Wilhelm	O	
+83-27	og	O	
+83-28	enten	O	
+83-29	Kathrin	O	
+83-30	Hitzer	O	
+83-31	eller	O	
+83-32	Simone	O	
+83-33	Hauswald	O	
+83-34	kvartetten	O	
+83-35	i	O	
+83-36	den	O	
+83-37	sidste	O	
+83-38	styrkeprøve	O	
+83-39	af	O	
+83-40	denne	O	
+83-41	art	O	
+83-42	inden	O	
+83-43	VM	O	
+83-44	.	O	
+
+#id=84
+#text=1.50-
+84-1	1	O	
+84-2	.	O	
+84-3	50	O	
+84-4	-	O	
+
+#id=85
+#text=Kog, til kartoflerne er knap møre, smag retten til med bouillon/salt og karrypasta.
+85-1	Kog	O	
+85-2	,	O	
+85-3	til	O	
+85-4	kartoflerne	O	
+85-5	er	O	
+85-6	knap	O	
+85-7	møre	O	
+85-8	,	O	
+85-9	smag	O	
+85-10	retten	O	
+85-11	til	O	
+85-12	med	O	
+85-13	bouillon	O	
+85-14	/	O	
+85-15	salt	O	
+85-16	og	O	
+85-17	karrypasta	O	
+85-18	.	O	
+
+#id=86
+#text=allan.graubaek@pol.dk
+86-1	allan	O	
+86-2	.	O	
+86-3	graubaek@pol	O	
+86-4	.	O	
+86-5	dk	O	
+
+#id=87
+#text=21.55
+87-1	21	O	
+87-2	.	O	
+87-3	55	O	
+
+#id=88
+#text=Billettertil Tivoli 85 kr.
+88-1	Billetter	O	
+88-2	til	O	
+88-3	Tivoli	O	
+88-4	85	O	
+88-5	kr	O	
+88-6	.	O	
+
+#id=89
+#text=1
+89-1	1	O	
+
+#id=90
+#text=Olesens film 'Lille soldat', som kun blev set af 18.500.
+90-1	Olesens	O	
+90-2	film	O	
+90-3	'	O	
+90-4	Lille	O	
+90-5	soldat	O	
+90-6	'	O	
+90-7	,	O	
+90-8	som	O	
+90-9	kun	O	
+90-10	blev	O	
+90-11	set	O	
+90-12	af	O	
+90-13	18	O	
+90-14	.	O	
+90-15	500	O	
+90-16	.	O	
+
+#id=91
+#text=Den var lidt ujævn, men jeg kan godt lide ting, hvor der er nogle bump på vejen.
+91-1	Den	O	
+91-2	var	O	
+91-3	lidt	O	
+91-4	ujævn	O	
+91-5	,	O	
+91-6	men	O	
+91-7	jeg	O	
+91-8	kan	O	
+91-9	godt	O	
+91-10	lide	O	
+91-11	ting	O	
+91-12	,	O	
+91-13	hvor	O	
+91-14	der	O	
+91-15	er	O	
+91-16	nogle	O	
+91-17	bump	O	
+91-18	på	O	
+91-19	vejen	O	
+91-20	.	O	
+
+#id=92
+#text="Hvisden slags kan foregå i Kiel, som er et forbillede for os alle sammen, er det noget skidt.
+92-1	"	O	
+92-2	Hvis	O	
+92-3	den	O	
+92-4	slags	O	
+92-5	kan	O	
+92-6	foregå	O	
+92-7	i	O	
+92-8	Kiel	O	
+92-9	,	O	
+92-10	som	O	
+92-11	er	O	
+92-12	et	O	
+92-13	forbillede	O	
+92-14	for	O	
+92-15	os	O	
+92-16	alle	O	
+92-17	sammen	O	
+92-18	,	O	
+92-19	er	O	
+92-20	det	O	
+92-21	noget	O	
+92-22	skidt	O	
+92-23	.	O	
+
+#id=93
+#text=For går der ged i den et sted, ender aben med statsgaranti hos statsministeren.
+93-1	For	O	
+93-2	går	O	
+93-3	der	O	
+93-4	ged	O	
+93-5	i	O	
+93-6	den	O	
+93-7	et	O	
+93-8	sted	O	
+93-9	,	O	
+93-10	ender	O	
+93-11	aben	O	
+93-12	med	O	
+93-13	statsgaranti	O	
+93-14	hos	O	
+93-15	statsministeren	O	
+93-16	.	O	
+
+#id=94
+#text=Den har dog ikke været lavere, end at den har tilladt bankerne at præstere det ene rekordoverskud efter det andet de seneste ti år.
+94-1	Den	O	
+94-2	har	O	
+94-3	dog	O	
+94-4	ikke	O	
+94-5	været	O	
+94-6	lavere	O	
+94-7	,	O	
+94-8	end	O	
+94-9	at	O	
+94-10	den	O	
+94-11	har	O	
+94-12	tilladt	O	
+94-13	bankerne	O	
+94-14	at	O	
+94-15	præstere	O	
+94-16	det	O	
+94-17	ene	O	
+94-18	rekordoverskud	O	
+94-19	efter	O	
+94-20	det	O	
+94-21	andet	O	
+94-22	de	O	
+94-23	seneste	O	
+94-24	ti	O	
+94-25	år	O	
+94-26	.	O	
+
+#id=95
+#text=Man skal holde fokus på sekstrækket, da det er så sjældent, man skal i storeslem.
+95-1	Man	O	
+95-2	skal	O	
+95-3	holde	O	
+95-4	fokus	O	
+95-5	på	O	
+95-6	sekstrækket	O	
+95-7	,	O	
+95-8	da	O	
+95-9	det	O	
+95-10	er	O	
+95-11	så	O	
+95-12	sjældent	O	
+95-13	,	O	
+95-14	man	O	
+95-15	skal	O	
+95-16	i	O	
+95-17	storeslem	O	
+95-18	.	O	
+
+#id=96
+#text=Spørgsmålene var ventede.
+96-1	Spørgsmålene	O	
+96-2	var	O	
+96-3	ventede	O	
+96-4	.	O	
+
+#id=97
+#text=Hankalder ophævelsen af braklægning for "den største naturkatastrofe i Danmark".
+97-1	Han	O	
+97-2	kalder	O	
+97-3	ophævelsen	O	
+97-4	af	O	
+97-5	braklægning	O	
+97-6	for	O	
+97-7	"	O	
+97-8	den	O	
+97-9	største	O	
+97-10	naturkatastrofe	O	
+97-11	i	O	
+97-12	Danmark	O	
+97-13	"	O	
+97-14	.	O	
+
+#id=98
+#text=de.
+98-1	de	O	
+98-2	.	O	
+
+#id=99
+#text=Viskulle have i tusindvis af blomstrende krokus, men i år har  halvdelen været ædt.
+99-1	Vi	O	
+99-2	skulle	O	
+99-3	have	O	
+99-4	i	O	
+99-5	tusindvis	O	
+99-6	af	O	
+99-7	blomstrende	O	
+99-8	krokus	O	
+99-9	,	O	
+99-10	men	O	
+99-11	i	O	
+99-12	år	O	
+99-13	har	O	
+99-14	halvdelen	O	
+99-15	været	O	
+99-16	ædt	O	
+99-17	.	O	
+
+#id=100
+#text=Men glæden varede kort.
+100-1	Men	O	
+100-2	glæden	O	
+100-3	varede	O	
+100-4	kort	O	
+100-5	.	O	
+

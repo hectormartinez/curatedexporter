@@ -1,0 +1,207 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Beskedentog endnu ikke helt upåvirket af chokket fortæller Jens Christian Poulsen , 34-årig snedker fra Frederikshavn , hvordan han i en hæsblæsende kamp med tiden reddede en 45-årig ansat i Søværnet fra at drukne i de kolde bølger ud for Skagen .
+1-1	Beskedent	B-adj.phys	
+1-2	og	O	
+1-3	endnu	O	
+1-4	ikke	O	
+1-5	helt	B-adj.phys	
+1-6	upåvirket	O	
+1-7	af	O	
+1-8	chokket	B-noun.act|B-noun.feeling	
+1-9	fortæller	B-verb.communication	
+1-10	Jens	B-noun.person	
+1-11	Christian	O	
+1-12	Poulsen	O	
+1-13	,	O	
+1-14	34-årig	O	
+1-15	snedker	B-noun.person	
+1-16	fra	O	
+1-17	Frederikshavn	O	
+1-18	,	O	
+1-19	hvordan	O	
+1-20	han	O	
+1-21	i	O	
+1-22	en	O	
+1-23	hæsblæsende	B-adj.all	
+1-24	kamp	B-noun.act|B-noun.motive	
+1-25	med	O	
+1-26	tiden	B-noun.communication|B-noun.time|B-noun.attribute|B-noun.quantity|B-noun.motive|B-noun.TOP	
+1-27	reddede	B-verb.phenomenon	
+1-28	en	O	
+1-29	45-årig	O	
+1-30	ansat	B-verb.change	
+1-31	i	O	
+1-32	Søværnet	B-noun.institution	
+1-33	fra	O	
+1-34	at	O	
+1-35	drukne	B-rb.change|B-verb.act|B-verb.phenomenon	
+1-36	i	O	
+1-37	de	O	
+1-38	kolde	B-adj.social|B-adj.mental|B-adj.phys	
+1-39	bølger	B-noun.act|B-noun.phenomenon	
+1-40	ud	O	
+1-41	for	O	
+1-42	Skagen	O	
+1-43	.	O	
+
+#id=2
+#text=Somgast i marinehjemmeværnet var Jens Christian Poulsen med tilnavnet " Kesse " om_bord på hjemmeværnskutter HVM71 Scorpius på øvelse på Herthas Flak nogle sømil øst for Skagen , da han i kutterens styrhus pludselig hørte , at der blev råbt " mand over_bord " .
+2-1	Som	O	
+2-2	gast	O	
+2-3	i	O	
+2-4	marinehjemmeværnet	O	
+2-5	var	B-verb.TOP|B-verb.social|B-verb.stative	
+2-6	Jens	B-noun.person	
+2-7	Christian	O	
+2-8	Poulsen	O	
+2-9	med	O	
+2-10	tilnavnet	B-noun.communication	
+2-11	"	O	
+2-12	Kesse	O	
+2-13	"	O	
+2-14	om_bord	O	
+2-15	på	O	
+2-16	hjemmeværnskutter	O	
+2-17	HVM71	O	
+2-18	Scorpius	O	
+2-19	på	O	
+2-20	øvelse	B-noun.act	
+2-21	på	O	
+2-22	Herthas	O	
+2-23	Flak	O	
+2-24	nogle	O	
+2-25	sømil	B-noun.quantity	
+2-26	øst	O	
+2-27	for	O	
+2-28	Skagen	O	
+2-29	,	O	
+2-30	da	O	
+2-31	han	O	
+2-32	i	O	
+2-33	kutterens	B-noun.vehicle	
+2-34	styrhus	O	
+2-35	pludselig	O	
+2-36	hørte	B-verb.phenomenon	
+2-37	,	O	
+2-38	at	O	
+2-39	der	O	
+2-40	blev	B-verb.TOP|B-verb.act|B-verb.stative	
+2-41	råbt	B-verb.communication	
+2-42	"	O	
+2-43	mand	B-noun.object|B-noun.person	
+2-44	over_bord	O	
+2-45	"	O	
+2-46	.	O	
+
+#id=3
+#text="Jeg gik ud for at kigge og så lige akkurat skyggen af en mand i vandet .
+3-1	"	O	
+3-2	Jeg	O	
+3-3	gik	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+3-4	ud	O	
+3-5	for	O	
+3-6	at	O	
+3-7	kigge	B-verb.phenomenon|B-verb.act|B-verb.communication|B-verb.cognition	
+3-8	og	O	
+3-9	så	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.emotion|B-verb.change|B-verb.phenomenon	
+3-10	lige	O	
+3-11	akkurat	O	
+3-12	skyggen	B-noun.person|B-noun.phenomenon|B-noun.artifact	
+3-13	af	O	
+3-14	en	O	
+3-15	mand	B-noun.object|B-noun.person	
+3-16	i	O	
+3-17	vandet	B-noun.location|B-noun.container|B-noun.substance|B-noun.artifact	
+3-18	.	O	
+
+#id=4
+#text=Klokkenvar næsten halvotte , og det var allerede begyndt at blive mørkt .
+4-1	Klokken	B-noun.object|B-noun.plant|B-noun.artifact|B-noun.quantity	
+4-2	var	B-verb.TOP|B-verb.social|B-verb.stative	
+4-3	næsten	O	
+4-4	halvotte	O	
+4-5	,	O	
+4-6	og	O	
+4-7	det	O	
+4-8	var	B-verb.TOP|B-verb.social|B-verb.stative	
+4-9	allerede	O	
+4-10	begyndt	B-verb.social|B-verb.communication|B-verb.act	
+4-11	at	O	
+4-12	blive	B-verb.motion|B-verb.change|B-verb.stative|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+4-13	mørkt	B-adj.phys|B-adj.all	
+4-14	.	O	
+
+#id=5
+#text=Jegfik min Secumar-vest på i en rasende fart , mens skipper Tom Christiansen vendte skibet .
+5-1	Jeg	O	
+5-2	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+5-3	min	O	
+5-4	Secumar-vest	O	
+5-5	på	O	
+5-6	i	O	
+5-7	en	O	
+5-8	rasende	B-adj.mental	
+5-9	fart	B-noun.act|B-noun.phenomenon	
+5-10	,	O	
+5-11	mens	O	
+5-12	skipper	B-noun.person	
+5-13	Tom	O	
+5-14	Christiansen	O	
+5-15	vendte	B-verb.change|B-verb.creation|B-verb.motion|B-verb.act|B-verb.stative	
+5-16	skibet	B-noun.artifact|B-noun.vehicle	
+5-17	.	O	
+
+#id=6
+#text=Jegkunne se , at den overbordfaldne havde været under vand og var på vej op igen .
+6-1	Jeg	O	
+6-2	kunne	B-verb.social	
+6-3	se	B-verb.motion|B-verb.communication|B-verb.social|B-verb.cognition|B-verb.act|B-verb.emotion|B-verb.change|B-verb.phenomenon	
+6-4	,	O	
+6-5	at	O	
+6-6	den	O	
+6-7	overbordfaldne	O	
+6-8	havde	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+6-9	været	B-verb.TOP|B-verb.social|B-verb.stative	
+6-10	under	O	
+6-11	vand	B-noun.location|B-noun.substance|B-noun.container|B-noun.artifact	
+6-12	og	O	
+6-13	var	B-verb.TOP|B-verb.social|B-verb.stative	
+6-14	på	O	
+6-15	vej	B-noun.motive|B-noun.quantity|B-noun.location|B-noun.TOP	
+6-16	op	O	
+6-17	igen	O	
+6-18	.	O	
+
+#id=7
+#text=Jegbetænkte mig ikke et sekund .
+7-1	Jeg	O	
+7-2	betænkte	B-verb.possession|B-verb.cognition	
+7-3	mig	O	
+7-4	ikke	O	
+7-5	et	O	
+7-6	sekund	B-noun.time|B-noun.quantity	
+7-7	.	O	
+
+#id=8
+#text=Meden redningskrans og en lysbøje i hånden sprang jeg i vandet .
+8-1	Med	O	
+8-2	en	O	
+8-3	redningskrans	B-noun.artifact	
+8-4	og	O	
+8-5	en	O	
+8-6	lysbøje	O	
+8-7	i	O	
+8-8	hånden	B-noun.act|B-noun.location|B-noun.communication|B-noun.body	
+8-9	sprang	B-verb.motion|B-verb.act	
+8-10	jeg	O	
+8-11	i	O	
+8-12	vandet	B-noun.location|B-noun.container|B-noun.substance|B-noun.artifact	
+8-13	.	O	
+
+#id=9
+#text=ANSIGTETUNDER VAND
+9-1	ANSIGTET	B-noun.phenomenon|B-noun.person|B-noun.artifact|B-noun.body	
+9-2	UNDER	O	
+9-3	VAND	B-noun.location|B-noun.container|B-noun.substance|B-noun.artifact	
+

@@ -1,0 +1,2262 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Colourwalk", "One Piece Red:
+1-1	Colourwalk	Colourwalk	NP:siu#:--:----	O	
+1-2	"	"	ZI	O	
+1-3	,	,	ZD	O	
+1-4	"	"	ZI	O	
+1-5	One	One	NP:siu#:--:----	O	
+1-6	Piece	Piece	NP:siu#:--:----	O	
+1-7	Red	ride	VF:----:ta:----	B-verb.motion|B-verb.act|B-verb.phenomenon	
+1-8	:	:	ZP	O	
+
+#id=2
+#text=Jegkunne godt lide...RAMEN NINJAS!
+2-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+2-2	kunne	kunne	VF:----:ta:----	B-verb.social	
+2-3	godt	god	AD:----:--:p---	B-adj.all	
+2-4	lide	lide	VI:----:-a:----	B-verb.phenomenon|B-verb.emotion	
+2-5	.	.	ZP	O	
+2-6	.	.	ZP	O	
+2-7	.	.	ZP	O	
+2-8	RAMEN	RAMEN	NP:siu#:--:----	O	
+2-9	NINJAS	NINJAS	NP:siu#:--:----	O	
+2-10	!	!	ZP	O	
+
+#id=3
+#text=Okayjeg skulle bare lige høre...
+3-1	Okay	okay	AC:§§u§:--:p---	O	
+3-2	jeg	jeg	NC:siun:--:----	O	
+3-3	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+3-4	bare	bare	D-:----:--:u---	O	
+3-5	lige	lige	D-:----:--:u---	O	
+3-6	høre	høre	VI:----:-a:----	B-verb.phenomenon	
+3-7	.	.	ZP	O	
+3-8	.	.	ZP	O	
+3-9	.	.	ZP	O	
+
+#id=4
+#text=FaraosCigarer sælger hele serien på tilbud for 129 kr. for tiden - det er ca. 16 kr. pr. bind!
+4-1	Faraos	farao	NW:----:--:----	B-noun.communication|B-noun.person	
+4-2	Cigarer	cigar	NC:piu#:--:----	B-noun.food	
+4-3	sælger	sælge	VF:----:sa:----	B-verb.possession|B-verb.act	
+4-4	hele	hel	AC:sdu#:--:p---	B-adj.phys	
+4-5	serien	serie	NC:sduc:--:----	B-noun.communication|B-noun.artifact|B-noun.person|B-noun.group	
+4-6	på	på	T-:----:--:----	O	
+4-7	tilbud	tilbud	NC:siun:--:----	B-noun.act|B-noun.TOP|B-noun.possession	
+4-8	for	for	T-:----:--:----	O	
+4-9	129	129	LC:--u-:--:----	O	
+4-10	kr	krone	NC:piu#:--:----	O	
+4-11	.	.	ZP	O	
+4-12	for	for	T-:----:--:----	O	
+4-13	tiden	tid	NW:----:--:----	B-noun.communication|B-noun.time|B-noun.attribute|B-noun.quantity|B-noun.motive|B-noun.TOP	
+4-14	-	-	ZH	O	
+4-15	det	det	XY:----:--:----	O	
+4-16	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+4-17	ca	cirka	D-:----:--:u---	O	
+4-18	.	.	ZP	O	
+4-19	16	16	LC:--u-:--:----	O	
+4-20	kr	krone	NC:piu#:--:----	O	
+4-21	.	.	ZP	O	
+4-22	pr	per	T-:----:--:----	O	
+4-23	.	.	ZP	O	
+4-24	bind	bind	NC:siun:--:----	B-noun.communication|B-noun.artifact	
+4-25	!	!	ZP	O	
+
+#id=5
+#text=Juhuuu!!endelig er forumet oppe :D Glæder mig FscKED op meget til siden er klar :)
+5-1	Juhuuu	Juhuuu	NP:siu#:--:----	O	
+5-2	!	!	ZP	O	
+5-3	!	!	ZP	O	
+5-4	endelig	endelig	D-:----:--:u---	O	
+5-5	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+5-6	forumet	forumet	NC:sdun:--:----	O	
+5-7	oppe	oppe	D-:----:--:u---	O	
+5-8	:	:	ZP	O	
+5-9	D	D	PP:s-un:--:-3n-	O	
+5-10	Glæder	glæde	VF:----:sa:----	B-verb.change	
+5-11	mig	jeg	PP:s-uc:--:-1#-	O	
+5-12	FscKED	FscKED	NP:siu#:--:----	O	
+5-13	op	op	D-:----:--:u---	O	
+5-14	meget	megen	AD:----:--:p---	O	
+5-15	til	til	T-:----:--:----	O	
+5-16	siden	side	NC:sduc:--:----	B-noun.communication|B-noun.attribute|B-noun.object|B-noun.cognition|B-noun.person|B-noun.location|B-noun.motive	
+5-17	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+5-18	klar	klar	AC:siuc:--:p---	B-adj.all|B-adj.phys|B-adj.mental	
+5-19	:	:	ZP	O	
+5-20	)	)	ZD	O	
+
+#id=6
+#text=Bleach:
+6-1	Bleach	Bleach	NP:siu#:--:----	O	
+6-2	:	:	ZP	O	
+
+#id=7
+#text=Skal man Blane sit sidedeck...
+7-1	Skal	Skal	XY:----:--:----	O	
+7-2	man	man	XY:----:--:----	O	
+7-3	Blane	Blane	XY:----:--:----	O	
+7-4	sit	sit	XY:----:--:----	O	
+7-5	sidedeck	sidedeck	XY:----:--:----	O	
+7-6	.	.	XY:----:--:----	O	
+7-7	.	.	XY:----:--:----	O	
+7-8	.	.	XY:----:--:----	O	
+
+#id=8
+#text=Nej,jeg mener, Sasuke og Narutos situation.
+8-1	Nej	nej	I-:----:--:----	O	
+8-2	,	,	ZD	O	
+8-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+8-4	mener	mene	VF:----:sa:----	B-verb.cognition|B-verb.communication	
+8-5	,	,	ZD	O	
+8-6	Sasuke	Sasuke	NP:siu#:--:----	O	
+8-7	og	og	CC:----:--:----	O	
+8-8	Narutos	Narutos	NP:sig#:--:----	O	
+8-9	situation	situation	NC:siuc:--:----	B-noun.act|B-noun.state	
+8-10	.	.	ZP	O	
+
+#id=9
+#text=Mener du ikke omvendt? - der er jo næsten kun udkommet shounen-manga i Danmark.
+9-1	Mener	mene	VF:----:sa:----	B-verb.cognition|B-verb.communication	
+9-2	du	du	PP:s-nc:--:-2n-	O	
+9-3	ikke	ikke	D-:----:--:u---	O	
+9-4	omvendt	omvendt	AC:siu§:--:p---	O	
+9-5	?	?	:----:--:----	O	
+9-6	-	-	ZH	O	
+9-7	der	der	US:----:--:----	O	
+9-8	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+9-9	jo	jo	D-:----:--:u---	O	
+9-10	næsten	næsten	D-:----:--:u---	O	
+9-11	kun	kun	D-:----:--:u---	O	
+9-12	udkommet	udkomme	VT:siu#:t-:----	O	
+9-13	shounen	shounen	LC:--u-:--:----	O	
+9-14	-	-	ZH	O	
+9-15	manga	manga	XS:----:--:----	O	
+9-16	i	i	T-:----:--:----	O	
+9-17	Danmark	Danmark	NP:siu#:--:----	O	
+9-18	.	.	ZP	O	
+
+#id=10
+#text=Jeg er ikke helt færdig med den, men jeg arbejder hårdt på at finde de rigtige ord så sætningen giver mening. fuun= uheldig/uheldigt/ond (dårlig) skæbne/ skæbne fuun = "hmm" på dansk densetsu:legende (legendarisk) shoukin=dusør kubi=hals (i dette tilfælde en dusør på hans hoved) onime no kyou=Kyo med dæmonøjnene nani nani=?????? te ni ha go shaku= at få/komme i besiddelse af te ni ha = i hånden go shaku = 5 shaku (ca lig med 1,5 meter) oodachi= kæmpesværd
+10-1	Jeg	Jeg	XY:----:--:----	O	
+10-2	er	er	XY:----:--:----	O	
+10-3	ikke	ikke	XY:----:--:----	O	
+10-4	helt	helt	XY:----:--:----	O	
+10-5	færdig	færdig	XY:----:--:----	O	
+10-6	med	med	XY:----:--:----	O	
+10-7	den	den	XY:----:--:----	O	
+10-8	,	,	XY:----:--:----	O	
+10-9	men	men	XY:----:--:----	O	
+10-10	jeg	jeg	XY:----:--:----	O	
+10-11	arbejder	arbejder	XY:----:--:----	O	
+10-12	hårdt	hårdt	XY:----:--:----	O	
+10-13	på	på	XY:----:--:----	O	
+10-14	at	at	XY:----:--:----	O	
+10-15	finde	finde	XY:----:--:----	O	
+10-16	de	de	XY:----:--:----	O	
+10-17	rigtige	rigtige	XY:----:--:----	O	
+10-18	ord	ord	XY:----:--:----	O	
+10-19	så	så	XY:----:--:----	O	
+10-20	sætningen	sætningen	XY:----:--:----	O	
+10-21	giver	giver	XY:----:--:----	O	
+10-22	mening	mening	XY:----:--:----	O	
+10-23	.	.	XY:----:--:----	O	
+10-24	fuun=	fuun=	XY:----:--:----	O	
+10-25	uheldig	uheldig	XY:----:--:----	O	
+10-26	/	/	XY:----:--:----	O	
+10-27	uheldigt	uheldigt	XY:----:--:----	O	
+10-28	/	/	XY:----:--:----	O	
+10-29	ond	ond	XY:----:--:----	O	
+10-30	(	(	XY:----:--:----	O	
+10-31	dårlig	dårlig	XY:----:--:----	O	
+10-32	)	)	XY:----:--:----	O	
+10-33	skæbne	skæbne	XY:----:--:----	O	
+10-34	/	/	XY:----:--:----	O	
+10-35	skæbne	skæbne	XY:----:--:----	O	
+10-36	fuun	fuun	XY:----:--:----	O	
+10-37	=	=	XY:----:--:----	O	
+10-38	"	"	XY:----:--:----	O	
+10-39	hmm	hmm	XY:----:--:----	O	
+10-40	"	"	XY:----:--:----	O	
+10-41	på	på	XY:----:--:----	O	
+10-42	dansk	dansk	XY:----:--:----	O	
+10-43	densetsu	densetsu	XY:----:--:----	O	
+10-44	:	:	XY:----:--:----	O	
+10-45	legende	legende	XY:----:--:----	O	
+10-46	(	(	XY:----:--:----	O	
+10-47	legendarisk	legendarisk	XY:----:--:----	O	
+10-48	)	)	XY:----:--:----	O	
+10-49	shoukin=dusør	shoukin=dusør	XY:----:--:----	O	
+10-50	kubi=hals	kubi=hals	AC:##g#:--:c---	O	
+10-51	(	(	XY:----:--:----	O	
+10-52	i	i	XY:----:--:----	O	
+10-53	dette	dette	XY:----:--:----	O	
+10-54	tilfælde	tilfælde	XY:----:--:----	O	
+10-55	en	en	XY:----:--:----	O	
+10-56	dusør	dusør	XY:----:--:----	O	
+10-57	på	på	XY:----:--:----	O	
+10-58	hans	hans	XY:----:--:----	O	
+10-59	hoved	hoved	XY:----:--:----	O	
+10-60	)	)	XY:----:--:----	O	
+10-61	onime	onime	XY:----:--:----	O	
+10-62	no	no	XY:----:--:----	O	
+10-63	kyou=Kyo	kyou=Kyo	XY:----:--:----	O	
+10-64	med	med	XY:----:--:----	O	
+10-65	dæmonøjnene	dæmonøjnene	XY:----:--:----	O	
+10-66	nani	nani	XY:----:--:----	O	
+10-67	nani=	nani=	XY:----:--:----	O	
+10-68	?	?	XY:----:--:----	O	
+10-69	?	?	XY:----:--:----	O	
+10-70	?	?	XY:----:--:----	O	
+10-71	?	?	XY:----:--:----	O	
+10-72	?	?	XY:----:--:----	O	
+10-73	?	?	XY:----:--:----	O	
+10-74	te	te	XY:----:--:----	O	
+10-75	ni	ni	XY:----:--:----	O	
+10-76	ha	ha	XY:----:--:----	O	
+10-77	go	go	XY:----:--:----	O	
+10-78	shaku=	shaku=	XY:----:--:----	O	
+10-79	at	at	XY:----:--:----	O	
+10-80	få	få	XY:----:--:----	O	
+10-81	/	/	XY:----:--:----	O	
+10-82	komme	komme	XY:----:--:----	O	
+10-83	i	i	XY:----:--:----	O	
+10-84	besiddelse	besiddelse	XY:----:--:----	O	
+10-85	af	af	XY:----:--:----	O	
+10-86	te	te	XY:----:--:----	O	
+10-87	ni	ni	XY:----:--:----	O	
+10-88	ha	ha	XY:----:--:----	O	
+10-89	=	=	XY:----:--:----	O	
+10-90	i	i	XY:----:--:----	O	
+10-91	hånden	hånden	XY:----:--:----	O	
+10-92	go	go	XY:----:--:----	O	
+10-93	shaku	shaku	XY:----:--:----	O	
+10-94	=	=	XY:----:--:----	O	
+10-95	5	5	XY:----:--:----	O	
+10-96	shaku	shaku	XY:----:--:----	O	
+10-97	(	(	XY:----:--:----	O	
+10-98	ca	ca	XY:----:--:----	O	
+10-99	lig	lig	XY:----:--:----	O	
+10-100	med	med	XY:----:--:----	O	
+10-101	1	1	XY:----:--:----	O	
+10-102	,	,	XY:----:--:----	O	
+10-103	5	5	XY:----:--:----	O	
+10-104	meter	meter	XY:----:--:----	O	
+10-105	)	)	XY:----:--:----	O	
+10-106	oodachi=	oodachi=	XY:----:--:----	O	
+10-107	kæmpesværd	kæmpesværd	XY:----:--:----	O	
+
+#id=11
+#text=Jeghar et enkelt afsnit af det japanske mangablad, Dragon Magazine, og et fødselsdagsnummer af Doraemon:
+11-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+11-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+11-3	et	en	PI:s-un:--:----	O	
+11-4	enkelt	enkelt	AC:siu§:--:p---	B-adj.all	
+11-5	afsnit	afsnit	NC:siun:--:----	B-noun.time|B-noun.abstract|B-noun.artifact|B-noun.communication	
+11-6	af	af	T-:----:--:----	O	
+11-7	det	den	PM:s-un:--:----	O	
+11-8	japanske	japansk	AC:sdu#:--:p---	B-adj.social	
+11-9	mangablad	mangablad	NC:siun:--:----	O	
+11-10	,	,	ZD	O	
+11-11	Dragon	dragon	NC:siuc:--:----	B-noun.person	
+11-12	Magazine	Magazine	NP:siu#:--:----	O	
+11-13	,	,	ZD	O	
+11-14	og	og	CC:----:--:----	O	
+11-15	et	en	PI:s-un:--:----	O	
+11-16	fødselsdagsnummer	fødselsdagsnummer	NC:siun:--:----	O	
+11-17	af	af	T-:----:--:----	O	
+11-18	Doraemon	Doraemon	NP:siu#:--:----	O	
+11-19	:	:	ZP	O	
+
+#id=12
+#text=Ogsåmed Japansk tale. :D Det er meget sjovere at høre de originale stemmer, og de er ofte også bedre end de amerikanske.
+12-1	Også	også	D-:----:--:u---	O	
+12-2	med	med	T-:----:--:----	O	
+12-3	Japansk	japansk	AC:siu§:--:p---	B-adj.social	
+12-4	tale	tale	NC:siuc:--:----	B-noun.communication|B-noun.act|B-noun.motive	
+12-5	.	.	ZP	O	
+12-6	:	:	ZP	O	
+12-7	D	D	PP:s-un:--:-3n-	O	
+12-8	Det	det	PP:s-un:--:-3n-	O	
+12-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+12-10	meget	megen	AD:----:--:p---	O	
+12-11	sjovere	sjov	AC:##u#:--:c---	B-adj.mental	
+12-12	at	at	UI:----:--:----	O	
+12-13	høre	høre	VI:----:-a:----	B-verb.phenomenon	
+12-14	de	den	PM:p-u#:--:----	O	
+12-15	originale	original	AC:p#u#:--:p---	B-adj.all	
+12-16	stemmer	stemme	NC:piu#:--:----	B-noun.communication|B-noun.act|B-noun.phenomenon|B-noun.person|B-noun.TOP	
+12-17	,	,	ZD	O	
+12-18	og	og	CC:----:--:----	O	
+12-19	de	de	PP:p-n#:--:-3n-	O	
+12-20	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+12-21	ofte	ofte	D-:----:--:u---	O	
+12-22	også	også	D-:----:--:u---	O	
+12-23	bedre	god	AC:##u#:--:c---	B-adj.all	
+12-24	end	end	CS:----:--:----	O	
+12-25	de	den	PM:p-u#:--:----	O	
+12-26	amerikanske	amerikansk	AC:p#u#:--:p---	B-adj.social	
+12-27	.	.	ZP	O	
+
+#id=13
+#text=OK.
+13-1	OK	ok	I-:----:--:----	O	
+13-2	.	.	ZP	O	
+
+#id=14
+#text=ensjællandsk? :o ok er med :D
+14-1	en	en	PI:s-uc:--:----	O	
+14-2	sjællandsk	sjællandsk	AC:siuc:--:p---	O	
+14-3	?	?	ZQ	O	
+14-4	:	:	ZP	O	
+14-5	o	o	XF:----:--:----	O	
+14-6	ok	ok	XY:----:--:----	O	
+14-7	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+14-8	med	med	T-:----:--:----	O	
+14-9	:	:	ZP	O	
+14-10	D	D	PP:s-un:--:-3n-	O	
+
+#id=15
+#text=Mesterdetektiven Conan bind 4 1400 kr, hvoraf de 500 kr. skal sættes ind på børneopsparingen
+15-1	Mesterdetektiven	mesterdetektiv	NC:sduc:--:----	O	
+15-2	Conan	Conan	NP:siu#:--:----	O	
+15-3	bind	bind	NC:siun:--:----	B-noun.communication|B-noun.artifact	
+15-4	4	4	LC:--u-:--:----	O	
+15-5	1400	1400	LC:--u-:--:----	O	
+15-6	kr	krone	NC:piu#:--:----	O	
+15-7	,	,	ZD	O	
+15-8	hvoraf	hvoraf	D-:----:--:u---	O	
+15-9	de	den	PM:p-u#:--:----	O	
+15-10	500	500	LC:--u-:--:----	O	
+15-11	kr	krone	NC:piu#:--:----	O	
+15-12	.	.	ZP	O	
+15-13	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+15-14	sættes	sætte	VI:----:-p:----	B-verb.motion|B-verb.act|B-verb.communication|B-verb.change|B-verb.cognition|B-verb.phenomenon	
+15-15	ind	ind	D-:----:--:u---	O	
+15-16	på	på	T-:----:--:----	O	
+15-17	børneopsparingen	børneopsparing	NC:sduc:--:----	B-noun.quantity	
+
+#id=16
+#text=Okay, tak skal du ha' Alex.
+16-1	Okay	okay	AC:§§u§:--:p---	O	
+16-2	,	,	ZD	O	
+16-3	tak	tak	NC:siuc:--:----	B-noun.object|B-noun.act|B-noun.quantity|B-noun.body	
+16-4	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+16-5	du	du	PP:s-nc:--:-2n-	O	
+16-6	ha	have	VI:----:-a:----	O	
+16-7	'	'	ZA	O	
+16-8	Alex	Alex	NP:siu#:--:----	O	
+16-9	.	.	ZP	O	
+
+#id=17
+#text=Engelsk
+17-1	Engelsk	engelsk	AC:siu§:--:p---	B-adj.social	
+
+#id=18
+#text=hehe,det vidste jeg godt i forvejen, men jeg vidste ikke at det var sikkert at det blev Naruto (Jeg fik en email fra Carlsen hvori der stod at de enten ville udgive Kenshin eller Naruto)
+18-1	hehe	hehe	I-:----:--:----	O	
+18-2	,	,	ZD	O	
+18-3	det	det	PP:s-un:--:-3n-	O	
+18-4	vidste	vide	VF:----:ta:----	B-verb.cognition|B-verb.emotion	
+18-5	jeg	jeg	PP:s-nc:--:-1n-	O	
+18-6	godt	god	AD:----:--:p---	B-adj.all	
+18-7	i	i	T-:----:--:----	O	
+18-8	forvejen	forvejen	NC:§§u§:--:----	O	
+18-9	,	,	ZD	O	
+18-10	men	men	CC:----:--:----	O	
+18-11	jeg	jeg	PP:s-nc:--:-1n-	O	
+18-12	vidste	vide	VF:----:ta:----	B-verb.cognition|B-verb.emotion	
+18-13	ikke	ikke	D-:----:--:u---	O	
+18-14	at	at	CS:----:--:----	O	
+18-15	det	det	PP:s-un:--:-3n-	O	
+18-16	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+18-17	sikkert	sikker	AD:----:--:p---	B-adj.mental|B-adj.all	
+18-18	at	at	CS:----:--:----	O	
+18-19	det	det	PP:s-un:--:-3n-	O	
+18-20	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+18-21	Naruto	Naruto	NP:siu#:--:----	O	
+18-22	(	(	ZD	O	
+18-23	Jeg	jeg	PP:s-nc:--:-1n-	O	
+18-24	fik	få	VF:----:ta:----	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+18-25	en	en	PI:s-uc:--:----	O	
+18-26	email	email	NC:siuc:--:----	O	
+18-27	fra	fra	T-:----:--:----	O	
+18-28	Carlsen	Carlsen	NP:siu#:--:----	O	
+18-29	hvori	hvori	:----:--:u---	O	
+18-30	der	der	US:----:--:----	O	
+18-31	stod	stå	VF:----:ta:----	B-verb.motion|B-verb.act|B-verb.communication|B-verb.stative|B-verb.emotion	
+18-32	at	at	CS:----:--:----	O	
+18-33	de	de	PP:p-n#:--:-3n-	O	
+18-34	enten	enten	D-:----:--:u---	O	
+18-35	ville	ville	VF:----:ta:----	B-verb.cognition	
+18-36	udgive	udgive	VI:----:-a:----	B-verb.communication	
+18-37	Kenshin	Kenshin	NP:siu#:--:----	O	
+18-38	eller	eller	CC:----:--:----	O	
+18-39	Naruto	Naruto	NP:siu#:--:----	O	
+18-40	)	)	ZD	O	
+
+#id=19
+#text=VELKOMMEN!:D
+19-1	VELKOMMEN	velkommen	AC:siuc:--:p---	O	
+19-2	!	!	ZP	O	
+19-3	:	:	ZP	O	
+19-4	D	D	PP:s-un:--:-3n-	O	
+
+#id=20
+#text=Synes nu ikke at den var vildt voldelig i forhold til f.eks. den første.
+20-1	Synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+20-2	nu	nu	D-:----:--:u---	O	
+20-3	ikke	ikke	D-:----:--:u---	O	
+20-4	at	at	CS:----:--:----	O	
+20-5	den	den	PP:s-uc:--:-3n-	O	
+20-6	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-ative	
+20-7	vildt	vild	AD:----:--:p---	B-adj.phys|B-adj.mental	
+20-8	voldelig	voldelig	AC:siuc:--:p---	B-adj.mental|B-adj.all	
+20-9	i	i	T-:----:--:----	O	
+20-10	forhold	forhold	NC:siun:--:----	B-noun.quantity|B-noun.attribute|B-noun.relation|B-noun.act	
+20-11	til	til	T-:----:--:----	O	
+20-12	f	for	T-:----:--:----	O	
+20-13	.	.	ZP	O	
+20-14	eks	eksempel	NC:siun:--:----	B-noun.person	
+20-15	.	.	ZP	O	
+20-16	den	den	PM:s-uc:--:----	O	
+20-17	første	første	AC:§§u§:--:p---	B-adj.all	
+20-18	.	.	ZP	O	
+
+#id=21
+#text=Eller Hentyder du til at jeg har stjålet min Sig fra 4chan? :D EDIT:
+21-1	Eller	eller	CC:----:--:----	O	
+21-2	Hentyder	hentyde	VF:----:sa:----	O	
+21-3	du	du	PP:s-nc:--:-2n-	O	
+21-4	til	til	D-:----:--:u---	O	
+21-5	at	at	CS:----:--:----	O	
+21-6	jeg	jeg	PP:s-nc:--:-1n-	O	
+21-7	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+21-8	stjålet	stjæle	VT:siu#:t-:----	B-verb.possession|B-verb.act	
+21-9	min	min	XY:----:--:----	O	
+21-10	Sig	sig	PP:#-u#:--:-3y-	O	
+21-11	fra	fra	T-:----:--:----	O	
+21-12	4chan	4chan	NP:siu#:--:----	O	
+21-13	?	?	ZQ	O	
+21-14	:	:	ZP	O	
+21-15	D	d	NP:siu#:--:----	B-noun.communication|B-noun.phenomenon	
+21-16	EDIT	EDIT	NP:siu#:--:----	O	
+21-17	:	:	ZP	O	
+
+#id=22
+#text=Ja,der er kommet mere liv herinde.
+22-1	Ja	ja	I-:----:--:----	O	
+22-2	,	,	ZD	O	
+22-3	der	der	US:----:--:----	O	
+22-4	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+22-5	kommet	komme	VT:siu#:t-:----	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+22-6	mere	megen	AC:##u#:--:c---	O	
+22-7	liv	liv	NC:piu#:--:----	B-noun.object|B-noun.person|B-noun.attribute|B-noun.phenomenon|B-noun.state|B-noun.time|B-noun.body|B-noun.feeling|B-noun.event	
+22-8	herinde	herinde	D-:----:--:u---	O	
+22-9	.	.	ZP	O	
+
+#id=23
+#text=Veddu om der er andre stærke kort ind Exodia og gudekort..
+23-1	Ved	vide	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+23-2	du	du	PP:s-nc:--:-2n-	O	
+23-3	om	om	D-:----:--:u---	O	
+23-4	der	der	US:----:--:----	O	
+23-5	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+23-6	andre	anden	PI:p-u#:--:----	O	
+23-7	stærke	stærk	AC:p#u#:--:p---	B-adj.phys|B-adj.all|B-adj.mental	
+23-8	kort	kort	NC:piu#:--:----	B-noun.communication|B-noun.artifact	
+23-9	ind	ind	D-:----:--:u---	O	
+23-10	Exodia	Exodia	NP:siu#:--:----	O	
+23-11	og	og	CC:----:--:----	O	
+23-12	gudekort	gudekort	NC:siuc:--:----	O	
+23-13	.	.	ZP	O	
+23-14	.	.	ZP	O	
+
+#id=24
+#text=Opdateredelige min liste med hvad jeg havde set og læst siden da: bind 1-3 af Mahoromatic, bind 3 af Love Hina, episode 8-13 af Elfen Lied, episode 1-10 af 2x2 = Shinobuden, Zone of Enders OVA'en, episode 1-2 af Bleach, episode 1 af Genshiken og et ukendt antal episoder af Record of Lodoss War.
+24-1	Opdaterede	Opdaterede	XY:----:--:----	O	
+24-2	lige	lige	XY:----:--:----	O	
+24-3	min	min	XY:----:--:----	O	
+24-4	liste	liste	XY:----:--:----	O	
+24-5	med	med	XY:----:--:----	O	
+24-6	hvad	hvad	XY:----:--:----	O	
+24-7	jeg	jeg	XY:----:--:----	O	
+24-8	havde	havde	XY:----:--:----	O	
+24-9	set	set	XY:----:--:----	O	
+24-10	og	og	XY:----:--:----	O	
+24-11	læst	læst	XY:----:--:----	O	
+24-12	siden	siden	XY:----:--:----	O	
+24-13	da	da	XY:----:--:----	O	
+24-14	:	:	XY:----:--:----	O	
+24-15	bind	bind	XY:----:--:----	O	
+24-16	1	1	XY:----:--:----	O	
+24-17	-	-	XY:----:--:----	O	
+24-18	3	3	XY:----:--:----	O	
+24-19	af	af	XY:----:--:----	O	
+24-20	Mahoromatic	Mahoromatic	XY:----:--:----	O	
+24-21	,	,	XY:----:--:----	O	
+24-22	bind	bind	:----:--:----	O	
+24-23	3	3	XY:----:--:----	O	
+24-24	af	af	XY:----:--:----	O	
+24-25	Love	Love	XY:----:--:----	O	
+24-26	Hina	Hina	XY:----:--:----	O	
+24-27	,	,	XY:----:--:----	O	
+24-28	episode	episode	XY:----:--:----	O	
+24-29	8	8	XY:----:--:----	O	
+24-30	-	-	XY:----:--:----	O	
+24-31	13	13	XY:----:--:----	O	
+24-32	af	af	XY:----:--:----	O	
+24-33	Elfen	Elfen	XY:----:--:----	O	
+24-34	Lied	Lied	XY:----:--:----	O	
+24-35	,	,	XY:----:--:----	O	
+24-36	episode	episode	XY:----:--:----	O	
+24-37	1	1	XY:----:--:----	O	
+24-38	-	-	XY:----:--:----	O	
+24-39	10	10	XY:----:--:----	O	
+24-40	af	af	XY:----:--:----	O	
+24-41	2x2	2x2	XY:----:--:----	O	
+24-42	=	=	XY:----:--:----	O	
+24-43	Shinobuden	Shinobuden	XY:----:--:----	O	
+24-44	,	,	XY:----:--:----	O	
+24-45	Zone	Zone	XY:----:--:----	O	
+24-46	of	of	XY:----:--:----	O	
+24-47	Enders	Enders	XY:----:--:----	O	
+24-48	OVA	OVA	XY:----:--:----	O	
+24-49	'	'	XY:----:--:----	O	
+24-50	en	en	XY:----:--:----	O	
+24-51	,	,	XY:----:--:----	O	
+24-52	episode	episode	XY:----:--:----	O	
+24-53	1	1	XY:----:--:----	O	
+24-54	-	-	XY:----:--:----	O	
+24-55	2	2	XY:----:--:----	O	
+24-56	af	af	XY:----:--:----	O	
+24-57	Bleach	Bleach	XY:----:--:----	O	
+24-58	,	,	XY:----:--:----	O	
+24-59	episode	episode	XY:----:--:----	O	
+24-60	1	1	XY:----:--:----	O	
+24-61	af	af	XY:----:--:----	O	
+24-62	Genshiken	Genshiken	XY:----:--:----	O	
+24-63	og	og	XY:----:--:----	O	
+24-64	et	et	XY:----:--:----	O	
+24-65	ukendt	ukendt	XY:----:--:----	O	
+24-66	antal	antal	XY:----:--:----	O	
+24-67	episoder	episoder	XY:----:--:----	O	
+24-68	af	af	XY:----:--:----	O	
+24-69	Record	Record	XY:----:--:----	O	
+24-70	of	of	XY:----:--:----	O	
+24-71	Lodoss	Lodoss	AC:##g#:--:c---	O	
+24-72	War	War	XY:----:--:----	O	
+24-73	.	.	XY:----:--:----	O	
+
+#id=25
+#text=Grunden er at så vil den måske kunne nå at blive udgivet på dansk alt efter om den er populær i udlandet osv.
+25-1	Grunden	grund	NC:sduc:--:----	B-noun.object|B-noun.location|B-noun.act	
+25-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+25-3	at	at	CS:----:--:----	O	
+25-4	så	så	D-:----:--:u---	O	
+25-5	vil	ville	VF:----:sa:----	B-verb.cognition	
+25-6	den	den	PP:s-uc:--:-3n-	O	
+25-7	måske	måske	D-:----:--:u---	O	
+25-8	kunne	kunne	VF:----:ta:----	B-verb.social	
+25-9	nå	nå	VI:----:-a:----	B-verb.motion|B-verb.communication|B-verb.act	
+25-10	at	at	UI:----:--:----	O	
+25-11	blive	blive	VI:----:-a:----	B-verb.TOP|B-verb.act|B-verb.stative	
+25-12	udgivet	udgive	VT:siu#:t-:----	B-verb.communication	
+25-13	på	på	T-:----:--:----	O	
+25-14	dansk	dansk	AC:siu§:--:p---	B-adj.social|B-adj.phys	
+25-15	alt	alt	D-:----:--:u---	O	
+25-16	efter	er	D-:----:--:u---	O	
+25-17	om	om	T-:----:--:----	O	
+25-18	den	den	:--:-3n-	O	
+25-19	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+25-20	populær	populær	AC:siuc:--:p---	B-adj.social	
+25-21	i	i	T-:----:--:----	O	
+25-22	udlandet	udland	NC:sdun:--:----	B-noun.location|B-noun.person	
+25-23	osv	osv	D-:----:--:u---	O	
+25-24	.	.	ZP	O	
+
+#id=26
+#text=Jeg tror ikke at det er en manga.
+26-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+26-2	tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+26-3	ikke	ikke	D-:----:--:u---	O	
+26-4	at	at	CS:----:--:----	O	
+26-5	det	det	PP:s-un:--:-3n-	O	
+26-6	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+26-7	en	en	PI:s-uc:--:----	O	
+26-8	manga	manga	T-:----:--:----	O	
+26-9	.	.	ZP	O	
+
+#id=27
+#text=Det viste jeg ikke...
+27-1	Det	det	PP:s-un:--:-3n-	O	
+27-2	viste	vise	VF:----:ta:----	B-verb.social|B-verb.communication	
+27-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+27-4	ikke	ikke	D-:----:--:u---	O	
+27-5	.	.	ZP	O	
+27-6	.	.	ZP	O	
+27-7	.	.	ZP	O	
+
+#id=28
+#text=Tiltrods for at have set praktisk talt alt han har lavet, så syntes jeg stadig hans Nausicaa of the Valley of the Wind er den bedste anime film jeg nogensinde har set.
+28-1	Til	til	T-:----:--:----	O	
+28-2	trods	trods	NC:siuc:--:----	B-noun.act	
+28-3	for	for	T-:----:--:----	O	
+28-4	at	at	UI:----:--:----	O	
+28-5	have	have	VI:----:-a:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+28-6	set	se	VT:siu#:t-:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+28-7	praktisk	praktisk	AD:----:--:p---	B-adj.all	
+28-8	talt	tale	VT:siu#:t-:----	B-verb.act|B-verb.communication|B-verb.creation|B-verb.emotion|B-verb.phenomenon	
+28-9	alt	alt	D-:----:--:u---	O	
+28-10	han	han	PP:s-nc:--:-3n-	O	
+28-11	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+28-12	lavet	lave	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.creation|B-verb.phenomenon	
+28-13	,	,	ZD	O	
+28-14	så	så	D-:----:--:u---	O	
+28-15	syntes	synes	VF:----:tp:----	B-verb.stative|B-verb.cognition	
+28-16	jeg	jeg	PP:s-nc:--:-1n-	O	
+28-17	stadig	stadig	D-:----:--:u---	O	
+28-18	hans	hans	PO:#--#:--:-3ns	O	
+28-19	Nausicaa	Nausicaa	NP:siu#:--:----	O	
+28-20	of	of	XF:----:--:----	O	
+28-21	the	the	XF:----:--:----	O	
+28-22	Valley	Valley	NP:siu#:--:----	O	
+28-23	of	of	XF:----:--:----	O	
+28-24	the	the	XF:----:--:----	O	
+28-25	Wind	Wind	NP:siu#:--:----	O	
+28-26	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+28-27	den	den	PM:s-uc:--:----	O	
+28-28	bedste	god	AC:§du§:--:s---	B-adj.all	
+28-29	anime	Anime	NP:siu#:--:----	O	
+28-30	film	Film	NP:siu#:--:----	B-noun.object|B-noun.container|B-noun.artifact	
+28-31	jeg	jeg	NC:siun:--:----	O	
+28-32	nogensinde	nogensinde	D-:----:--:u---	O	
+28-33	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+28-34	set	se	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.emotion|B-verb.cognition|B-verb.phenomenon	
+28-35	.	.	ZP	O	
+
+#id=29
+#text=Jeg syntes det er fint nok de kommer hver anden måned.
+29-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+29-2	syntes	synes	VF:----:tp:----	B-verb.stative|B-verb.cognition	
+29-3	det	det	PP:s-un:--:-3n-	O	
+29-4	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+29-5	fint	fin	AD:----:--:p---	B-adj.phys|B-adj.all	
+29-6	nok	nok	D-:----:--:u---	O	
+29-7	de	de	PP:p-n#:--:-3n-	O	
+29-8	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+29-9	hver	hver	PI:s-uc:--:----	O	
+29-10	anden	anden	PI:s-uc:--:----	O	
+29-11	måned	måned	NC:siuc:--:----	B-noun.time	
+29-12	.	.	ZP	O	
+
+#id=30
+#text=Kareshi Kanojo no Jijou (His and Her Circumstances). kender ikke selv så meget til den, men ved at anime-serien, instrueret af Hideaki Anno (det meste af serien), skulle være ret så populær.
+30-1	Kareshi	Kareshi	NP:siu#:--:----	O	
+30-2	Kanojo	Kanojo	NP:siu#:--:----	O	
+30-3	no	No	XF:----:--:----	O	
+30-4	Jijou	Jijou	NP:siu#:--:----	O	
+30-5	(	(	ZD	O	
+30-6	His	his	NC:siun:--:----	B-noun.object|B-noun.location|B-noun.phenomenon	
+30-7	and	and	NC:siuc:--:----	B-l|B-noun.food|B-noun.phenomenon	
+30-8	Her	Her	NP:siu#:--:----	O	
+30-9	Circumstances	Circumstances	NP:siu#:--:----	O	
+30-10	)	)	ZD	O	
+30-11	.	.	ZP	O	
+30-12	kender	kende	VF:----:sa:----	B-verb.cognition|B-verb.communication|B-verb.emotion	
+30-13	ikke	ikke	D-:----:--:u---	O	
+30-14	selv	selv	D-:----:--:u---	O	
+30-15	så	så	D-:----:--:u---	O	
+30-16	meget	megen	AD:----:--:p---	O	
+30-17	til	til	T-:----:--:----	O	
+30-18	den	den	PP:s-uc:--:-3n-	O	
+30-19	,	,	ZD	O	
+30-20	men	men	CC:----:--:----	O	
+30-21	ved	ved	T-:----:--:----	O	
+30-22	at	at	CS:----:--:----	O	
+30-23	anime	Anime	NP:siu#:--:----	O	
+30-24	-	-	ZH	O	
+30-25	serien	serie	NC:sduc:--:----	B-noun.communication|B-noun.artifact|B-noun.person|B-noun.group	
+30-26	,	,	ZD	O	
+30-27	instrueret	instruere	VT:siu#:t-:----	B-verb.communication	
+30-28	af	af	T-:----:--:----	O	
+30-29	Hideaki	Hideaki	NP:siu#:--:----	O	
+30-30	Anno	anno	NC:siun:--:----	B-noun.TOP	
+30-31	(	(	ZD	O	
+30-32	det	den	PM:s-un:--:----	O	
+30-33	meste	megen	AC:sdu#:--:s---	O	
+30-34	af	af	T-:----:--:----	O	
+30-35	serien	serie	NC:sduc:--:----	B-noun.communication|B-noun.artifact|B-noun.person|B-noun.group	
+30-36	)	)	ZD	O	
+30-37	,	,	ZD	O	
+30-38	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+30-39	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+30-40	ret	ret	D-:----:--:u---	O	
+30-41	så	så	D-:----:--:u---	O	
+30-42	populær	populær	AC:siuc:--:p---	B-adj.social	
+30-43	.	.	ZP	O	
+
+#id=31
+#text=Spørgi en Special butik om de evt. kan hjælpe dig...
+31-1	Spørg	spørge	VM:----:--:----	B-verb.communication	
+31-2	i	i	T-:----:--:----	O	
+31-3	en	en	PI:s-uc:--:----	O	
+31-4	Special	special@	EW:----:--:----	O	
+31-5	butik	butik	NC:siuc:--:----	B-noun.artifact|B-noun.building|B-noun.phenomenon	
+31-6	om	om	T-:----:--:----	O	
+31-7	de	de	NP:siu#:--:----	O	
+31-8	evt	evt	XS:----:--:----	O	
+31-9	.	.	ZP	O	
+31-10	kan	kunne	VF:----:sa:----	B-verb.social	
+31-11	hjælpe	hjælpe	VI:----:-a:----	B-verb.act	
+31-12	dig	du	PP:s-uc:--:-2#-	O	
+31-13	.	.	ZP	O	
+31-14	.	.	ZP	O	
+31-15	.	.	ZP	O	
+
+#id=32
+#text=Dog må det kun være manga bøger og anime'er du må skrive ind om som du har købt.
+32-1	Dog	dog	D-:----:--:u---	O	
+32-2	må	måtte	VF:----:sa:----	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+32-3	det	det	PP:s-un:--:-3n-	O	
+32-4	kun	kun	D-:----:--:u---	O	
+32-5	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+32-6	manga	manganden	PI:s-un:--:----	O	
+32-7	bøger	bog	NC:piu#:--:----	B-noun.communication	
+32-8	og	og	CC:----:--:----	O	
+32-9	anime	Anime	NP:siu#:--:----	O	
+32-10	'	'	ZA	O	
+32-11	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+32-12	du	du	PP:s-nc:--:-2n-	O	
+32-13	må	måtte	VF:----:sa:----	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+32-14	skrive	skrive	VI:----:-a:----	B-verb.creation|B-verb.communication	
+32-15	ind	ind	D-:----:--:u---	O	
+32-16	om	om	CS:----:--:----	O	
+32-17	som	som	US:----:--:----	O	
+32-18	du	du	PP:s-nc:--:-2n-	O	
+32-19	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+32-20	købt	købe	VT:siu#:t-:----	B-verb.possession|B-verb.act	
+32-21	.	.	ZP	O	
+
+#id=33
+#text=Jeghar set Princess mononoke og Laputa castle in the skies Jeg kan skide godt li begge to, selvom jeg ikke syntes Laputa var specielt god da jeg så den, men jeg har jo gået og tænkt over den :P Anyway de er skide gode begge to !
+33-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+33-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+33-3	set	se	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.emotion|B-verb.cognition|B-verb.phenomenon	
+33-4	Princess	princess	XF:----:--:----	O	
+33-5	mononoke	mononokE	XF:----:--:----	O	
+33-6	og	og	CC:----:--:----	O	
+33-7	Laputa	Laputa	NP:siu#:--:----	O	
+33-8	castle	castle	XF:----:--:----	O	
+33-9	in	In	XF:----:--:----	O	
+33-10	the	the	XF:----:--:----	O	
+33-11	skies	skies	NC:siun:--:----	O	
+33-12	Jeg	jeg	NC:siun:--:----	O	
+33-13	kan	kunne	VF:----:sa:----	B-verb.social	
+33-14	skide	skide	AD:----:--:p---	O	
+33-15	godt	god	AD:----:--:p---	B-adj.all	
+33-16	li	li	VI:----:-a:----	O	
+33-17	begge	begge	PM:p-u#:--:----	O	
+33-18	to	to	LC:--u-:--:----	O	
+33-19	,	,	ZD	O	
+33-20	selvom	selvom	CS:----:--:----	O	
+33-21	jeg	jeg	PP:s-nc:--:-1n-	O	
+33-22	ikke	ikke	D-:----:--:u---	O	
+33-23	syntes	synes	VF:----:tp:----	B-verb.stative|B-verb.cognition	
+33-24	Laputa	Laputa	NP:siu#:--:----	O	
+33-25	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+33-26	specielt	speciel	AD:----:--:p---	B-adj.all	
+33-27	god	god	AC:siuc:--:p---	B-adj.all	
+33-28	da	da	CS:----:--:----	O	
+33-29	jeg	jeg	PP:s-nc:--:-1n-	O	
+33-30	så	se	VF:----:ta:----	B-verb.motion|B-verb.change|B-verb.cognition|B-verb.act|B-verb.emotion|B-verb.phenomenon	
+33-31	den	den	PP:s-uc:--:-3n-	O	
+33-32	,	,	ZD	O	
+33-33	men	men	CC:----:--:----	O	
+33-34	jeg	jeg	PP:s-nc:--:-1n-	O	
+33-35	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+33-36	jo	jo	D-:----:--:u---	O	
+33-37	gået	gå	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+33-38	og	og	CC:----:--:----	O	
+33-39	tænkt	tænke	VT:siu#:t-:----	B-verb.cognition|B-verb.act	
+33-40	over	over	T-:----:--:----	O	
+33-41	den	den	PP:s-uc:--:-3n-	O	
+33-42	:	:	ZP	O	
+33-43	P	P	NP:siu#:--:----	B-noun.communication	
+33-44	Anyway	Anyway	NP:siu#:--:----	O	
+33-45	de	de	NP:siu#:--:----	O	
+33-46	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+33-47	skide	skide	AD:----:--:p---	O	
+33-48	gode	god	AC:sdu#:--:p---	B-adj.all	
+33-49	begge	begge	XY:----:--:----	O	
+33-50	to	to	LC:--u-:--:----	O	
+33-51	!	!	ZP	O	
+
+#id=34
+#text=Læreren spurgte om vi skulle noget.
+34-1	Læreren	lærer	NC:sduc:--:----	B-noun.person	
+34-2	spurgte	spørge	VF:----:ta:----	B-verb.communication	
+34-3	om	om	CS:----:--:----	O	
+34-4	vi	vi	PP:p-nc:--:-1n-	O	
+34-5	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+34-6	noget	nogen	PI:s-un:--:----	O	
+34-7	.	.	ZP	O	
+
+#id=35
+#text=>_>,man kan ikke engang købe Dragonball i min by, så hvis jeg skal købe noget manga, skal jeg til at tage bussen _ (Og da jeg kunne fare vild i en telefonboks, så......jah >_>)
+35-1	>_>	>	NP:siu#:--:----	O	
+35-2	,	,	ZD	O	
+35-3	man	man	PI:#-uc:--:----	O	
+35-4	kan	kunne	VF:----:sa:----	B-verb.social	
+35-5	ikke	ikke	D-:----:--:u---	O	
+35-6	engang	engang	D-:----:--:u---	O	
+35-7	købe	købe	VI:----:-a:----	B-verb.possession|B-verb.act	
+35-8	Dragonball	Dragonball	NP:siu#:--:----	O	
+35-9	i	i	T-:----:--:----	O	
+35-10	min	min	PO:s--c:--:-1ns	O	
+35-11	by	by	NC:siuc:--:----	B-noun.location|B-noun.artifact|B-noun.person	
+35-12	,	,	ZD	O	
+35-13	så	så	D-:----:--:u---	O	
+35-14	hvis	hvis	CS:----:--:----	O	
+35-15	jeg	jeg	PP:s-nc:--:-1n-	O	
+35-16	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+35-17	købe	købe	VI:----:-a:----	B-verb.possession|B-verb.act	
+35-18	noget	nogen	PI:s-un:--:----	O	
+35-19	manga	manganden	PI:s-un:--:----	O	
+35-20	,	,	ZD	O	
+35-21	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+35-22	jeg	jeg	PP:s-nc:--:-1n-	O	
+35-23	til	til	T-:----:--:----	O	
+35-24	at	at	UI:----:--:----	O	
+35-25	tage	tage	VI:----:-a:----	B-verb.possession|B-verb.social|B-verb.cognition|B-verb.act|B-verb.creation|B-verb.change|B-verb.motion	
+35-26	bussen	bus	NW:----:--:----	B-noun.artifact|B-noun.vehicle	
+35-27	_	_	ZH	O	
+35-28	(	(	ZD	O	
+35-29	Og	og	CC:----:--:----	O	
+35-30	da	da	CS:----:--:----	O	
+35-31	jeg	jeg	nc:--:-1n-	O	
+35-32	kunne	kunne	VF:----:ta:----	B-verb.social	
+35-33	fare	fare	VI:----:-a:----	B-verb.motion|B-verb.emotion|B-verb.communication|B-verb.phenomenon	
+35-34	vild	vild	AD:----:--:p---	B-adj.phys|B-adj.mental	
+35-35	i	i	T-:----:--:----	O	
+35-36	en	en	PI:s-uc:--:----	O	
+35-37	telefonboks	telefonboks	NC:siuc:--:----	B-noun.building	
+35-38	,	,	ZD	O	
+35-39	så	så	D-:----:--:u---	O	
+35-40	.	.	ZP	O	
+35-41	.	.	ZP	O	
+35-42	.	.	ZP	O	
+35-43	.	.	ZP	O	
+35-44	.	.	ZP	O	
+35-45	.	.	ZP	O	
+35-46	jah	jah	I-:----:--:----	O	
+35-47	>_>	>	NP:siu#:--:----	O	
+35-48	)	)	ZD	O	
+
+#id=36
+#text=Hans seneste værk "Tokyo Godfathers" blev ganske vel modtaget af  den amerikanske filmpresse.
+36-1	Hans	hans	PO:#--#:--:-3ns	O	
+36-2	seneste	sen	AC:§du§:--:s---	B-adj.time	
+36-3	værk	værk	NC:siun:--:----	B-noun.building|B-noun.feeling|B-noun.TOP|B-noun.artifact	
+36-4	"	"	ZI	O	
+36-5	Tokyo	Tokyo	NP:siu#:--:----	O	
+36-6	Godfathers	godfather	NC:piu#:--:----	B-noun.person	
+36-7	"	"	ZI	O	
+36-8	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+36-9	ganske	ganske	D-:----:--:u---	O	
+36-10	vel	vel	D-:----:--:u---	O	
+36-11	modtaget	modtage	VT:siu#:t-:----	B-verb.social|B-verb.communication|B-verb.phenomenon	
+36-12	af	af	T-:----:--:----	O	
+36-13	den	den	PM:s-uc:--:----	O	
+36-14	amerikanske	amerikansk	AC:sdu#:--:p---	B-adj.social	
+36-15	filmpresse	filmpresse	NC:siuc:--:----	O	
+36-16	.	.	ZP	O	
+
+#id=37
+#text=Og der går jeg så i 9.klasse.
+37-1	Og	og	CC:----:--:----	O	
+37-2	der	der	US:----:--:----	O	
+37-3	går	gå	VF:----:sa:----	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+37-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+37-5	så	så	D-:----:--:u---	O	
+37-6	i	i	T-:----:--:----	O	
+37-7	9	9	LC:--u-:--:----	O	
+37-8	.	.	ZP	O	
+37-9	klasse	klasse	NC:siuc:--:----	B-noun.attribute|B-noun.person|B-noun.group|B-noun.artifact	
+37-10	.	.	ZP	O	
+
+#id=38
+#text=Han var selvfølgelig i krig med mange andre, men var det ikke en af de store "familier".
+38-1	Han	han	PP:s-nc:--:-3n-	O	
+38-2	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+38-3	selvfølgelig	selvfølgelig	D-:----:--:u---	O	
+38-4	i	i	T-:----:--:----	O	
+38-5	krig	krig	NC:siuc:--:----	B-noun.act|B-noun.state|B-noun.communication	
+38-6	med	med	T-:----:--:----	O	
+38-7	mange	mangen	AC:p#u#:--:p---	O	
+38-8	andre	anden	PI:p-u#:--:----	O	
+38-9	,	,	ZD	O	
+38-10	men	men	CC:----:--:----	O	
+38-11	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+38-12	det	det	PP:s-un:--:-3n-	O	
+38-13	ikke	ikke	D-:----:--:u---	O	
+38-14	en	en	PI:s-uc:--:----	O	
+38-15	af	af	T-:----:--:----	O	
+38-16	de	den	PM:p-u#:--:----	O	
+38-17	store	stor	AC:p#u#:--:p---	B-adj.phys	
+38-18	"	"	ZI	O	
+38-19	familier	familie	NC:piu#:--:----	B-noun.group|B-noun.person	
+38-20	"	"	ZI	O	
+38-21	.	.	ZP	O	
+
+#id=39
+#text=Jeger 14 år gammel, fylder 15 den 23 juni, sankt hans aften. :)
+39-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+39-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+39-3	14	14	LC:--u-:--:----	O	
+39-4	år	år	NC:piu#:--:----	B-noun.time	
+39-5	gammel	gammel	AC:siuc:--:p---	B-adj.time	
+39-6	,	,	ZD	O	
+39-7	fylder	fylde	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.stative	
+39-8	15	15	D-:----:--:u---	O	
+39-9	den	den	PM:s-uc:--:----	O	
+39-10	23	23	LO:--u#:--:----	O	
+39-11	juni	juni	NC:siuc:--:----	B-noun.time	
+39-12	,	,	ZD	O	
+39-13	sankt	Sankt	AC:sdu#:--:p---	O	
+39-14	hans	hans	PO:#--#:--:-3ns	O	
+39-15	aften	aften	NC:siuc:--:----	B-noun.time	
+39-16	.	.	ZP	O	
+39-17	:	:	ZP	O	
+39-18	)	)	ZD	O	
+
+#id=40
+#text=I fantask betaler du 110-175 kr per bind, for importeret manga.
+40-1	I	i	T-:----:--:----	O	
+40-2	fantask	fantask	NC:siuc:--:----	O	
+40-3	betaler	betale	VF:----:sa:----	B-verb.possession	
+40-4	du	du	PP:s-nc:--:-2n-	O	
+40-5	110	110	D-:----:--:u---	O	
+40-6	-	-	NC:piu#:--:----	O	
+40-7	175	175	LC:--u-:--:----	O	
+40-8	kr	krone	NC:piu#:--:----	O	
+40-9	per	per	T-:----:--:----	O	
+40-10	bind	bind	NC:siun:--:----	B-noun.communication|B-noun.artifact	
+40-11	,	,	ZD	O	
+40-12	for	for	D-:----:--:u---	O	
+40-13	importeret	importere	VT:siu#:t-:----	B-verb.possession	
+40-14	manga	manganden	PI:s-un:--:----	O	
+40-15	.	.	ZP	O	
+
+#id=41
+#text=Ellerbare Nutella, som det var i dette tilfæde ;)
+41-1	Eller	eller	CC:----:--:----	O	
+41-2	bare	bare	D-:----:--:u---	O	
+41-3	Nutella	Nutella	NP:siu#:--:----	O	
+41-4	,	,	ZD	O	
+41-5	som	som	US:----:--:----	O	
+41-6	det	det	PP:s-un:--:-3n-	O	
+41-7	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+41-8	i	i	T-:----:--:----	O	
+41-9	dette	denne	PM:s-un:--:----	O	
+41-10	tilfæde	tilfæde	NC:siun:--:----	O	
+41-11	;	;	ZP	O	
+41-12	)	)	ZD	O	
+
+#id=42
+#text=jegarbejder på sagen....
+42-1	jeg	jeg	PP:s-nc:--:-1n-	O	
+42-2	arbejder	arbejde	VF:----:sa:----	B-verb.social	
+42-3	på	på	T-:----:--:----	O	
+42-4	sagen	sag	NC:sduc:--:----	B-noun.communication|B-noun.person|B-noun.act|B-noun.attribute|B-noun.phenomenon|B-noun.institution|B-noun.cognition|B-noun.food	
+42-5	.	.	ZP	O	
+42-6	.	.	ZP	O	
+42-7	.	.	ZP	O	
+42-8	.	.	ZP	O	
+
+#id=43
+#text=Prisen for det er 39,50 + 10kr i porto.
+43-1	Prisen	pris	NC:sduc:--:----	B-noun.quantity|B-noun.vehicle|B-noun.group|B-noun.artifact	
+43-2	for	for	T-:----:--:----	O	
+43-3	det	det	PP:s-un:--:-3n-	O	
+43-4	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+43-5	39	39	LC:--u-:--:----	O	
+43-6	,	,	ZD	O	
+43-7	50	50	LC:--u-:--:----	O	
+43-8	+	+	XS:----:--:----	O	
+43-9	10kr	10kr	NP:siu#:--:----	O	
+43-10	i	i	T-:----:--:----	O	
+43-11	porto	porto	NC:siuc:--:----	B-noun.quantity	
+43-12	.	.	ZP	O	
+
+#id=44
+#text=Detser også lidt anderledes ud i Opera, men det er da læseligt.
+44-1	Det	det	PP:s-un:--:-3n-	O	
+44-2	ser	se	VF:----:sa:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+44-3	også	også	D-:----:--:u---	O	
+44-4	lidt	lidt	AD:----:--:p---	O	
+44-5	anderledes	anderledes	AD:----:--:p---	B-adj.all	
+44-6	ud	ud	D-:----:--:u---	O	
+44-7	i	i	T-:----:--:----	O	
+44-8	Opera	opera	NC:siuc:--:----	B-noun.institution|B-noun.building|B-noun.artifact	
+44-9	,	,	ZD	O	
+44-10	men	men	CC:----:--:----	O	
+44-11	det	det	PP:s-un:--:-3n-	O	
+44-12	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+44-13	da	da	D-:----:--:u---	O	
+44-14	læseligt	læselig	AC:siun:--:p---	O	
+44-15	.	.	ZP	O	
+
+#id=45
+#text=Måskeer det bare mig, men jeg finder det altså ret irriterende at der ikke er nogen editing funktion.
+45-1	Måske	måske	D-:----:--:u---	O	
+45-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+45-3	det	det	PP:s-un:--:-3n-	O	
+45-4	bare	bare	D-:----:--:u---	O	
+45-5	mig	mig	NC:siun:--:----	O	
+45-6	,	,	ZD	O	
+45-7	men	men	CC:----:--:----	O	
+45-8	jeg	jeg	PP:s-nc:--:-1n-	O	
+45-9	finder	finde	VF:----:sa:----	B-verb.phenomenon|B-verb.cognition|B-verb.act|B-verb.motion	
+45-10	det	det	PP:s-un:--:-3n-	O	
+45-11	altså	altså	D-:----:--:u---	O	
+45-12	ret	ret	D-:----:--:u---	O	
+45-13	irriterende	irriterende	AD:----:--:p---	B-adj.mental	
+45-14	at	at	CS:----:--:----	O	
+45-15	der	der	US:----:--:----	O	
+45-16	ikke	ikke	D-:----:--:u---	O	
+45-17	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+45-18	nogen	nogen	PI:s-uc:--:----	O	
+45-19	editing	editing	NC:siuc:--:----	O	
+45-20	funktion	funktion	NC:siuc:--:----	B-noun.institution|B-noun.TOP|B-noun.act	
+45-21	.	.	ZP	O	
+
+#id=46
+#text=Jeghar flere tegninger på min hjemmeside...
+46-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+46-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+46-3	flere	mange	AC:##u#:--:c---	O	
+46-4	tegninger	tegning	NC:piu#:--:----	B-noun.act|B-noun.location|B-noun.artifact	
+46-5	på	på	T-:----:--:----	O	
+46-6	min	min	PO:s--c:--:-1ns	O	
+46-7	hjemmeside	hjemmeside	NC:siuc:--:----	B-noun.communication	
+46-8	.	.	ZP	O	
+46-9	.	.	ZP	O	
+46-10	.	.	ZP	O	
+
+#id=47
+#text=Et bind består af mange små og morsomme historier om den orange kat, Michael.
+47-1	Et	en	PI:s-un:--:----	O	
+47-2	bind	bind	NC:siun:--:----	B-noun.communication|B-noun.artifact	
+47-3	består	bestå	VF:----:sa:----	B-verb.stative|B-verb.cognition	
+47-4	af	af	T-:----:--:----	O	
+47-5	mange	mangen	AC:p#u#:--:p---	O	
+47-6	små	lille	AC:p#u#:--:p---	B-adj.phys	
+47-7	og	og	CC:----:--:----	O	
+47-8	morsomme	morsom	AC:p#u#:--:p---	B-adj.mental	
+47-9	historier	historie	NC:piu#:--:----	B-noun.event|B-noun.communication|B-noun.phenomenon|B-act|B-noun.domain	
+47-10	om	om	T-:----:--:----	O	
+47-11	den	den	PM:s-uc:--:----	O	
+47-12	orange	orange	AC:§§u§:--:p---	O	
+47-13	kat	kat	NC:siuc:--:----	B-noun.animal|B-noun.communication	
+47-14	,	,	ZD	O	
+47-15	Michael	Michael	NP:siu#:--:----	O	
+47-16	.	.	ZP	O	
+
+#id=48
+#text=jep:D
+48-1	jep	jep	I-:----:--:----	O	
+48-2	:	:	ZP	O	
+48-3	D	D	PP:s-un:--:-3n-	O	
+
+#id=49
+#text=
+
+#id=50
+#text=ArchoN, jeg ved hvor du kan få FMA gratis ( hvis du forstår en hentydning ) 
+50-1	ArchoN	ArchoN	NP:siu#:--:----	O	
+50-2	,	,	ZD	O	
+50-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+50-4	ved	vide	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+50-5	hvor	hvor	XY:----:--:----	O	
+50-6	du	du	XF:----:--:----	O	
+50-7	kan	kunne	VF:----:sa:----	B-verb.social	
+50-8	få	få	VI:----:-a:----	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+50-9	FMA	FMA	NP:siu#:--:----	O	
+50-10	gratis	gratis	AC:§§u§:--:p---	B-adj.all	
+50-11	(	(	ZD	O	
+50-12	hvis	hvis	CS:----:--:----	O	
+50-13	du	du	PP:s-nc:--:-2n-	O	
+50-14	forstår	forstå	VF:----:sa:----	B-verb.phenomenon|B-verb.cognition	
+50-15	en	en	PI:s-uc:--:----	O	
+50-16	hentydning	hentydning	NC:siuc:--:----	B-noun.act	
+50-17	)	)	ZD	O	
+
+#id=51
+#text=hehe...TakFor Tippet 
+51-1	hehe	hehe	I-:----:--:----	O	
+51-2	.	.	ZP	O	
+51-3	.	.	ZP	O	
+51-4	.	.	ZP	O	
+51-5	Tak	tak	NC:siuc:--:----	B-noun.object|B-noun.quantity|B-noun.act|B-noun.body	
+51-6	For	for	T-:----:--:----	O	
+51-7	Tippet	tip	NC:sdun:--:----	B-noun.communication	
+
+#id=52
+#text=De fleste er bare onde, skumle og gennemtænkt helt igennem! mens nogen er lidt sjove..heh..
+52-1	De	den	PM:p-u#:--:----	O	
+52-2	fleste	mange	AC:p#u#:--:s---	O	
+52-3	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+52-4	bare	bare	D-:----:--:u---	O	
+52-5	onde	ond	AC:p#u#:--:p---	B-adj.social	
+52-6	,	,	ZD	O	
+52-7	skumle	skummel	AC:p#u#:--:p---	O	
+52-8	og	og	CC:----:--:----	O	
+52-9	gennemtænkt	gennemtænke	VT:siu#:t-:----	B-verb.cognition	
+52-10	helt	hel	AD:----:--:p---	B-adj.phys	
+52-11	igennem	igennem	T-:----:--:----	O	
+52-12	!	!	ZP	O	
+52-13	mens	mens	CS:----:--:----	O	
+52-14	nogen	nogen	PI:s-uc:--:----	O	
+52-15	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+52-16	lidt	lidt	AD:----:--:p---	O	
+52-17	sjove	sjov	AC:p#u#:--:p---	B-adj.mental	
+52-18	.	.	ZP	O	
+52-19	.	.	ZP	O	
+52-20	heh	heh	I-:----:--:----	O	
+52-21	.	.	ZP	O	
+52-22	.	.	ZP	O	
+
+#id=53
+#text=Det er absolut ikke forbudt at lave ekstra! :wink: - ta' endelig s. 10 Jeg håber at der kommer lidt mere drev over det, når Nytåret er skudt ind!
+53-1	Det	Det	XY:----:--:----	O	
+53-2	er	er	XY:----:--:----	O	
+53-3	absolut	absolut	XY:----:--:----	O	
+53-4	ikke	ikke	XY:----:--:----	O	
+53-5	forbudt	forbudt	XY:----:--:----	O	
+53-6	at	at	XY:----:--:----	O	
+53-7	lave	lave	XY:----:--:----	O	
+53-8	ekstra	ekstra	XY:----:--:----	O	
+53-9	!	!	XY:----:--:----	O	
+53-10	:	:	XY:----:--:----	O	
+53-11	wink	wink	XY:----:--:----	O	
+53-12	:	:	XY:----:--:----	O	
+53-13	-	-	XY:----:--:----	O	
+53-14	ta	ta	XY:----:--:----	O	
+53-15	'	'	XY:----:--:----	O	
+53-16	endelig	endelig	XY:----:--:----	O	
+53-17	s	s	XY:----:--:----	O	
+53-18	.	.	XY:----:--:----	O	
+53-19	10	10	D-:----:--:u---	O	
+53-20	Jeg	jeg	PP:s-nc:--:-1n-	O	
+53-21	håber	håbe	VF:----:sa:----	B-verb.cognition	
+53-22	at	at	CS:----:--:----	O	
+53-23	der	der	US:----:--:----	O	
+53-24	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+53-25	lidt	lidt	AD:----:--:p---	O	
+53-26	mere	megen	AC:##u#:--:c---	O	
+53-27	drev	drev	NC:siun:--:----	B-noun.artifact	
+53-28	over	over	T-:----:--:----	O	
+53-29	det	det	PP:s-un:--:-3n-	O	
+53-30	,	,	ZD	O	
+53-31	når	når	CS:----:--:----	O	
+53-32	Nytåret	nytår	NC:sdun:--:----	B-noun.time	
+53-33	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+53-34	skudt	skamskyde	VT:siu#:t-:----	B-verb.motion|B-verb.communication|B-verb.act|B-verb.phenomenon	
+53-35	ind	ind	D-:----:--:u---	O	
+53-36	!	!	ZP	O	
+
+#id=54
+#text=Jeg kan godt løfte sløret lidt for hvad der kommer på i næste ombæring.
+54-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+54-2	kan	kunne	VF:----:sa:----	B-verb.social	
+54-3	godt	god	AC:siun:--:p---	B-adj.all	
+54-4	løfte	løfte	NC:siun:--:----	B-noun.act	
+54-5	sløret	sløre	VT:siu#:t-:----	B-verb.change|B-verb.phenomenon	
+54-6	lidt	lidt	AD:----:--:p---	O	
+54-7	for	for	CC:----:--:----	O	
+54-8	hvad	hvad	PR:s-u#:--:----	O	
+54-9	der	der	US:----:--:----	O	
+54-10	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+54-11	på	på	D-:----:--:u---	O	
+54-12	i	i	T-:----:--:----	O	
+54-13	næste	næste	AC:§§u§:--:p---	O	
+54-14	ombæring	ombæring	NC:siuc:--:----	B-noun.phenomenon	
+54-15	.	.	ZP	O	
+
+#id=55
+#text=Hehehe...Detsamme her...tror også lige jeg skal en tur forbi Sydkorea først af samme grund som *wish*...Men der skal skam lige penge til...hehe...
+55-1	Hehehe	Hehehe	NP:siu#:--:----	O	
+55-2	.	.	ZP	O	
+55-3	.	.	ZP	O	
+55-4	.	.	ZP	O	
+55-5	Det	det	PP:s-un:--:-3n-	O	
+55-6	samme	samme	AD:----:--:p---	O	
+55-7	her	her	D-:----:--:u---	O	
+55-8	.	.	ZP	O	
+55-9	.	.	ZP	O	
+55-10	.	.	ZP	O	
+55-11	tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+55-12	også	også	D-:----:--:u---	O	
+55-13	lige	lige	D-:----:--:u---	O	
+55-14	jeg	jeg	PP:s-nc:--:-1n-	O	
+55-15	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+55-16	en	en	PI:s-uc:--:----	O	
+55-17	tur	tur	NC:siuc:--:----	B-noun.event|B-noun.act|B-noun.attribute|B-noun.time|B-noun.state	
+55-18	forbi	forbi	T-:----:--:----	O	
+55-19	Sydkorea	Sydkorea	NP:siu#:--:----	O	
+55-20	først	først	D-:----:--:u---	O	
+55-21	af	af	T-:----:--:----	O	
+55-22	samme	samme	AC:§§u§:--:p---	O	
+55-23	grund	grund	NC:siuc:--:----	B-noun.object|B-noun.location|B-noun.act	
+55-24	som	som	US:----:--:----	O	
+55-25	*wish*	*wish*	NP:siu#:--:----	O	
+55-26	.	.	ZP	O	
+55-27	.	.	ZP	O	
+55-28	.	.	ZP	O	
+55-29	Men	men	CC:----:--:----	O	
+55-30	der	der	US:----:--:----	O	
+55-31	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+55-32	skam	skam	D-:----:--:u---	O	
+55-33	lige	lige	D-:----:--:u---	O	
+55-34	penge	penge	NC:piu#:--:----	B-noun.cognition|B-noun.artifact|B-antity	
+55-35	til	til	T-:----:--:----	O	
+55-36	.	.	ZP	O	
+55-37	.	.	ZP	O	
+55-38	.	.	ZP	O	
+55-39	hehe	hehe	I-:----:--:----	O	
+55-40	.	.	ZP	O	
+55-41	.	.	ZP	O	
+55-42	.	.	ZP	O	
+
+#id=56
+#text=Cool,jeg tjekker det ud nu!
+56-1	Cool	cool	AC:§§u§:--:p---	B-adj.all	
+56-2	,	,	ZD	O	
+56-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+56-4	tjekker	tjekke	VF:----:sa:----	B-verb.phenomenon|B-verb.cognition	
+56-5	det	det	PP:s-un:--:-3n-	O	
+56-6	ud	ud	D-:----:--:u---	O	
+56-7	nu	nu	D-:----:--:u---	O	
+56-8	!	!	ZP	O	
+
+#id=57
+#text=Denlyder fed! :o
+57-1	Den	den	PP:s-uc:--:-3n-	O	
+57-2	lyder	lyde	VF:----:sa:----	B-verb.social|B-verb.communication|B-verb.phenomenon	
+57-3	fed	fed	AC:siuc:--:p---	B-adj.phys	
+57-4	!	!	ZP	O	
+57-5	:	:	ZP	O	
+57-6	o	o	XF:----:--:----	O	
+
+#id=58
+#text=Han har arbejdet som character designer på en del Gaianx titler, og står bag Evangelion mangaen.
+58-1	Han	han	PP:s-nc:--:-3n-	O	
+58-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+58-3	arbejdet	arbejde	VT:siu#:t-:----	B-verb.social	
+58-4	som	som	US:----:--:----	O	
+58-5	character	characte	VF:----:sa:----	O	
+58-6	designer	designe	VF:----:sa:----	B-verb.change|B-verb.phenomenon	
+58-7	på	på	T-:----:--:----	O	
+58-8	en	en	PI:s-uc:--:----	O	
+58-9	del	del	NC:siuc:--:----	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.object|B-noun.TOP	
+58-10	Gaianx	Gaianx	NP:siu#:--:----	O	
+58-11	titler	titel	NC:piu#:--:----	B-noun.attribute|B-noun.communication	
+58-12	,	,	ZD	O	
+58-13	og	og	---:--:----	O	
+58-14	står	stå	VF:----:sa:----	B-verb.stative|B-verb.emotion|B-verb.communication|B-verb.act|B-verb.motion	
+58-15	bag	bag	T-:----:--:----	O	
+58-16	Evangelion	Evangelion	XY:----:--:----	O	
+58-17	mangaen	mangae	VG:siuc:--:----	O	
+58-18	.	.	ZP	O	
+
+#id=59
+#text=Jegvil nu ikke sige at Digimon er en efterligning.
+59-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+59-2	vil	ville	VF:----:sa:----	B-verb.cognition	
+59-3	nu	nu	D-:----:--:u---	O	
+59-4	ikke	ikke	D-:----:--:u---	O	
+59-5	sige	sige	VI:----:-a:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+59-6	at	at	CS:----:--:----	O	
+59-7	Digimon	Digimon	NP:siu#:--:----	O	
+59-8	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+59-9	en	en	PI:s-uc:--:----	O	
+59-10	efterligning	efterligning	NC:siuc:--:----	B-noun.artifact	
+59-11	.	.	ZP	O	
+
+#id=60
+#text=Dernu 14 bind. ;)
+60-1	Der	der	US:----:--:----	O	
+60-2	nu	nu	D-:----:--:u---	O	
+60-3	14	14	LC:--u-:--:----	O	
+60-4	bind	bind	NC:piu#:--:----	B-noun.communication|B-noun.artifact	
+60-5	.	.	ZP	O	
+60-6	;	;	ZP	O	
+60-7	)	)	ZD	O	
+
+#id=61
+#text=Både Mangaer og Marvel....Det bliver snart mange tegneserier, der skal læses...
+61-1	Både	både	D-:----:--:u---	O	
+61-2	Mangaer	Mangaer	NP:siu#:--:----	B-noun.communication	
+61-3	og	og	CC:----:--:----	O	
+61-4	Marvel	Marvel	NP:siu#:--:----	O	
+61-5	.	.	ZP	O	
+61-6	.	.	ZP	O	
+61-7	.	.	ZP	O	
+61-8	.	.	ZP	O	
+61-9	Det	det	PP:s-un:--:-3n-	O	
+61-10	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+61-11	snart	snart	D-:----:--:u---	O	
+61-12	mange	mangen	AC:p#u#:--:p---	O	
+61-13	tegneserier	tegneserie	NC:piu#:--:----	B-noun.communication|B-noun.artifact	
+61-14	,	,	ZD	O	
+61-15	der	der	US:----:--:----	O	
+61-16	skal	skal	NC:siuc:--:----	B-noun.plant|B-noun.cognition|B-noun.container|B-noun.body|B-noun.object	
+61-17	læses	læse	VF:----:sp:----	B-verb.cognition	
+61-18	.	.	ZP	O	
+61-19	.	.	ZP	O	
+61-20	.	.	ZP	O	
+
+#id=62
+#text=Ok....MyBad...
+62-1	Ok	ok	I-:----:--:----	O	
+62-2	.	.	ZP	O	
+62-3	.	.	ZP	O	
+62-4	.	.	ZP	O	
+62-5	.	.	ZP	O	
+62-6	My	My	XF:----:--:----	O	
+62-7	Bad	Bad	XF:----:--:----	O	
+62-8	.	.	ZP	O	
+62-9	.	.	ZP	O	
+62-10	.	.	ZP	O	
+
+#id=63
+#text=Jeg syntes ikke,at den er så fedt......(med noget kedelig handling)
+63-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+63-2	syntes	synes	VF:----:tp:----	B-verb.stative|B-verb.cognition	
+63-3	ikke	ikke	D-:----:--:u---	O	
+63-4	,	,	ZD	O	
+63-5	at	at	CS:----:--:----	O	
+63-6	den	den	PP:s-uc:--:-3n-	O	
+63-7	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+63-8	så	så	D-:----:--:u---	O	
+63-9	fedt	fed	AC:siun:--:p---	B-adj.phys	
+63-10	.	.	ZP	O	
+63-11	.	.	ZP	O	
+63-12	.	.	ZP	O	
+63-13	.	.	ZP	O	
+63-14	.	.	ZP	O	
+63-15	.	.	ZP	O	
+63-16	(	(	ZD	O	
+63-17	med	med	T-:----:--:----	O	
+63-18	noget	nogen	PI:s-un:--:----	O	
+63-19	kedelig	kedelig	AC:siuc:--:p---	B-adj.social|B-adj.all|B-adj.mental|B-adj.phys	
+63-20	handling	handling	NC:siuc:--:----	B-noun.event|B-noun.act	
+63-21	)	)	ZD	O	
+
+#id=64
+#text=De enste navne jeg kan huske fra X er Fuuma,  Kamui og Inuki 
+64-1	De	De	PP:#-nc:--:-2n-	O	
+64-2	enste	enste	VI:----:-a:----	O	
+64-3	navne	navn	NC:piu#:--:----	B-noun.communication|B-noun.person|B-noun.attribute	
+64-4	jeg	jeg	NC:siun:--:----	O	
+64-5	kan	kunne	VF:----:sa:----	B-verb.social	
+64-6	huske	huske	VI:----:-a:----	B-verb.cognition	
+64-7	fra	fra	T-:----:--:----	O	
+64-8	X	X	NC:siun:--:----	B-noun.quantity|B-noun.communication	
+64-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+64-10	Fuuma	Fuuma	NP:siu#:--:----	O	
+64-11	,	,	ZD	O	
+64-12	Kamui	Kamui	NP:siu#:--:----	O	
+64-13	og	og	CC:----:--:----	O	
+64-14	Inuki	Inuki	NP:siu#:--:----	O	
+
+#id=65
+#text=Har I også noget på Last exile i dansk Tv?
+65-1	Har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+65-2	I	I	PP:p-nc:--:-2n-	O	
+65-3	også	også	D-:----:--:u---	O	
+65-4	noget	nogen	PI:s-un:--:----	O	
+65-5	på	på	T-:----:--:----	O	
+65-6	Last	last	NC:siuc:--:----	B-noun.group	
+65-7	exile	exile	VI:----:-a:----	O	
+65-8	i	i	T-:----:--:----	O	
+65-9	dansk	dansk	AC:siu§:--:p---	B-adj.social|B-adj.phys	
+65-10	Tv	tv	NC:siun:--:----	B-noun.institution|B-noun.artifact|B-noun.communication|B-noun.act	
+65-11	?	?	ZQ	O	
+
+#id=66
+#text=Men jeg vil gerne høre folks mening om spillet, og om der kunne være noglen sandhed bag mine fornemelser.
+66-1	Men	men	CC:----:--:----	O	
+66-2	jeg	jeg	PP:s-nc:--:-1n-	O	
+66-3	vil	ville	VF:----:sa:----	B-verb.cognition	
+66-4	gerne	gerne	D-:----:--:u---	O	
+66-5	høre	høre	VI:----:-a:----	B-verb.phenomenon	
+66-6	folks	folk	NW:----:--:----	B-noun.domain|B-noun.person|B-noun.communication	
+66-7	mening	mening	NC:siuc:--:----	B-noun.cognition|B-noun.feeling	
+66-8	om	om	T-:----:--:----	O	
+66-9	spillet	spil	NC:sdun:--:----	B-noun.communication|B-noun.phenomenon|B-noun.institution|B-noun.act|B-noun.artifact|B-noun.TOP|B-noun.motive	
+66-10	,	,	ZD	O	
+66-11	og	og	CC:----:--:----	O	
+66-12	om	om	CS:----:--:----	O	
+66-13	der	der	US:----:--:----	O	
+66-14	kunne	kunne	VF:----:ta:----	B-verb.social	
+66-15	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+66-16	noglen	noglen	NC:siun:--:----	O	
+66-17	sandhed	sandhed	NC:siuc:--:----	B-noun.act|B-noun.TOP	
+66-18	bag	bag	T-:----:--:----	O	
+66-19	mine	mine	NC:siuc:--:----	B-noun.location|B-noun.artifact|B-noun.phenomenon	
+66-20	fornemelser	fornemelse	VF:----:sa:----	O	
+66-21	.	.	ZP	O	
+
+#id=67
+#text=Deter fordi nogen ting er noget anderledes i animen, end på kort. the flame swordsman er et fusionmonster på kort (Masaki the legendary swordsman + Flame manipulator), men et normalt monster i animen.
+67-1	Det	Det	XY:----:--:----	O	
+67-2	er	er	XY:----:--:----	O	
+67-3	fordi	fordi	XY:----:--:----	O	
+67-4	nogen	nogen	XY:----:--:----	O	
+67-5	ting	ting	XY:----:--:----	O	
+67-6	er	er	XY:----:--:----	O	
+67-7	noget	noget	XY:----:--:----	O	
+67-8	anderledes	anderledes	XY:----:--:----	O	
+67-9	i	i	XY:----:--:----	O	
+67-10	animen	animen	XY:----:--:----	O	
+67-11	,	,	XY:----:--:----	O	
+67-12	end	end	XY:----:--:----	O	
+67-13	på	på	XY:----:--:----	O	
+67-14	kort	kort	XY:----:--:----	O	
+67-15	.	.	XY:----:--:----	O	
+67-16	the	the	XY:----:--:----	O	
+67-17	flame	flame	XY:----:--:----	O	
+67-18	swordsman	swordsman	XY:----:--:----	O	
+67-19	er	er	XY:----:--:----	O	
+67-20	et	et	XY:----:--:----	O	
+67-21	fusionmonster	fusionmonster	XY:----:--:----	O	
+67-22	på	på	XY:----:--:----	O	
+67-23	kort	kort	XY:----:--:----	O	
+67-24	(	(	-:--:----	O	
+67-25	Masaki	Masaki	XY:----:--:----	O	
+67-26	the	the	XY:----:--:----	O	
+67-27	legendary	legendary	XY:----:--:----	O	
+67-28	swordsman	swordsman	XY:----:--:----	O	
+67-29	+	+	XY:----:--:----	O	
+67-30	Flame	Flame	XY:----:--:----	O	
+67-31	manipulator	manipulator	XY:----:--:----	O	
+67-32	)	)	XY:----:--:----	O	
+67-33	,	,	XY:----:--:----	O	
+67-34	men	men	XY:----:--:----	O	
+67-35	et	et	XY:----:--:----	O	
+67-36	normalt	normalt	XY:----:--:----	O	
+67-37	monster	monster	XY:----:--:----	O	
+67-38	i	i	XY:----:--:----	O	
+67-39	animen	animen	XY:----:--:----	O	
+67-40	.	.	XY:----:--:----	O	
+
+#id=68
+#text=Vagabonder også fed. (Jeg har de to første bind på engelsk), men der er klart mere saft og kraft i f.eks.
+68-1	Vagabond	vagabond	NC:siuc:--:----	B-noun.person	
+68-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+68-3	også	også	D-:----:--:u---	O	
+68-4	fed	fed	AC:siuc:--:p---	B-adj.phys	
+68-5	.	.	ZP	O	
+68-6	(	(	ZD	O	
+68-7	Jeg	jeg	PP:s-nc:--:-1n-	O	
+68-8	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+68-9	de	den	PM:p-u#:--:----	O	
+68-10	to	to	LC:--u-:--:----	O	
+68-11	første	første	AC:§§u§:--:p---	B-adj.all	
+68-12	bind	bind	NC:siun:--:----	B-noun.communication|B-noun.artifact	
+68-13	på	på	T-:----:--:----	O	
+68-14	engelsk	engelsk	NC:siun:--:----	B-noun.domain|B-noun.communication	
+68-15	)	)	ZD	O	
+68-16	,	,	ZD	O	
+68-17	men	men	CC:----:--:----	O	
+68-18	der	der	US:----:--:----	O	
+68-19	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+68-20	klart	klar	AD:----:--:p---	B-adj.phys|B-adj.all|B-adj.mental	
+68-21	mere	megen	AC:##u#:--:c---	O	
+68-22	saft	saft	NC:siuc:--:----	B-noun.substance|B-noun.food	
+68-23	og	og	CC:----:--:----	O	
+68-24	kraft	kraft	NC:siuc:--:----	B-noun.attribute|B-noun.phenomenon|B-noun.feeling	
+68-25	i	i	T-:----:--:----	O	
+68-26	f	for	T-:----:--:----	O	
+68-27	.	.	ZP	O	
+68-28	eks	eksempel	NC:siun:--:----	B-noun.person	
+68-29	.	.	ZP	O	
+
+#id=69
+#text=Næææ, men du vil gerne ha at man gør det.
+69-1	Næææ	Næææ	NP:siu#:--:----	O	
+69-2	,	,	ZD	O	
+69-3	men	men	CC:----:--:----	O	
+69-4	du	du	PP:s-nc:--:-2n-	O	
+69-5	vil	ville	VF:----:sa:----	B-verb.cognition	
+69-6	gerne	gerne	D-:----:--:u---	O	
+69-7	ha	have	VI:----:-a:----	O	
+69-8	at	at	CS:----:--:----	O	
+69-9	man	man	PI:#-uc:--:----	O	
+69-10	gør	gø	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.creation	
+69-11	det	det	PP:s-un:--:-3n-	O	
+69-12	.	.	ZP	O	
+
+#id=70
+#text=I'mglad you like it.
+70-1	I	I	XS:----:--:----	O	
+70-2	'	'	ZA	O	
+70-3	m	m	T-:----:--:----	O	
+70-4	glad	glad	AC:siu§:--:p---	B-adj.mental|B-adj.all	
+70-5	you	You	XF:----:--:----	O	
+70-6	like	Like	XF:----:--:----	O	
+70-7	it	it	XF:----:--:----	O	
+70-8	.	.	ZP	O	
+
+#id=71
+#text=jegskal lige minde jer på af pokemon er sensureret her i danmark og efter min mening synes jeg af pokemon ældre digimon og hamtaro ka alle sesize=12:c28894b175)/size:c28894b175)
+71-1	jeg	jeg	PP:s-nc:--:-1n-	O	
+71-2	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+71-3	lige	lige	D-:----:--:u---	O	
+71-4	minde	minde	VI:----:-a:----	B-verb.cognition|B-verb.communication	
+71-5	jer	jer	XY:----:--:----	O	
+71-6	på	på	T-:----:--:----	O	
+71-7	af	af	T-:----:--:----	O	
+71-8	pokemon	pokemon	D-:----:--:u---	O	
+71-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+71-10	sensureret	sensureret	D-:----:--:u---	O	
+71-11	her	her	D-:----:--:u---	O	
+71-12	i	i	T-:----:--:----	O	
+71-13	danmark	danmark	NC:piu#:--:----	O	
+71-14	og	og	CC:----:--:----	O	
+71-15	efter	efter	T-:----:--:----	O	
+71-16	min	min	PO:s--c:--:-1ns	O	
+71-17	mening	mening	NC:siuc:--:----	B-noun.cognition|B-noun.feeling	
+71-18	synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+71-19	jeg	jeg	PP:s-nc:--:-1n-	O	
+71-20	af	af	D-:----:--:u---	O	
+71-21	pokemon	pokemon	D-:----:--:u---	O	
+71-22	ældre	gammel	AD:----:--:c---	B-adj.time	
+71-23	digimon	digimon	D-:----:--:u---	O	
+71-24	og	og	CC:----:--:----	O	
+71-25	hamtaro	hamtaro	NC:siuc:--:----	O	
+71-26	ka	kunne	VF:----:sa:----	O	
+71-27	alle	al	PI:p-u#:--:----	O	
+71-28	se	se	VI:----:-a:----	B-verb.change|B-verb.act|B-verb.emotion|B-verb.cognition|B-verb.phenomenon	
+71-29	size=12	size=12	NP:siu#:--:----	O	
+71-30	:	:	ZP	O	
+71-31	c28894b175	c28894b175	NP:siu#:--:----	O	
+71-32	)	)	ZD	O	
+71-33	/	/	NC:siuc:--:----	O	
+71-34	size	size	AC:§§u§:--:p---	O	
+71-35	:	:	ZP	O	
+71-36	c28894b175	c28894b175	NP:siu#:--:----	O	
+71-37	)	)	ZD	O	
+
+#id=72
+#text=Det er en af mine favoritanimefilm, efter Wings of Honneamise og Ghost in the Shell.
+72-1	Det	det	PP:s-un:--:-3n-	O	
+72-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+72-3	en	en	PI:s-uc:--:----	O	
+72-4	af	af	T-:----:--:----	O	
+72-5	mine	min	PO:p--#:--:-1ns	O	
+72-6	favoritanimefilm	favoritanimefilm	NC:piu#:--:----	O	
+72-7	,	,	ZD	O	
+72-8	efter	efter	CS:----:--:----	O	
+72-9	Wings	Wings	NP:siu#:--:----	B-noun.person	
+72-10	of	of	XF:----:--:----	O	
+72-11	Honneamise	Honneamise	NP:siu#:--:----	O	
+72-12	og	og	CC:----:--:----	O	
+72-13	Ghost	Ghost	NP:siu#:--:----	O	
+72-14	in	In	XF:----:--:----	O	
+72-15	the	the	XF:----:--:----	O	
+72-16	Shell	Shell	NP:siu#:--:----	O	
+72-17	.	.	ZP	O	
+
+#id=73
+#text=Siden at jeg har lagt maerke til nogle Yugi enthusiaster her syntes jeg at det boere havde blevet naevnt.
+73-1	Siden	siden	D-:----:--:u---	O	
+73-2	at	at	CS:----:--:----	O	
+73-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+73-4	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+73-5	lagt	lægge	VT:siu#:t-:----	B-verb.motion|B-verb.act|B-verb.cognition	
+73-6	maerke	maerke	T-:----:--:----	O	
+73-7	til	til	T-:----:--:----	O	
+73-8	nogle	nogen	PI:p-u#:--:----	O	
+73-9	Yugi	Yugi	NP:siu#:--:----	O	
+73-10	enthusiaster	enthusiaster	NC:piu#:--:----	O	
+73-11	her	her	D-:----:--:u---	O	
+73-12	syntes	synes	VF:----:tp:----	B-verb.stative|B-verb.cognition	
+73-13	jeg	jeg	NC:siun:--:----	O	
+73-14	at	at	CS:----:--:----	O	
+73-15	det	det	PP:s-un:--:-3n-	O	
+73-16	boere	boer	NC:piu#:--:----	O	
+73-17	havde	have	VF:----:ta:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+73-18	blevet	blive	VT:siu#:t-:----	B-verb.TOP|B-verb.act|B-verb.stative	
+73-19	naevnt	naevnt	NC:siuc:--:----	O	
+73-20	.	.	ZP	O	
+
+#id=74
+#text=Los Angeles (E3-messen. behøves jeg at sige mere) 3.
+74-1	Los	Los	NP:siu#:--:----	B-noun.animal|B-noun.building	
+74-2	Angeles	Angeles	NP:siu#:--:----	O	
+74-3	(	(	ZD	O	
+74-4	E3	E3	NP:siu#:--:----	O	
+74-5	-	-	ZH	O	
+74-6	messen	messe	NC:sduc:--:----	B-noun.act|B-noun.artifact|B-noun.communication	
+74-7	.	.	ZP	O	
+74-8	behøves	behøve	VF:----:sp:----	B-verb.stative|B-verb.phenomenon	
+74-9	jeg	jeg	PP:s-nc:--:-1n-	O	
+74-10	at	at	UI:----:--:----	O	
+74-11	sige	sige	VI:----:-a:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+74-12	mere	megen	AD:----:--:c---	O	
+74-13	)	)	ZD	O	
+74-14	3	3	LC:--u-:--:----	O	
+74-15	.	.	ZP	O	
+
+#id=75
+#text=Hentyder du da til at AI Love You ikke er værd at læse?
+75-1	Hentyder	hentyde	VF:----:sa:----	O	
+75-2	du	du	PP:s-nc:--:-2n-	O	
+75-3	da	da	D-:----:--:u---	O	
+75-4	til	til	T-:----:--:----	O	
+75-5	at	at	CS:----:--:----	O	
+75-6	AI	AI	NP:siu#:--:----	O	
+75-7	Love	Love	NP:siu#:--:----	B-noun.cognition|B-noun.motive	
+75-8	You	You	NP:siu#:--:----	O	
+75-9	ikke	ikke	D-:----:--:u---	O	
+75-10	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+75-11	værd	værd	AC:§§u§:--:p---	O	
+75-12	at	at	UI:----:--:----	O	
+75-13	læse	læse	VI:----:-a:----	B-verb.cognition	
+75-14	?	?	ZQ	O	
+
+#id=76
+#text=undskyldden utilsigtede fornærmelse >_>, Men, ja lad os finde en 4 person der kan oversætte >_> :P
+76-1	undskyld	undskylde	VM:----:--:----	B-verb.communication	
+76-2	den	den	PM:s-uc:--:----	O	
+76-3	utilsigtede	utilsigtet	AC:sdu#:--:p---	O	
+76-4	fornærmelse	fornærmelse	NC:siuc:--:----	B-noun.act|B-noun.person	
+76-5	>_>	>	NP:siu#:--:----	O	
+76-6	,	,	ZD	O	
+76-7	Men	men	CC:----:--:----	O	
+76-8	,	,	ZD	O	
+76-9	ja	ja	I-:----:--:----	O	
+76-10	lad	lad	NC:siun:--:----	B-noun.artifact	
+76-11	os	os	XY:----:--:----	O	
+76-12	finde	finde	VI:----:-a:----	B-verb.phenomenon|B-verb.cognition|B-verb.act|B-verb.motion	
+76-13	en	en	PI:s-uc:--:----	O	
+76-14	4	4	LO:--u#:--:----	O	
+76-15	person	person	NC:siuc:--:----	B-noun.person	
+76-16	der	der	US:----:--:----	O	
+76-17	kan	kunne	VF:----:sa:----	B-verb.social	
+76-18	oversætte	oversætte	VI:----:-a:----	B-verb.communication	
+76-19	>_>	>	NP:siu#:--:----	O	
+76-20	:	:	ZP	O	
+76-21	P	P	NP:siu#:--:----	B-noun.communication	
+
+#id=77
+#text=Jeg har lige fået en af mine venner til det også. :)
+77-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+77-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+77-3	lige	lige	D-:----:--:u---	O	
+77-4	fået	få	VT:siu#:t-:----	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+77-5	en	en	PI:s-uc:--:----	O	
+77-6	af	af	T-:----:--:----	O	
+77-7	mine	min	PO:p--#:--:-1ns	O	
+77-8	venner	ven	NC:piu#:--:----	B-noun.person	
+77-9	til	til	T-:----:--:----	O	
+77-10	det	det	PP:s-un:--:-3n-	O	
+77-11	også	også	D-:----:--:u---	O	
+77-12	.	.	ZP	O	
+77-13	:	:	ZP	O	
+77-14	)	)	ZD	O	
+
+#id=78
+#text=Sætningen var meget svær, men du fik fat i nogle af ordene og det er godt, synes jeg.
+78-1	Sætningen	sætning	NC:sduc:--:----	B-noun.communication	
+78-2	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+78-3	meget	megen	AD:----:--:p---	O	
+78-4	svær	svær	AC:siuc:--:p---	B-adj.all	
+78-5	,	,	ZD	O	
+78-6	men	men	CC:----:--:----	O	
+78-7	du	du	PP:s-nc:--:-2n-	O	
+78-8	fik	få	VF:----:ta:----	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+78-9	fat	fat	D-:----:--:u---	O	
+78-10	i	i	T-:----:--:----	O	
+78-11	nogle	nogen	PI:p-u#:--:----	O	
+78-12	af	af	T-:----:--:----	O	
+78-13	ordene	ord	NC:pdu#:--:----	B-noun.act|B-noun.communication	
+78-14	og	og	CC:----:--:----	O	
+78-15	det	det	PP:s-un:--:-3n-	O	
+78-16	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+78-17	godt	god	AD:----:--:p---	B-adj.all	
+78-18	,	,	ZD	O	
+78-19	synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+78-20	jeg	jeg	PP:s-nc:--:-1n-	O	
+78-21	.	.	ZP	O	
+
+#id=79
+#text=Selvfølgelig, kyoto forever :P
+79-1	Selvfølgelig	selvfølgelig	D-:----:--:u---	O	
+79-2	,	,	ZD	O	
+79-3	kyoto	kyoto	LC:--u-:--:----	O	
+79-4	forever	forevvære	VF:----:sa:----	O	
+79-5	:	:	ZP	O	
+79-6	P	P	NP:siu#:--:----	B-noun.communication	
+
+#id=80
+#text=Men personligt synes jeg nu ikke, det er så sjovt at vide, hvad der sker... især ikke hvis det er af stor betydning.
+80-1	Men	men	CC:----:--:----	O	
+80-2	personligt	personlig	AD:----:--:p---	B-adj.social|B-adj.all	
+80-3	synes	syne	VF:----:sp:----	B-verb.stative|B-verb.cognition	
+80-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+80-5	nu	nu	D-:----:--:u---	O	
+80-6	ikke	ikke	D-:----:--:u---	O	
+80-7	,	,	ZD	O	
+80-8	det	det	PP:s-un:--:-3n-	O	
+80-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+80-10	så	så	D-:----:--:u---	O	
+80-11	sjovt	sjov	AC:siun:--:p---	B-adj.mental	
+80-12	at	at	UI:----:--:----	O	
+80-13	vide	vide	VI:----:-a:----	B-verb.cognition|B-verb.emotion	
+80-14	,	,	ZD	O	
+80-15	hvad	hvad	PR:s-u#:--:----	O	
+80-16	der	der	US:----:--:----	O	
+80-17	sker	ske	VF:----:sa:----	B-verb.phenomenon|B-verb.act	
+80-18	.	.	ZP	O	
+80-19	.	.	ZP	O	
+80-20	.	.	ZP	O	
+80-21	især	især	D-:----:--:u---	O	
+80-22	ikke	ikke	D-:----:--:u---	O	
+80-23	hvis	hvis	CS:----:--:----	O	
+80-24	det	det	PP:s-un:--:-3n-	O	
+80-25	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+80-26	af	af	T-:----:--:----	O	
+80-27	stor	stor	AC:siuc:--:p---	B-adj.phys	
+80-28	betydning	betydning	NC:siuc:--:----	B-noun.cognition	
+80-29	.	.	ZP	O	
+
+#id=81
+#text=Jeger enig at næsten alt anime skal ses med Japansk tale og engelsk tekster, afligevel ser jeg kun Trigun med Engelsk tale da den er genial med dem. :)
+81-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+81-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+81-3	enig	enig	AC:siuc:--:p---	B-adj.mental	
+81-4	at	at	CS:----:--:----	O	
+81-5	næsten	næsten	D-:----:--:u---	O	
+81-6	alt	alt	D-:----:--:u---	O	
+81-7	anime	Anime	NP:siu#:--:----	O	
+81-8	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+81-9	ses	se	VI:----:-p:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+81-10	med	med	T-:----:--:----	O	
+81-11	Japansk	pansk	AC:siu§:--:p---	B-adj.social	
+81-12	tale	tale	NC:siuc:--:----	B-noun.communication|B-noun.act|B-noun.motive	
+81-13	og	og	CC:----:--:----	O	
+81-14	engelsk	engelsk	AC:siu§:--:p---	B-adj.social	
+81-15	tekster	tekster	NC:siuc:--:----	B-noun.communication|B-noun.person	
+81-16	,	,	ZD	O	
+81-17	afligevel	afligevel	D-:----:--:u---	O	
+81-18	ser	se	VF:----:sa:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+81-19	jeg	jeg	PP:s-nc:--:-1n-	O	
+81-20	kun	kun	D-:----:--:u---	O	
+81-21	Trigun	Trigun	NP:siu#:--:----	O	
+81-22	med	med	T-:----:--:----	O	
+81-23	Engelsk	engelsk	AC:siu§:--:p---	B-adj.social	
+81-24	tale	tale	NC:siuc:--:----	B-noun.communication|B-noun.act|B-noun.motive	
+81-25	da	da	CS:----:--:----	O	
+81-26	den	den	PP:s-uc:--:-3n-	O	
+81-27	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+81-28	genial	genial	AC:siuc:--:p---	O	
+81-29	med	med	T-:----:--:----	O	
+81-30	dem	de	PP:p-u#:--:-3n-	O	
+81-31	.	.	ZP	O	
+81-32	:	:	ZP	O	
+81-33	)	)	ZD	O	
+
+#id=82
+#text=Vi krydser fingre for noget godt Jeg håber på Angel Sanctuary
+82-1	Vi	vi	PP:p-nc:--:-1n-	O	
+82-2	krydser	krydse	VF:----:sa:----	B-verb.motion|B-verb.act|B-verb.creation	
+82-3	fingre	finger	NC:piu#:--:----	B-noun.object|B-noun.location|B-noun.quantity|B-noun.artifact|B-noun.body	
+82-4	for	for	T-:----:--:----	O	
+82-5	noget	nogen	PI:s-un:--:----	O	
+82-6	godt	god	AC:siun:--:p---	B-adj.all	
+82-7	Jeg	jeg	PP:s-nc:--:-1n-	O	
+82-8	håber	håbe	VF:----:sa:----	B-verb.cognition	
+82-9	på	på	T-:----:--:----	O	
+82-10	Angel	Angel	NP:siu#:--:----	O	
+82-11	Sanctuary	Sanctuary	NP:siu#:--:----	O	
+
+#id=83
+#text=Er det så dig, der kan Pizza Stederne?  :D
+83-1	Er	Er	XY:----:--:----	O	
+83-2	det	det	XY:----:--:----	O	
+83-3	så	så	XY:----:--:----	O	
+83-4	dig	dig	XY:----:--:----	O	
+83-5	,	,	XY:----:--:----	O	
+83-6	der	der	XY:----:--:----	O	
+83-7	kan	kan	XY:----:--:----	O	
+83-8	Pizza	Pizza	XY:----:--:----	O	
+83-9	Stederne	Stederne	XY:----:--:----	O	
+83-10	?	?	XY:----:--:----	O	
+83-11	:	:	XY:----:--:----	O	
+83-12	D	D	PP:s-un:--:-3n-	O	
+
+#id=84
+#text=Detteer indlæg nummer 1999, og ja, lige nu er "Flest brugere online på samme tid" også  steget til 10. :)
+84-1	Dette	denne	PM:s-un:--:----	O	
+84-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+84-3	indlæg	indlæg	NC:siun:--:----	B-noun.act|B-noun.artifact|B-ication	
+84-4	nummer	nummer	NC:siun:--:----	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.act	
+84-5	1999	1999	LC:--u-:--:----	O	
+84-6	,	,	ZD	O	
+84-7	og	og	CC:----:--:----	O	
+84-8	ja	ja	I-:----:--:----	O	
+84-9	,	,	ZD	O	
+84-10	lige	lige	D-:----:--:u---	O	
+84-11	nu	nu	D-:----:--:u---	O	
+84-12	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+84-13	"	"	ZI	O	
+84-14	Flest	Flest	XY:----:--:----	O	
+84-15	brugere	bruger	NC:piu#:--:----	B-noun.person	
+84-16	online	online	AD:----:--:p---	O	
+84-17	på	på	T-:----:--:----	O	
+84-18	samme	samme	AC:§§u§:--:p---	O	
+84-19	tid	tid	NC:siuc:--:----	B-noun.communication|B-noun.time|B-noun.attribute|B-noun.quantity|B-noun.motive|B-noun.TOP	
+84-20	"	"	ZI	O	
+84-21	også	også	D-:----:--:u---	O	
+84-22	steget	stige	VT:siu#:t-:----	B-verb.motion|B-verb.phenomenon	
+84-23	til	til	T-:----:--:----	O	
+84-24	10	10	LC:--u-:--:----	O	
+84-25	.	.	ZP	O	
+84-26	:	:	ZP	O	
+84-27	)	)	ZD	O	
+
+#id=85
+#text=Jegbor ved helsingør så desværre :(
+85-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+85-2	bor	bo	VF:----:sa:----	B-verb.motion|B-verb.communication	
+85-3	ved	ved	D-:----:--:u---	O	
+85-4	helsingør	helsingø	VF:----:sa:----	O	
+85-5	så	så	D-:----:--:u---	O	
+85-6	desværre	desværre	D-:----:--:u---	O	
+85-7	:	:	ZP	O	
+85-8	(	(	ZD	O	
+
+#id=86
+#text="Måskekommer ham den lækre samurai i aften, og nu vil mit hår bare slet ikke som jeg vil!" (frit oversat)
+86-1	"	"	ZI	O	
+86-2	Måske	måske	D-:----:--:u---	O	
+86-3	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+86-4	ham	han	PP:s-uc:--:-3n-	O	
+86-5	den	den	PM:s-uc:--:----	O	
+86-6	lækre	lækker	AC:sdu#:--:p---	B-adj.phys	
+86-7	samurai	samurai	NC:siuc:--:----	B-noun.body	
+86-8	i	i	T-:----:--:----	O	
+86-9	aften	aften	NC:siuc:--:----	B-noun.time	
+86-10	,	,	ZD	O	
+86-11	og	og	CC:----:--:----	O	
+86-12	nu	nu	D-:----:--:u---	O	
+86-13	vil	vil	XY:----:--:----	O	
+86-14	mit	mit	XF:----:--:----	O	
+86-15	hår	hår	NC:siun:--:----	B-noun.body|B-noun.plant|B-noun.group	
+86-16	bare	bare	D-:----:--:u---	O	
+86-17	slet	slet	D-:----:--:u---	O	
+86-18	ikke	ikke	D-:----:--:u---	O	
+86-19	som	som	US:----:--:----	O	
+86-20	jeg	jeg	PP:s-nc:--:-1n-	O	
+86-21	vil	ville	VF:----:sa:----	B-verb.cognition	
+86-22	!	!	ZP	O	
+86-23	"	"	ZI	O	
+86-24	(	(	ZD	O	
+86-25	frit	fri	AD:----:--:p---	B-adj.all	
+86-26	oversat	oversætte	VT:siu#:t-:----	B-verb.communication	
+86-27	)	)	ZD	O	
+
+#id=87
+#text=Hejsaalle sammen Jeg har ganske vist lige oversat side 9, men da der ikke rigtig er nogen der har meldt sig, må jeg så gerne oversætte side 10?
+87-1	Hejsa	Hejsa	XY:----:--:----	O	
+87-2	alle	al	PI:p-u#:--:----	O	
+87-3	sammen	sammen	D-:----:--:u---	O	
+87-4	Jeg	jeg	PP:s-nc:--:-1n-	O	
+87-5	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+87-6	ganske	ganske	D-:----:--:u---	O	
+87-7	vist	vist	D-:----:--:u---	O	
+87-8	lige	lige	D-:----:--:u---	O	
+87-9	oversat	oversætte	VT:siu#:t-:----	B-verb.communication	
+87-10	side	sid	AC:p#u#:--:p---	O	
+87-11	9	9	LC:--u-:--:----	O	
+87-12	,	,	ZD	O	
+87-13	men	men	CC:----:--:----	O	
+87-14	da	da	CS:----:--:----	O	
+87-15	der	der	US:----:--:----	O	
+87-16	ikke	ikke	D-:----:--:u---	O	
+87-17	rigtig	rigtig	AD:----:--:p---	B-adj.phys	
+87-18	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+87-19	nogen	nogen	PI:s-uc:--:----	O	
+87-20	der	der	US:----:--:----	O	
+87-21	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+87-22	meldt	melde	VT:siu#:t-:----	B-verb.communication	
+87-23	sig	sig	PP:#-u#:--:-3y-	O	
+87-24	,	,	ZD	O	
+87-25	må	måtte	VF:----:sa:----	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+87-26	jeg	jeg	PP:s-nc:--:-1n-	O	
+87-27	så	så	D-:----:--:u---	O	
+87-28	gerne	gerne	D-:----:--:u---	O	
+87-29	oversætte	oversætte	VI:----:-a:----	B-verb.communication	
+87-30	side	sid	AC:p#u#:--:p---	O	
+87-31	10	10	D-:----:--:u---	O	
+87-32	?	?	ZQ	O	
+
+#id=88
+#text=jeg vil bare gerne have i svare mig når i ved det! :evil:
+88-1	jeg	jeg	PP:s-nc:--:-1n-	O	
+88-2	vil	ville	VF:----:sa:----	B-verb.cognition	
+88-3	bare	bare	D-:----:--:u---	O	
+88-4	gerne	gerne	D-:----:--:u---	O	
+88-5	have	have	VI:----:-a:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+88-6	i	i	D-:----:--:u---	O	
+88-7	svare	svare	VI:----:-a:----	B-verb.possession|B-verb.communication	
+88-8	mig	jeg	PP:s-uc:--:-1#-	O	
+88-9	når	nå	VF:----:sa:----	B-verb.motion|B-verb.communication|B-verb.act	
+88-10	i	i	T-:----:--:----	O	
+88-11	ved	ved	T-:----:--:----	O	
+88-12	det	det	PP:s-un:--:-3n-	O	
+88-13	!	!	ZP	O	
+88-14	:	:	ZP	O	
+88-15	evil	eville	VF:----:sa:----	O	
+88-16	:	:	ZP	O	
+
+#id=89
+#text=som Carlsen blandt andet bruger til at gennemgå deres manga-manuskripter.
+89-1	som	som	US:----:--:----	O	
+89-2	Carlsen	Carlsen	NP:siu#:--:----	O	
+89-3	blandt	blandt	T-:----:--:----	O	
+89-4	andet	anden	PI:s-un:--:----	O	
+89-5	bruger	bruge	VF:----:sa:----	B-verb.act|B-verb.communication	
+89-6	til	til	T-:----:--:----	O	
+89-7	at	at	UI:----:--:----	O	
+89-8	gennemgå	gennemgå	VI:----:-a:----	B-verb.cognition|B-verb.communication	
+89-9	deres	deres	PO:#--#:--:-3np	O	
+89-10	manga	manga	NW:----:--:----	B-noun.communication	
+89-11	-	-	ZH	O	
+89-12	manuskripter	manuskript	NC:piu#:--:----	B-noun.communication	
+89-13	.	.	ZP	O	
+
+#id=90
+#text=Kunen enkelt rettelse ;)
+90-1	Kun	kun	D-:----:--:u---	O	
+90-2	en	en	PI:s-uc:--:----	O	
+90-3	enkelt	enkelt	AC:siu§:--:p---	B-adj.all	
+90-4	rettelse	rettelse	NC:siuc:--:----	B-noun.act	
+90-5	;	;	ZP	O	
+90-6	)	)	ZD	O	
+
+#id=91
+#text=IMesterdetektiven Conan 2 siden før "Den forsvundne mand" ser conan t.v er det ikke Dragon Ball han ser :?: :?:
+91-1	I	i	T-:----:--:----	O	
+91-2	Mesterdetektiven	mesterdetektiv	NC:sduc:--:----	O	
+91-3	Conan	Conan	NP:siu#:--:----	O	
+91-4	2	2	LC:--u-:--:----	O	
+91-5	siden	siden	D-:----:--:u---	O	
+91-6	før	før	T-:----:--:----	O	
+91-7	"	"	ZI	O	
+91-8	Den	den	PM:s-uc:--:----	O	
+91-9	forsvundne	forsvinde	VP:sdu#:t-:----	B-verb.motion|B-verb.act|B-verb.phenomenon	
+91-10	mand	mand	NC:siuc:--:----	B-noun.object|B-noun.person	
+91-11	"	"	ZI	O	
+91-12	ser	se	VF:----:sa:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+91-13	conan	conan	D-:----:--:u---	O	
+91-14	t	t	NC:siuc:--:----	B-noun.communication	
+91-15	.	.	ZP	O	
+91-16	v	v	AC:##u#:--:c---	O	
+91-17	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+91-18	det	det	PP:s-un:--:-3n-	O	
+91-19	ikke	ikke	D-:----:--:u---	O	
+91-20	Dragon	dragon	NC:siuc:--:----	B-noun.person	
+91-21	Ball	Ball	NP:siu#:--:----	O	
+91-22	han	han	XY:----:--:----	O	
+91-23	ser	se	VF:----:sa:----	B-verb.change|B-on|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+91-24	:	:	ZP	O	
+91-25	?	?	ZQ	O	
+91-26	:	:	ZP	O	
+91-27	:	:	ZP	O	
+91-28	?	?	ZQ	O	
+91-29	:	:	ZP	O	
+
+#id=92
+#text=Jegkan se jeg er gammel :) 23 år and counting
+92-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+92-2	kan	kunne	VF:----:sa:----	B-verb.social	
+92-3	se	se	VI:----:-a:----	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+92-4	jeg	jeg	NC:siun:--:----	O	
+92-5	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+92-6	gammel	gammel	AC:siuc:--:p---	B-adj.time	
+92-7	:	:	ZP	O	
+92-8	)	)	ZD	O	
+92-9	23	23	LC:--u-:--:----	O	
+92-10	år	år	NC:piu#:--:----	B-noun.time	
+92-11	and	and	NC:siuc:--:----	B-noun.animal|B-noun.food|B-noun.phenomenon	
+92-12	counting	counting	NC:piu#:--:----	O	
+
+#id=93
+#text=Kundem der har været i Danmark!!!
+93-1	Kun	kun	D-:----:--:u---	O	
+93-2	dem	dem	XY:----:--:----	O	
+93-3	der	der	US:----:--:----	O	
+93-4	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+93-5	været	være	VT:siu#:t-:----	B-verb.TOP|B-verb.social|B-verb.stative	
+93-6	i	i	T-:----:--:----	O	
+93-7	Danmark	Danmark	NP:siu#:--:----	O	
+93-8	!	!	ZP	O	
+93-9	!	!	ZP	O	
+93-10	!	!	ZP	O	
+
+#id=94
+#text=Det håber jeg ikke O_O Jeg tror du har ret i at den nok bliver lidt mere seriøs, og nok også lidt mørkere (forhåbentlig) men jeg tror ikke den mister sin humor...
+94-1	Det	det	PP:s-un:--:-3n-	O	
+94-2	håber	håbe	VF:----:sa:----	B-verb.cognition	
+94-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+94-4	ikke	ikke	D-:----:--:u---	O	
+94-5	O_O	O_O	NP:siu#:--:----	O	
+94-6	Jeg	jeg	NC:siun:--:----	O	
+94-7	tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+94-8	du	du	PP:s-nc:--:-2n-	O	
+94-9	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+94-10	ret	ret	D-:----:--:u---	O	
+94-11	i	i	T-:----:--:----	O	
+94-12	at	at	CS:----:--:----	O	
+94-13	den	den	PP:s-uc:--:-3n-	O	
+94-14	nok	nok	D-:----:--:u---	O	
+94-15	bliver	blive	VF:----:sa:----	B-verb.TOP|B-verb.act|B-verb.stative	
+94-16	lidt	lidt	AD:----:--:p---	O	
+94-17	mere	megen	AD:----:--:c---	O	
+94-18	seriøs	seriøs	AC:siuc:--:p---	B-adj.mental	
+94-19	,	,	ZD	O	
+94-20	og	og	CC:----:--:----	O	
+94-21	nok	nok	D-:----:--:u---	O	
+94-22	også	også	D-:----:--:u---	O	
+94-23	lidt	lidt	AD:----:--:p---	O	
+94-24	mørkere	mørk	AC:##u#:--:c---	B-adj.phys|B-adj.all	
+94-25	(	(	ZD	O	
+94-26	forhåbentlig	forhåbentlig	AC:siuc:--:p---	O	
+94-27	)	)	ZD	O	
+94-28	men	men	CC:----:--:----	O	
+94-29	jeg	jeg	nc:--:-1n-	O	
+94-30	tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+94-31	ikke	ikke	D-:----:--:u---	O	
+94-32	den	den	PP:s-uc:--:-3n-	O	
+94-33	mister	miste	VF:----:sa:----	B-verb.social|B-verb.act|B-verb.phenomenon	
+94-34	sin	sin	PO:s--c:--:-3ys	O	
+94-35	humor	humor	NC:siuc:--:----	B-noun.attribute|B-noun.feeling	
+94-36	.	.	ZP	O	
+94-37	.	.	ZP	O	
+94-38	.	.	ZP	O	
+
+#id=95
+#text=welcomeanimefan
+95-1	welcome	welcome	XF:----:--:----	O	
+95-2	animefan	animeFan	XF:----:--:----	O	
+
+#id=96
+#text=Uchiha Obito  ;)
+96-1	Uchiha	Uchiha	NP:siu#:--:----	O	
+96-2	Obito	Obito	NP:siu#:--:----	O	
+96-3	;	;	ZP	O	
+96-4	)	)	ZD	O	
+
+#id=97
+#text=Mitførste forum, som hvis snart skifter navn: www.manga.1go.dk/forum Et større anime og manga forum: www.animeguiden.dk/forum Det sidste jeg blev medlem på: www.a-otaku.dk/a/community/index.php
+97-1	Mit	Mit	XY:----:--:----	O	
+97-2	første	første	AC:§§u§:--:p---	B-adj.all	
+97-3	forum	forum	NC:siun:--:----	B-noun.cognition|B-noun.person	
+97-4	,	,	ZD	O	
+97-5	som	som	US:----:--:----	O	
+97-6	hvis	hvis	CS:----:--:----	O	
+97-7	snart	snart	D-:----:--:u---	O	
+97-8	skifter	skifte	VF:----:sa:----	B-verb.motion|B-verb.act	
+97-9	navn	navn	iun:--:----	B-noun.communication|B-noun.person|B-noun.attribute	
+97-10	:	:	ZP	O	
+97-11	www	www	XS:----:--:----	O	
+97-12	.	.	ZP	O	
+97-13	manga	manganden	PI:s-un:--:----	O	
+97-14	.	.	ZP	O	
+97-15	1go	1go	NP:siu#:--:----	O	
+97-16	.	.	ZP	O	
+97-17	dk	dk	XS:----:--:----	O	
+97-18	/	/	ZS	O	
+97-19	forum	forum	NC:siun:--:----	B-noun.cognition|B-noun.person	
+97-20	Et	en	PI:s-un:--:----	O	
+97-21	større	stor	AC:##u#:--:c---	B-adj.phys|B-adj.all	
+97-22	anime	Anime	NP:siu#:--:----	O	
+97-23	og	og	CC:----:--:----	O	
+97-24	manga	manganden	PI:s-un:--:----	O	
+97-25	forum	forum	NC:siun:--:----	B-noun.cognition|B-noun.person	
+97-26	:	:	ZP	O	
+97-27	www	www	XS:----:--:----	O	
+97-28	.	.	ZP	O	
+97-29	animeguiden	animeguide	NC:sduc:--:----	O	
+97-30	.	.	ZP	O	
+97-31	dk	dk	XS:----:--:----	O	
+97-32	/	/	ZS	O	
+97-33	forum	forum	NC:siun:--:----	B-noun.cognition|B-noun.person	
+97-34	Det	den	PM:s-un:--:----	O	
+97-35	sidste	sidste	AC:§§u§:--:p---	B-adj.time	
+97-36	jeg	jeg	NC:siun:--:----	O	
+97-37	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+97-38	medlem	medlem	NC:siun:--:----	B-noun.body	
+97-39	på	på	T-:----:--:----	O	
+97-40	:	:	ZP	O	
+97-41	www	www	XS:----:--:----	O	
+97-42	.	.	ZP	O	
+97-43	a	anden	PI:s-un:--:----	O	
+97-44	-	-	NC:piu#:--:----	O	
+97-45	otaku	otakunne	VF:----:ta:----	O	
+97-46	.	.	ZP	O	
+97-47	dk	dk	XS:----:--:----	O	
+97-48	/	/	ZS	O	
+97-49	a	a	XS:----:--:----	O	
+97-50	/	/	ZS	O	
+97-51	community	community	VI:----:-a:----	O	
+97-52	/	/	NC:siuc:--:----	O	
+97-53	index	index	NC:siun:--:----	O	
+97-54	.	.	ZP	O	
+97-55	php	phpro	T-:----:--:----	O	
+
+#id=98
+#text=Måskeskulle du snakke med gutterne på hypernova.dk De har vist en fantasy historie allerede, som de skal i gang med at tegne manga til og kan sikkert bruge en tegner mere.
+98-1	Måske	måske	D-:----:--:u---	O	
+98-2	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+98-3	du	du	PP:s-nc:--:-2n-	O	
+98-4	snakke	snakke	VI:----:-a:----	B-verb.communication	
+98-5	med	med	T-:----:--:----	O	
+98-6	gutterne	gut	NC:pdu#:--:----	B-noun.person	
+98-7	på	på	T-:----:--:----	O	
+98-8	hypernova	hypernova	NC:siuc:--:----	O	
+98-9	.	.	ZP	O	
+98-10	dk	dk	XS:----:--:----	O	
+98-11	De	de	NP:siu#:--:----	O	
+98-12	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+98-13	vist	vise	VT:siu#:t-:----	B-verb.social|B-verb.communication	
+98-14	en	en	PI:s-uc:--:----	O	
+98-15	fantasy	fantasy	NC:siuc:--:----	B-noun.communication	
+98-16	historie	historie	NC:siuc:--:----	B-noun.event|B-noun.communication|B-noun.phenomenon|B-noun.act|B-noun.domain	
+98-17	allerede	allerede	D-:----:--:u---	O	
+98-18	,	,	ZD	O	
+98-19	som	som	US:----:--:----	O	
+98-20	de	de	PP:p-n#:--:-3n-	O	
+98-21	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+98-22	i	i	T-:----:--:----	O	
+98-23	gang	gang	NC:siuc:--:----	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+98-24	med	med	T-:----:--:----	O	
+98-25	at	at	UI:----:--:----	O	
+98-26	tegne	tegne	VI:----:-a:----	B-verb.social|B-verb.creation|B-verb.act|B-verb.communication	
+98-27	manga	manganden	PI:s-un:--:----	O	
+98-28	til	til	T-:----:--:----	O	
+98-29	og	og	CC:----:--:----	O	
+98-30	kan	kunne	VF:----:sa:----	B-verb.social	
+98-31	sikkert	sikker	AD:----:--:p---	B-adj.mental|B-adj.all	
+98-32	bruge	bruge	VI:----:-a:----	B-verb.act|B-verb.communication	
+98-33	en	en	PI:s-uc:--:----	O	
+98-34	tegner	tegner	NC:siuc:--:----	B-noun.person	
+98-35	mere	megen	AD:----:--:c---	O	
+98-36	.	.	ZP	O	
+
+#id=99
+#text=Jeghar to nevøer på 7, som jeg har fundet ud af nogle ting for, og jeg kan fortælle dig at Digimon sluttede i Japan med 4. season for snart to år siden.
+99-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+99-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+99-3	to	to	LC:--u-:--:----	O	
+99-4	nevøer	nevø	NC:piu#:--:----	B-noun.person	
+99-5	på	på	T-:----:--:----	O	
+99-6	7	7	LC:--u-:--:----	O	
+99-7	,	,	ZD	O	
+99-8	som	som	US:----:--:----	O	
+99-9	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-10	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+99-11	fundet	finde	VT:siu#:t-:----	B-verb.motion|B-verb.act|B-verb.cognition|B-verb.phenomenon	
+99-12	ud	ud	D-:----:--:u---	O	
+99-13	af	af	T-:----:--:----	O	
+99-14	nogle	nogen	---	O	
+99-15	ting	ting	NC:piu#:--:----	B-noun.object|B-noun.TOP|B-noun.person|B-noun.artifact	
+99-16	for	for	T-:----:--:----	O	
+99-17	,	,	ZD	O	
+99-18	og	og	CC:----:--:----	O	
+99-19	jeg	jeg	PP:s-nc:--:-1n-	O	
+99-20	kan	kunne	VF:----:sa:----	B-verb.social	
+99-21	fortælle	fortælle	VI:----:-a:----	B-verb.communication	
+99-22	dig	dig	XY:----:--:----	O	
+99-23	at	at	CS:----:--:----	O	
+99-24	Digimon	Digimon	NP:siu#:--:----	O	
+99-25	sluttede	slutte	VF:----:ta:----	B-verb.motion|B-verb.communication|B-verb.act|B-verb.phenomenon	
+99-26	i	i	T-:----:--:----	O	
+99-27	Japan	Japan	NP:siu#:--:----	O	
+99-28	med	med	T-:----:--:----	O	
+99-29	4	4	LC:--u-:--:----	O	
+99-30	.	.	ZP	O	
+99-31	season	seasone	VM:----:--:----	O	
+99-32	for	for	D-:----:--:u---	O	
+99-33	snart	snart	D-:----:--:u---	O	
+99-34	to	to	LC:--u-:--:----	O	
+99-35	år	år	NC:piu#:--:----	B-noun.time	
+99-36	siden	siden	D-:----:--:u---	O	
+99-37	.	.	ZP	O	
+
+#id=100
+#text=Nææhdet er op til dig selv.. så længe der bare ikke er beviser er det lidt svære at overtale / forklare folk at det de siger er forkert :wink: men tror det er mig der har misforstået noget jeg engang læste.. er lige ved at finde ud af det..
+100-1	Nææh	Nææh	NP:siu#:--:----	O	
+100-2	det	det	XY:----:--:----	O	
+100-3	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+100-4	op	op	D-:----:--:u---	O	
+100-5	til	til	T-:----:--:----	O	
+100-6	dig	du	PP:s-uc:--:-2#-	O	
+100-7	selv	selv	PM:#-u#:--:----	O	
+100-8	.	.	ZP	O	
+100-9	.	.	ZP	O	
+100-10	så	så	D-:----:--:u---	O	
+100-11	længe	længe	D-:----:--:u---	O	
+100-12	der	der	US:----:--:----	O	
+100-13	bare	bare	D-:----:--:u---	O	
+100-14	ikke	ikke	D-:----:--:u---	O	
+100-15	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+100-16	beviser	bevis	NC:piu#:--:----	B-noun.communication|B-noun.TOP	
+100-17	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+100-18	det	det	PP:s-un:--:-3n-	O	
+100-19	lidt	lidt	AD:----:--:p---	O	
+100-20	svære	svær	AC:p#u#:--:p---	B-adj.all	
+100-21	at	at	UI:----:--:----	O	
+100-22	overtale	overtale	VI:----:-a:----	B-verb.communication	
+100-23	/	/	NC:siuc:--:----	O	
+100-24	forklare	forklare	VI:----:-a:----	B-b.communication	
+100-25	folk	folk	NC:piu#:--:----	B-noun.domain|B-noun.person|B-noun.communication	
+100-26	at	at	CS:----:--:----	O	
+100-27	det	det	PP:s-un:--:-3n-	O	
+100-28	de	de	NP:siu#:--:----	O	
+100-29	siger	sige	VF:----:sa:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+100-30	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+100-31	forkert	forkert	AC:siu§:--:p---	B-adj.social|B-adj.all	
+100-32	:	:	ZP	O	
+100-33	wink	wink	XS:----:--:----	O	
+100-34	:	:	ZP	O	
+100-35	men	men	CC:----:--:----	O	
+100-36	tror	tro	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+100-37	det	det	PP:s-un:--:-3n-	O	
+100-38	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+100-39	mig	jeg	PP:s-uc:--:-1#-	O	
+100-40	der	der	US:----:--:----	O	
+100-41	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+100-42	misforstået	misforstå	VT:siu#:t-:----	O	
+100-43	noget	nogen	PI:s-un:--:----	O	
+100-44	jeg	jeg	NC:siun:--:----	O	
+100-45	engang	engang	D-:----:--:u---	O	
+100-46	læste	læste	NC:piu#:--:----	O	
+100-47	.	.	ZP	O	
+100-48	.	.	ZP	O	
+100-49	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+100-50	lige	lige	D-:----:--:u---	O	
+100-51	ved	ved	T-:----:--:----	O	
+100-52	at	at	UI:----:--:----	O	
+100-53	finde	finde	VI:----:-a:----	B-verb.phenomenon|B-verb.act|B-verb.cognition|B-verb.motion	
+100-54	ud	ud	D-:----:--:u---	O	
+100-55	af	af	T-:----:--:----	O	
+100-56	det	det	PP:s-un:--:-3n-	O	
+100-57	.	.	ZP	O	
+100-58	.	.	ZP	O	
+

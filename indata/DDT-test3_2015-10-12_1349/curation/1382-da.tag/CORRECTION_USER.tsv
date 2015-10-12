@@ -1,0 +1,211 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=SVXCoupe har derimod træk på alle fire hjul , når den skal overføre de 230 hk fra den 3,3 liter store 6-cylinder boxermotor med en topfart på 235 km/t. .
+1-1	SVX	O	
+1-2	Coupe	B-noun.vehicle	
+1-3	har	B-verb.perception|B-verb.cognition|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+1-4	derimod	O	
+1-5	træk	B-noun.act|B-noun.phenomenon|B-noun.artifact|B-noun.attribute	
+1-6	på	O	
+1-7	alle	O	
+1-8	fire	O	
+1-9	hjul	B-noun.artifact	
+1-10	,	O	
+1-11	når	O	
+1-12	den	O	
+1-13	skal	B-verb.motion|B-verb.phenomenon	
+1-14	overføre	B-verb.motion|B-verb.creation|B-verb.act	
+1-15	de	O	
+1-16	230	O	
+1-17	hk	O	
+1-18	fra	O	
+1-19	den	O	
+1-20	3,3	O	
+1-21	liter	B-noun.quantity	
+1-22	store	B-adj.phys	
+1-23	6-cylinder	O	
+1-24	boxermotor	O	
+1-25	med	O	
+1-26	en	O	
+1-27	topfart	B-noun.phenomenon	
+1-28	på	O	
+1-29	235	O	
+1-30	km/t.	O	
+1-31	.	O	
+
+#id=2
+#text=Bilenhar ABS-bremser og airbag som standard og er med_hensyn_til udstyr i japansk topklasse .
+2-1	Bilen	B-noun.vehicle	
+2-2	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+2-3	ABS-bremser	B-noun.artifact	
+2-4	og	O	
+2-5	airbag	B-noun.vehicle	
+2-6	som	O	
+2-7	standard	B-noun.quantity|B-noun.phenomenon|B-noun.artifact|B-noun.cognition	
+2-8	og	O	
+2-9	er	B-verb.TOP|B-verb.social|B-verb.stative	
+2-10	med_hensyn_til	O	
+2-11	udstyr	B-noun.artifact	
+2-12	i	O	
+2-13	japansk	B-adj.social	
+2-14	topklasse	B-noun.quantity	
+2-15	.	O	
+
+#id=3
+#text=Pågrund af kvoteordningen for eksport af japanske biler til Europa kan Subaru kun eksportere 35.000 biler til Europa , og af disse har den danske importør fået tildelt 600 i_år .
+3-1	På	O	
+3-2	grund	B-noun.object|B-noun.location|B-noun.act	
+3-3	af	O	
+3-4	kvoteordningen	B-noun.motive	
+3-5	for	O	
+3-6	eksport	B-noun.possession	
+3-7	af	O	
+3-8	japanske	B-adj.social	
+3-9	biler	B-noun.vehicle	
+3-10	til	O	
+3-11	Europa	O	
+3-12	kan	B-verb.social	
+3-13	Subaru	O	
+3-14	kun	O	
+3-15	eksportere	B-verb.possession	
+3-16	35.000	O	
+3-17	biler	B-noun.vehicle	
+3-18	til	O	
+3-19	Europa	O	
+3-20	,	O	
+3-21	og	O	
+3-22	af	O	
+3-23	disse	O	
+3-24	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+3-25	den	O	
+3-26	danske	B-adj.social|B-adj.phys	
+3-27	importør	B-noun.person	
+3-28	fået	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+3-29	tildelt	B-verb.act	
+3-30	600	O	
+3-31	i_år	O	
+3-32	.	O	
+
+#id=4
+#text=Subarusælger en hel del biler i både Schweiz og Tyskland og kan få mere for bilerne der , så det har ingen hastværk med at overfylde de danske lagre med Subaru-biler .
+4-1	Subaru	O	
+4-2	sælger	B-verb.possession|B-verb.act	
+4-3	en	O	
+4-4	hel	B-adj.phys	
+4-5	del	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.object|B-noun.TOP	
+4-6	biler	B-noun.vehicle	
+4-7	i	O	
+4-8	både	O	
+4-9	Schweiz	O	
+4-10	og	O	
+4-11	Tyskland	O	
+4-12	og	O	
+4-13	kan	B-verb.social	
+4-14	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+4-15	mere	O	
+4-16	for	O	
+4-17	bilerne	B-noun.vehicle	
+4-18	der	O	
+4-19	,	O	
+4-20	så	O	
+4-21	det	O	
+4-22	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+4-23	ingen	O	
+4-24	hastværk	O	
+4-25	med	O	
+4-26	at	O	
+4-27	overfylde	B-verb.act	
+4-28	de	O	
+4-29	danske	B-adj.social|B-adj.phys	
+4-30	lagre	B-noun.quantity|B-noun.building|B-noun.artifact	
+4-31	med	O	
+4-32	Subaru-biler	O	
+4-33	.	O	
+
+#id=5
+#text=Dendanske importør , Vilh. Nellemann Autoimport , har besluttet at satse på markedet for jobbiler frem for at sprede sig for meget .
+5-1	Den	O	
+5-2	danske	B-adj.social|B-adj.phys	
+5-3	importør	B-noun.person	
+5-4	,	O	
+5-5	Vilh.	O	
+5-6	Nellemann	O	
+5-7	Autoimport	O	
+5-8	,	O	
+5-9	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+5-10	besluttet	B-verb.cognition	
+5-11	at	O	
+5-12	satse	B-verb.possession	
+5-13	på	O	
+5-14	markedet	B-noun.cognition|B-noun.location	
+5-15	for	O	
+5-16	jobbiler	O	
+5-17	frem	O	
+5-18	for	O	
+5-19	at	O	
+5-20	sprede	B-verb.motion|B-verb.communication|B-verb.phenomenon	
+5-21	sig	O	
+5-22	for	O	
+5-23	meget	O	
+5-24	.	O	
+
+#id=6
+#text=Derfortæller modelprogrammet foreløbig kun Legacy .
+6-1	Derfor	O	
+6-2	tæller	B-verb.emotion|B-verb.communication	
+6-3	modelprogrammet	O	
+6-4	foreløbig	O	
+6-5	kun	O	
+6-6	Legacy	O	
+6-7	.	O	
+
+#id=7
+#text=HverkenJusty eller Alto er på programmet , og den lette mellemklassebil Leone er på vej ud .
+7-1	Hverken	O	
+7-2	Justy	O	
+7-3	eller	O	
+7-4	Alto	O	
+7-5	er	B-verb.TOP|B-verb.social|B-verb.stative	
+7-6	på	O	
+7-7	programmet	B-noun.cognition|B-noun.motive|B-noun.communication|B-noun.artifact|B-noun.act	
+7-8	,	O	
+7-9	og	O	
+7-10	den	O	
+7-11	lette	B-adj.all|B-adj.phys	
+7-12	mellemklassebil	B-noun.vehicle	
+7-13	Leone	O	
+7-14	er	B-verb.TOP|B-verb.social|B-verb.stative	
+7-15	på	O	
+7-16	vej	B-noun.motive|B-noun.location|B-noun.quantity|B-noun.TOP	
+7-17	ud	O	
+7-18	.	O	
+
+#id=8
+#text=Istedet kommer der en ny mellemklassemodel om et års tid , Empressa , som formentlig også til den tid indlemmes i det danske modelprogram .
+8-1	I	O	
+8-2	stedet	B-noun.object|B-noun.location|B-noun.building|B-noun.cognition|B-noun.time	
+8-3	kommer	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+8-4	der	O	
+8-5	en	O	
+8-6	ny	B-adj.time	
+8-7	mellemklassemodel	O	
+8-8	om	O	
+8-9	et	O	
+8-10	års	B-noun.time	
+8-11	tid	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+8-12	,	O	
+8-13	Empressa	O	
+8-14	,	O	
+8-15	som	O	
+8-16	formentlig	O	
+8-17	også	O	
+8-18	til	O	
+8-19	den	O	
+8-20	tid	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+8-21	indlemmes	B-verb.act	
+8-22	i	O	
+8-23	det	O	
+8-24	danske	B-adj.social|B-adj.phys	
+8-25	modelprogram	O	
+8-26	.	O	
+

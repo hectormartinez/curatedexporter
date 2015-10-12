@@ -1,0 +1,212 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Men Færøerne tilhører dog det danske rigsfællesskab , " siger Erik Hjorth Nielsen .
+1-1	"	O	
+1-2	Men	O	
+1-3	Færøerne	O	
+1-4	tilhører	B-verb.stative	
+1-5	dog	O	
+1-6	det	O	
+1-7	danske	B-adj.social|B-adj.phys	
+1-8	rigsfællesskab	B-noun.institution	
+1-9	,	O	
+1-10	"	O	
+1-11	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+1-12	Erik	O	
+1-13	Hjorth	O	
+1-14	Nielsen	O	
+1-15	.	O	
+
+#id=2
+#text="Jeg føler mig yderst uretfærdigt behandlet , og den nye ordning vil få den konsekvens , at danske illustratorer fremover vil være langt mindre villige til at arbejde med udenlandske værker . "
+2-1	"	O	
+2-2	Jeg	O	
+2-3	føler	B-verb.motion|B-verb.emotion|B-verb.creation|B-verb.phenomenon	
+2-4	mig	O	
+2-5	yderst	B-adj.all	
+2-6	uretfærdigt	B-adj.all	
+2-7	behandlet	B-verb.social|B-verb.act|B-verb.cognition|B-verb.phenomenon	
+2-8	,	O	
+2-9	og	O	
+2-10	den	O	
+2-11	nye	B-adj.time	
+2-12	ordning	B-noun.motive	
+2-13	vil	B-verb.cognition	
+2-14	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+2-15	den	O	
+2-16	konsekvens	B-noun.phenomenon|B-noun.motive	
+2-17	,	O	
+2-18	at	O	
+2-19	danske	B-adj.social|B-adj.phys	
+2-20	illustratorer	B-noun.person	
+2-21	fremover	O	
+2-22	vil	B-verb.cognition	
+2-23	være	B-verb.TOP|B-verb.social|B-verb.stative	
+2-24	langt	B-adj.time|B-adj.phys	
+2-25	mindre	B-adj.phys	
+2-26	villige	B-adj.social|B-adj.mental	
+2-27	til	O	
+2-28	at	O	
+2-29	arbejde	B-verb.social	
+2-30	med	O	
+2-31	udenlandske	B-adj.phys	
+2-32	værker	B-noun.building|B-noun.TOP|B-noun.artifact	
+2-33	.	O	
+2-34	"	O	
+
+#id=3
+#text=KarenMerete Bennike har skrevet fire populære lærebøger i spansk og fransk for gymasierne .
+3-1	Karen	O	
+3-2	Merete	O	
+3-3	Bennike	O	
+3-4	har	B-verb.perception|B-verb.cognition|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+3-5	skrevet	B-verb.creation|B-verb.communication	
+3-6	fire	O	
+3-7	populære	B-adj.social	
+3-8	lærebøger	B-noun.communication	
+3-9	i	O	
+3-10	spansk	B-noun.domain|B-noun.communication	
+3-11	og	O	
+3-12	fransk	B-noun.domain|B-noun.communication	
+3-13	for	O	
+3-14	gymasierne	O	
+3-15	.	O	
+
+#id=4
+#text="Men nu får jeg ikke en krone , selv_om jeg er dansker og skriver for danskere .
+4-1	"	O	
+4-2	Men	O	
+4-3	nu	O	
+4-4	får	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+4-5	jeg	O	
+4-6	ikke	O	
+4-7	en	O	
+4-8	krone	B-noun.plant|B-noun.artifact|B-noun.attribute|B-noun.body	
+4-9	,	O	
+4-10	selv_om	O	
+4-11	jeg	O	
+4-12	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-13	dansker	B-noun.person	
+4-14	og	O	
+4-15	skriver	B-verb.creation|B-verb.communication	
+4-16	for	O	
+4-17	danskere	B-noun.person	
+4-18	.	O	
+
+#id=5
+#text=Jegføler mig ualmindeligt uretfærdigt behandlet og undrer mig over , hvorfor det lige præcis er mig , som skal rammes , " siger hun .
+5-1	Jeg	O	
+5-2	føler	B-verb.motion|B-verb.emotion|B-verb.creation|B-verb.phenomenon	
+5-3	mig	O	
+5-4	ualmindeligt	B-adj.all	
+5-5	uretfærdigt	B-adj.all	
+5-6	behandlet	B-verb.social|B-verb.act|B-verb.cognition|B-verb.phenomenon	
+5-7	og	O	
+5-8	undrer	B-verb.phenomenon	
+5-9	mig	O	
+5-10	over	O	
+5-11	,	O	
+5-12	hvorfor	O	
+5-13	det	O	
+5-14	lige	O	
+5-15	præcis	O	
+5-16	er	B-verb.TOP|B-verb.social|B-verb.stative	
+5-17	mig	O	
+5-18	,	O	
+5-19	som	O	
+5-20	skal	B-verb.motion|B-verb.phenomenon	
+5-21	rammes	B-verb.motion|B-verb.act	
+5-22	,	O	
+5-23	"	O	
+5-24	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+5-25	hun	O	
+5-26	.	O	
+
+#id=6
+#text=IfølgeStatens Bibliotekstjeneste , der administrerer bibliotekspengene , bliver " over en snes " danske illustratorer ramt af den nye lov , ligesom adskillige forfattere til lærebøger i fremmedsprog fremover må affinde sig med en stærkt reduceret indtægt .
+6-1	Ifølge	O	
+6-2	Statens	B-noun.institution|B-noun.location	
+6-3	Bibliotekstjeneste	O	
+6-4	,	O	
+6-5	der	O	
+6-6	administrerer	B-verb.cognition	
+6-7	bibliotekspengene	O	
+6-8	,	O	
+6-9	bliver	B-verb.TOP|B-verb.act|B-verb.stative	
+6-10	"	O	
+6-11	over	O	
+6-12	en	O	
+6-13	snes	B-noun.food|B-noun.artifact|B-noun.phenomenon|B-noun.quantity	
+6-14	"	O	
+6-15	danske	B-adj.social|B-adj.phys	
+6-16	illustratorer	B-noun.person	
+6-17	ramt	B-verb.motion	
+6-18	af	O	
+6-19	den	O	
+6-20	nye	B-adj.time	
+6-21	lov	B-noun.motive|B-noun.attribute|B-noun.cognition|B-noun.act|B-noun.institution	
+6-22	,	O	
+6-23	ligesom	O	
+6-24	adskillige	B-adj.phys	
+6-25	forfattere	B-noun.person	
+6-26	til	O	
+6-27	lærebøger	B-noun.communication	
+6-28	i	O	
+6-29	fremmedsprog	B-noun.communication	
+6-30	fremover	O	
+6-31	må	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+6-32	affinde	O	
+6-33	sig	O	
+6-34	med	O	
+6-35	en	O	
+6-36	stærkt	B-adj.phys|B-adj.all|B-adj.mental	
+6-37	reduceret	B-verb.change	
+6-38	indtægt	B-noun.quantity	
+6-39	.	O	
+
+#id=7
+#text="Hvis der er tale om en dansk bog med lidt fremmedsprog i , så kan den godt få del i bibliotekspengene , men deciderede lærebøger i fremmedsprog kan ikke komme i betragtning , " siger bibliotekskonsulent Anna Johansen , Statens Bibliotekstjeneste .
+7-1	"	O	
+7-2	Hvis	O	
+7-3	der	O	
+7-4	er	B-verb.TOP|B-verb.social|B-verb.stative	
+7-5	tale	B-noun.communication|B-noun.act|B-noun.motive	
+7-6	om	O	
+7-7	en	O	
+7-8	dansk	B-adj.social|B-adj.phys	
+7-9	bog	B-noun.communication|B-noun.plant	
+7-10	med	O	
+7-11	lidt	O	
+7-12	fremmedsprog	B-noun.communication	
+7-13	i	O	
+7-14	,	O	
+7-15	så	O	
+7-16	kan	B-verb.social	
+7-17	den	O	
+7-18	godt	B-adj.all	
+7-19	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+7-20	del	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.object|B-noun.TOP	
+7-21	i	O	
+7-22	bibliotekspengene	O	
+7-23	,	O	
+7-24	men	O	
+7-25	deciderede	O	
+7-26	lærebøger	B-noun.communication	
+7-27	i	O	
+7-28	fremmedsprog	B-noun.communication	
+7-29	kan	B-verb.social	
+7-30	ikke	O	
+7-31	komme	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+7-32	i	O	
+7-33	betragtning	B-noun.cognition	
+7-34	,	O	
+7-35	"	O	
+7-36	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+7-37	bibliotekskonsulent	O	
+7-38	Anna	O	
+7-39	Johansen	O	
+7-40	,	O	
+7-41	Statens	B-noun.institution|B-noun.location	
+7-42	Bibliotekstjeneste	O	
+7-43	.	O	
+

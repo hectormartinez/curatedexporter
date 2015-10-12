@@ -1,0 +1,205 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denkriseramte storklub slipper ganske vist for flere Interbank , men Brøndby må alligevel lægge ryg til endnu mere bank ... !
+1-1	Den	O	
+1-2	kriseramte	O	
+1-3	storklub	B-noun.person	
+1-4	slipper	B-verb.motion|B-verb.act|B-verb.possession|B-verb.phenomenon	
+1-5	ganske	O	
+1-6	vist	O	
+1-7	for	O	
+1-8	flere	O	
+1-9	Interbank	O	
+1-10	,	O	
+1-11	men	O	
+1-12	Brøndby	O	
+1-13	må	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+1-14	alligevel	O	
+1-15	lægge	B-verb.motion|B-verb.act|B-verb.cognition	
+1-16	ryg	B-noun.body|B-noun.artifact	
+1-17	til	O	
+1-18	endnu	O	
+1-19	mere	O	
+1-20	bank	B-noun.building|B-noun.act|B-noun.quantity|B-noun.person|B-noun.institution	
+1-21	...	O	
+1-22	!	O	
+
+#id=2
+#text=B.T.kan i_dag lette på sløret for en af de andre store " Lego-klodser " i kriseplanen , der trods løfter om det modsatte forbliver mørklagt weekenden over .
+2-1	B.T.	O	
+2-2	kan	B-verb.social	
+2-3	i_dag	O	
+2-4	lette	B-verb.motion|B-verb.change|B-verb.phenomenon	
+2-5	på	O	
+2-6	sløret	B-noun.artifact|B-noun.phenomenon	
+2-7	for	O	
+2-8	en	O	
+2-9	af	O	
+2-10	de	O	
+2-11	andre	O	
+2-12	store	B-adj.phys	
+2-13	"	O	
+2-14	Lego-klodser	O	
+2-15	"	O	
+2-16	i	O	
+2-17	kriseplanen	B-noun.communication	
+2-18	,	O	
+2-19	der	O	
+2-20	trods	O	
+2-21	løfter	B-noun.act	
+2-22	om	O	
+2-23	det	O	
+2-24	modsatte	O	
+2-25	forbliver	B-verb.act	
+2-26	mørklagt	B-verb.motion	
+2-27	weekenden	B-noun.time	
+2-28	over	O	
+2-29	.	O	
+
+#id=3
+#text=Situationener , at Brøndbyernes IF i denne krise-sommer har oparbejdet en mildest talt betragtelig milliongæld til sine bankforbindelser , Unibank og Den Danske Bank .
+3-1	Situationen	B-noun.act|B-noun.state	
+3-2	er	B-verb.TOP|B-verb.social|B-verb.stative	
+3-3	,	O	
+3-4	at	O	
+3-5	Brøndbyernes	O	
+3-6	IF	O	
+3-7	i	O	
+3-8	denne	O	
+3-9	krise-sommer	O	
+3-10	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+3-11	oparbejdet	O	
+3-12	en	O	
+3-13	mildest	B-adj.social|B-adj.all|B-adj.phys	
+3-14	talt	B-verb.act|B-verb.communication|B-verb.emotion|B-verb.creation|B-verb.phenomenon	
+3-15	betragtelig	B-adj.phys	
+3-16	milliongæld	B-noun.quantity	
+3-17	til	O	
+3-18	sine	O	
+3-19	bankforbindelser	B-noun.person	
+3-20	,	O	
+3-21	Unibank	O	
+3-22	og	O	
+3-23	Den	O	
+3-24	Danske	B-adj.social|B-adj.phys	
+3-25	Bank	B-noun.building|B-noun.quantity|B-noun.person|B-noun.act|B-noun.institution	
+3-26	.	O	
+
+#id=4
+#text=Ifølgefortrolige oplysninger til B.T. skal Brøndbys aktuelle gæld til den ene af bankerne tangere hele 20 mill. kr. , mens den anden skal have et lavere , men alligevel væsentligt millionbeløb til_gode hos den blågule eks-mesterklub .
+4-1	Ifølge	O	
+4-2	fortrolige	B-adj.social	
+4-3	oplysninger	B-noun.institution|B-noun.artifact|B-noun.act	
+4-4	til	O	
+4-5	B.T.	O	
+4-6	skal	B-verb.motion|B-verb.phenomenon	
+4-7	Brøndbys	O	
+4-8	aktuelle	B-adj.mental	
+4-9	gæld	B-noun.quantity	
+4-10	til	O	
+4-11	den	O	
+4-12	ene	O	
+4-13	af	O	
+4-14	bankerne	B-noun.institution|B-noun.person|B-noun.building|B-noun.location|B-noun.quantity	
+4-15	tangere	O	
+4-16	hele	B-adj.phys	
+4-17	20	O	
+4-18	mill.	O	
+4-19	kr.	O	
+4-20	,	O	
+4-21	mens	O	
+4-22	den	O	
+4-23	anden	O	
+4-24	skal	B-verb.motion|B-verb.phenomenon	
+4-25	have	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+4-26	et	O	
+4-27	lavere	B-adj.phys|B-adj.mental	
+4-28	,	O	
+4-29	men	O	
+4-30	alligevel	O	
+4-31	væsentligt	B-adj.phys	
+4-32	millionbeløb	B-noun.quantity	
+4-33	til_gode	O	
+4-34	hos	O	
+4-35	den	O	
+4-36	blågule	O	
+4-37	eks-mesterklub	O	
+4-38	.	O	
+
+#id=5
+#text=NYEAKTIER
+5-1	NYE	B-adj.time	
+5-2	AKTIER	B-noun.communication|B-noun.artifact	
+
+#id=6
+#text=Deto storbanker tilhører i parantes bemærket Brøndbys øverste sponsorluftlag : Unibank som eurosponsor og Den Danske Bank som medlem i den såkaldte " Exclusive Club " .
+6-1	De	O	
+6-2	to	O	
+6-3	storbanker	O	
+6-4	tilhører	B-verb.stative	
+6-5	i	O	
+6-6	parantes	O	
+6-7	bemærket	B-verb.emotion|B-verb.communication	
+6-8	Brøndbys	O	
+6-9	øverste	B-adj.all	
+6-10	sponsorluftlag	O	
+6-11	:	O	
+6-12	Unibank	O	
+6-13	som	O	
+6-14	eurosponsor	O	
+6-15	og	O	
+6-16	Den	O	
+6-17	Danske	B-adj.social|B-adj.phys	
+6-18	Bank	B-noun.building|B-noun.quantity|B-noun.person|B-noun.act|B-noun.institution	
+6-19	som	O	
+6-20	medlem	B-noun.body	
+6-21	i	O	
+6-22	den	O	
+6-23	såkaldte	O	
+6-24	"	O	
+6-25	Exclusive	O	
+6-26	Club	O	
+6-27	"	O	
+6-28	.	O	
+
+#id=7
+#text=Beggede to bankers økonomiske " engagement " i Brøndby er for nærværende så eksklusivt , at de - qua konkursbegæringer - begge den dag i_går i praksis kunne have sparket Brøndby  langt ud af dansk topfodbold .
+7-1	Begge	O	
+7-2	de	O	
+7-3	to	O	
+7-4	bankers	B-noun.institution|B-noun.building|B-noun.location|B-noun.person|B-noun.quantity	
+7-5	økonomiske	B-adj.all	
+7-6	"	O	
+7-7	engagement	B-noun.communication|B-noun.cognition	
+7-8	"	O	
+7-9	i	O	
+7-10	Brøndby	O	
+7-11	er	B-verb.TOP|B-verb.social|B-verb.stative	
+7-12	for	O	
+7-13	nærværende	B-adj.time	
+7-14	så	O	
+7-15	eksklusivt	B-adj.social	
+7-16	,	O	
+7-17	at	O	
+7-18	de	O	
+7-19	-	O	
+7-20	qua	O	
+7-21	konkursbegæringer	B-noun.communication	
+7-22	-	O	
+7-23	begge	O	
+7-24	den	O	
+7-25	dag	B-noun.time	
+7-26	i_går	O	
+7-27	i	O	
+7-28	praksis	B-noun.institution|B-noun.motive|B-noun.act	
+7-29	kunne	B-verb.social	
+7-30	have	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+7-31	sparket	B-verb.act	
+7-32	Brøndby	O	
+7-33	langt	B-adj.time|B-adj.phys	
+7-34	ud	O	
+7-35	af	O	
+7-36	dansk	B-adj.social|B-adj.phys	
+7-37	topfodbold	B-noun.act	
+7-38	.	O	
+

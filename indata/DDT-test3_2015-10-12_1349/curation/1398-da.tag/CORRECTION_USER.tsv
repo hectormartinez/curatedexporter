@@ -1,0 +1,185 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Såmeget mere foruroligende er det bosniske baghold , hvorved nogle af de serbiske soldater , der skulle udveksles for præsidenten , mistede  livet .
+1-1	Så	O	
+1-2	meget	O	
+1-3	mere	O	
+1-4	foruroligende	B-verb.change	
+1-5	er	B-verb.TOP|B-verb.social|B-verb.stative	
+1-6	det	O	
+1-7	bosniske	O	
+1-8	baghold	O	
+1-9	,	O	
+1-10	hvorved	O	
+1-11	nogle	O	
+1-12	af	O	
+1-13	de	O	
+1-14	serbiske	O	
+1-15	soldater	B-noun.artifact|B-noun.person	
+1-16	,	O	
+1-17	der	O	
+1-18	skulle	B-verb.phenomenon	
+1-19	udveksles	B-verb.possession|B-verb.communication	
+1-20	for	O	
+1-21	præsidenten	B-noun.person	
+1-22	,	O	
+1-23	mistede	B-verb.social|B-verb.act|B-verb.phenomenon	
+1-24	livet	B-noun.object|B-noun.body|B-noun.attribute|B-noun.phenomenon|B-noun.person|B-noun.state|B-noun.time|B-noun.feeling|B-noun.event	
+1-25	.	O	
+
+#id=2
+#text=Deto begivenheder tegner sandsynligvis omridset af et varigt mønster i de etniske opgør , der i denne tid flammer op i flere af de tidligere socialistiske lande .
+2-1	De	O	
+2-2	to	O	
+2-3	begivenheder	B-noun.act	
+2-4	tegner	B-verb.social|B-verb.act|B-verb.creation|B-verb.communication	
+2-5	sandsynligvis	O	
+2-6	omridset	B-noun.artifact	
+2-7	af	O	
+2-8	et	O	
+2-9	varigt	B-adj.phys	
+2-10	mønster	B-noun.cognition|B-noun.artifact	
+2-11	i	O	
+2-12	de	O	
+2-13	etniske	B-adj.social	
+2-14	opgør	B-noun.act	
+2-15	,	O	
+2-16	der	O	
+2-17	i	O	
+2-18	denne	O	
+2-19	tid	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+2-20	flammer	B-verb.phenomenon	
+2-21	op	O	
+2-22	i	O	
+2-23	flere	O	
+2-24	af	O	
+2-25	de	O	
+2-26	tidligere	B-adj.time	
+2-27	socialistiske	B-adj.social	
+2-28	lande	B-noun.location|B-noun.person	
+2-29	.	O	
+
+#id=3
+#text=Idet konkrete tilfælde står forbundshæren naturligvis med ansvaret for at have fremprovokeret situationen med sin groteske pågribelse af den bosniske præsident , da han landede i Sarajevo i_lørdags efter drøftelser med EF-formandslandet Portugals regering .
+3-1	I	O	
+3-2	det	O	
+3-3	konkrete	B-adj.all	
+3-4	tilfælde	B-noun.act|B-noun.person	
+3-5	står	B-verb.stative|B-verb.communication|B-verb.act|B-verb.emotion|B-verb.motion	
+3-6	forbundshæren	B-noun.person	
+3-7	naturligvis	O	
+3-8	med	O	
+3-9	ansvaret	B-noun.cognition	
+3-10	for	O	
+3-11	at	O	
+3-12	have	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+3-13	fremprovokeret	B-verb.communication	
+3-14	situationen	B-noun.act|B-noun.state	
+3-15	med	O	
+3-16	sin	O	
+3-17	groteske	B-adj.all	
+3-18	pågribelse	O	
+3-19	af	O	
+3-20	den	O	
+3-21	bosniske	O	
+3-22	præsident	B-noun.person	
+3-23	,	O	
+3-24	da	O	
+3-25	han	O	
+3-26	landede	B-verb.change|B-verb.motion	
+3-27	i	O	
+3-28	Sarajevo	O	
+3-29	i_lørdags	O	
+3-30	efter	O	
+3-31	drøftelser	O	
+3-32	med	O	
+3-33	EF-formandslandet	O	
+3-34	Portugals	O	
+3-35	regering	B-noun.person	
+3-36	.	O	
+
+#id=4
+#text=Menselv i Forbundshæren er man åbenbart klar over , at intet moderne samfunds myndighedsorganer kan vende det døve øre til omverdenens reaktioner -
+4-1	Men	O	
+4-2	selv	O	
+4-3	i	O	
+4-4	Forbundshæren	B-noun.person	
+4-5	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-6	man	O	
+4-7	åbenbart	O	
+4-8	klar	B-adj.all|B-adj.phys|B-adj.mental	
+4-9	over	O	
+4-10	,	O	
+4-11	at	O	
+4-12	intet	O	
+4-13	moderne	B-adj.time	
+4-14	samfunds	B-noun.location|B-noun.person|B-noun.group	
+4-15	myndighedsorganer	O	
+4-16	kan	B-verb.social	
+4-17	vende	B-verb.change|B-verb.act|B-verb.creation|B-verb.motion|B-verb.stative	
+4-18	det	O	
+4-19	døve	B-adj.phys|B-adj.mental	
+4-20	øre	B-noun.body|B-noun.person|B-noun.artifact	
+4-21	til	O	
+4-22	omverdenens	B-noun.person	
+4-23	reaktioner	B-noun.act|B-noun.phenomenon|B-noun.cognition	
+4-24	-	O	
+
+#id=5
+#text=mindstaf alle samfund , hvis fremtid afhænger af hjælp udefra .
+5-1	mindst	B-adj.phys	
+5-2	af	O	
+5-3	alle	O	
+5-4	samfund	B-noun.location|B-noun.person|B-noun.group	
+5-5	,	O	
+5-6	hvis	O	
+5-7	fremtid	B-noun.time|B-noun.person|B-noun.communication	
+5-8	afhænger	O	
+5-9	af	O	
+5-10	hjælp	B-noun.act|B-noun.person|B-noun.artifact	
+5-11	udefra	O	
+5-12	.	O	
+
+#id=6
+#text=Detperspektiv kommer forståeligt nok endnu i anden række for de partisaner , der ser forbundshæren som et utåleligt levn efter det regime , der i generationer har stået for serbisk undertrykkelse af de andre jugoslaviske folkegruppers nationale selvstændighed .
+6-1	Det	O	
+6-2	perspektiv	B-noun.event|B-noun.motive|B-noun.TOP|B-noun.relation	
+6-3	kommer	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+6-4	forståeligt	O	
+6-5	nok	O	
+6-6	endnu	O	
+6-7	i	O	
+6-8	anden	O	
+6-9	række	B-noun.motive|B-noun.quantity|B-noun.group|B-noun.person|B-noun.location	
+6-10	for	O	
+6-11	de	O	
+6-12	partisaner	B-noun.body	
+6-13	,	O	
+6-14	der	O	
+6-15	ser	B-verb.change|B-verb.emotion|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+6-16	forbundshæren	B-noun.person	
+6-17	som	O	
+6-18	et	O	
+6-19	utåleligt	O	
+6-20	levn	O	
+6-21	efter	O	
+6-22	det	O	
+6-23	regime	B-noun.cognition	
+6-24	,	O	
+6-25	der	O	
+6-26	i	O	
+6-27	generationer	B-noun.time|B-noun.TOP|B-noun.person	
+6-28	har	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+6-29	stået	B-verb.stative|B-verb.emotion|B-verb.communication|B-verb.act|B-verb.motion	
+6-30	for	O	
+6-31	serbisk	O	
+6-32	undertrykkelse	B-noun.act	
+6-33	af	O	
+6-34	de	O	
+6-35	andre	O	
+6-36	jugoslaviske	O	
+6-37	folkegruppers	B-noun.person	
+6-38	nationale	B-adj.social	
+6-39	selvstændighed	B-noun.feeling	
+6-40	.	O	
+

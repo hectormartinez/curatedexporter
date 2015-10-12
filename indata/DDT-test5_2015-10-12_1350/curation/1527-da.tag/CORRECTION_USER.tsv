@@ -1,0 +1,215 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Situationen for besætningen skal tages meget alvorligt .
+1-1	"	O	
+1-2	Situationen	B-noun.act|B-noun.state	
+1-3	for	O	
+1-4	besætningen	B-noun.animal|B-noun.person|B-noun.artifact	
+1-5	skal	B-verb.motion|B-verb.phenomenon	
+1-6	tages	B-verb.possession|B-verb.change|B-verb.cognition|B-verb.act|B-verb.social|B-verb.creation|B-verb.motion	
+1-7	meget	O	
+1-8	alvorligt	B-adj.phys|B-adj.all|B-adj.mental	
+1-9	.	O	
+
+#id=2
+#text=Ogdet kan nemt komme til at tage meget lang tid at få skibet fri .
+2-1	Og	O	
+2-2	det	O	
+2-3	kan	B-verb.social	
+2-4	nemt	B-adj.social|B-adj.all	
+2-5	komme	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+2-6	til	O	
+2-7	at	O	
+2-8	tage	B-verb.possession|B-verb.social|B-verb.cognition|B-verb.act|B-verb.creation|B-verb.change|B-verb.motion	
+2-9	meget	O	
+2-10	lang	B-adj.time|B-adj.phys	
+2-11	tid	B-noun.communication|B-noun.attribute|B-noun.motive|B-noun.time|B-noun.quantity|B-noun.TOP	
+2-12	at	O	
+2-13	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+2-14	skibet	B-noun.artifact|B-noun.vehicle	
+2-15	fri	B-adj.all	
+2-16	.	O	
+
+#id=3
+#text=Mennu er der heldigvis et så stort pres fra både den amerikanske ambassade og det danske udenrigsministerium , at det skal lykkes , at få besætningen hjem , " siger Jan Fabricius .
+3-1	Men	O	
+3-2	nu	O	
+3-3	er	B-verb.TOP|B-verb.social|B-verb.stative	
+3-4	der	O	
+3-5	heldigvis	O	
+3-6	et	O	
+3-7	så	O	
+3-8	stort	B-adj.phys	
+3-9	pres	B-noun.phenomenon|B-noun.feeling	
+3-10	fra	O	
+3-11	både	O	
+3-12	den	O	
+3-13	amerikanske	B-adj.social	
+3-14	ambassade	B-noun.person|B-noun.building	
+3-15	og	O	
+3-16	det	O	
+3-17	danske	B-adj.social|B-adj.phys	
+3-18	udenrigsministerium	B-noun.institution|B-noun.building	
+3-19	,	O	
+3-20	at	O	
+3-21	det	O	
+3-22	skal	B-verb.motion|B-verb.phenomenon	
+3-23	lykkes	B-verb.phenomenon	
+3-24	,	O	
+3-25	at	O	
+3-26	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+3-27	besætningen	B-noun.animal|B-noun.person|B-noun.artifact	
+3-28	hjem	O	
+3-29	,	O	
+3-30	"	O	
+3-31	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+3-32	Jan	O	
+3-33	Fabricius	O	
+3-34	.	O	
+
+#id=4
+#text="Hvad der skal ske med skibet , ved jeg ikke .
+4-1	"	O	
+4-2	Hvad	O	
+4-3	der	O	
+4-4	skal	B-verb.motion|B-verb.phenomenon	
+4-5	ske	B-verb.phenomenon|B-verb.act	
+4-6	med	O	
+4-7	skibet	B-noun.artifact|B-noun.vehicle	
+4-8	,	O	
+4-9	ved	B-verb.cognition|B-verb.emotion	
+4-10	jeg	O	
+4-11	ikke	O	
+4-12	.	O	
+
+#id=5
+#text=Mankan åbenbart forvente alt fra den såkaldt fredsbevarende styrke i landet .
+5-1	Man	O	
+5-2	kan	B-verb.social	
+5-3	åbenbart	O	
+5-4	forvente	B-verb.cognition|B-verb.emotion	
+5-5	alt	O	
+5-6	fra	O	
+5-7	den	O	
+5-8	såkaldt	O	
+5-9	fredsbevarende	O	
+5-10	styrke	B-noun.quantity|B-noun.phenomenon|B-noun.person|B-noun.attribute	
+5-11	i	O	
+5-12	landet	B-noun.location|B-noun.person	
+5-13	.	O	
+
+#id=6
+#text=Deholder jo faktisk besætningen som gidsler .
+6-1	De	O	
+6-2	holder	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.social|B-verb.phenomenon	
+6-3	jo	O	
+6-4	faktisk	B-adj.phys	
+6-5	besætningen	B-noun.animal|B-noun.person|B-noun.artifact	
+6-6	som	O	
+6-7	gidsler	B-noun.person	
+6-8	.	O	
+
+#id=7
+#text=Menjeg kan ikke forestille mig , at de bare kan stjæle et skib på den måde . "
+7-1	Men	O	
+7-2	jeg	O	
+7-3	kan	B-verb.social	
+7-4	ikke	O	
+7-5	forestille	O	
+7-6	mig	O	
+7-7	,	O	
+7-8	at	O	
+7-9	de	O	
+7-10	bare	O	
+7-11	kan	B-verb.social	
+7-12	stjæle	B-verb.possession|B-verb.act	
+7-13	et	O	
+7-14	skib	B-noun.artifact|B-noun.vehicle	
+7-15	på	O	
+7-16	den	O	
+7-17	måde	B-noun.motive|B-noun.TOP|B-noun.communication	
+7-18	.	O	
+7-19	"	O	
+
+#id=8
+#text=Denfredsbevarende styrke i Monrovia har beskyldt skibet for at sejle med våben - men det afviser de danske ejere skulle være tilfældet .
+8-1	Den	O	
+8-2	fredsbevarende	O	
+8-3	styrke	B-noun.quantity|B-noun.person|B-noun.phenomenon|B-noun.attribute	
+8-4	i	O	
+8-5	Monrovia	O	
+8-6	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-cognition|B-verb.TOP	
+8-7	beskyldt	O	
+8-8	skibet	B-noun.artifact|B-noun.vehicle	
+8-9	for	O	
+8-10	at	O	
+8-11	sejle	B-verb.motion|B-verb.act|B-verb.emotion|B-verb.phenomenon	
+8-12	med	O	
+8-13	våben	B-noun.artifact|B-noun.TOP	
+8-14	-	O	
+8-15	men	O	
+8-16	det	O	
+8-17	afviser	B-verb.phenomenon|B-verb.communication	
+8-18	de	O	
+8-19	danske	B-adj.social|B-adj.phys	
+8-20	ejere	B-noun.person	
+8-21	skulle	B-verb.phenomenon	
+8-22	være	B-verb.TOP|B-verb.social|B-verb.stative	
+8-23	tilfældet	B-noun.act|B-noun.person	
+8-24	.	O	
+
+#id=9
+#text=DenBahama-registrede coaster har i halvandet år sejlet i fast rutefart mellem Elfenbenskysten og hovedstaden Monrovia i Liberia .
+9-1	Den	O	
+9-2	Bahama-registrede	O	
+9-3	coaster	B-noun.vehicle	
+9-4	har	B-verb.perception|B-verb.communication|B-rb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+9-5	i	O	
+9-6	halvandet	O	
+9-7	år	B-noun.time	
+9-8	sejlet	B-verb.motion|B-verb.act|B-verb.emotion|B-verb.phenomenon	
+9-9	i	O	
+9-10	fast	B-adj.phys|B-adj.all	
+9-11	rutefart	B-noun.act|B-noun.location	
+9-12	mellem	O	
+9-13	Elfenbenskysten	O	
+9-14	og	O	
+9-15	hovedstaden	B-noun.location	
+9-16	Monrovia	O	
+9-17	i	O	
+9-18	Liberia	O	
+9-19	.	O	
+
+#id=10
+#text=Derer ti besætningsmedlemmer på skibet  , hvoraf de seks er danske .
+10-1	Der	O	
+10-2	er	B-verb.TOP|B-verb.social|B-verb.stative	
+10-3	ti	O	
+10-4	besætningsmedlemmer	B-noun.body	
+10-5	på	O	
+10-6	skibet	B-noun.artifact|B-noun.vehicle	
+10-7	,	O	
+10-8	hvoraf	O	
+10-9	de	O	
+10-10	seks	O	
+10-11	er	B-verb.TOP|B-verb.social|B-verb.stative	
+10-12	danske	B-adj.social|B-adj.phys	
+10-13	.	O	
+
+#id=11
+#text=Derudoverer der en række passagerer , blandt_andet en amerikaner og tre malayer .
+11-1	Derudover	O	
+11-2	er	B-verb.TOP|B-verb.social|B-verb.stative	
+11-3	der	O	
+11-4	en	O	
+11-5	række	B-noun.motive|B-noun.person|B-noun.quantity|B-noun.group|B-noun.location	
+11-6	passagerer	B-noun.person	
+11-7	,	O	
+11-8	blandt_andet	O	
+11-9	en	O	
+11-10	amerikaner	B-noun.person|B-noun.food	
+11-11	og	O	
+11-12	tre	O	
+11-13	malayer	O	
+11-14	.	O	
+

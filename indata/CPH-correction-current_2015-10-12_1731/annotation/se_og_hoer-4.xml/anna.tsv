@@ -1,0 +1,2135 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Idag bor de i udkanten af Silkeborg, men Thomas Mygind er ofte i hovedstaden, hvor han har sit job.
+1-1	I	O	
+1-2	dag	B-noun.time	
+1-3	bor	B-verb.stative	
+1-4	de	O	
+1-5	i	O	
+1-6	udkanten	B-noun.location	
+1-7	af	O	
+1-8	Silkeborg	B-noun.location	
+1-9	,	O	
+1-10	men	O	
+1-11	Thomas	O	
+1-12	Mygind	O	
+1-13	er	B-verb.stative	
+1-14	ofte	O	
+1-15	i	O	
+1-16	hovedstaden	B-noun.location	
+1-17	,	O	
+1-18	hvor	O	
+1-19	han	O	
+1-20	har	B-verb.possession	
+1-21	sit	O	
+1-22	job	B-noun.act	
+1-23	.	O	
+
+#id=2
+#text=Karrieren går det heller ikke fantastisk med.
+2-1	Karrieren	O	
+2-2	går	O	
+2-3	det	O	
+2-4	heller	O	
+2-5	ikke	O	
+2-6	fantastisk	O	
+2-7	med	O	
+2-8	.	O	
+
+#id=3
+#text=På det fyldte dansegulv beviste Patrik Wozniacki, at han skam har lært noget af sin deltagelse i " Vild med dans" i efteråret.
+3-1	På	O	
+3-2	det	O	
+3-3	fyldte	O	
+3-4	dansegulv	O	
+3-5	beviste	O	
+3-6	Patrik	O	
+3-7	Wozniacki	O	
+3-8	,	O	
+3-9	at	O	
+3-10	han	O	
+3-11	skam	O	
+3-12	har	O	
+3-13	lært	O	
+3-14	noget	O	
+3-15	af	O	
+3-16	sin	O	
+3-17	deltagelse	O	
+3-18	i	O	
+3-19	"	O	
+3-20	Vild	O	
+3-21	med	O	
+3-22	dans	O	
+3-23	"	O	
+3-24	i	O	
+3-25	efteråret	O	
+3-26	.	O	
+
+#id=4
+#text=Denblomstrende forelskelse fik en brat ende, da de brød med hinanden i februar efter et halvt års kissemissen.
+4-1	Den	O	
+4-2	blomstrende	O	
+4-3	forelskelse	O	
+4-4	fik	O	
+4-5	en	O	
+4-6	brat	O	
+4-7	ende	O	
+4-8	,	O	
+4-9	da	O	
+4-10	de	O	
+4-11	brød	O	
+4-12	med	O	
+4-13	hinanden	O	
+4-14	i	O	
+4-15	februar	O	
+4-16	efter	O	
+4-17	et	O	
+4-18	halvt	O	
+4-19	års	O	
+4-20	kissemissen	O	
+4-21	.	O	
+
+#id=5
+#text=ForCaroline er ganske enkelt blevet produktets nye ansigt.
+5-1	For	O	
+5-2	Caroline	O	
+5-3	er	O	
+5-4	ganske	O	
+5-5	enkelt	O	
+5-6	blevet	O	
+5-7	produktets	O	
+5-8	nye	O	
+5-9	ansigt	O	
+5-10	.	O	
+
+#id=6
+#text=-supersprød sangstjerne, er blevet mor.
+6-1	-	O	
+6-2	supersprød	O	
+6-3	sangstjerne	O	
+6-4	,	O	
+6-5	er	O	
+6-6	blevet	O	
+6-7	mor	O	
+6-8	.	O	
+
+#id=7
+#text=Og ifølge Kitten er det helt ufarligt for Kisses.
+7-1	Og	O	
+7-2	ifølge	O	
+7-3	Kitten	O	
+7-4	er	O	
+7-5	det	O	
+7-6	helt	O	
+7-7	ufarligt	O	
+7-8	for	O	
+7-9	Kisses	O	
+7-10	.	O	
+
+#id=8
+#text=-storsmilende fartdjævel, har fået lov til at skrive forord til racerkammeraten Jan Magnussens nye bog " En fiaskos perfekte liv", som de begge præsenterede forleden.
+8-1	-	O	
+8-2	storsmilende	O	
+8-3	fartdjævel	O	
+8-4	,	O	
+8-5	har	O	
+8-6	fået	O	
+8-7	lov	O	
+8-8	til	O	
+8-9	at	O	
+8-10	skrive	O	
+8-11	forord	O	
+8-12	til	O	
+8-13	racerkammeraten	O	
+8-14	Jan	O	
+8-15	Magnussens	O	
+8-16	nye	O	
+8-17	bog	O	
+8-18	"	O	
+8-19	En	O	
+8-20	fiaskos	O	
+8-21	perfekte	O	
+8-22	liv	O	
+8-23	"	O	
+8-24	,	O	
+8-25	som	O	
+8-26	de	O	
+8-27	begge	O	
+8-28	præsenterede	O	
+8-29	forleden	O	
+8-30	.	O	
+
+#id=9
+#text=Selvom det var blevet mørkt i hovedstaden, var det iført store solbriller, at hun gik ind på scenen og fyrede to numre af fra sit nye, engelsksprogede album.
+9-1	Selv	O	
+9-2	om	O	
+9-3	det	O	
+9-4	var	O	
+9-5	blevet	O	
+9-6	mørkt	O	
+9-7	i	O	
+9-8	hovedstaden	O	
+9-9	,	O	
+9-10	var	O	
+9-11	det	O	
+9-12	iført	O	
+9-13	store	O	
+9-14	solbriller	O	
+9-15	,	O	
+9-16	at	O	
+9-17	hun	O	
+9-18	gik	O	
+9-19	ind	O	
+9-20	på	O	
+9-21	scenen	O	
+9-22	og	O	
+9-23	fyrede	O	
+9-24	to	O	
+9-25	numre	O	
+9-26	af	O	
+9-27	fra	O	
+9-28	sit	O	
+9-29	nye	O	
+9-30	,	O	
+9-31	engelsksprogede	O	
+9-32	album	O	
+9-33	.	O	
+
+#id=10
+#text=Midtpå dagen runder hun og familien dog lige Køben-København for at vinke fra balkonen på Amalienborg klokken 12 og havn spise frokost på Rådhuset.
+10-1	Midt	O	
+10-2	på	O	
+10-3	dagen	O	
+10-4	runder	O	
+10-5	hun	O	
+10-6	og	O	
+10-7	familien	O	
+10-8	dog	O	
+10-9	lige	O	
+10-10	Køben	O	
+10-11	-	O	
+10-12	København	O	
+10-13	for	O	
+10-14	at	O	
+10-15	vinke	O	
+10-16	fra	O	
+10-17	balkonen	O	
+10-18	på	O	
+10-19	Amalienborg	O	
+10-20	klokken	O	
+10-21	12	O	
+10-22	og	O	
+10-23	havn	O	
+10-24	spise	O	
+10-25	frokost	O	
+10-26	på	O	
+10-27	Rådhuset	O	
+10-28	.	O	
+
+#id=11
+#text=Bevæbnetmed frisørfarver, kulørt kunstnerkalk og spraydåser omdanner den amerikanske kvinde jævnligt sit kæledyr til omvandrende eksplosioner af kolorit, og hendes lidenskab har indtjent hende mængder af præmier, for naturligvis findes der mesterskaber for folk, som farver dyr, og i den forhåbentlig snævre kreds er Sandy Hartness en legende på to ben.
+11-1	Bevæbnet	O	
+11-2	med	O	
+11-3	frisørfarver	O	
+11-4	,	O	
+11-5	kulørt	O	
+11-6	kunstnerkalk	O	
+11-7	og	O	
+11-8	spraydåser	O	
+11-9	omdanner	O	
+11-10	den	O	
+11-11	amerikanske	O	
+11-12	kvinde	O	
+11-13	jævnligt	O	
+11-14	sit	O	
+11-15	kæledyr	O	
+11-16	til	O	
+11-17	omvandrende	O	
+11-18	eksplosioner	O	
+11-19	af	O	
+11-20	kolorit	O	
+11-21	,	O	
+11-22	og	O	
+11-23	hendes	O	
+11-24	lidenskab	O	
+11-25	har	O	
+11-26	indtjent	O	
+11-27	hende	O	
+11-28	mængder	O	
+11-29	af	O	
+11-30	præmier	O	
+11-31	,	O	
+11-32	for	O	
+11-33	naturligvis	O	
+11-34	findes	O	
+11-35	der	O	
+11-36	mesterskaber	O	
+11-37	for	O	
+11-38	folk	O	
+11-39	,	O	
+11-40	som	O	
+11-41	farver	O	
+11-42	dyr	O	
+11-43	,	O	
+11-44	og	O	
+11-45	i	O	
+11-46	den	O	
+11-47	forhåbentlig	O	
+11-48	snævre	O	
+11-49	kreds	O	
+11-50	er	O	
+11-51	Sandy	O	
+11-52	Hartness	O	
+11-53	en	O	
+11-54	legende	O	
+11-55	på	O	
+11-56	to	O	
+11-57	ben	O	
+11-58	.	O	
+
+#id=12
+#text=-køn DR-journalist og tidligere vinder af " Popstars" ser stadig de tre andre piger fra EyeQ.
+12-1	-	O	
+12-2	køn	O	
+12-3	DR	O	
+12-4	-	O	
+12-5	journalist	O	
+12-6	og	O	
+12-7	tidligere	O	
+12-8	vinder	O	
+12-9	af	O	
+12-10	"	O	
+12-11	Popstars	O	
+12-12	"	O	
+12-13	ser	O	
+12-14	stadig	O	
+12-15	de	O	
+12-16	tre	O	
+12-17	andre	O	
+12-18	piger	O	
+12-19	fra	O	
+12-20	EyeQ	O	
+12-21	.	O	
+
+#id=13
+#text=Drømmen er at blive model eller basketballspiller
+13-1	Drømmen	O	
+13-2	er	O	
+13-3	at	O	
+13-4	blive	O	
+13-5	model	O	
+13-6	eller	O	
+13-7	basketballspiller	O	
+
+#id=14
+#text=Det samme var den ældste Asbæk-søn Martin, som var omgivet af feststemte unge piger i meget lidt tøj.
+14-1	Det	O	
+14-2	samme	O	
+14-3	var	O	
+14-4	den	O	
+14-5	ældste	O	
+14-6	Asbæk	O	
+14-7	-	O	
+14-8	søn	O	
+14-9	Martin	O	
+14-10	,	O	
+14-11	som	O	
+14-12	var	O	
+14-13	omgivet	O	
+14-14	af	O	
+14-15	feststemte	O	
+14-16	unge	O	
+14-17	piger	O	
+14-18	i	O	
+14-19	meget	O	
+14-20	lidt	O	
+14-21	tøj	O	
+14-22	.	O	
+
+#id=15
+#text=På Kanal 4 skal hun guide seerne igennem tre programmer fra 10. til 12. august.
+15-1	På	O	
+15-2	Kanal	O	
+15-3	4	O	
+15-4	skal	O	
+15-5	hun	O	
+15-6	guide	O	
+15-7	seerne	O	
+15-8	igennem	O	
+15-9	tre	O	
+15-10	programmer	O	
+15-11	fra	O	
+15-12	10	O	
+15-13	.	O	
+15-14	til	O	
+15-15	12	O	
+15-16	.	O	
+15-17	august	O	
+15-18	.	O	
+
+#id=16
+#text=-utraditionel model, var sammen med kæresten Gunnvør Dalsgaard og deres datter Sinna på fem måneder i IKEA for at købe lidt til hjemmet.
+16-1	-	O	
+16-2	utraditionel	O	
+16-3	model	O	
+16-4	,	O	
+16-5	var	O	
+16-6	sammen	O	
+16-7	med	O	
+16-8	kæresten	O	
+16-9	Gunnvør	O	
+16-10	Dalsgaard	O	
+16-11	og	O	
+16-12	deres	O	
+16-13	datter	O	
+16-14	Sinna	O	
+16-15	på	O	
+16-16	fem	O	
+16-17	måneder	O	
+16-18	i	O	
+16-19	IKEA	O	
+16-20	for	O	
+16-21	at	O	
+16-22	købe	O	
+16-23	lidt	O	
+16-24	til	O	
+16-25	hjemmet	O	
+16-26	.	O	
+
+#id=17
+#text=-Hverken DR eller " X Factor" er en domstol.
+17-1	-	O	
+17-2	Hverken	O	
+17-3	DR	O	
+17-4	eller	O	
+17-5	"	O	
+17-6	X	O	
+17-7	Factor	O	
+17-8	"	O	
+17-9	er	O	
+17-10	en	O	
+17-11	domstol	O	
+17-12	.	O	
+
+#id=18
+#text=Detvar måske dér, det gik galt med forholdet mellem Rikke og ekskæresten Fatih.
+18-1	Det	O	
+18-2	var	O	
+18-3	måske	O	
+18-4	dér	O	
+18-5	,	O	
+18-6	det	O	
+18-7	gik	O	
+18-8	galt	O	
+18-9	med	O	
+18-10	forholdet	O	
+18-11	mellem	O	
+18-12	Rikke	O	
+18-13	og	O	
+18-14	ekskæresten	O	
+18-15	Fatih	O	
+18-16	.	O	
+
+#id=19
+#text=.
+19-1	.	O	
+
+#id=20
+#text=AABENRAA:
+20-1	AABENRAA	O	
+20-2	:	O	
+
+#id=21
+#text=Officieltskal hun på arbejde for velgørenhedsorganisationen World Childhood Foundation.
+21-1	Officielt	O	
+21-2	skal	O	
+21-3	hun	O	
+21-4	på	O	
+21-5	arbejde	O	
+21-6	for	O	
+21-7	velgørenhedsorganisationen	O	
+21-8	World	O	
+21-9	Childhood	O	
+21-10	Foundation	O	
+21-11	.	O	
+
+#id=22
+#text=-For mig var " Robinson Ekspeditionen" en drøm, der endelig gik i opfyldelse, men der er også nogle barske minder.
+22-1	-	O	
+22-2	For	O	
+22-3	mig	O	
+22-4	var	O	
+22-5	"	O	
+22-6	Robinson	O	
+22-7	Ekspeditionen	O	
+22-8	"	O	
+22-9	en	O	
+22-10	drøm	O	
+22-11	,	O	
+22-12	der	O	
+22-13	endelig	O	
+22-14	gik	O	
+22-15	i	O	
+22-16	opfyldelse	O	
+22-17	,	O	
+22-18	men	O	
+22-19	der	O	
+22-20	er	O	
+22-21	også	O	
+22-22	nogle	O	
+22-23	barske	O	
+22-24	minder	O	
+22-25	.	O	
+
+#id=23
+#text=Siden hans forældre tjener under en flad tier om dagen, har de ikke råd til lægehjælp, men at deres lille guldklump med disse billeder får verdens opmærksomhed, er måske et skridt på rette vej til et normalt liv for Deepak.
+23-1	Siden	O	
+23-2	hans	O	
+23-3	forældre	O	
+23-4	tjener	O	
+23-5	under	O	
+23-6	en	O	
+23-7	flad	O	
+23-8	tier	O	
+23-9	om	O	
+23-10	dagen	O	
+23-11	,	O	
+23-12	har	O	
+23-13	de	O	
+23-14	ikke	O	
+23-15	råd	O	
+23-16	til	O	
+23-17	lægehjælp	O	
+23-18	,	O	
+23-19	men	O	
+23-20	at	O	
+23-21	deres	O	
+23-22	lille	O	
+23-23	guldklump	O	
+23-24	med	O	
+23-25	disse	O	
+23-26	billeder	O	
+23-27	får	O	
+23-28	verdens	O	
+23-29	opmærksomhed	O	
+23-30	,	O	
+23-31	er	O	
+23-32	måske	O	
+23-33	et	O	
+23-34	skridt	O	
+23-35	på	O	
+23-36	rette	O	
+23-37	vej	O	
+23-38	til	O	
+23-39	et	O	
+23-40	normalt	O	
+23-41	liv	O	
+23-42	for	O	
+23-43	Deepak	O	
+23-44	.	O	
+
+#id=24
+#text=Men jeg er god til at give mig selv et kærligt spark bagi og finde noget glæde frem...
+24-1	Men	O	
+24-2	jeg	O	
+24-3	er	O	
+24-4	god	O	
+24-5	til	O	
+24-6	at	O	
+24-7	give	O	
+24-8	mig	O	
+24-9	selv	O	
+24-10	et	O	
+24-11	kærligt	O	
+24-12	spark	O	
+24-13	bagi	O	
+24-14	og	O	
+24-15	finde	O	
+24-16	noget	O	
+24-17	glæde	O	
+24-18	frem	O	
+24-19	.	O	
+24-20	.	O	
+24-21	.	O	
+
+#id=25
+#text=Den kommer ti l at stå i urtehaven.
+25-1	Den	O	
+25-2	kommer	O	
+25-3	ti	O	
+25-4	l	O	
+25-5	at	O	
+25-6	stå	O	
+25-7	i	O	
+25-8	urtehaven	O	
+25-9	.	O	
+
+#id=26
+#text=-nodekyndig grillmester, har barberet prisen på sit 285 kvadratmeter store  bondehus i Fredensborg helt i bund.
+26-1	-	O	
+26-2	nodekyndig	O	
+26-3	grillmester	O	
+26-4	,	O	
+26-5	har	O	
+26-6	barberet	O	
+26-7	prisen	O	
+26-8	på	O	
+26-9	sit	O	
+26-10	285	O	
+26-11	kvadratmeter	O	
+26-12	store	O	
+26-13	bondehus	O	
+26-14	i	O	
+26-15	Fredensborg	O	
+26-16	helt	O	
+26-17	i	O	
+26-18	bund	O	
+26-19	.	O	
+
+#id=27
+#text=-Familie Journals syngende chefredaktør, kaster sig i næste uge over kødgryderne i TV-programmet " 4-Stjerners Middag" på Kanal 5.
+27-1	-	O	
+27-2	Familie	O	
+27-3	Journals	O	
+27-4	syngende	O	
+27-5	chefredaktør	O	
+27-6	,	O	
+27-7	kaster	O	
+27-8	sig	O	
+27-9	i	O	
+27-10	næste	O	
+27-11	uge	O	
+27-12	over	O	
+27-13	kødgryderne	O	
+27-14	i	O	
+27-15	TV	O	
+27-16	-	O	
+27-17	programmet	O	
+27-18	"	O	
+27-19	4	O	
+27-20	-	O	
+27-21	Stjerners	O	
+27-22	Middag	O	
+27-23	"	O	
+27-24	på	O	
+27-25	Kanal	O	
+27-26	5	O	
+27-27	.	O	
+
+#id=28
+#text=Den15 år ældre Ivana Trump Ivana Trump ( t.
+28-1	Den	O	
+28-2	15	O	
+28-3	år	O	
+28-4	ældre	O	
+28-5	Ivana	O	
+28-6	Trump	O	
+28-7	Ivana	O	
+28-8	Trump	O	
+28-9	(	O	
+28-10	t	O	
+28-11	.	O	
+
+#id=29
+#text=Hanvar ved at segne af tørst, da en bil stoppede.
+29-1	Han	O	
+29-2	var	O	
+29-3	ved	O	
+29-4	at	O	
+29-5	segne	O	
+29-6	af	O	
+29-7	tørst	O	
+29-8	,	O	
+29-9	da	O	
+29-10	en	O	
+29-11	bil	O	
+29-12	stoppede	O	
+29-13	.	O	
+
+#id=30
+#text=-munter prinsgemal, lagde fredag vejen forbi Glyptoteket i København for at overvære den officielle åbning af jubilæumsåret Chopin Year 2010, der markerer 200-året for den polske komponist Frédéric Chopin fødsel.
+30-1	-	O	
+30-2	munter	O	
+30-3	prinsgemal	O	
+30-4	,	O	
+30-5	lagde	O	
+30-6	fredag	O	
+30-7	vejen	O	
+30-8	forbi	O	
+30-9	Glyptoteket	O	
+30-10	i	O	
+30-11	København	O	
+30-12	for	O	
+30-13	at	O	
+30-14	overvære	O	
+30-15	den	O	
+30-16	officielle	O	
+30-17	åbning	O	
+30-18	af	O	
+30-19	jubilæumsåret	O	
+30-20	Chopin	O	
+30-21	Year	O	
+30-22	2010	O	
+30-23	,	O	
+30-24	der	O	
+30-25	markerer	O	
+30-26	200	O	
+30-27	-	O	
+30-28	året	O	
+30-29	for	O	
+30-30	den	O	
+30-31	polske	O	
+30-32	komponist	O	
+30-33	Frédéric	O	
+30-34	Chopin	O	
+30-35	fødsel	O	
+30-36	.	O	
+
+#id=31
+#text=Foreløbig er han nået op på 59.
+31-1	Foreløbig	O	
+31-2	er	O	
+31-3	han	O	
+31-4	nået	O	
+31-5	op	O	
+31-6	på	O	
+31-7	59	O	
+31-8	.	O	
+
+#id=32
+#text=C.
+32-1	C	O	
+32-2	.	O	
+
+#id=33
+#text=Sammen med midtbanekrøltoppen Jan Kristiansen tyllede sportsfyrene den ene Bacardi-drink efter den anden i sig og nød opmærksomheden fra et væld af villige tøser.
+33-1	Sammen	O	
+33-2	med	O	
+33-3	midtbanekrøltoppen	O	
+33-4	Jan	O	
+33-5	Kristiansen	O	
+33-6	tyllede	O	
+33-7	sportsfyrene	O	
+33-8	den	O	
+33-9	ene	O	
+33-10	Bacardi	O	
+33-11	-	O	
+33-12	drink	O	
+33-13	efter	O	
+33-14	den	O	
+33-15	anden	O	
+33-16	i	O	
+33-17	sig	O	
+33-18	og	O	
+33-19	nød	O	
+33-20	opmærksomheden	O	
+33-21	fra	O	
+33-22	et	O	
+33-23	væld	O	
+33-24	af	O	
+33-25	villige	O	
+33-26	tøser	O	
+33-27	.	O	
+
+#id=34
+#text=JeppeKofods kæreste Anna Nilsson er gravid i 14. uge, og parret har nu også planer om at flytte sammen i en lejlighed på Vesterbro i København.
+34-1	Jeppe	O	
+34-2	Kofods	O	
+34-3	kæreste	O	
+34-4	Anna	O	
+34-5	Nilsson	O	
+34-6	er	O	
+34-7	gravid	O	
+34-8	i	O	
+34-9	14	O	
+34-10	.	O	
+34-11	uge	O	
+34-12	,	O	
+34-13	og	O	
+34-14	parret	O	
+34-15	har	O	
+34-16	nu	O	
+34-17	også	O	
+34-18	planer	O	
+34-19	om	O	
+34-20	at	O	
+34-21	flytte	O	
+34-22	sammen	O	
+34-23	i	O	
+34-24	en	O	
+34-25	lejlighed	O	
+34-26	på	O	
+34-27	Vesterbro	O	
+34-28	i	O	
+34-29	København	O	
+34-30	.	O	
+
+#id=35
+#text=-udadvendt tidligere Robinson-vinder, blev lørdag nat indlagt på Bispebjerg Hospital med en smertefuld nyrebækkenbetændelse.
+35-1	-	O	
+35-2	udadvendt	O	
+35-3	tidligere	O	
+35-4	Robinson	O	
+35-5	-	O	
+35-6	vinder	O	
+35-7	,	O	
+35-8	blev	O	
+35-9	lørdag	O	
+35-10	nat	O	
+35-11	indlagt	O	
+35-12	på	O	
+35-13	Bispebjerg	O	
+35-14	Hospital	O	
+35-15	med	O	
+35-16	en	O	
+35-17	smertefuld	O	
+35-18	nyrebækkenbetændelse	O	
+35-19	.	O	
+
+#id=36
+#text=Nuer miraklerne imidlertid skiftet ud med ganske almindelig sund fornuft.
+36-1	Nu	O	
+36-2	er	O	
+36-3	miraklerne	O	
+36-4	imidlertid	O	
+36-5	skiftet	O	
+36-6	ud	O	
+36-7	med	O	
+36-8	ganske	O	
+36-9	almindelig	O	
+36-10	sund	O	
+36-11	fornuft	O	
+36-12	.	O	
+
+#id=37
+#text=Islutningen af 2008 smed Anders og moderen til hans tre børn, billedkunstneren Helle Van Dijk håndklædet i ringen efter næsten 20 års ægteskab.
+37-1	I	O	
+37-2	slutningen	O	
+37-3	af	O	
+37-4	2008	O	
+37-5	smed	O	
+37-6	Anders	O	
+37-7	og	O	
+37-8	moderen	O	
+37-9	til	O	
+37-10	hans	O	
+37-11	tre	O	
+37-12	børn	O	
+37-13	,	O	
+37-14	billedkunstneren	O	
+37-15	Helle	O	
+37-16	Van	O	
+37-17	Dijk	O	
+37-18	håndklædet	O	
+37-19	i	O	
+37-20	ringen	O	
+37-21	efter	O	
+37-22	næsten	O	
+37-23	20	O	
+37-24	års	O	
+37-25	ægteskab	O	
+37-26	.	O	
+
+#id=38
+#text=Men han har også selv begået en del soloshows.
+38-1	Men	O	
+38-2	han	O	
+38-3	har	O	
+38-4	også	O	
+38-5	selv	O	
+38-6	begået	O	
+38-7	en	O	
+38-8	del	O	
+38-9	soloshows	O	
+38-10	.	O	
+
+#id=39
+#text=Denpågældende aften underholdt den store komiker for 150 mennesker på Auning Kro i Jylland, så det må have været hans dobbeltgænger, vores kilder så på natklubben Simons.
+39-1	Den	O	
+39-2	pågældende	O	
+39-3	aften	O	
+39-4	underholdt	O	
+39-5	den	O	
+39-6	store	O	
+39-7	komiker	O	
+39-8	for	O	
+39-9	150	O	
+39-10	mennesker	O	
+39-11	på	O	
+39-12	Auning	O	
+39-13	Kro	O	
+39-14	i	O	
+39-15	Jylland	O	
+39-16	,	O	
+39-17	så	O	
+39-18	det	O	
+39-19	må	O	
+39-20	have	O	
+39-21	været	O	
+39-22	hans	O	
+39-23	dobbeltgænger	O	
+39-24	,	O	
+39-25	vores	O	
+39-26	kilder	O	
+39-27	så	O	
+39-28	på	O	
+39-29	natklubben	O	
+39-30	Simons	O	
+39-31	.	O	
+
+#id=40
+#text=Parreter lige nu præget af frustration.
+40-1	Parret	O	
+40-2	er	O	
+40-3	lige	O	
+40-4	nu	O	
+40-5	præget	O	
+40-6	af	O	
+40-7	frustration	O	
+40-8	.	O	
+
+#id=41
+#text=Snart må han dog holde en badepause.
+41-1	Snart	O	
+41-2	må	O	
+41-3	han	O	
+41-4	dog	O	
+41-5	holde	O	
+41-6	en	O	
+41-7	badepause	O	
+41-8	.	O	
+
+#id=42
+#text=Tonen mellem de to var munter fra første færd.
+42-1	Tonen	O	
+42-2	mellem	O	
+42-3	de	O	
+42-4	to	O	
+42-5	var	O	
+42-6	munter	O	
+42-7	fra	O	
+42-8	første	O	
+42-9	færd	O	
+42-10	.	O	
+
+#id=43
+#text=Lørdagden 6. november 2010 kom en lille ny Schmeichel til verden - leveret af den unge Leedsmålmand Kaspers forlovede, Stine Gyldenbrand.
+43-1	Lørdag	O	
+43-2	den	O	
+43-3	6	O	
+43-4	.	O	
+43-5	november	O	
+43-6	2010	O	
+43-7	kom	O	
+43-8	en	O	
+43-9	lille	O	
+43-10	ny	O	
+43-11	Schmeichel	O	
+43-12	til	O	
+43-13	verden	O	
+43-14	-	O	
+43-15	leveret	O	
+43-16	af	O	
+43-17	den	O	
+43-18	unge	O	
+43-19	Leedsmålmand	O	
+43-20	Kaspers	O	
+43-21	forlovede	O	
+43-22	,	O	
+43-23	Stine	O	
+43-24	Gyldenbrand	O	
+43-25	.	O	
+
+#id=44
+#text=Deter sjovt, fordi Ole Kibsgaards far hedder Palle, er pensioneret operasanger uden underbid og efterhånden kun bliver kaldt Menneskepalle.
+44-1	Det	O	
+44-2	er	O	
+44-3	sjovt	O	
+44-4	,	O	
+44-5	fordi	O	
+44-6	Ole	O	
+44-7	Kibsgaards	O	
+44-8	far	O	
+44-9	hedder	O	
+44-10	Palle	O	
+44-11	,	O	
+44-12	er	O	
+44-13	pensioneret	O	
+44-14	operasanger	O	
+44-15	uden	O	
+44-16	underbid	O	
+44-17	og	O	
+44-18	efterhånden	O	
+44-19	kun	O	
+44-20	bliver	O	
+44-21	kaldt	O	
+44-22	Menneskepalle	O	
+44-23	.	O	
+
+#id=45
+#text=Han indtog dansegulvet med en glad ven.
+45-1	Han	O	
+45-2	indtog	O	
+45-3	dansegulvet	O	
+45-4	med	O	
+45-5	en	O	
+45-6	glad	O	
+45-7	ven	O	
+45-8	.	O	
+
+#id=46
+#text=Hans ekskæreste Mathias Enevoldsen kiggede bare på.
+46-1	Hans	O	
+46-2	ekskæreste	O	
+46-3	Mathias	O	
+46-4	Enevoldsen	O	
+46-5	kiggede	O	
+46-6	bare	O	
+46-7	på	O	
+46-8	.	O	
+
+#id=47
+#text=Menlavet De mig 175 Den gået i stå.
+47-1	Men	O	
+47-2	lavet	O	
+47-3	De	O	
+47-4	mig	O	
+47-5	175	O	
+47-6	Den	O	
+47-7	gået	O	
+47-8	i	O	
+47-9	stå	O	
+47-10	.	O	
+
+#id=48
+#text=-skæv sønderjyde, skal i år forsøge at følge op på sidste års megasucces i Sønderborg-revyen med 44 totalt udsolgte forestillinger.
+48-1	-	O	
+48-2	skæv	O	
+48-3	sønderjyde	O	
+48-4	,	O	
+48-5	skal	O	
+48-6	i	O	
+48-7	år	O	
+48-8	forsøge	O	
+48-9	at	O	
+48-10	følge	O	
+48-11	op	O	
+48-12	på	O	
+48-13	sidste	O	
+48-14	års	O	
+48-15	megasucces	O	
+48-16	i	O	
+48-17	Sønderborg	O	
+48-18	-	O	
+48-19	revyen	O	
+48-20	med	O	
+48-21	44	O	
+48-22	totalt	O	
+48-23	udsolgte	O	
+48-24	forestillinger	O	
+48-25	.	O	
+
+#id=49
+#text=Actionheltener blevet en gammel mand på 55, men tro nu ikke, han går med rollator i sin nye film " Red" af den grund.
+49-1	Actionhelten	O	
+49-2	er	O	
+49-3	blevet	O	
+49-4	en	O	
+49-5	gammel	O	
+49-6	mand	O	
+49-7	på	O	
+49-8	55	O	
+49-9	,	O	
+49-10	men	O	
+49-11	tro	O	
+49-12	nu	O	
+49-13	ikke	O	
+49-14	,	O	
+49-15	han	O	
+49-16	går	O	
+49-17	med	O	
+49-18	rollator	O	
+49-19	i	O	
+49-20	sin	O	
+49-21	nye	O	
+49-22	film	O	
+49-23	"	O	
+49-24	Red	O	
+49-25	"	O	
+49-26	af	O	
+49-27	den	O	
+49-28	grund	O	
+49-29	.	O	
+
+#id=50
+#text=hari årevis forsvoret, at hun nogensinde skulle giftes igen.
+50-1	har	O	
+50-2	i	O	
+50-3	årevis	O	
+50-4	forsvoret	O	
+50-5	,	O	
+50-6	at	O	
+50-7	hun	O	
+50-8	nogensinde	O	
+50-9	skulle	O	
+50-10	giftes	O	
+50-11	igen	O	
+50-12	.	O	
+
+#id=51
+#text=-Jeg bader hende og skifter også ble.
+51-1	-	O	
+51-2	Jeg	O	
+51-3	bader	O	
+51-4	hende	O	
+51-5	og	O	
+51-6	skifter	O	
+51-7	også	O	
+51-8	ble	O	
+51-9	.	O	
+
+#id=52
+#text=Hus,kunstsamling, møbler.
+52-1	Hus	O	
+52-2	,	O	
+52-3	kunstsamling	O	
+52-4	,	O	
+52-5	møbler	O	
+52-6	.	O	
+
+#id=53
+#text=Jeg kan godt lide at træne og har også et fitnesskort, men det ligger mest og venter.
+53-1	Jeg	O	
+53-2	kan	O	
+53-3	godt	O	
+53-4	lide	O	
+53-5	at	O	
+53-6	træne	O	
+53-7	og	O	
+53-8	har	O	
+53-9	også	O	
+53-10	et	O	
+53-11	fitnesskort	O	
+53-12	,	O	
+53-13	men	O	
+53-14	det	O	
+53-15	ligger	O	
+53-16	mest	O	
+53-17	og	O	
+53-18	venter	O	
+53-19	.	O	
+
+#id=54
+#text=Lørdagaften trakteres I med en lækker middag i havens hyggelige Restaurant Grøften.
+54-1	Lørdag	O	
+54-2	aften	O	
+54-3	trakteres	O	
+54-4	I	O	
+54-5	med	O	
+54-6	en	O	
+54-7	lækker	O	
+54-8	middag	O	
+54-9	i	O	
+54-10	havens	O	
+54-11	hyggelige	O	
+54-12	Restaurant	O	
+54-13	Grøften	O	
+54-14	.	O	
+
+#id=55
+#text=-Jeg glæder mig til at kunne sove længe, sagde hun.
+55-1	-	O	
+55-2	Jeg	O	
+55-3	glæder	O	
+55-4	mig	O	
+55-5	til	O	
+55-6	at	O	
+55-7	kunne	O	
+55-8	sove	O	
+55-9	længe	O	
+55-10	,	O	
+55-11	sagde	O	
+55-12	hun	O	
+55-13	.	O	
+
+#id=56
+#text=Navn:
+56-1	Navn	O	
+56-2	:	O	
+
+#id=57
+#text=Læsmere på www.klinken.dk.
+57-1	Læs	O	
+57-2	mere	O	
+57-3	på	O	
+57-4	www	O	
+57-5	.	O	
+57-6	klinken	O	
+57-7	.	O	
+57-8	dk	O	
+57-9	.	O	
+
+#id=58
+#text=Jeg er tynd fra naturens side, men jeg synes selv, at jeg er blevet lidt for tynd nu.
+58-1	Jeg	O	
+58-2	er	O	
+58-3	tynd	O	
+58-4	fra	O	
+58-5	naturens	O	
+58-6	side	O	
+58-7	,	O	
+58-8	men	O	
+58-9	jeg	O	
+58-10	synes	O	
+58-11	selv	O	
+58-12	,	O	
+58-13	at	O	
+58-14	jeg	O	
+58-15	er	O	
+58-16	blevet	O	
+58-17	lidt	O	
+58-18	for	O	
+58-19	tynd	O	
+58-20	nu	O	
+58-21	.	O	
+
+#id=59
+#text=-populær to'er, var lørdag formiddag med til at lave to store malerier i Salling i Aalborg.
+59-1	-	O	
+59-2	populær	O	
+59-3	to	O	
+59-4	'	O	
+59-5	er	O	
+59-6	,	O	
+59-7	var	O	
+59-8	lørdag	O	
+59-9	formiddag	O	
+59-10	med	O	
+59-11	til	O	
+59-12	at	O	
+59-13	lave	O	
+59-14	to	O	
+59-15	store	O	
+59-16	malerier	O	
+59-17	i	O	
+59-18	Salling	O	
+59-19	i	O	
+59-20	Aalborg	O	
+59-21	.	O	
+
+#id=60
+#text=-Når der kommer mange kongebørn til verden, kan det på langt sigt være nødvendigt at rydde op i arvefølgen.
+60-1	-	O	
+60-2	Når	O	
+60-3	der	O	
+60-4	kommer	O	
+60-5	mange	O	
+60-6	kongebørn	O	
+60-7	til	O	
+60-8	verden	O	
+60-9	,	O	
+60-10	kan	O	
+60-11	det	O	
+60-12	på	O	
+60-13	langt	O	
+60-14	sigt	O	
+60-15	være	O	
+60-16	nødvendigt	O	
+60-17	at	O	
+60-18	rydde	O	
+60-19	op	O	
+60-20	i	O	
+60-21	arvefølgen	O	
+60-22	.	O	
+
+#id=61
+#text=Atsveden pibler fra grevinden, skyldes en særdeles energisk slagkombination fra den lille spinkle 45-årige kvinde - det er ganske imponerende at se på.
+61-1	At	O	
+61-2	sveden	O	
+61-3	pibler	O	
+61-4	fra	O	
+61-5	grevinden	O	
+61-6	,	O	
+61-7	skyldes	O	
+61-8	en	O	
+61-9	særdeles	O	
+61-10	energisk	O	
+61-11	slagkombination	O	
+61-12	fra	O	
+61-13	den	O	
+61-14	lille	O	
+61-15	spinkle	O	
+61-16	45	O	
+61-17	-	O	
+61-18	årige	O	
+61-19	kvinde	O	
+61-20	-	O	
+61-21	det	O	
+61-22	er	O	
+61-23	ganske	O	
+61-24	imponerende	O	
+61-25	at	O	
+61-26	se	O	
+61-27	på	O	
+61-28	.	O	
+
+#id=62
+#text=Det blev heldigvis til dansk sejr i sidste sekund.
+62-1	Det	O	
+62-2	blev	O	
+62-3	heldigvis	O	
+62-4	til	O	
+62-5	dansk	O	
+62-6	sejr	O	
+62-7	i	O	
+62-8	sidste	O	
+62-9	sekund	O	
+62-10	.	O	
+
+#id=63
+#text=Derforhar han skrevet en sang til prinsens polterabend og også tilbudt at synge den til brylluppet.
+63-1	Derfor	O	
+63-2	har	O	
+63-3	han	O	
+63-4	skrevet	O	
+63-5	en	O	
+63-6	sang	O	
+63-7	til	O	
+63-8	prinsens	O	
+63-9	polterabend	O	
+63-10	og	O	
+63-11	også	O	
+63-12	tilbudt	O	
+63-13	at	O	
+63-14	synge	O	
+63-15	den	O	
+63-16	til	O	
+63-17	brylluppet	O	
+63-18	.	O	
+
+#id=64
+#text=Oghjemme hos præsident Barack Obama og hans familie var det næsten svært at se Det Hvide Hus, der omtrendt faldt i et med naturen.
+64-1	Og	O	
+64-2	hjemme	O	
+64-3	hos	O	
+64-4	præsident	O	
+64-5	Barack	O	
+64-6	Obama	O	
+64-7	og	O	
+64-8	hans	O	
+64-9	familie	O	
+64-10	var	O	
+64-11	det	O	
+64-12	næsten	O	
+64-13	svært	O	
+64-14	at	O	
+64-15	se	O	
+64-16	Det	O	
+64-17	Hvide	O	
+64-18	Hus	O	
+64-19	,	O	
+64-20	der	O	
+64-21	omtrendt	O	
+64-22	faldt	O	
+64-23	i	O	
+64-24	et	O	
+64-25	med	O	
+64-26	naturen	O	
+64-27	.	O	
+
+#id=65
+#text=NEWFOUNDLAND:
+65-1	NEWFOUNDLAND	O	
+65-2	:	O	
+
+#id=66
+#text=1.30hof i baren.
+66-1	1	O	
+66-2	.	O	
+66-3	30	O	
+66-4	hof	O	
+66-5	i	O	
+66-6	baren	O	
+66-7	.	O	
+
+#id=67
+#text=Turenblev dog kort, blot 18 meter, så dukkede lovens lange arm op og uddelte en bøde på 4000 kroner.
+67-1	Turen	O	
+67-2	blev	O	
+67-3	dog	O	
+67-4	kort	O	
+67-5	,	O	
+67-6	blot	O	
+67-7	18	O	
+67-8	meter	O	
+67-9	,	O	
+67-10	så	O	
+67-11	dukkede	O	
+67-12	lovens	O	
+67-13	lange	O	
+67-14	arm	O	
+67-15	op	O	
+67-16	og	O	
+67-17	uddelte	O	
+67-18	en	O	
+67-19	bøde	O	
+67-20	på	O	
+67-21	4000	O	
+67-22	kroner	O	
+67-23	.	O	
+
+#id=68
+#text=Fritidsinteresse:
+68-1	Fritidsinteresse	O	
+68-2	:	O	
+
+#id=69
+#text=Muligvis er jeg blevet sat lidt i bås med Kandis-rollen.
+69-1	Muligvis	O	
+69-2	er	O	
+69-3	jeg	O	
+69-4	blevet	O	
+69-5	sat	O	
+69-6	lidt	O	
+69-7	i	O	
+69-8	bås	O	
+69-9	med	O	
+69-10	Kandis	O	
+69-11	-	O	
+69-12	rollen	O	
+69-13	.	O	
+
+#id=70
+#text=-Det ville være fedt, hvis min advokat og Danske Bank for helvede snart kunne finde ud af at få de sidste ting på plads.
+70-1	-	O	
+70-2	Det	O	
+70-3	ville	O	
+70-4	være	O	
+70-5	fedt	O	
+70-6	,	O	
+70-7	hvis	O	
+70-8	min	O	
+70-9	advokat	O	
+70-10	og	O	
+70-11	Danske	O	
+70-12	Bank	O	
+70-13	for	O	
+70-14	helvede	O	
+70-15	snart	O	
+70-16	kunne	O	
+70-17	finde	O	
+70-18	ud	O	
+70-19	af	O	
+70-20	at	O	
+70-21	få	O	
+70-22	de	O	
+70-23	sidste	O	
+70-24	ting	O	
+70-25	på	O	
+70-26	plads	O	
+70-27	.	O	
+
+#id=71
+#text=-Ja, det er da rigtig nok, erkendte Sverre Dueholm smilende, da SE og HØRs udsendte spurgte til forholdets natur.
+71-1	-	O	
+71-2	Ja	O	
+71-3	,	O	
+71-4	det	O	
+71-5	er	O	
+71-6	da	O	
+71-7	rigtig	O	
+71-8	nok	O	
+71-9	,	O	
+71-10	erkendte	O	
+71-11	Sverre	O	
+71-12	Dueholm	O	
+71-13	smilende	O	
+71-14	,	O	
+71-15	da	O	
+71-16	SE	O	
+71-17	og	O	
+71-18	HØRs	O	
+71-19	udsendte	O	
+71-20	spurgte	O	
+71-21	til	O	
+71-22	forholdets	O	
+71-23	natur	O	
+71-24	.	O	
+
+#id=72
+#text=Megettyder på, at vi ikke engang skal vente på næste modeuge til august, før vi får hende at se igen.
+72-1	Meget	O	
+72-2	tyder	O	
+72-3	på	O	
+72-4	,	O	
+72-5	at	O	
+72-6	vi	O	
+72-7	ikke	O	
+72-8	engang	O	
+72-9	skal	O	
+72-10	vente	O	
+72-11	på	O	
+72-12	næste	O	
+72-13	modeuge	O	
+72-14	til	O	
+72-15	august	O	
+72-16	,	O	
+72-17	før	O	
+72-18	vi	O	
+72-19	får	O	
+72-20	hende	O	
+72-21	at	O	
+72-22	se	O	
+72-23	igen	O	
+72-24	.	O	
+
+#id=73
+#text="Salle" fejres ved en reception i Aller Media s nye bladhus på Havneholmen i Københav n i morgen fredag fra kl. 14 til 16.
+73-1	"	O	
+73-2	Salle	O	
+73-3	"	O	
+73-4	fejres	O	
+73-5	ved	O	
+73-6	en	O	
+73-7	reception	O	
+73-8	i	O	
+73-9	Aller	O	
+73-10	Media	O	
+73-11	s	O	
+73-12	nye	O	
+73-13	bladhus	O	
+73-14	på	O	
+73-15	Havneholmen	O	
+73-16	i	O	
+73-17	Københav	O	
+73-18	n	O	
+73-19	i	O	
+73-20	morgen	O	
+73-21	fredag	O	
+73-22	fra	O	
+73-23	kl	O	
+73-24	.	O	
+73-25	14	O	
+73-26	til	O	
+73-27	16	O	
+73-28	.	O	
+
+#id=74
+#text=Derfortager jeg dem også gerne med på rejser, så de kan få en masse impulser og lære om verden, fortæller Iglesias, der i alt er far til otte børn.
+74-1	Derfor	O	
+74-2	tager	O	
+74-3	jeg	O	
+74-4	dem	O	
+74-5	også	O	
+74-6	gerne	O	
+74-7	med	O	
+74-8	på	O	
+74-9	rejser	O	
+74-10	,	O	
+74-11	så	O	
+74-12	de	O	
+74-13	kan	O	
+74-14	få	O	
+74-15	en	O	
+74-16	masse	O	
+74-17	impulser	O	
+74-18	og	O	
+74-19	lære	O	
+74-20	om	O	
+74-21	verden	O	
+74-22	,	O	
+74-23	fortæller	O	
+74-24	Iglesias	O	
+74-25	,	O	
+74-26	der	O	
+74-27	i	O	
+74-28	alt	O	
+74-29	er	O	
+74-30	far	O	
+74-31	til	O	
+74-32	otte	O	
+74-33	børn	O	
+74-34	.	O	
+
+#id=75
+#text=Tilsammenkan de mønstre næsten 3.000 dvd-film i lejligheden på Vesterbro i København.
+75-1	Tilsammen	O	
+75-2	kan	O	
+75-3	de	O	
+75-4	mønstre	O	
+75-5	næsten	O	
+75-6	3	O	
+75-7	.	O	
+75-8	000	O	
+75-9	dvd	O	
+75-10	-	O	
+75-11	film	O	
+75-12	i	O	
+75-13	lejligheden	O	
+75-14	på	O	
+75-15	Vesterbro	O	
+75-16	i	O	
+75-17	København	O	
+75-18	.	O	
+
+#id=76
+#text=Manved aldrig, hvor Casper Christensen, Ghita Nørby, Thomas Helmig og Paprika Steen haft deres hænder.
+76-1	Man	O	
+76-2	ved	O	
+76-3	aldrig	O	
+76-4	,	O	
+76-5	hvor	O	
+76-6	Casper	O	
+76-7	Christensen	O	
+76-8	,	O	
+76-9	Ghita	O	
+76-10	Nørby	O	
+76-11	,	O	
+76-12	Thomas	O	
+76-13	Helmig	O	
+76-14	og	O	
+76-15	Paprika	O	
+76-16	Steen	O	
+76-17	haft	O	
+76-18	deres	O	
+76-19	hænder	O	
+76-20	.	O	
+
+#id=77
+#text=Charlotteog jeg skal flyve derned i morgen, og det er ham, som har arrangeret det, forklarer Frederik.
+77-1	Charlotte	O	
+77-2	og	O	
+77-3	jeg	O	
+77-4	skal	O	
+77-5	flyve	O	
+77-6	derned	O	
+77-7	i	O	
+77-8	morgen	O	
+77-9	,	O	
+77-10	og	O	
+77-11	det	O	
+77-12	er	O	
+77-13	ham	O	
+77-14	,	O	
+77-15	som	O	
+77-16	har	O	
+77-17	arrangeret	O	
+77-18	det	O	
+77-19	,	O	
+77-20	forklarer	O	
+77-21	Frederik	O	
+77-22	.	O	
+
+#id=78
+#text=OgJanni går op i at se fornuftigt ud, fortalte hun, mens fotografen knoklede for at ramme de rette bikinivinkler.
+78-1	Og	O	
+78-2	Janni	O	
+78-3	går	O	
+78-4	op	O	
+78-5	i	O	
+78-6	at	O	
+78-7	se	O	
+78-8	fornuftigt	O	
+78-9	ud	O	
+78-10	,	O	
+78-11	fortalte	O	
+78-12	hun	O	
+78-13	,	O	
+78-14	mens	O	
+78-15	fotografen	O	
+78-16	knoklede	O	
+78-17	for	O	
+78-18	at	O	
+78-19	ramme	O	
+78-20	de	O	
+78-21	rette	O	
+78-22	bikinivinkler	O	
+78-23	.	O	
+
+#id=79
+#text=-forelsket skuespiller, går i denne tid og kigger på hus sammen med sin kæreste og tandlæge gennem 40 år, Vivian Dencker.
+79-1	-	O	
+79-2	forelsket	O	
+79-3	skuespiller	O	
+79-4	,	O	
+79-5	går	O	
+79-6	i	O	
+79-7	denne	O	
+79-8	tid	O	
+79-9	og	O	
+79-10	kigger	O	
+79-11	på	O	
+79-12	hus	O	
+79-13	sammen	O	
+79-14	med	O	
+79-15	sin	O	
+79-16	kæreste	O	
+79-17	og	O	
+79-18	tandlæge	O	
+79-19	gennem	O	
+79-20	40	O	
+79-21	år	O	
+79-22	,	O	
+79-23	Vivian	O	
+79-24	Dencker	O	
+79-25	.	O	
+
+#id=80
+#text=a. sammen med ægtemanden Martin og sine to prinsesønner Nikolai og Felix.
+80-1	a	O	
+80-2	.	O	
+80-3	sammen	O	
+80-4	med	O	
+80-5	ægtemanden	O	
+80-6	Martin	O	
+80-7	og	O	
+80-8	sine	O	
+80-9	to	O	
+80-10	prinsesønner	O	
+80-11	Nikolai	O	
+80-12	og	O	
+80-13	Felix	O	
+80-14	.	O	
+
+#id=81
+#text=Debitre og triste miner, som har præget prinsessens ansigt i den senere tid, var forsvundet som dug for solen.
+81-1	De	O	
+81-2	bitre	O	
+81-3	og	O	
+81-4	triste	O	
+81-5	miner	O	
+81-6	,	O	
+81-7	som	O	
+81-8	har	O	
+81-9	præget	O	
+81-10	prinsessens	O	
+81-11	ansigt	O	
+81-12	i	O	
+81-13	den	O	
+81-14	senere	O	
+81-15	tid	O	
+81-16	,	O	
+81-17	var	O	
+81-18	forsvundet	O	
+81-19	som	O	
+81-20	dug	O	
+81-21	for	O	
+81-22	solen	O	
+81-23	.	O	
+
+#id=82
+#text=-lille munter mand, kan næsten ikke få armene ned i disse dage, hvor Sønderborg Sommer Revy spiller for så fulde huse, at han har måttet forlænge spilleperioden med ekstraforestillinger.
+82-1	-	O	
+82-2	lille	O	
+82-3	munter	O	
+82-4	mand	O	
+82-5	,	O	
+82-6	kan	O	
+82-7	næsten	O	
+82-8	ikke	O	
+82-9	få	O	
+82-10	armene	O	
+82-11	ned	O	
+82-12	i	O	
+82-13	disse	O	
+82-14	dage	O	
+82-15	,	O	
+82-16	hvor	O	
+82-17	Sønderborg	O	
+82-18	Sommer	O	
+82-19	Revy	O	
+82-20	spiller	O	
+82-21	for	O	
+82-22	så	O	
+82-23	fulde	O	
+82-24	huse	O	
+82-25	,	O	
+82-26	at	O	
+82-27	han	O	
+82-28	har	O	
+82-29	måttet	O	
+82-30	forlænge	O	
+82-31	spilleperioden	O	
+82-32	med	O	
+82-33	ekstraforestillinger	O	
+82-34	.	O	
+
+#id=83
+#text=And so what?
+83-1	And	O	
+83-2	so	O	
+83-3	what	O	
+83-4	?	O	
+
+#id=84
+#text=For siden tog hun det til sig som et slags varemærke, og det blev en del af hendes show.
+84-1	For	O	
+84-2	siden	O	
+84-3	tog	O	
+84-4	hun	O	
+84-5	det	O	
+84-6	til	O	
+84-7	sig	O	
+84-8	som	O	
+84-9	et	O	
+84-10	slags	O	
+84-11	varemærke	O	
+84-12	,	O	
+84-13	og	O	
+84-14	det	O	
+84-15	blev	O	
+84-16	en	O	
+84-17	del	O	
+84-18	af	O	
+84-19	hendes	O	
+84-20	show	O	
+84-21	.	O	
+
+#id=85
+#text=-flot 58-årig skuespiller, er still going strong og fungerer lige nu som resident director på musicalforestillingen " Mamma Mia!", der får premiere i Tivolis Koncertsal den 15.oktober.
+85-1	-	O	
+85-2	flot	O	
+85-3	58	O	
+85-4	-	O	
+85-5	årig	O	
+85-6	skuespiller	O	
+85-7	,	O	
+85-8	er	O	
+85-9	still	O	
+85-10	going	O	
+85-11	strong	O	
+85-12	og	O	
+85-13	fungerer	O	
+85-14	lige	O	
+85-15	nu	O	
+85-16	som	O	
+85-17	resident	O	
+85-18	director	O	
+85-19	på	O	
+85-20	musicalforestillingen	O	
+85-21	"	O	
+85-22	Mamma	O	
+85-23	Mia	O	
+85-24	!	O	
+85-25	"	O	
+85-26	,	O	
+85-27	der	O	
+85-28	får	O	
+85-29	premiere	O	
+85-30	i	O	
+85-31	Tivolis	O	
+85-32	Koncertsal	O	
+85-33	den	O	
+85-34	15	O	
+85-35	.	O	
+85-36	oktober	O	
+85-37	.	O	
+
+#id=86
+#text=Værdipr. stk.: 249 kr.
+86-1	Værdi	O	
+86-2	pr	O	
+86-3	.	O	
+86-4	stk	O	
+86-5	.	O	
+86-6	:	O	
+86-7	249	O	
+86-8	kr	O	
+86-9	.	O	
+
+#id=87
+#text=-Det gør jeg også, men min kone bliver rasende, hver gang jeg låner hendes kjoler Fjollet samtale: - Har du fundet ud af, hvad det modsatte af propelfly er? - Not yet Han sagde: - Det siges, at enhver kvinde har sin pris.
+87-1	-	O	
+87-2	Det	O	
+87-3	gør	O	
+87-4	jeg	O	
+87-5	også	O	
+87-6	,	O	
+87-7	men	O	
+87-8	min	O	
+87-9	kone	O	
+87-10	bliver	O	
+87-11	rasende	O	
+87-12	,	O	
+87-13	hver	O	
+87-14	gang	O	
+87-15	jeg	O	
+87-16	låner	O	
+87-17	hendes	O	
+87-18	kjoler	O	
+87-19	Fjollet	O	
+87-20	samtale	O	
+87-21	:	O	
+87-22	-	O	
+87-23	Har	O	
+87-24	du	O	
+87-25	fundet	O	
+87-26	ud	O	
+87-27	af	O	
+87-28	,	O	
+87-29	hvad	O	
+87-30	det	O	
+87-31	modsatte	O	
+87-32	af	O	
+87-33	propelfly	O	
+87-34	er	O	
+87-35	?	O	
+87-36	-	O	
+87-37	Not	O	
+87-38	yet	O	
+87-39	Han	O	
+87-40	sagde	O	
+87-41	:	O	
+87-42	-	O	
+87-43	Det	O	
+87-44	siges	O	
+87-45	,	O	
+87-46	at	O	
+87-47	enhver	O	
+87-48	kvinde	O	
+87-49	har	O	
+87-50	sin	O	
+87-51	pris	O	
+87-52	.	O	
+
+#id=88
+#text=Det var åbenbart bare en ting dernede på øen, siger Henriette, som efterfølgende slet ikke har talt med HC.
+88-1	Det	O	
+88-2	var	O	
+88-3	åbenbart	O	
+88-4	bare	O	
+88-5	en	O	
+88-6	ting	O	
+88-7	dernede	O	
+88-8	på	O	
+88-9	øen	O	
+88-10	,	O	
+88-11	siger	O	
+88-12	Henriette	O	
+88-13	,	O	
+88-14	som	O	
+88-15	efterfølgende	O	
+88-16	slet	O	
+88-17	ikke	O	
+88-18	har	O	
+88-19	talt	O	
+88-20	med	O	
+88-21	HC	O	
+88-22	.	O	
+
+#id=89
+#text=Sveden piblede frem, og grovæderen måtte ud i overtid, før han kunne kalde sig chilimester.
+89-1	Sveden	O	
+89-2	piblede	O	
+89-3	frem	O	
+89-4	,	O	
+89-5	og	O	
+89-6	grovæderen	O	
+89-7	måtte	O	
+89-8	ud	O	
+89-9	i	O	
+89-10	overtid	O	
+89-11	,	O	
+89-12	før	O	
+89-13	han	O	
+89-14	kunne	O	
+89-15	kalde	O	
+89-16	sig	O	
+89-17	chilimester	O	
+89-18	.	O	
+
+#id=90
+#text=POLFOTO.
+90-1	POLFOTO	O	
+90-2	.	O	
+
+#id=91
+#text=Påfredag gæster Sys Bjerre Nyhavn-studiet, mens DR's pigekor også giver koncert.
+91-1	På	O	
+91-2	fredag	O	
+91-3	gæster	O	
+91-4	Sys	O	
+91-5	Bjerre	O	
+91-6	Nyhavn	O	
+91-7	-	O	
+91-8	studiet	O	
+91-9	,	O	
+91-10	mens	O	
+91-11	DR	O	
+91-12	'	O	
+91-13	s	O	
+91-14	pigekor	O	
+91-15	også	O	
+91-16	giver	O	
+91-17	koncert	O	
+91-18	.	O	
+
+#id=92
+#text=Christianog Isabella gav den som pistolmænd, da de løb ud i efterårsvejret i pausen under teaterstykket " Sværdet i stenen".
+92-1	Christian	O	
+92-2	og	O	
+92-3	Isabella	O	
+92-4	gav	O	
+92-5	den	O	
+92-6	som	O	
+92-7	pistolmænd	O	
+92-8	,	O	
+92-9	da	O	
+92-10	de	O	
+92-11	løb	O	
+92-12	ud	O	
+92-13	i	O	
+92-14	efterårsvejret	O	
+92-15	i	O	
+92-16	pausen	O	
+92-17	under	O	
+92-18	teaterstykket	O	
+92-19	"	O	
+92-20	Sværdet	O	
+92-21	i	O	
+92-22	stenen	O	
+92-23	"	O	
+92-24	.	O	
+
+#id=93
+#text=-Men jeg synes nu, jeg lærte det ret hurtigt.
+93-1	-	O	
+93-2	Men	O	
+93-3	jeg	O	
+93-4	synes	O	
+93-5	nu	O	
+93-6	,	O	
+93-7	jeg	O	
+93-8	lærte	O	
+93-9	det	O	
+93-10	ret	O	
+93-11	hurtigt	O	
+93-12	.	O	
+
+#id=94
+#text=Hunskal den 1. januar spille kamp i landet, og derfor tager hun vennen Jacob Melskens med et smut om på den anden side af jordkloden for at " smashe" sig selv ind i det nye år.
+94-1	Hun	O	
+94-2	skal	O	
+94-3	den	O	
+94-4	1	O	
+94-5	.	O	
+94-6	januar	O	
+94-7	spille	O	
+94-8	kamp	O	
+94-9	i	O	
+94-10	landet	O	
+94-11	,	O	
+94-12	og	O	
+94-13	derfor	O	
+94-14	tager	O	
+94-15	hun	O	
+94-16	vennen	O	
+94-17	Jacob	O	
+94-18	Melskens	O	
+94-19	med	O	
+94-20	et	O	
+94-21	smut	O	
+94-22	om	O	
+94-23	på	O	
+94-24	den	O	
+94-25	anden	O	
+94-26	side	O	
+94-27	af	O	
+94-28	jordkloden	O	
+94-29	for	O	
+94-30	at	O	
+94-31	"	O	
+94-32	smashe	O	
+94-33	"	O	
+94-34	sig	O	
+94-35	selv	O	
+94-36	ind	O	
+94-37	i	O	
+94-38	det	O	
+94-39	nye	O	
+94-40	år	O	
+94-41	.	O	
+
+#id=95
+#text=L. kort efter at køre bilen ind i en parkeret lastbil.
+95-1	L	O	
+95-2	.	O	
+95-3	kort	O	
+95-4	efter	O	
+95-5	at	O	
+95-6	køre	O	
+95-7	bilen	O	
+95-8	ind	O	
+95-9	i	O	
+95-10	en	O	
+95-11	parkeret	O	
+95-12	lastbil	O	
+95-13	.	O	
+
+#id=96
+#text=a. sportens verden.
+96-1	a	O	
+96-2	.	O	
+96-3	sportens	O	
+96-4	verden	O	
+96-5	.	O	
+
+#id=97
+#text=MilleDinesen og Thomas Busch kunne alligevel ikke undvære hinanden
+97-1	Mille	O	
+97-2	Dinesen	O	
+97-3	og	O	
+97-4	Thomas	O	
+97-5	Busch	O	
+97-6	kunne	O	
+97-7	alligevel	O	
+97-8	ikke	O	
+97-9	undvære	O	
+97-10	hinanden	O	
+
+#id=98
+#text=Fornylig var hun i Tokyo, og forleden blev hun set på det mondæne Four Seasons Hotel i amerikanske Washington.
+98-1	For	O	
+98-2	nylig	O	
+98-3	var	O	
+98-4	hun	O	
+98-5	i	O	
+98-6	Tokyo	O	
+98-7	,	O	
+98-8	og	O	
+98-9	forleden	O	
+98-10	blev	O	
+98-11	hun	O	
+98-12	set	O	
+98-13	på	O	
+98-14	det	O	
+98-15	mondæne	O	
+98-16	Four	O	
+98-17	Seasons	O	
+98-18	Hotel	O	
+98-19	i	O	
+98-20	amerikanske	O	
+98-21	Washington	O	
+98-22	.	O	
+
+#id=99
+#text=HemmelighedsfuldeSofie venter barn.
+99-1	Hemmelighedsfulde	O	
+99-2	Sofie	O	
+99-3	venter	O	
+99-4	barn	O	
+99-5	.	O	
+
+#id=100
+#text=Dekongelige træder undertiden ud af den royale rolle.
+100-1	De	O	
+100-2	kongelige	O	
+100-3	træder	O	
+100-4	undertiden	O	
+100-5	ud	O	
+100-6	af	O	
+100-7	den	O	
+100-8	royale	O	
+100-9	rolle	O	
+100-10	.	O	
+

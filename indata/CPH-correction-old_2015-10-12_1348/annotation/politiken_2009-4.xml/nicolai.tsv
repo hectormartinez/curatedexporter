@@ -1,0 +1,2175 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Verner Møller, Odense, 47, professor Erik Steffensen, København, 48, fhv. landsholdsspiller Jesper Olsen, England, 48, troubadur, fysioterapeut, Jens Ole Pihl, Sønderborg, 49.
+1-1	Verner	O	
+1-2	Møller	B-noun.person	
+1-3	,	O	
+1-4	Odense	O	
+1-5	,	O	
+1-6	47	O	
+1-7	,	O	
+1-8	professor	B-noun.person	
+1-9	Erik	B-noun.person	
+1-10	Steffensen	I-noun.person	
+1-11	,	O	
+1-12	København	B-noun.location	
+1-13	,	O	
+1-14	48	O	
+1-15	,	O	
+1-16	fhv	O	
+1-17	.	O	
+1-18	landsholdsspiller	B-noun.person	
+1-19	Jesper	O	
+1-20	Olsen	O	
+1-21	,	O	
+1-22	England	B-noun.location	
+1-23	,	O	
+1-24	48	O	
+1-25	,	O	
+1-26	troubadur	O	
+1-27	,	O	
+1-28	fysioterapeut	B-noun.person	
+1-29	,	O	
+1-30	Jens	B-noun.person	
+1-31	Ole	O	
+1-32	Pihl	O	
+1-33	,	O	
+1-34	Sønderborg	O	
+1-35	,	O	
+1-36	49	O	
+1-37	.	O	
+
+#id=2
+#text="Hvis man er fan af den amerikanske baseballiga, så pletter det en æra i nogen grad", siger Barack Obama efter Sports Illustrated har afsløret, at Rodriguez er en 104 spillere, der i 2003 tog steroider.
+2-1	"	O	
+2-2	Hvis	O	
+2-3	man	O	
+2-4	er	O	
+2-5	fan	O	
+2-6	af	O	
+2-7	den	O	
+2-8	amerikanske	O	
+2-9	baseballiga	O	
+2-10	,	O	
+2-11	så	O	
+2-12	pletter	O	
+2-13	det	O	
+2-14	en	O	
+2-15	æra	O	
+2-16	i	O	
+2-17	nogen	O	
+2-18	grad	O	
+2-19	"	O	
+2-20	,	O	
+2-21	siger	O	
+2-22	Barack	O	
+2-23	Obama	O	
+2-24	efter	O	
+2-25	Sports	O	
+2-26	Illustrated	O	
+2-27	har	O	
+2-28	afsløret	O	
+2-29	,	O	
+2-30	at	O	
+2-31	Rodriguez	O	
+2-32	er	O	
+2-33	en	O	
+2-34	104	O	
+2-35	spillere	O	
+2-36	,	O	
+2-37	der	O	
+2-38	i	O	
+2-39	2003	O	
+2-40	tog	O	
+2-41	steroider	O	
+2-42	.	O	
+
+#id=3
+#text=Deresejendommelige arkitektur, der favner flere offentlige institutioner, ligger som en skarpt tegnet landskabelig struktur på kanten af Ordrup Park.
+3-1	Deres	B-noun.person	
+3-2	ejendommelige	I-noun.person|B-noun.person	
+3-3	arkitektur	B-noun.domain	
+3-4	,	O	
+3-5	der	O	
+3-6	favner	B-verb.TOP	
+3-7	flere	O	
+3-8	offentlige	B-adj.social	
+3-9	institutioner	B-noun.institution	
+3-10	,	O	
+3-11	ligger	B-verb.stative	
+3-12	som	O	
+3-13	en	O	
+3-14	skarpt	O	
+3-15	tegnet	B-adj.all	
+3-16	landskabelig	B-adj.phys	
+3-17	struktur	B-noun.person	
+3-18	på	O	
+3-19	kanten	B-noun.location	
+3-20	af	O	
+3-21	Ordrup	B-noun.location	
+3-22	Park	I-noun.location	
+3-23	.	O	
+
+#id=4
+#text=Godt håndværk og lige lidt mere
+4-1	Godt	O	
+4-2	håndværk	O	
+4-3	og	O	
+4-4	lige	O	
+4-5	lidt	O	
+4-6	mere	O	
+
+#id=5
+#text=Vi anser os selv for et ungt og voksende demokrati, der gør fantastiske fremskridt".
+5-1	Vi	O	
+5-2	anser	O	
+5-3	os	O	
+5-4	selv	O	
+5-5	for	O	
+5-6	et	O	
+5-7	ungt	O	
+5-8	og	O	
+5-9	voksende	O	
+5-10	demokrati	O	
+5-11	,	O	
+5-12	der	O	
+5-13	gør	O	
+5-14	fantastiske	O	
+5-15	fremskridt	O	
+5-16	"	O	
+5-17	.	O	
+
+#id=6
+#text=Få timer efter Dianne Feinsteins beklagelser ringede både Barack Obama og den kommende vicepræsident, Joe Biden, til senatoren, som allernådigst tog imod deres undskyldninger.
+6-1	Få	O	
+6-2	timer	O	
+6-3	efter	O	
+6-4	Dianne	O	
+6-5	Feinsteins	O	
+6-6	beklagelser	O	
+6-7	ringede	O	
+6-8	både	O	
+6-9	Barack	O	
+6-10	Obama	O	
+6-11	og	O	
+6-12	den	O	
+6-13	kommende	O	
+6-14	vicepræsident	O	
+6-15	,	O	
+6-16	Joe	O	
+6-17	Biden	O	
+6-18	,	O	
+6-19	til	O	
+6-20	senatoren	O	
+6-21	,	O	
+6-22	som	O	
+6-23	allernådigst	O	
+6-24	tog	O	
+6-25	imod	O	
+6-26	deres	O	
+6-27	undskyldninger	O	
+6-28	.	O	
+
+#id=7
+#text=Man kan måske godt vinde i Madrid, det kniber mere med at gøre det samme i Middlesbrough, og trods alle Rafael Benitez' kvaliteter i de store europæiske cupkampe ser han heller ikke i år ud til at føre rekordmestrene tilbage til toppen af den nationale liga, hvor klubben næsten havde patent på at befinde sig i et par årtier.
+7-1	Man	O	
+7-2	kan	O	
+7-3	måske	O	
+7-4	godt	O	
+7-5	vinde	O	
+7-6	i	O	
+7-7	Madrid	O	
+7-8	,	O	
+7-9	det	O	
+7-10	kniber	O	
+7-11	mere	O	
+7-12	med	O	
+7-13	at	O	
+7-14	gøre	O	
+7-15	det	O	
+7-16	samme	O	
+7-17	i	O	
+7-18	Middlesbrough	O	
+7-19	,	O	
+7-20	og	O	
+7-21	trods	O	
+7-22	alle	O	
+7-23	Rafael	O	
+7-24	Benitez	O	
+7-25	'	O	
+7-26	kvaliteter	O	
+7-27	i	O	
+7-28	de	O	
+7-29	store	O	
+7-30	europæiske	O	
+7-31	cupkampe	O	
+7-32	ser	O	
+7-33	han	O	
+7-34	heller	O	
+7-35	ikke	O	
+7-36	i	O	
+7-37	år	O	
+7-38	ud	O	
+7-39	til	O	
+7-40	at	O	
+7-41	føre	O	
+7-42	rekordmestrene	O	
+7-43	tilbage	O	
+7-44	til	O	
+7-45	toppen	O	
+7-46	af	O	
+7-47	den	O	
+7-48	nationale	O	
+7-49	liga	O	
+7-50	,	O	
+7-51	hvor	O	
+7-52	klubben	O	
+7-53	næsten	O	
+7-54	havde	O	
+7-55	patent	O	
+7-56	på	O	
+7-57	at	O	
+7-58	befinde	O	
+7-59	sig	O	
+7-60	i	O	
+7-61	et	O	
+7-62	par	O	
+7-63	årtier	O	
+7-64	.	O	
+
+#id=8
+#text=Det kan jeg bare ikke, for mit liv er jo her i Danmark nu.
+8-1	Det	O	
+8-2	kan	O	
+8-3	jeg	O	
+8-4	bare	O	
+8-5	ikke	O	
+8-6	,	O	
+8-7	for	O	
+8-8	mit	O	
+8-9	liv	O	
+8-10	er	O	
+8-11	jo	O	
+8-12	her	O	
+8-13	i	O	
+8-14	Danmark	O	
+8-15	nu	O	
+8-16	.	O	
+
+#id=9
+#text=Når vi har haft flere konfrontationer, hvor det ender voldsomt og fatalt, så er nogle i ledelsen af systemet ikke i stand til at håndtere det korrekt".
+9-1	Når	O	
+9-2	vi	O	
+9-3	har	O	
+9-4	haft	O	
+9-5	flere	O	
+9-6	konfrontationer	O	
+9-7	,	O	
+9-8	hvor	O	
+9-9	det	O	
+9-10	ender	O	
+9-11	voldsomt	O	
+9-12	og	O	
+9-13	fatalt	O	
+9-14	,	O	
+9-15	så	O	
+9-16	er	O	
+9-17	nogle	O	
+9-18	i	O	
+9-19	ledelsen	O	
+9-20	af	O	
+9-21	systemet	O	
+9-22	ikke	O	
+9-23	i	O	
+9-24	stand	O	
+9-25	til	O	
+9-26	at	O	
+9-27	håndtere	O	
+9-28	det	O	
+9-29	korrekt	O	
+9-30	"	O	
+9-31	.	O	
+
+#id=10
+#text=JørgenHoppe er i gang med sin sidste fireårige periode som formand for de handelsansatte i Danmark.
+10-1	Jørgen	O	
+10-2	Hoppe	O	
+10-3	er	O	
+10-4	i	O	
+10-5	gang	O	
+10-6	med	O	
+10-7	sin	O	
+10-8	sidste	O	
+10-9	fireårige	O	
+10-10	periode	O	
+10-11	som	O	
+10-12	formand	O	
+10-13	for	O	
+10-14	de	O	
+10-15	handelsansatte	O	
+10-16	i	O	
+10-17	Danmark	O	
+10-18	.	O	
+
+#id=11
+#text=EFTERAT HUN i 1994 stoppede i Folketinget, var hun i en periode formand for Børnerådet i Århus, og hun blev i 1998 medlem af bestyrelsen for Kvindemuseet i Danmark.
+11-1	EFTER	O	
+11-2	AT	O	
+11-3	HUN	O	
+11-4	i	O	
+11-5	1994	O	
+11-6	stoppede	O	
+11-7	i	O	
+11-8	Folketinget	O	
+11-9	,	O	
+11-10	var	O	
+11-11	hun	O	
+11-12	i	O	
+11-13	en	O	
+11-14	periode	O	
+11-15	formand	O	
+11-16	for	O	
+11-17	Børnerådet	O	
+11-18	i	O	
+11-19	Århus	O	
+11-20	,	O	
+11-21	og	O	
+11-22	hun	O	
+11-23	blev	O	
+11-24	i	O	
+11-25	1998	O	
+11-26	medlem	O	
+11-27	af	O	
+11-28	bestyrelsen	O	
+11-29	for	O	
+11-30	Kvindemuseet	O	
+11-31	i	O	
+11-32	Danmark	O	
+11-33	.	O	
+
+#id=12
+#text=Møllerne skal leveres til to projekter i Constanta-regionen i Rumænien, og værdien på ordren er i milliardklassen i danske kroner.
+12-1	Møllerne	O	
+12-2	skal	O	
+12-3	leveres	O	
+12-4	til	O	
+12-5	to	O	
+12-6	projekter	O	
+12-7	i	O	
+12-8	Constanta	O	
+12-9	-	O	
+12-10	regionen	O	
+12-11	i	O	
+12-12	Rumænien	O	
+12-13	,	O	
+12-14	og	O	
+12-15	værdien	O	
+12-16	på	O	
+12-17	ordren	O	
+12-18	er	O	
+12-19	i	O	
+12-20	milliardklassen	O	
+12-21	i	O	
+12-22	danske	O	
+12-23	kroner	O	
+12-24	.	O	
+
+#id=13
+#text=Og skulle rollen som Walt blive hans svanesang som skuespiller, er det en mere end værdig afslutning på en lang karriere foran kameraet.
+13-1	Og	O	
+13-2	skulle	O	
+13-3	rollen	O	
+13-4	som	O	
+13-5	Walt	O	
+13-6	blive	O	
+13-7	hans	O	
+13-8	svanesang	O	
+13-9	som	O	
+13-10	skuespiller	O	
+13-11	,	O	
+13-12	er	O	
+13-13	det	O	
+13-14	en	O	
+13-15	mere	O	
+13-16	end	O	
+13-17	værdig	O	
+13-18	afslutning	O	
+13-19	på	O	
+13-20	en	O	
+13-21	lang	O	
+13-22	karriere	O	
+13-23	foran	O	
+13-24	kameraet	O	
+13-25	.	O	
+
+#id=14
+#text=USAtrækker soldater ud af Irak for at sende flere til Afghanistan.
+14-1	USA	O	
+14-2	trækker	O	
+14-3	soldater	O	
+14-4	ud	O	
+14-5	af	O	
+14-6	Irak	O	
+14-7	for	O	
+14-8	at	O	
+14-9	sende	O	
+14-10	flere	O	
+14-11	til	O	
+14-12	Afghanistan	O	
+14-13	.	O	
+
+#id=15
+#text=Jeg accepterer selvfølgelig situationen, som den er, og der er ingen bad feelings.
+15-1	Jeg	O	
+15-2	accepterer	O	
+15-3	selvfølgelig	O	
+15-4	situationen	O	
+15-5	,	O	
+15-6	som	O	
+15-7	den	O	
+15-8	er	O	
+15-9	,	O	
+15-10	og	O	
+15-11	der	O	
+15-12	er	O	
+15-13	ingen	O	
+15-14	bad	O	
+15-15	feelings	O	
+15-16	.	O	
+
+#id=16
+#text=19.00Vejle-Randers FC Kenneth Møller Pedersen er en vigtig spiller for Randers FC på den centrale midtbane.
+16-1	19	O	
+16-2	.	O	
+16-3	00	O	
+16-4	Vejle	O	
+16-5	-	O	
+16-6	Randers	O	
+16-7	FC	O	
+16-8	Kenneth	O	
+16-9	Møller	O	
+16-10	Pedersen	O	
+16-11	er	O	
+16-12	en	O	
+16-13	vigtig	O	
+16-14	spiller	O	
+16-15	for	O	
+16-16	Randers	O	
+16-17	FC	O	
+16-18	på	O	
+16-19	den	O	
+16-20	centrale	O	
+16-21	midtbane	O	
+16-22	.	O	
+
+#id=17
+#text=Britiske netbrugere kan ikke længere se musikvideoer på YouTube.
+17-1	Britiske	O	
+17-2	netbrugere	O	
+17-3	kan	O	
+17-4	ikke	O	
+17-5	længere	O	
+17-6	se	O	
+17-7	musikvideoer	O	
+17-8	på	O	
+17-9	YouTube	O	
+17-10	.	O	
+
+#id=18
+#text=Han blev i 2007 idømt 12 års fængsel  i det nordafrikanske land for at have deltaget i planlægningen af en fredelig demonstration imod politivold, oplyser organisationen Human Rights Watch.
+18-1	Han	O	
+18-2	blev	O	
+18-3	i	O	
+18-4	2007	O	
+18-5	idømt	O	
+18-6	12	O	
+18-7	års	O	
+18-8	fængsel	O	
+18-9	i	O	
+18-10	det	O	
+18-11	nordafrikanske	O	
+18-12	land	O	
+18-13	for	O	
+18-14	at	O	
+18-15	have	O	
+18-16	deltaget	O	
+18-17	i	O	
+18-18	planlægningen	O	
+18-19	af	O	
+18-20	en	O	
+18-21	fredelig	O	
+18-22	demonstration	O	
+18-23	imod	O	
+18-24	politivold	O	
+18-25	,	O	
+18-26	oplyser	O	
+18-27	organisationen	O	
+18-28	Human	O	
+18-29	Rights	O	
+18-30	Watch	O	
+18-31	.	O	
+
+#id=19
+#text=Helttilbage i søndagsavisen 1.2.:
+19-1	Helt	O	
+19-2	tilbage	O	
+19-3	i	O	
+19-4	søndagsavisen	O	
+19-5	1	O	
+19-6	.	O	
+19-7	2	O	
+19-8	.	O	
+19-9	:	O	
+
+#id=20
+#text=(Information)
+20-1	(	O	
+20-2	Information	O	
+20-3	)	O	
+
+#id=21
+#text=Heri venter den egentlige test på Jacob Zumas integritet og kvaliteten af hans lederskab.
+21-1	Heri	O	
+21-2	venter	O	
+21-3	den	O	
+21-4	egentlige	O	
+21-5	test	O	
+21-6	på	O	
+21-7	Jacob	O	
+21-8	Zumas	O	
+21-9	integritet	O	
+21-10	og	O	
+21-11	kvaliteten	O	
+21-12	af	O	
+21-13	hans	O	
+21-14	lederskab	O	
+21-15	.	O	
+
+#id=22
+#text=Dendumper i en svensk test af bilers evne til at modstå indbrud, og det er skidt for svenske Avensis-ejere, for de kan se frem til, at deres forsikring stiger med 30 procent.
+22-1	Den	O	
+22-2	dumper	O	
+22-3	i	O	
+22-4	en	O	
+22-5	svensk	O	
+22-6	test	O	
+22-7	af	O	
+22-8	bilers	O	
+22-9	evne	O	
+22-10	til	O	
+22-11	at	O	
+22-12	modstå	O	
+22-13	indbrud	O	
+22-14	,	O	
+22-15	og	O	
+22-16	det	O	
+22-17	er	O	
+22-18	skidt	O	
+22-19	for	O	
+22-20	svenske	O	
+22-21	Avensis	O	
+22-22	-	O	
+22-23	ejere	O	
+22-24	,	O	
+22-25	for	O	
+22-26	de	O	
+22-27	kan	O	
+22-28	se	O	
+22-29	frem	O	
+22-30	til	O	
+22-31	,	O	
+22-32	at	O	
+22-33	deres	O	
+22-34	forsikring	O	
+22-35	stiger	O	
+22-36	med	O	
+22-37	30	O	
+22-38	procent	O	
+22-39	.	O	
+
+#id=23
+#text=Erdet dødens?
+23-1	Er	O	
+23-2	det	O	
+23-3	dødens	O	
+23-4	?	O	
+
+#id=24
+#text=læggeflere billeder oven i hinanden, så de snarere danner et mønster end et
+24-1	lægge	O	
+24-2	flere	O	
+24-3	billeder	O	
+24-4	oven	O	
+24-5	i	O	
+24-6	hinanden	O	
+24-7	,	O	
+24-8	så	O	
+24-9	de	O	
+24-10	snarere	O	
+24-11	danner	O	
+24-12	et	O	
+24-13	mønster	O	
+24-14	end	O	
+24-15	et	O	
+
+#id=25
+#text=Tfc1 Så går den vilde kongejagt.
+25-1	Tfc1	O	
+25-2	Så	O	
+25-3	går	O	
+25-4	den	O	
+25-5	vilde	O	
+25-6	kongejagt	O	
+25-7	.	O	
+
+#id=26
+#text=30%af udenlandske firmaer i Danmark var i 2006 svenskejede.
+26-1	30%	O	
+26-2	af	O	
+26-3	udenlandske	O	
+26-4	firmaer	O	
+26-5	i	O	
+26-6	Danmark	O	
+26-7	var	O	
+26-8	i	O	
+26-9	2006	O	
+26-10	svenskejede	O	
+26-11	.	O	
+
+#id=27
+#text=P3 kl. 12.07.
+27-1	P3	O	
+27-2	kl	O	
+27-3	.	O	
+27-4	12	O	
+27-5	.	O	
+27-6	07	O	
+27-7	.	O	
+
+#id=28
+#text=5, forbillede for Judy Dench som James Bonds nyeste chef, søsat en serie med den kvindelige topagent, Liz Carlyle.
+28-1	5	O	
+28-2	,	O	
+28-3	forbillede	O	
+28-4	for	O	
+28-5	Judy	O	
+28-6	Dench	O	
+28-7	som	O	
+28-8	James	O	
+28-9	Bonds	O	
+28-10	nyeste	O	
+28-11	chef	O	
+28-12	,	O	
+28-13	søsat	O	
+28-14	en	O	
+28-15	serie	O	
+28-16	med	O	
+28-17	den	O	
+28-18	kvindelige	O	
+28-19	topagent	O	
+28-20	,	O	
+28-21	Liz	O	
+28-22	Carlyle	O	
+28-23	.	O	
+
+#id=29
+#text=Min påstand er, at vi også har uskylden, som man også kan reagere på.
+29-1	Min	O	
+29-2	påstand	O	
+29-3	er	O	
+29-4	,	O	
+29-5	at	O	
+29-6	vi	O	
+29-7	også	O	
+29-8	har	O	
+29-9	uskylden	O	
+29-10	,	O	
+29-11	som	O	
+29-12	man	O	
+29-13	også	O	
+29-14	kan	O	
+29-15	reagere	O	
+29-16	på	O	
+29-17	.	O	
+
+#id=30
+#text=Som Krarup skriver:
+30-1	Som	O	
+30-2	Krarup	O	
+30-3	skriver	O	
+30-4	:	O	
+
+#id=31
+#text=Ritzau.
+31-1	Ritzau	O	
+31-2	.	O	
+
+#id=32
+#text=CarinaChristensen forklarer, at Danmarks Radio i år 2000 indgik en otteårig kontrakt om "den fjerde FM-kanal".
+32-1	Carina	O	
+32-2	Christensen	O	
+32-3	forklarer	O	
+32-4	,	O	
+32-5	at	O	
+32-6	Danmarks	O	
+32-7	Radio	O	
+32-8	i	O	
+32-9	år	O	
+32-10	2000	O	
+32-11	indgik	O	
+32-12	en	O	
+32-13	otteårig	O	
+32-14	kontrakt	O	
+32-15	om	O	
+32-16	"	O	
+32-17	den	O	
+32-18	fjerde	O	
+32-19	FM	O	
+32-20	-	O	
+32-21	kanal	O	
+32-22	"	O	
+32-23	.	O	
+
+#id=33
+#text=Forældre må skære igennem og vælge, hvem der skal have lov, og hvor der skal holdes igen", opfordrer hun.
+33-1	Forældre	O	
+33-2	må	O	
+33-3	skære	O	
+33-4	igennem	O	
+33-5	og	O	
+33-6	vælge	O	
+33-7	,	O	
+33-8	hvem	O	
+33-9	der	O	
+33-10	skal	O	
+33-11	have	O	
+33-12	lov	O	
+33-13	,	O	
+33-14	og	O	
+33-15	hvor	O	
+33-16	der	O	
+33-17	skal	O	
+33-18	holdes	O	
+33-19	igen	O	
+33-20	"	O	
+33-21	,	O	
+33-22	opfordrer	O	
+33-23	hun	O	
+33-24	.	O	
+
+#id=34
+#text=For bare et par dage siden lavede vi sjov med, at hun havde en dusør på 300.000 rupier (cirka 21.000 kroner) på sit hoved", siger en af hendes venner til den engelske avis The Guardian.
+34-1	For	O	
+34-2	bare	O	
+34-3	et	O	
+34-4	par	O	
+34-5	dage	O	
+34-6	siden	O	
+34-7	lavede	O	
+34-8	vi	O	
+34-9	sjov	O	
+34-10	med	O	
+34-11	,	O	
+34-12	at	O	
+34-13	hun	O	
+34-14	havde	O	
+34-15	en	O	
+34-16	dusør	O	
+34-17	på	O	
+34-18	300	O	
+34-19	.	O	
+34-20	000	O	
+34-21	rupier	O	
+34-22	(	O	
+34-23	cirka	O	
+34-24	21	O	
+34-25	.	O	
+34-26	000	O	
+34-27	kroner	O	
+34-28	)	O	
+34-29	på	O	
+34-30	sit	O	
+34-31	hoved	O	
+34-32	"	O	
+34-33	,	O	
+34-34	siger	O	
+34-35	en	O	
+34-36	af	O	
+34-37	hendes	O	
+34-38	venner	O	
+34-39	til	O	
+34-40	den	O	
+34-41	engelske	O	
+34-42	avis	O	
+34-43	The	O	
+34-44	Guardian	O	
+34-45	.	O	
+
+#id=35
+#text=HVIS TO mænd eller to kvinder elsker hinanden og ønsker at blive gift på rådhuset, må ordet ' ægtefolk' ikke udtales i officielt øjemed.
+35-1	HVIS	O	
+35-2	TO	O	
+35-3	mænd	O	
+35-4	eller	O	
+35-5	to	O	
+35-6	kvinder	O	
+35-7	elsker	O	
+35-8	hinanden	O	
+35-9	og	O	
+35-10	ønsker	O	
+35-11	at	O	
+35-12	blive	O	
+35-13	gift	O	
+35-14	på	O	
+35-15	rådhuset	O	
+35-16	,	O	
+35-17	må	O	
+35-18	ordet	O	
+35-19	'	O	
+35-20	ægtefolk	O	
+35-21	'	O	
+35-22	ikke	O	
+35-23	udtales	O	
+35-24	i	O	
+35-25	officielt	O	
+35-26	øjemed	O	
+35-27	.	O	
+
+#id=36
+#text=Førstehverdag gav det nye togselskab på Kystbanen mellem Helsingør og København, DSBFirst, store problemer.
+36-1	Første	O	
+36-2	hverdag	O	
+36-3	gav	O	
+36-4	det	O	
+36-5	nye	O	
+36-6	togselskab	O	
+36-7	på	O	
+36-8	Kystbanen	O	
+36-9	mellem	O	
+36-10	Helsingør	O	
+36-11	og	O	
+36-12	København	O	
+36-13	,	O	
+36-14	DSBFirst	O	
+36-15	,	O	
+36-16	store	O	
+36-17	problemer	O	
+36-18	.	O	
+
+#id=37
+#text=reuters.
+37-1	reuters	O	
+37-2	.	O	
+
+#id=38
+#text=Tilsyneladendehavde journalisterne ikke researchet særlig grundigt, for i avisartikler, reklamer og magasiner vekslede udsagnene imellem, at kaffelortene blev leveret af kat, mår, desmerdyr, desmerkat, palmeruller, luwak, civet og civet cat.
+38-1	Tilsyneladende	O	
+38-2	havde	O	
+38-3	journalisterne	O	
+38-4	ikke	O	
+38-5	researchet	O	
+38-6	særlig	O	
+38-7	grundigt	O	
+38-8	,	O	
+38-9	for	O	
+38-10	i	O	
+38-11	avisartikler	O	
+38-12	,	O	
+38-13	reklamer	O	
+38-14	og	O	
+38-15	magasiner	O	
+38-16	vekslede	O	
+38-17	udsagnene	O	
+38-18	imellem	O	
+38-19	,	O	
+38-20	at	O	
+38-21	kaffelortene	O	
+38-22	blev	O	
+38-23	leveret	O	
+38-24	af	O	
+38-25	kat	O	
+38-26	,	O	
+38-27	mår	O	
+38-28	,	O	
+38-29	desmerdyr	O	
+38-30	,	O	
+38-31	desmerkat	O	
+38-32	,	O	
+38-33	palmeruller	O	
+38-34	,	O	
+38-35	luwak	O	
+38-36	,	O	
+38-37	civet	O	
+38-38	og	O	
+38-39	civet	O	
+38-40	cat	O	
+38-41	.	O	
+
+#id=39
+#text=Og store bistecche, der nonchalant udskæres af hele højreb lige ved spisesalen.
+39-1	Og	O	
+39-2	store	O	
+39-3	bistecche	O	
+39-4	,	O	
+39-5	der	O	
+39-6	nonchalant	O	
+39-7	udskæres	O	
+39-8	af	O	
+39-9	hele	O	
+39-10	højreb	O	
+39-11	lige	O	
+39-12	ved	O	
+39-13	spisesalen	O	
+39-14	.	O	
+
+#id=40
+#text=En undersøgelse viser, at 77 procent af de danske internetbrugere aldrig har downloadet copyrightbeskyttet film eller musik.
+40-1	En	O	
+40-2	undersøgelse	O	
+40-3	viser	O	
+40-4	,	O	
+40-5	at	O	
+40-6	77	O	
+40-7	procent	O	
+40-8	af	O	
+40-9	de	O	
+40-10	danske	O	
+40-11	internetbrugere	O	
+40-12	aldrig	O	
+40-13	har	O	
+40-14	downloadet	O	
+40-15	copyrightbeskyttet	O	
+40-16	film	O	
+40-17	eller	O	
+40-18	musik	O	
+40-19	.	O	
+
+#id=41
+#text=Politikeni Gaza
+41-1	Politiken	O	
+41-2	i	O	
+41-3	Gaza	O	
+
+#id=42
+#text=Vokset op i Sverige, men ikke svensk, med en mor, som mente, fortiden bedst var glemt.
+42-1	Vokset	O	
+42-2	op	O	
+42-3	i	O	
+42-4	Sverige	O	
+42-5	,	O	
+42-6	men	O	
+42-7	ikke	O	
+42-8	svensk	O	
+42-9	,	O	
+42-10	med	O	
+42-11	en	O	
+42-12	mor	O	
+42-13	,	O	
+42-14	som	O	
+42-15	mente	O	
+42-16	,	O	
+42-17	fortiden	O	
+42-18	bedst	O	
+42-19	var	O	
+42-20	glemt	O	
+42-21	.	O	
+
+#id=43
+#text=Repræsentanternes Hus har godkendt en anden version, så nu skal Kongressens to kamre enes om et kompromis.
+43-1	Repræsentanternes	O	
+43-2	Hus	O	
+43-3	har	O	
+43-4	godkendt	O	
+43-5	en	O	
+43-6	anden	O	
+43-7	version	O	
+43-8	,	O	
+43-9	så	O	
+43-10	nu	O	
+43-11	skal	O	
+43-12	Kongressens	O	
+43-13	to	O	
+43-14	kamre	O	
+43-15	enes	O	
+43-16	om	O	
+43-17	et	O	
+43-18	kompromis	O	
+43-19	.	O	
+
+#id=44
+#text=Side4-5.
+44-1	Side	O	
+44-2	4	O	
+44-3	-	O	
+44-4	5	O	
+44-5	.	O	
+
+#id=45
+#text="De andre angribere har været bedre på træningsbanen og lavet mål i de foregående kampe.
+45-1	"	O	
+45-2	De	O	
+45-3	andre	O	
+45-4	angribere	O	
+45-5	har	O	
+45-6	været	O	
+45-7	bedre	O	
+45-8	på	O	
+45-9	træningsbanen	O	
+45-10	og	O	
+45-11	lavet	O	
+45-12	mål	O	
+45-13	i	O	
+45-14	de	O	
+45-15	foregående	O	
+45-16	kampe	O	
+45-17	.	O	
+
+#id=46
+#text=Det er godt for bierne og det danske drikkevand, fint for forbrugerne, men ikke optimalt for landmændene.
+46-1	Det	O	
+46-2	er	O	
+46-3	godt	O	
+46-4	for	O	
+46-5	bierne	O	
+46-6	og	O	
+46-7	det	O	
+46-8	danske	O	
+46-9	drikkevand	O	
+46-10	,	O	
+46-11	fint	O	
+46-12	for	O	
+46-13	forbrugerne	O	
+46-14	,	O	
+46-15	men	O	
+46-16	ikke	O	
+46-17	optimalt	O	
+46-18	for	O	
+46-19	landmændene	O	
+46-20	.	O	
+
+#id=47
+#text=Endelig afslørede Carlsbergs ledelse, at der er planer om et storstilet opstød i Rusland, hvilket gjorde stemningen på fondsbørsen endnu bedre.
+47-1	Endelig	O	
+47-2	afslørede	O	
+47-3	Carlsbergs	O	
+47-4	ledelse	O	
+47-5	,	O	
+47-6	at	O	
+47-7	der	O	
+47-8	er	O	
+47-9	planer	O	
+47-10	om	O	
+47-11	et	O	
+47-12	storstilet	O	
+47-13	opstød	O	
+47-14	i	O	
+47-15	Rusland	O	
+47-16	,	O	
+47-17	hvilket	O	
+47-18	gjorde	O	
+47-19	stemningen	O	
+47-20	på	O	
+47-21	fondsbørsen	O	
+47-22	endnu	O	
+47-23	bedre	O	
+47-24	.	O	
+
+#id=48
+#text=Foramerikanerne står Tyrkiet som beviset på, at den muslimske verden kan være såvel demokratisk som muslimsk Erik Boel, højskoleforstander, i Kristeligt Dagblad.
+48-1	For	O	
+48-2	amerikanerne	O	
+48-3	står	O	
+48-4	Tyrkiet	O	
+48-5	som	O	
+48-6	beviset	O	
+48-7	på	O	
+48-8	,	O	
+48-9	at	O	
+48-10	den	O	
+48-11	muslimske	O	
+48-12	verden	O	
+48-13	kan	O	
+48-14	være	O	
+48-15	såvel	O	
+48-16	demokratisk	O	
+48-17	som	O	
+48-18	muslimsk	O	
+48-19	Erik	O	
+48-20	Boel	O	
+48-21	,	O	
+48-22	højskoleforstander	O	
+48-23	,	O	
+48-24	i	O	
+48-25	Kristeligt	O	
+48-26	Dagblad	O	
+48-27	.	O	
+
+#id=49
+#text=Til nød Thustrup Hansen.
+49-1	Til	O	
+49-2	nød	O	
+49-3	Thustrup	O	
+49-4	Hansen	O	
+49-5	.	O	
+
+#id=50
+#text=308børn født i udlandet blev adopteret i Danmark i 2008.
+50-1	308	O	
+50-2	børn	O	
+50-3	født	O	
+50-4	i	O	
+50-5	udlandet	O	
+50-6	blev	O	
+50-7	adopteret	O	
+50-8	i	O	
+50-9	Danmark	O	
+50-10	i	O	
+50-11	2008	O	
+50-12	.	O	
+
+#id=51
+#text=Deter da fint nok, men skulle vi ikke - i Europa og i  Danmark - hellere bruge tid på det, der betyder noget.
+51-1	Det	O	
+51-2	er	O	
+51-3	da	O	
+51-4	fint	O	
+51-5	nok	O	
+51-6	,	O	
+51-7	men	O	
+51-8	skulle	O	
+51-9	vi	O	
+51-10	ikke	O	
+51-11	-	O	
+51-12	i	O	
+51-13	Europa	O	
+51-14	og	O	
+51-15	i	O	
+51-16	Danmark	O	
+51-17	-	O	
+51-18	hellere	O	
+51-19	bruge	O	
+51-20	tid	O	
+51-21	på	O	
+51-22	det	O	
+51-23	,	O	
+51-24	der	O	
+51-25	betyder	O	
+51-26	noget	O	
+51-27	.	O	
+
+#id=52
+#text=Herfra kan forældrene bestemme, hvor avanceret mobilen skal være, for den kan forsimples udi det ekstreme.
+52-1	Herfra	O	
+52-2	kan	O	
+52-3	forældrene	O	
+52-4	bestemme	O	
+52-5	,	O	
+52-6	hvor	O	
+52-7	avanceret	O	
+52-8	mobilen	O	
+52-9	skal	O	
+52-10	være	O	
+52-11	,	O	
+52-12	for	O	
+52-13	den	O	
+52-14	kan	O	
+52-15	forsimples	O	
+52-16	udi	O	
+52-17	det	O	
+52-18	ekstreme	O	
+52-19	.	O	
+
+#id=53
+#text=For jeg er sikker på, at det vil være 100 procent effektivt.
+53-1	For	O	
+53-2	jeg	O	
+53-3	er	O	
+53-4	sikker	O	
+53-5	på	O	
+53-6	,	O	
+53-7	at	O	
+53-8	det	O	
+53-9	vil	O	
+53-10	være	O	
+53-11	100	O	
+53-12	procent	O	
+53-13	effektivt	O	
+53-14	.	O	
+
+#id=54
+#text=*
+54-1	*	O	
+
+#id=55
+#text=Flereaf dem reagerede voldsomt.
+55-1	Flere	O	
+55-2	af	O	
+55-3	dem	O	
+55-4	reagerede	O	
+55-5	voldsomt	O	
+55-6	.	O	
+
+#id=56
+#text=Senu bare sprayen til venstre, som Christian Holm Donatzky har fotograferet på Tenerife.
+56-1	Se	O	
+56-2	nu	O	
+56-3	bare	O	
+56-4	sprayen	O	
+56-5	til	O	
+56-6	venstre	O	
+56-7	,	O	
+56-8	som	O	
+56-9	Christian	O	
+56-10	Holm	O	
+56-11	Donatzky	O	
+56-12	har	O	
+56-13	fotograferet	O	
+56-14	på	O	
+56-15	Tenerife	O	
+56-16	.	O	
+
+#id=57
+#text=Ifølgeopgørelsen på driverdb.com er næstbedste dansker veteranen John Nielsen med 64 sejre, mens den ottedobbelte Le Mans-vinder Tom Kristensen er noteret for 44 sejre i karrieren.
+57-1	Ifølge	O	
+57-2	opgørelsen	O	
+57-3	på	O	
+57-4	driverdb	O	
+57-5	.	O	
+57-6	com	O	
+57-7	er	O	
+57-8	næstbedste	O	
+57-9	dansker	O	
+57-10	veteranen	O	
+57-11	John	O	
+57-12	Nielsen	O	
+57-13	med	O	
+57-14	64	O	
+57-15	sejre	O	
+57-16	,	O	
+57-17	mens	O	
+57-18	den	O	
+57-19	ottedobbelte	O	
+57-20	Le	O	
+57-21	Mans	O	
+57-22	-	O	
+57-23	vinder	O	
+57-24	Tom	O	
+57-25	Kristensen	O	
+57-26	er	O	
+57-27	noteret	O	
+57-28	for	O	
+57-29	44	O	
+57-30	sejre	O	
+57-31	i	O	
+57-32	karrieren	O	
+57-33	.	O	
+
+#id=58
+#text="Tjaehh ... bumbum".
+58-1	"	O	
+58-2	Tjaehh	O	
+58-3	.	O	
+58-4	.	O	
+58-5	.	O	
+58-6	bumbum	O	
+58-7	"	O	
+58-8	.	O	
+
+#id=59
+#text=KuskenTor Wollebek gav sig selv skylden for, at det ikke blev ti på stribe.
+59-1	Kusken	O	
+59-2	Tor	O	
+59-3	Wollebek	O	
+59-4	gav	O	
+59-5	sig	O	
+59-6	selv	O	
+59-7	skylden	O	
+59-8	for	O	
+59-9	,	O	
+59-10	at	O	
+59-11	det	O	
+59-12	ikke	O	
+59-13	blev	O	
+59-14	ti	O	
+59-15	på	O	
+59-16	stribe	O	
+59-17	.	O	
+
+#id=60
+#text=skovdrift og brændefyring.
+60-1	skovdrift	O	
+60-2	og	O	
+60-3	brændefyring	O	
+60-4	.	O	
+
+#id=61
+#text=Når man læser en økonom som Joseph Stiglitz, som tilligemed både er nobelprismodtager, og som har arbejdet på højeste politiske niveau under Clinton-regeringen i USA og efterfølgende som cheføkonom i Verdensbanken, så må man erkende, at der er visse økonomer, man må have dyb respekt for.
+61-1	Når	O	
+61-2	man	O	
+61-3	læser	O	
+61-4	en	O	
+61-5	økonom	O	
+61-6	som	O	
+61-7	Joseph	O	
+61-8	Stiglitz	O	
+61-9	,	O	
+61-10	som	O	
+61-11	tilligemed	O	
+61-12	både	O	
+61-13	er	O	
+61-14	nobelprismodtager	O	
+61-15	,	O	
+61-16	og	O	
+61-17	som	O	
+61-18	har	O	
+61-19	arbejdet	O	
+61-20	på	O	
+61-21	højeste	O	
+61-22	politiske	O	
+61-23	niveau	O	
+61-24	under	O	
+61-25	Clinton	O	
+61-26	-	O	
+61-27	regeringen	O	
+61-28	i	O	
+61-29	USA	O	
+61-30	og	O	
+61-31	efterfølgende	O	
+61-32	som	O	
+61-33	cheføkonom	O	
+61-34	i	O	
+61-35	Verdensbanken	O	
+61-36	,	O	
+61-37	så	O	
+61-38	må	O	
+61-39	man	O	
+61-40	erkende	O	
+61-41	,	O	
+61-42	at	O	
+61-43	der	O	
+61-44	er	O	
+61-45	visse	O	
+61-46	økonomer	O	
+61-47	,	O	
+61-48	man	O	
+61-49	må	O	
+61-50	have	O	
+61-51	dyb	O	
+61-52	respekt	O	
+61-53	for	O	
+61-54	.	O	
+
+#id=62
+#text=Denengelske grafittikunstner James Jessop har succes - og nu også sin første danske separatudstilling.
+62-1	Den	O	
+62-2	engelske	O	
+62-3	grafittikunstner	O	
+62-4	James	O	
+62-5	Jessop	O	
+62-6	har	O	
+62-7	succes	O	
+62-8	-	O	
+62-9	og	O	
+62-10	nu	O	
+62-11	også	O	
+62-12	sin	O	
+62-13	første	O	
+62-14	danske	O	
+62-15	separatudstilling	O	
+62-16	.	O	
+
+#id=63
+#text=Udstillingom antisemitismens historiske udbredelse i danske medier viser nogle af de mørkeste sider af dansk pressehistorie.
+63-1	Udstilling	O	
+63-2	om	O	
+63-3	antisemitismens	O	
+63-4	historiske	O	
+63-5	udbredelse	O	
+63-6	i	O	
+63-7	danske	O	
+63-8	medier	O	
+63-9	viser	O	
+63-10	nogle	O	
+63-11	af	O	
+63-12	de	O	
+63-13	mørkeste	O	
+63-14	sider	O	
+63-15	af	O	
+63-16	dansk	O	
+63-17	pressehistorie	O	
+63-18	.	O	
+
+#id=64
+#text=lars.dahlager@pol.dk
+64-1	lars	O	
+64-2	.	O	
+64-3	dahlager@pol	O	
+64-4	.	O	
+64-5	dk	O	
+
+#id=65
+#text=Formålet er at redde den danske eksport af kyllinger til Mellemøsten.
+65-1	Formålet	O	
+65-2	er	O	
+65-3	at	O	
+65-4	redde	O	
+65-5	den	O	
+65-6	danske	O	
+65-7	eksport	O	
+65-8	af	O	
+65-9	kyllinger	O	
+65-10	til	O	
+65-11	Mellemøsten	O	
+65-12	.	O	
+
+#id=66
+#text=Enoverordnet liste over forbudte stumpe genstande, som indirekte kan omfatte tennisketsjere, har godt nok eksisteret i sin nuværende form siden 2004.
+66-1	En	O	
+66-2	overordnet	O	
+66-3	liste	O	
+66-4	over	O	
+66-5	forbudte	O	
+66-6	stumpe	O	
+66-7	genstande	O	
+66-8	,	O	
+66-9	som	O	
+66-10	indirekte	O	
+66-11	kan	O	
+66-12	omfatte	O	
+66-13	tennisketsjere	O	
+66-14	,	O	
+66-15	har	O	
+66-16	godt	O	
+66-17	nok	O	
+66-18	eksisteret	O	
+66-19	i	O	
+66-20	sin	O	
+66-21	nuværende	O	
+66-22	form	O	
+66-23	siden	O	
+66-24	2004	O	
+66-25	.	O	
+
+#id=67
+#text=har fundet inspiration i de kinesiske folkeparker, hvor kropstræning er udbredt.
+67-1	har	O	
+67-2	fundet	O	
+67-3	inspiration	O	
+67-4	i	O	
+67-5	de	O	
+67-6	kinesiske	O	
+67-7	folkeparker	O	
+67-8	,	O	
+67-9	hvor	O	
+67-10	kropstræning	O	
+67-11	er	O	
+67-12	udbredt	O	
+67-13	.	O	
+
+#id=68
+#text=Denroste temaudstilling Swingtime :
+68-1	Den	O	
+68-2	roste	O	
+68-3	temaudstilling	O	
+68-4	Swingtime	O	
+68-5	:	O	
+
+#id=69
+#text=Fordi man kunne høre, at der ikke blev spillet på rygraden, eller altid fuldstændig perfekt, blev det særlig klart hvor meget man egentlig kan høre, og hvor meget musikerne her kan orientere sig i forhold til hinanden.
+69-1	Fordi	O	
+69-2	man	O	
+69-3	kunne	O	
+69-4	høre	O	
+69-5	,	O	
+69-6	at	O	
+69-7	der	O	
+69-8	ikke	O	
+69-9	blev	O	
+69-10	spillet	O	
+69-11	på	O	
+69-12	rygraden	O	
+69-13	,	O	
+69-14	eller	O	
+69-15	altid	O	
+69-16	fuldstændig	O	
+69-17	perfekt	O	
+69-18	,	O	
+69-19	blev	O	
+69-20	det	O	
+69-21	særlig	O	
+69-22	klart	O	
+69-23	hvor	O	
+69-24	meget	O	
+69-25	man	O	
+69-26	egentlig	O	
+69-27	kan	O	
+69-28	høre	O	
+69-29	,	O	
+69-30	og	O	
+69-31	hvor	O	
+69-32	meget	O	
+69-33	musikerne	O	
+69-34	her	O	
+69-35	kan	O	
+69-36	orientere	O	
+69-37	sig	O	
+69-38	i	O	
+69-39	forhold	O	
+69-40	til	O	
+69-41	hinanden	O	
+69-42	.	O	
+
+#id=70
+#text=REGERINGENOG DF har fået 25.000 flere indvandrere i job, men desværre bliver indsatsen dagligt saboteret af de store socialdemokratiske kommuner, der behandler muslimske indvandrere som ofre og betaler dem for at sygne hen i ghettoerne til uendelig skade for integrationen.
+70-1	REGERINGEN	O	
+70-2	OG	O	
+70-3	DF	O	
+70-4	har	O	
+70-5	fået	O	
+70-6	25	O	
+70-7	.	O	
+70-8	000	O	
+70-9	flere	O	
+70-10	indvandrere	O	
+70-11	i	O	
+70-12	job	O	
+70-13	,	O	
+70-14	men	O	
+70-15	desværre	O	
+70-16	bliver	O	
+70-17	indsatsen	O	
+70-18	dagligt	O	
+70-19	saboteret	O	
+70-20	af	O	
+70-21	de	O	
+70-22	store	O	
+70-23	socialdemokratiske	O	
+70-24	kommuner	O	
+70-25	,	O	
+70-26	der	O	
+70-27	behandler	O	
+70-28	muslimske	O	
+70-29	indvandrere	O	
+70-30	som	O	
+70-31	ofre	O	
+70-32	og	O	
+70-33	betaler	O	
+70-34	dem	O	
+70-35	for	O	
+70-36	at	O	
+70-37	sygne	O	
+70-38	hen	O	
+70-39	i	O	
+70-40	ghettoerne	O	
+70-41	til	O	
+70-42	uendelig	O	
+70-43	skade	O	
+70-44	for	O	
+70-45	integrationen	O	
+70-46	.	O	
+
+#id=71
+#text=Det var den måske allermest kulturelle nation i Europa med en blomstrende filmindustri, en åben presse og en lang historie for tolerance.
+71-1	Det	O	
+71-2	var	O	
+71-3	den	O	
+71-4	måske	O	
+71-5	allermest	O	
+71-6	kulturelle	O	
+71-7	nation	O	
+71-8	i	O	
+71-9	Europa	O	
+71-10	med	O	
+71-11	en	O	
+71-12	blomstrende	O	
+71-13	filmindustri	O	
+71-14	,	O	
+71-15	en	O	
+71-16	åben	O	
+71-17	presse	O	
+71-18	og	O	
+71-19	en	O	
+71-20	lang	O	
+71-21	historie	O	
+71-22	for	O	
+71-23	tolerance	O	
+71-24	.	O	
+
+#id=72
+#text=LUFTDRAMA.
+72-1	LUFTDRAMA	O	
+72-2	.	O	
+
+#id=73
+#text=Tom Wilkinson og Kirsten Dunst sekunderer fint vore to hovedpersoner i denne kalejdoskopiske og drilske film, som nok ikke er alles kop te.
+73-1	Tom	O	
+73-2	Wilkinson	O	
+73-3	og	O	
+73-4	Kirsten	O	
+73-5	Dunst	O	
+73-6	sekunderer	O	
+73-7	fint	O	
+73-8	vore	O	
+73-9	to	O	
+73-10	hovedpersoner	O	
+73-11	i	O	
+73-12	denne	O	
+73-13	kalejdoskopiske	O	
+73-14	og	O	
+73-15	drilske	O	
+73-16	film	O	
+73-17	,	O	
+73-18	som	O	
+73-19	nok	O	
+73-20	ikke	O	
+73-21	er	O	
+73-22	alles	O	
+73-23	kop	O	
+73-24	te	O	
+73-25	.	O	
+
+#id=74
+#text=Ellers har vi ikke gjort vores arbejde godt nok".
+74-1	Ellers	O	
+74-2	har	O	
+74-3	vi	O	
+74-4	ikke	O	
+74-5	gjort	O	
+74-6	vores	O	
+74-7	arbejde	O	
+74-8	godt	O	
+74-9	nok	O	
+74-10	"	O	
+74-11	.	O	
+
+#id=75
+#text=Han endte med at polere lyden en del, og Nirvana sagde senere, at de ikke kunne fordrage mikset, selv om de angiveligt var begejstrede nok, første gang de hørte det.
+75-1	Han	O	
+75-2	endte	O	
+75-3	med	O	
+75-4	at	O	
+75-5	polere	O	
+75-6	lyden	O	
+75-7	en	O	
+75-8	del	O	
+75-9	,	O	
+75-10	og	O	
+75-11	Nirvana	O	
+75-12	sagde	O	
+75-13	senere	O	
+75-14	,	O	
+75-15	at	O	
+75-16	de	O	
+75-17	ikke	O	
+75-18	kunne	O	
+75-19	fordrage	O	
+75-20	mikset	O	
+75-21	,	O	
+75-22	selv	O	
+75-23	om	O	
+75-24	de	O	
+75-25	angiveligt	O	
+75-26	var	O	
+75-27	begejstrede	O	
+75-28	nok	O	
+75-29	,	O	
+75-30	første	O	
+75-31	gang	O	
+75-32	de	O	
+75-33	hørte	O	
+75-34	det	O	
+75-35	.	O	
+
+#id=76
+#text=Denkorte pause i kamphandlingerne kommer efter, at det internationale samfund i stigende grad har appelleret til Sri  Lanka om at beskytte civile, der bliver fanget i krydsild.
+76-1	Den	O	
+76-2	korte	O	
+76-3	pause	O	
+76-4	i	O	
+76-5	kamphandlingerne	O	
+76-6	kommer	O	
+76-7	efter	O	
+76-8	,	O	
+76-9	at	O	
+76-10	det	O	
+76-11	internationale	O	
+76-12	samfund	O	
+76-13	i	O	
+76-14	stigende	O	
+76-15	grad	O	
+76-16	har	O	
+76-17	appelleret	O	
+76-18	til	O	
+76-19	Sri	O	
+76-20	Lanka	O	
+76-21	om	O	
+76-22	at	O	
+76-23	beskytte	O	
+76-24	civile	O	
+76-25	,	O	
+76-26	der	O	
+76-27	bliver	O	
+76-28	fanget	O	
+76-29	i	O	
+76-30	krydsild	O	
+76-31	.	O	
+
+#id=77
+#text=Det skaffede Sedaka på den tids mailinglister hos hitlystne producere.
+77-1	Det	O	
+77-2	skaffede	O	
+77-3	Sedaka	O	
+77-4	på	O	
+77-5	den	O	
+77-6	tids	O	
+77-7	mailinglister	O	
+77-8	hos	O	
+77-9	hitlystne	O	
+77-10	producere	O	
+77-11	.	O	
+
+#id=78
+#text=Dener spækket med udstyr, der kan måle tyngdeaccelerationen på Jorden med hidtil uset præcision.
+78-1	Den	O	
+78-2	er	O	
+78-3	spækket	O	
+78-4	med	O	
+78-5	udstyr	O	
+78-6	,	O	
+78-7	der	O	
+78-8	kan	O	
+78-9	måle	O	
+78-10	tyngdeaccelerationen	O	
+78-11	på	O	
+78-12	Jorden	O	
+78-13	med	O	
+78-14	hidtil	O	
+78-15	uset	O	
+78-16	præcision	O	
+78-17	.	O	
+
+#id=79
+#text=Hos Grækenlandseksperten Skibby Rejser ligger en kombinationsrejse til Skiathos/Skopelos helt i top, men er skarpt forfulgt af øerne Symi, Leros, Karpathos og Tilos.
+79-1	Hos	O	
+79-2	Grækenlandseksperten	O	
+79-3	Skibby	O	
+79-4	Rejser	O	
+79-5	ligger	O	
+79-6	en	O	
+79-7	kombinationsrejse	O	
+79-8	til	O	
+79-9	Skiathos	O	
+79-10	/	O	
+79-11	Skopelos	O	
+79-12	helt	O	
+79-13	i	O	
+79-14	top	O	
+79-15	,	O	
+79-16	men	O	
+79-17	er	O	
+79-18	skarpt	O	
+79-19	forfulgt	O	
+79-20	af	O	
+79-21	øerne	O	
+79-22	Symi	O	
+79-23	,	O	
+79-24	Leros	O	
+79-25	,	O	
+79-26	Karpathos	O	
+79-27	og	O	
+79-28	Tilos	O	
+79-29	.	O	
+
+#id=80
+#text=Donorlandeneunderstreger, at et stabilt Pakistan er nøglen til at forhindre spredning af terrorisme i regionen.
+80-1	Donorlandene	O	
+80-2	understreger	O	
+80-3	,	O	
+80-4	at	O	
+80-5	et	O	
+80-6	stabilt	O	
+80-7	Pakistan	O	
+80-8	er	O	
+80-9	nøglen	O	
+80-10	til	O	
+80-11	at	O	
+80-12	forhindre	O	
+80-13	spredning	O	
+80-14	af	O	
+80-15	terrorisme	O	
+80-16	i	O	
+80-17	regionen	O	
+80-18	.	O	
+
+#id=81
+#text="Når man laver store reformer, så sluger det energi.
+81-1	"	O	
+81-2	Når	O	
+81-3	man	O	
+81-4	laver	O	
+81-5	store	O	
+81-6	reformer	O	
+81-7	,	O	
+81-8	så	O	
+81-9	sluger	O	
+81-10	det	O	
+81-11	energi	O	
+81-12	.	O	
+
+#id=82
+#text=Industriproduktionen i EU's største land faldt i februar med hele 23,3 procent i forhold til samme måned i fjor, meddeler det statistiske forbundskontor i Wiesbaden.
+82-1	Industriproduktionen	O	
+82-2	i	O	
+82-3	EU	O	
+82-4	'	O	
+82-5	s	O	
+82-6	største	O	
+82-7	land	O	
+82-8	faldt	O	
+82-9	i	O	
+82-10	februar	O	
+82-11	med	O	
+82-12	hele	O	
+82-13	23	O	
+82-14	,	O	
+82-15	3	O	
+82-16	procent	O	
+82-17	i	O	
+82-18	forhold	O	
+82-19	til	O	
+82-20	samme	O	
+82-21	måned	O	
+82-22	i	O	
+82-23	fjor	O	
+82-24	,	O	
+82-25	meddeler	O	
+82-26	det	O	
+82-27	statistiske	O	
+82-28	forbundskontor	O	
+82-29	i	O	
+82-30	Wiesbaden	O	
+82-31	.	O	
+
+#id=83
+#text=Detre stiftere kæmpede, til de segnede.
+83-1	De	O	
+83-2	tre	O	
+83-3	stiftere	O	
+83-4	kæmpede	O	
+83-5	,	O	
+83-6	til	O	
+83-7	de	O	
+83-8	segnede	O	
+83-9	.	O	
+
+#id=84
+#text=Sørensen bliver den næste dansker i motorsportens Formel 1.
+84-1	Sørensen	O	
+84-2	bliver	O	
+84-3	den	O	
+84-4	næste	O	
+84-5	dansker	O	
+84-6	i	O	
+84-7	motorsportens	O	
+84-8	Formel	O	
+84-9	1	O	
+84-10	.	O	
+
+#id=85
+#text=Påden konservative fløj finder man kandidater som Chip Saltsman fra Tennessee.
+85-1	På	O	
+85-2	den	O	
+85-3	konservative	O	
+85-4	fløj	O	
+85-5	finder	O	
+85-6	man	O	
+85-7	kandidater	O	
+85-8	som	O	
+85-9	Chip	O	
+85-10	Saltsman	O	
+85-11	fra	O	
+85-12	Tennessee	O	
+85-13	.	O	
+
+#id=86
+#text=Handlen steg, målt i omsætning, med 16 procent i de danske netbutikker.
+86-1	Handlen	O	
+86-2	steg	O	
+86-3	,	O	
+86-4	målt	O	
+86-5	i	O	
+86-6	omsætning	O	
+86-7	,	O	
+86-8	med	O	
+86-9	16	O	
+86-10	procent	O	
+86-11	i	O	
+86-12	de	O	
+86-13	danske	O	
+86-14	netbutikker	O	
+86-15	.	O	
+
+#id=87
+#text=Det gik som forudset - plus én.
+87-1	Det	O	
+87-2	gik	O	
+87-3	som	O	
+87-4	forudset	O	
+87-5	-	O	
+87-6	plus	O	
+87-7	én	O	
+87-8	.	O	
+
+#id=88
+#text=mogens.jacobsen@pol.dk
+88-1	mogens	O	
+88-2	.	O	
+88-3	jacobsen@pol	O	
+88-4	.	O	
+88-5	dk	O	
+
+#id=89
+#text=Mensamarbejdet var livslangt.
+89-1	Men	O	
+89-2	samarbejdet	O	
+89-3	var	O	
+89-4	livslangt	O	
+89-5	.	O	
+
+#id=90
+#text=Engang talte den over 4.000 medlemmer, nu er der 80 tilbage, og på en generalforsamling i går blev foreningen nedlagt fra 2010.
+90-1	Engang	O	
+90-2	talte	O	
+90-3	den	O	
+90-4	over	O	
+90-5	4	O	
+90-6	.	O	
+90-7	000	O	
+90-8	medlemmer	O	
+90-9	,	O	
+90-10	nu	O	
+90-11	er	O	
+90-12	der	O	
+90-13	80	O	
+90-14	tilbage	O	
+90-15	,	O	
+90-16	og	O	
+90-17	på	O	
+90-18	en	O	
+90-19	generalforsamling	O	
+90-20	i	O	
+90-21	går	O	
+90-22	blev	O	
+90-23	foreningen	O	
+90-24	nedlagt	O	
+90-25	fra	O	
+90-26	2010	O	
+90-27	.	O	
+
+#id=91
+#text=IT-SKAT.
+91-1	IT	O	
+91-2	-	O	
+91-3	SKAT	O	
+91-4	.	O	
+
+#id=92
+#text=Hun er født i Chicago og
+92-1	Hun	O	
+92-2	er	O	
+92-3	født	O	
+92-4	i	O	
+92-5	Chicago	O	
+92-6	og	O	
+
+#id=93
+#text=Selskabet lancerer en hjemmeside, hvor man hjemmefra kan finde ud af, hvilken form for togt der lige netop passer til en selv, og få besvaret mange af de spørgsmål, som presser sig på.
+93-1	Selskabet	O	
+93-2	lancerer	O	
+93-3	en	O	
+93-4	hjemmeside	O	
+93-5	,	O	
+93-6	hvor	O	
+93-7	man	O	
+93-8	hjemmefra	O	
+93-9	kan	O	
+93-10	finde	O	
+93-11	ud	O	
+93-12	af	O	
+93-13	,	O	
+93-14	hvilken	O	
+93-15	form	O	
+93-16	for	O	
+93-17	togt	O	
+93-18	der	O	
+93-19	lige	O	
+93-20	netop	O	
+93-21	passer	O	
+93-22	til	O	
+93-23	en	O	
+93-24	selv	O	
+93-25	,	O	
+93-26	og	O	
+93-27	få	O	
+93-28	besvaret	O	
+93-29	mange	O	
+93-30	af	O	
+93-31	de	O	
+93-32	spørgsmål	O	
+93-33	,	O	
+93-34	som	O	
+93-35	presser	O	
+93-36	sig	O	
+93-37	på	O	
+93-38	.	O	
+
+#id=94
+#text=DanskeBank har ikke ændret på løbetiden for lånebeviserne, men banken understreger, at lånebeviset kun gælder, hvis forudsætningerne er uændret.
+94-1	Danske	O	
+94-2	Bank	O	
+94-3	har	O	
+94-4	ikke	O	
+94-5	ændret	O	
+94-6	på	O	
+94-7	løbetiden	O	
+94-8	for	O	
+94-9	lånebeviserne	O	
+94-10	,	O	
+94-11	men	O	
+94-12	banken	O	
+94-13	understreger	O	
+94-14	,	O	
+94-15	at	O	
+94-16	lånebeviset	O	
+94-17	kun	O	
+94-18	gælder	O	
+94-19	,	O	
+94-20	hvis	O	
+94-21	forudsætningerne	O	
+94-22	er	O	
+94-23	uændret	O	
+94-24	.	O	
+
+#id=95
+#text=Af fødsler var der 74.727 mod 75.264 i 1957.
+95-1	Af	O	
+95-2	fødsler	O	
+95-3	var	O	
+95-4	der	O	
+95-5	74	O	
+95-6	.	O	
+95-7	727	O	
+95-8	mod	O	
+95-9	75	O	
+95-10	.	O	
+95-11	264	O	
+95-12	i	O	
+95-13	1957	O	
+95-14	.	O	
+
+#id=96
+#text=Artiklen førte til, at hun blev fyret fra sit job som sekretær i det fransk-tyske ungdomskontor, en organisation grundlagt som følge af de to landes venskabskontrakt fra 1963.
+96-1	Artiklen	O	
+96-2	førte	O	
+96-3	til	O	
+96-4	,	O	
+96-5	at	O	
+96-6	hun	O	
+96-7	blev	O	
+96-8	fyret	O	
+96-9	fra	O	
+96-10	sit	O	
+96-11	job	O	
+96-12	som	O	
+96-13	sekretær	O	
+96-14	i	O	
+96-15	det	O	
+96-16	fransk	O	
+96-17	-	O	
+96-18	tyske	O	
+96-19	ungdomskontor	O	
+96-20	,	O	
+96-21	en	O	
+96-22	organisation	O	
+96-23	grundlagt	O	
+96-24	som	O	
+96-25	følge	O	
+96-26	af	O	
+96-27	de	O	
+96-28	to	O	
+96-29	landes	O	
+96-30	venskabskontrakt	O	
+96-31	fra	O	
+96-32	1963	O	
+96-33	.	O	
+
+#id=97
+#text=Sd2 a5 9.
+97-1	Sd2	O	
+97-2	a5	O	
+97-3	9	O	
+97-4	.	O	
+
+#id=98
+#text=Mugabe sagde under indsættelsen, at han tilbyder sin "hånd i venskab og samarbejde og solidaritet til gode for vores storslåede land".
+98-1	Mugabe	O	
+98-2	sagde	O	
+98-3	under	O	
+98-4	indsættelsen	O	
+98-5	,	O	
+98-6	at	O	
+98-7	han	O	
+98-8	tilbyder	O	
+98-9	sin	O	
+98-10	"	O	
+98-11	hånd	O	
+98-12	i	O	
+98-13	venskab	O	
+98-14	og	O	
+98-15	samarbejde	O	
+98-16	og	O	
+98-17	solidaritet	O	
+98-18	til	O	
+98-19	gode	O	
+98-20	for	O	
+98-21	vores	O	
+98-22	storslåede	O	
+98-23	land	O	
+98-24	"	O	
+98-25	.	O	
+
+#id=99
+#text=FCKhar vundet pokalfinalen tre gange og er i semifi-nalerne  for tiende gang.
+99-1	FCK	O	
+99-2	har	O	
+99-3	vundet	O	
+99-4	pokalfinalen	O	
+99-5	tre	O	
+99-6	gange	O	
+99-7	og	O	
+99-8	er	O	
+99-9	i	O	
+99-10	semifi	O	
+99-11	-	O	
+99-12	nalerne	O	
+99-13	for	O	
+99-14	tiende	O	
+99-15	gang	O	
+99-16	.	O	
+
+#id=100
+#text=Det tager sig børnevenligt ud, men er et udpræget voksent spil.
+100-1	Det	O	
+100-2	tager	O	
+100-3	sig	O	
+100-4	børnevenligt	O	
+100-5	ud	O	
+100-6	,	O	
+100-7	men	O	
+100-8	er	O	
+100-9	et	O	
+100-10	udpræget	O	
+100-11	voksent	O	
+100-12	spil	O	
+100-13	.	O	
+

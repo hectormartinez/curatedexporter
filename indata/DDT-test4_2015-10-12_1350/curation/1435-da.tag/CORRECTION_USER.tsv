@@ -1,0 +1,198 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Deter Erling Brodersen , formand for Foreningen af Rejsearrangører i Danmark , som skriver det kølige brev til Spanien under .
+1-1	Det	O	
+1-2	er	B-verb.TOP|B-verb.social|B-verb.stative	
+1-3	Erling	O	
+1-4	Brodersen	O	
+1-5	,	O	
+1-6	formand	B-noun.person	
+1-7	for	O	
+1-8	Foreningen	B-noun.institution|B-noun.person|B-noun.act	
+1-9	af	O	
+1-10	Rejsearrangører	B-noun.person	
+1-11	i	O	
+1-12	Danmark	O	
+1-13	,	O	
+1-14	som	O	
+1-15	skriver	B-verb.creation|B-verb.communication	
+1-16	det	O	
+1-17	kølige	B-adj.social|B-adj.mental	
+1-18	brev	B-noun.communication|B-noun.container	
+1-19	til	O	
+1-20	Spanien	O	
+1-21	under	O	
+1-22	.	O	
+
+#id=2
+#text=R.I.Drepræsenterer alle større danske rejsebureauer , deriblandt Larsen Rejser :
+2-1	R.I.D	O	
+2-2	repræsenterer	B-verb.stative|B-verb.communication|B-verb.motion	
+2-3	alle	O	
+2-4	større	B-adj.phys|B-adj.all	
+2-5	danske	B-adj.social|B-adj.phys	
+2-6	rejsebureauer	B-noun.building	
+2-7	,	O	
+2-8	deriblandt	O	
+2-9	Larsen	O	
+2-10	Rejser	B-noun.feeling|B-noun.quantity|B-noun.act	
+2-11	:	O	
+
+#id=3
+#text="Vi sender i sæsonen fire fly af_sted til Ibiza om ugen med i_alt 700-750 danskere , og det er klart , at vi ikke kan finde os i , at en af vores gæster er blevet overfaldet af det lokale politi , " siger Jens Veino , direktør , Larsen Rejser , efter at 17-årige Mark Georgi fra Taastrup stod frem i B.T. og fortalte , hvad der sker med de turister , der af en eller anden ubetydelig årsag kommer til at irritere det spanske politi .
+3-1	"	O	
+3-2	Vi	O	
+3-3	sender	B-verb.phenomenon|B-verb.communication|B-verb.act	
+3-4	i	O	
+3-5	sæsonen	B-noun.time	
+3-6	fire	O	
+3-7	fly	B-noun.vehicle	
+3-8	af_sted	O	
+3-9	til	O	
+3-10	Ibiza	O	
+3-11	om	O	
+3-12	ugen	B-noun.time	
+3-13	med	O	
+3-14	i_alt	O	
+3-15	700-750	O	
+3-16	danskere	B-noun.person	
+3-17	,	O	
+3-18	og	O	
+3-19	det	O	
+3-20	er	B-verb.TOP|B-verb.social|B-verb.stative	
+3-21	klart	B-adj.phys|B-adj.all|B-adj.mental	
+3-22	,	O	
+3-23	at	O	
+3-24	vi	O	
+3-25	ikke	O	
+3-26	kan	B-verb.social	
+3-27	finde	B-verb.phenomenon|B-verb.act|B-verb.cognition|B-verb.motion	
+3-28	os	O	
+3-29	i	O	
+3-30	,	O	
+3-31	at	O	
+3-32	en	O	
+3-33	af	O	
+3-34	vores	O	
+3-35	gæster	B-noun.person	
+3-36	er	B-verb.TOP|B-verb.social|B-verb.stative	
+3-37	blevet	B-verb.TOP|B-verb.act|B-verb.stative	
+3-38	overfaldet	B-verb.act	
+3-39	af	O	
+3-40	det	O	
+3-41	lokale	O	
+3-42	politi	B-noun.institution	
+3-43	,	O	
+3-44	"	O	
+3-45	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+3-46	Jens	B-noun.person	
+3-47	Veino	O	
+3-48	,	O	
+3-49	direktør	B-noun.communication|B-noun.person	
+3-50	,	O	
+3-51	Larsen	O	
+3-52	Rejser	B-noun.feeling|B-noun.quantity|B-noun.act	
+3-53	,	O	
+3-54	efter	O	
+3-55	at	O	
+3-56	17-årige	B-adj.time	
+3-57	Mark	B-noun.artifact|B-noun.location	
+3-58	Georgi	O	
+3-59	fra	O	
+3-60	Taastrup	O	
+3-61	stod	B-verb.motion|B-verb.act|B-verb.communication|B-verb.stative|B-verb.emotion	
+3-62	frem	O	
+3-63	i	O	
+3-64	B.T.	O	
+3-65	og	O	
+3-66	fortalte	B-verb.communication	
+3-67	,	O	
+3-68	hvad	O	
+3-69	der	O	
+3-70	sker	B-verb.phenomenon|B-verb.act	
+3-71	med	O	
+3-72	de	O	
+3-73	turister	B-noun.person	
+3-74	,	O	
+3-75	der	O	
+3-76	af	O	
+3-77	en	O	
+3-78	eller	O	
+3-79	anden	O	
+3-80	ubetydelig	B-adj.phys|B-adj.all	
+3-81	årsag	B-noun.act	
+3-82	kommer	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+3-83	til	O	
+3-84	at	O	
+3-85	irritere	B-verb.emotion	
+3-86	det	O	
+3-87	spanske	O	
+3-88	politi	B-noun.institution	
+3-89	.	O	
+
+#id=4
+#text=POLITI-PENGEAFPRESNING
+4-1	POLITI-PENGEAFPRESNING	O	
+
+#id=5
+#text=Drengenblev sammen med en kammerat slået ned , tævet og lagt i håndjern .
+5-1	Drengen	B-noun.artifact|B-noun.person	
+5-2	blev	B-verb.TOP|B-verb.act|B-verb.stative	
+5-3	sammen	O	
+5-4	med	O	
+5-5	en	O	
+5-6	kammerat	B-noun.communication|B-noun.person	
+5-7	slået	B-verb.social|B-verb.act|B-verb.creation|B-verb.phenomenon|B-verb.motion	
+5-8	ned	O	
+5-9	,	O	
+5-10	tævet	B-verb.act	
+5-11	og	O	
+5-12	lagt	B-verb.motion|B-verb.act|B-verb.cognition	
+5-13	i	O	
+5-14	håndjern	B-noun.artifact	
+5-15	.	O	
+
+#id=6
+#text=Etoverfald , der var så voldsomt , at han sprængte sin trommehinde og nu skal gennemgå en operation for at få en ny .
+6-1	Et	O	
+6-2	overfald	B-noun.act|B-noun.artifact	
+6-3	,	O	
+6-4	der	O	
+6-5	var	B-verb.TOP|B-verb.social|B-verb.stative	
+6-6	så	O	
+6-7	voldsomt	B-adj.phys|B-adj.all	
+6-8	,	O	
+6-9	at	O	
+6-10	han	O	
+6-11	sprængte	B-verb.change|B-.act	
+6-12	sin	O	
+6-13	trommehinde	B-noun.body	
+6-14	og	O	
+6-15	nu	O	
+6-16	skal	B-verb.motion|B-verb.phenomenon	
+6-17	gennemgå	B-verb.cognition|B-verb.communication	
+6-18	en	O	
+6-19	operation	B-noun.act|B-noun.cognition	
+6-20	for	O	
+6-21	at	O	
+6-22	få	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+6-23	en	O	
+6-24	ny	B-adj.time	
+6-25	.	O	
+
+#id=7
+#text=Derefterblev de to unge genstand for pengeafpresning af de spanske politifolk :
+7-1	Derefter	O	
+7-2	blev	B-verb.TOP|B-verb.act|B-verb.stative	
+7-3	de	O	
+7-4	to	O	
+7-5	unge	B-adj.phys	
+7-6	genstand	B-noun.object|B-noun.quantity|B-noun.TOP|B-noun.food	
+7-7	for	O	
+7-8	pengeafpresning	O	
+7-9	af	O	
+7-10	de	O	
+7-11	spanske	O	
+7-12	politifolk	O	
+7-13	:	O	
+

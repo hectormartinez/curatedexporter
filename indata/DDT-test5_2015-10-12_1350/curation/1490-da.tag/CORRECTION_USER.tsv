@@ -1,0 +1,198 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denjyske familiefar forklarede i retten , at han aldrig har fået at vide , hvad han er beskyldt for , og at det har været en alvorlig belastning for ham , og at det førte til , at han blev syg .
+1-1	Den	O	
+1-2	jyske	O	
+1-3	familiefar	B-noun.person	
+1-4	forklarede	B-verb.communication	
+1-5	i	O	
+1-6	retten	B-noun.institution|B-noun.food|B-noun.person|B-noun.artifact|B-noun.cognition	
+1-7	,	O	
+1-8	at	O	
+1-9	han	O	
+1-10	aldrig	O	
+1-11	har	B-verb.perception|B-verb.cognition|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+1-12	fået	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+1-13	at	O	
+1-14	vide	B-verb.cognition|B-verb.emotion	
+1-15	,	O	
+1-16	hvad	O	
+1-17	han	O	
+1-18	er	B-verb.TOP|B-verb.social|B-verb.stative	
+1-19	beskyldt	O	
+1-20	for	O	
+1-21	,	O	
+1-22	og	O	
+1-23	at	O	
+1-24	det	O	
+1-25	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+1-26	været	B-verb.TOP|B-verb.social|B-verb.stative	
+1-27	en	O	
+1-28	alvorlig	B-adj.phys|B-adj.all|B-adj.mental	
+1-29	belastning	B-noun.phenomenon	
+1-30	for	O	
+1-31	ham	O	
+1-32	,	O	
+1-33	og	O	
+1-34	at	O	
+1-35	det	O	
+1-36	førte	B-verb.motion|B-verb.act|B-verb.creation|B-verb.phenomenon	
+1-37	til	O	
+1-38	,	O	
+1-39	at	O	
+1-40	han	O	
+1-41	blev	B-verb.TOP|B-verb.act|B-verb.stative	
+1-42	syg	B-adj.phys|B-adj.mental	
+1-43	.	O	
+
+#id=2
+#text=Hanhar i_dag kontakt med børnene og har et godt forhold til både dem og deres mor .
+2-1	Han	O	
+2-2	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.cognition|B-verb.phenomenon|B-verb.TOP	
+2-3	i_dag	O	
+2-4	kontakt	B-noun.relation|B-noun.artifact|B-noun.phenomenon|B-noun.person	
+2-5	med	O	
+2-6	børnene	B-noun.person	
+2-7	og	O	
+2-8	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+2-9	et	O	
+2-10	godt	B-adj.all	
+2-11	forhold	B-noun.quantity|B-noun.attribute|B-noun.relation|B-noun.act	
+2-12	til	O	
+2-13	både	O	
+2-14	dem	O	
+2-15	og	O	
+2-16	deres	O	
+2-17	mor	B-noun.animal|B-noun.person|B-noun.communication	
+2-18	.	O	
+
+#id=3
+#text=DanskPsykologforenings etiknævn har afgivet erklæring til retten om sagen .
+3-1	Dansk	B-adj.social|B-adj.phys	
+3-2	Psykologforenings	O	
+3-3	etiknævn	O	
+3-4	har	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+3-5	afgivet	B-verb.possession|B-verb.communication|B-verb.phenomenon	
+3-6	erklæring	B-noun.communication	
+3-7	til	O	
+3-8	retten	B-noun.institution|B-noun.person|B-noun.food|B-noun.artifact|B-noun.cognition	
+3-9	om	O	
+3-10	sagen	B-noun.communication|B-noun.attribute|B-noun.phenomenon|B-noun.cognition|B-noun.person|B-noun.act|B-noun.institution|B-noun.food	
+3-11	.	O	
+
+#id=4
+#text=Nævnetssamlede vurdering er , at Sine Diemar får en skarp påtale for ikke at have handlet i overensstemmelse med foreningens etiske regler .
+4-1	Nævnets	B-noun.person	
+4-2	samlede	B-verb.change|B-verb.act|B-verb.motion	
+4-3	vurdering	B-noun.cognition	
+4-4	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-5	,	O	
+4-6	at	O	
+4-7	Sine	O	
+4-8	Diemar	O	
+4-9	får	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+4-10	en	O	
+4-11	skarp	B-adj.phys|B-adj.mental	
+4-12	påtale	O	
+4-13	for	O	
+4-14	ikke	O	
+4-15	at	O	
+4-16	have	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+4-17	handlet	B-verb.social|B-verb.act|B-verb.possession	
+4-18	i	O	
+4-19	overensstemmelse	B-noun.TOP	
+4-20	med	O	
+4-21	foreningens	B-noun.institution|B-noun.person|B-noun.act	
+4-22	etiske	B-adj.mental	
+4-23	regler	B-noun.cognition|B-noun.TOP	
+4-24	.	O	
+
+#id=5
+#text=SineDiemar har over for sin egen organisation fastholdt , at hun mente , at der var tale om sex-misbrug .
+5-1	Sine	O	
+5-2	Diemar	O	
+5-3	har	B-verb.perception|B-verb.communication|B-verb.phenomenon|B-verb.act|B-verb.cognition|B-verb.TOP	
+5-4	over	O	
+5-5	for	O	
+5-6	sin	O	
+5-7	egen	O	
+5-8	organisation	B-noun.institution|B-noun.TOP|B-noun.person|B-noun.cognition	
+5-9	fastholdt	B-verb.stative|B-verb.communication|B-verb.act	
+5-10	,	O	
+5-11	at	O	
+5-12	hun	O	
+5-13	mente	B-verb.cognition|B-verb.communication	
+5-14	,	O	
+5-15	at	O	
+5-16	der	O	
+5-17	var	B-verb.TOP|B-verb.social|B-verb.stative	
+5-18	tale	B-noun.communication|B-noun.act|B-noun.motive	
+5-19	om	O	
+5-20	sex-misbrug	O	
+5-21	.	O	
+
+#id=6
+#text=Påden baggrund er hun forpligtiget til at underrette de socialde myndigheder , men hun erkender , at hun ikke har taget kontakt med kommunen .
+6-1	På	O	
+6-2	den	O	
+6-3	baggrund	B-noun.cognition|B-noun.TOP|B-noun.location|B-noun.attribute	
+6-4	er	B-verb.TOP|B-verb.social|B-verb.stative	
+6-5	hun	O	
+6-6	forpligtiget	B-verb.communication	
+6-7	til	O	
+6-8	at	O	
+6-9	underrette	B-verb.communication	
+6-10	de	O	
+6-11	socialde	O	
+6-12	myndigheder	B-noun.institution|B-noun.feeling|B-noun.cognition	
+6-13	,	O	
+6-14	men	O	
+6-15	hun	O	
+6-16	erkender	B-verb.cognition|B-verb.communication	
+6-17	,	O	
+6-18	at	O	
+6-19	hun	O	
+6-20	ikke	O	
+6-21	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+6-22	taget	B-verb.possession|B-verb.act|B-verb.change|B-verb.social|B-verb.cognition|B-verb.creation|B-verb.motion	
+6-23	kontakt	B-noun.relation|B-noun.phenomenon|B-noun.artifact|B-noun.person	
+6-24	med	O	
+6-25	kommunen	B-noun.location	
+6-26	.	O	
+
+#id=7
+#text=Påstandenom sex-misbrug fik derfor lov til at svæve frit i luften , indtil sagen blev afgjort ved byrretten .
+7-1	Påstanden	B-noun.act	
+7-2	om	O	
+7-3	sex-misbrug	O	
+7-4	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+7-5	derfor	O	
+7-6	lov	B-noun.motive|B-noun.act|B-noun.attribute|B-noun.cognition|B-noun.institution	
+7-7	til	O	
+7-8	at	O	
+7-9	svæve	B-verb.stative|B-verb.emotion|B-verb.motion	
+7-10	frit	B-adj.all	
+7-11	i	O	
+7-12	luften	B-noun.quantity|B-noun.location	
+7-13	,	O	
+7-14	indtil	O	
+7-15	sagen	B-noun.communication|B-noun.phenomenon|B-noun.person|B-noun.act|B-noun.attribute|B-noun.institution|B-noun.cognition|B-noun.food	
+7-16	blev	B-verb.TOP|B-verb.act|B-verb.stative	
+7-17	afgjort	B-verb.cognition	
+7-18	ved	O	
+7-19	byrretten	O	
+7-20	.	O	
+
+#id=8
+#text=SineDiemar har imidlertid anket sagen til Vestre Landsret .
+8-1	Sine	O	
+8-2	Diemar	O	
+8-3	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+8-4	imidlertid	O	
+8-5	anket	O	
+8-6	sagen	B-noun.communication|B-noun.phenomenon|B-noun.person|B-noun.act|B-noun.attribute|B-noun.institution|B-noun.cognition|B-noun.food	
+8-7	til	O	
+8-8	Vestre	O	
+8-9	Landsret	B-noun.institution	
+8-10	.	O	
+

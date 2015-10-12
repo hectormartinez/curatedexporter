@@ -1,0 +1,221 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Defik i_hvert_fald nogen helt nye vinkler på , hvordan der skal sejles match race .
+1-1	De	O	
+1-2	fik	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+1-3	i_hvert_fald	O	
+1-4	nogen	O	
+1-5	helt	B-adj.phys	
+1-6	nye	B-adj.time	
+1-7	vinkler	B-noun.artifact	
+1-8	på	O	
+1-9	,	O	
+1-10	hvordan	O	
+1-11	der	O	
+1-12	skal	B-verb.motion|B-verb.phenomenon	
+1-13	sejles	B-verb.motion|B-verb.act|B-verb.emotion|B-verb.phenomenon	
+1-14	match	B-noun.act	
+1-15	race	B-noun.act|B-noun.TOP|B-noun.group	
+1-16	.	O	
+
+#id=2
+#text=Ifinalen var Jesper Bank urørlig .
+2-1	I	O	
+2-2	finalen	B-noun.act	
+2-3	var	B-verb.TOP|B-verb.social|B-verb.stative	
+2-4	Jesper	O	
+2-5	Bank	B-noun.building|B-noun.quantity|B-noun.person|B-noun.act|B-noun.institution	
+2-6	urørlig	O	
+2-7	.	O	
+
+#id=3
+#text=Hanskulle lige vise sine færdigheder før DM-finalen i Middelfart , som han venter sig meget af .
+3-1	Han	O	
+3-2	skulle	B-verb.phenomenon	
+3-3	lige	O	
+3-4	vise	B-verb.social|B-verb.communication	
+3-5	sine	O	
+3-6	færdigheder	B-noun.phenomenon	
+3-7	før	O	
+3-8	DM-finalen	O	
+3-9	i	O	
+3-10	Middelfart	O	
+3-11	,	O	
+3-12	som	O	
+3-13	han	O	
+3-14	venter	B-verb.stative	
+3-15	sig	O	
+3-16	meget	O	
+3-17	af	O	
+3-18	.	O	
+
+#id=4
+#text=REVANCHE
+4-1	REVANCHE	B-noun.act	
+
+#id=5
+#text="Jeg fik jo nogle bank af Anders Myralf i havneugen i København .
+5-1	"	O	
+5-2	Jeg	O	
+5-3	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+5-4	jo	O	
+5-5	nogle	O	
+5-6	bank	B-noun.building|B-noun.act|B-noun.quantity|B-noun.person|B-noun.institution	
+5-7	af	O	
+5-8	Anders	O	
+5-9	Myralf	O	
+5-10	i	O	
+5-11	havneugen	O	
+5-12	i	O	
+5-13	København	O	
+5-14	.	O	
+
+#id=6
+#text=Detskulle han aldrig have gjort .
+6-1	Det	O	
+6-2	skulle	B-verb.phenomenon	
+6-3	han	O	
+6-4	aldrig	O	
+6-5	have	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+6-6	gjort	B-verb.change|B-verb.act|B-verb.creation|B-verb.phenomenon	
+6-7	.	O	
+
+#id=7
+#text=Menjeg så også , at træerne ikke vokser ind i himlen .
+7-1	Men	O	
+7-2	jeg	O	
+7-3	så	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.emotion|B-verb.change|B-verb.phenomenon	
+7-4	også	O	
+7-5	,	O	
+7-6	at	O	
+7-7	træerne	B-noun.artifact|B-noun.plant	
+7-8	ikke	O	
+7-9	vokser	B-verb.phenomenon|B-verb.emotion	
+7-10	ind	O	
+7-11	i	O	
+7-12	himlen	B-noun.cognition|B-noun.location|B-noun.artifact	
+7-13	.	O	
+
+#id=8
+#text=Derforhar jeg heller ikke svært  ved at sætte mig op til dette DM .
+8-1	Derfor	O	
+8-2	har	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+8-3	jeg	O	
+8-4	heller	O	
+8-5	ikke	O	
+8-6	svært	B-adj.all	
+8-7	ved	O	
+8-8	at	O	
+8-9	sætte	B-verb.motion|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.change|B-verb.phenomenon	
+8-10	mig	O	
+8-11	op	O	
+8-12	til	O	
+8-13	dette	O	
+8-14	DM	O	
+8-15	.	O	
+
+#id=9
+#text=Ingeni besætningen har lyst til at tabe , " understreger Jesper Bank .
+9-1	Ingen	O	
+9-2	i	O	
+9-3	besætningen	B-noun.animal|B-noun.person|B-noun.artifact	
+9-4	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+9-5	lyst	B-noun.feeling	
+9-6	til	O	
+9-7	at	O	
+9-8	tabe	B-verb.social|B-verb.phenomenon	
+9-9	,	O	
+9-10	"	O	
+9-11	understreger	B-verb.motion|B-verb.communication	
+9-12	Jesper	O	
+9-13	Bank	B-noun.building|B-noun.quantity|B-noun.act|B-noun.person|B-noun.institution	
+9-14	.	O	
+
+#id=10
+#text=Detbliver sidste gang , at OL-guld-sejlerne skal være i samme båd .
+10-1	Det	O	
+10-2	bliver	B-verb.TOP|B-verb.act|B-verb.stative	
+10-3	sidste	B-adj.time	
+10-4	gang	B-noun.act|B-noun.TOP|B-noun.artifact|B-noun.location|B-noun.quantity	
+10-5	,	O	
+10-6	at	O	
+10-7	OL-guld-sejlerne	O	
+10-8	skal	B-verb.motion|B-verb.phenomenon	
+10-9	være	B-verb.TOP|B-verb.social|B-verb.stative	
+10-10	i	O	
+10-11	samme	O	
+10-12	båd	B-noun.plant|B-noun.food|B-noun.vehicle	
+10-13	.	O	
+
+#id=11
+#text=I_hvert_faldi et stykke tid .
+11-1	I_hvert_fald	O	
+11-2	i	O	
+11-3	et	O	
+11-4	stykke	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.time|B-noun.person|B-noun.food	
+11-5	tid	B-noun.communication|B-noun.time|B-noun.attribute|B-noun.quantity|B-noun.motive|B-noun.TOP	
+11-6	.	O	
+
+#id=12
+#text=BådeSteen Secher og Jesper Seier vil nu koncentrere sig om deres arbejde .
+12-1	Både	O	
+12-2	Steen	O	
+12-3	Secher	O	
+12-4	og	O	
+12-5	Jesper	O	
+12-6	Seier	O	
+12-7	vil	B-verb.cognition	
+12-8	nu	O	
+12-9	koncentrere	B-verb.change	
+12-10	sig	O	
+12-11	om	O	
+12-12	deres	O	
+12-13	arbejde	B-noun.act|B-noun.building|B-noun.artifact	
+12-14	.	O	
+
+#id=13
+#text=Detsamme vil Bank .
+13-1	Det	O	
+13-2	samme	O	
+13-3	vil	B-verb.cognition	
+13-4	Bank	B-noun.building|B-t|B-noun.quantity|B-noun.person|B-noun.institution	
+13-5	.	O	
+
+#id=14
+#text=Udoverdisse sejlere er Jesper Bendix og Jacob Grønbech ombord .
+14-1	Udover	O	
+14-2	disse	O	
+14-3	sejlere	B-noun.animal|B-noun.vehicle|B-noun.person	
+14-4	er	B-verb.TOP|B-verb.social|B-verb.stative	
+14-5	Jesper	O	
+14-6	Bendix	O	
+14-7	og	O	
+14-8	Jacob	O	
+14-9	Grønbech	O	
+14-10	ombord	O	
+14-11	.	O	
+
+#id=15
+#text=VENTERBARN
+15-1	VENTER	B-verb.stative	
+15-2	BARN	B-noun.person	
+
+#id=16
+#text=Reserveer Jan Feddersen .
+16-1	Reserve	B-noun.quantity|B-noun.person	
+16-2	er	B-verb.TOP|B-verb.social|B-verb.stative	
+16-3	Jan	O	
+16-4	Feddersen	O	
+16-5	.	O	
+
+#id=17
+#text=Hamkan der hurtigt blive brug for .
+17-1	Ham	O	
+17-2	kan	B-verb.social	
+17-3	der	O	
+17-4	hurtigt	B-adj.mental|B-adj.all	
+17-5	blive	B-verb.motion|B-verb.act|B-verb.change|B-verb.stative|B-verb.phenomenon|B-verb.TOP	
+17-6	brug	B-noun.building|B-noun.attribute|B-noun.act|B-noun.cognition	
+17-7	for	O	
+17-8	.	O	
+

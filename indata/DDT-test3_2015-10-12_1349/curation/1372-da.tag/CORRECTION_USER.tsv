@@ -1,0 +1,238 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Dehar i fire uger i træk ligget på en førsteplads på Billboard i USA med singlen " Jump " , som udkom i februar .
+1-1	De	O	
+1-2	har	B-verb.perception|B-verb.phenomenon|B-verb.act|B-verb.communication|B-verb.cognition|B-verb.TOP	
+1-3	i	O	
+1-4	fire	O	
+1-5	uger	B-noun.time	
+1-6	i	O	
+1-7	træk	B-noun.act|B-noun.phenomenon|B-noun.artifact|B-noun.attribute	
+1-8	ligget	B-verb.stative|B-verb.act|B-verb.motion	
+1-9	på	O	
+1-10	en	O	
+1-11	førsteplads	O	
+1-12	på	O	
+1-13	Billboard	B-noun.artifact	
+1-14	i	O	
+1-15	USA	O	
+1-16	med	O	
+1-17	singlen	B-noun.act|B-noun.person|B-noun.artifact	
+1-18	"	O	
+1-19	Jump	O	
+1-20	"	O	
+1-21	,	O	
+1-22	som	O	
+1-23	udkom	O	
+1-24	i	O	
+1-25	februar	B-noun.time	
+1-26	.	O	
+
+#id=2
+#text=Deter ikke en ny version af Pointer Sisters' gamle hit , ej heller et remix af Van Halens "Jump"-nummer , men derimod en helt ny hip hop sang , som rappes af 12-årige Chris Smith og 13-årige Chris Kelly .
+2-1	Det	O	
+2-2	er	B-verb.TOP|B-verb.social|B-verb.stative	
+2-3	ikke	O	
+2-4	en	O	
+2-5	ny	B-adj.time	
+2-6	version	B-noun.communication	
+2-7	af	O	
+2-8	Pointer	B-noun.quantity|B-noun.animal|B-noun.attribute|B-noun.communication|B-noun.act	
+2-9	Sisters'	O	
+2-10	gamle	B-adj.time	
+2-11	hit	B-noun.communication|B-noun.person|B-noun.artifact	
+2-12	,	O	
+2-13	ej	O	
+2-14	heller	O	
+2-15	et	O	
+2-16	remix	O	
+2-17	af	O	
+2-18	Van	B-noun.object|B-noun.vehicle	
+2-19	Halens	B-noun.body|B-noun.artifact	
+2-20	"Jump"-nummer	O	
+2-21	,	O	
+2-22	men	O	
+2-23	derimod	O	
+2-24	en	O	
+2-25	helt	B-adj.phys	
+2-26	ny	B-adj.time	
+2-27	hip	O	
+2-28	hop	O	
+2-29	sang	B-noun.communication|B-noun.phenomenon|B-noun.artifact|B-noun.act	
+2-30	,	O	
+2-31	som	O	
+2-32	rappes	B-verb.motion|B-verb.communication|B-verb.creation|B-verb.act	
+2-33	af	O	
+2-34	12-årige	B-adj.time	
+2-35	Chris	O	
+2-36	Smith	O	
+2-37	og	O	
+2-38	13-årige	B-adj.time	
+2-39	Chris	O	
+2-40	Kelly	O	
+2-41	.	O	
+
+#id=3
+#text=DEBEDSTE VENNER
+3-1	DE	O	
+3-2	BEDSTE	B-adj.all	
+3-3	VENNER	B-noun.person	
+
+#id=4
+#text=Deto unge mænd er født og opvokset i Atlanta og mødtes , da de begyndte i 1. klasse .
+4-1	De	O	
+4-2	to	O	
+4-3	unge	B-adj.phys	
+4-4	mænd	B-noun.object|B-noun.person	
+4-5	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-6	født	B-verb.phenomenon|B-verb.act	
+4-7	og	O	
+4-8	opvokset	O	
+4-9	i	O	
+4-10	Atlanta	O	
+4-11	og	O	
+4-12	mødtes	B-verb.social|B-verb.perception|B-verb.act|B-verb.motion	
+4-13	,	O	
+4-14	da	O	
+4-15	de	O	
+4-16	begyndte	B-verb.social|B-verb.communication|B-verb.act	
+4-17	i	O	
+4-18	1.	O	
+4-19	klasse	B-noun.attribute|B-noun.group|B-noun.person|B-noun.artifact	
+4-20	.	O	
+
+#id=5
+#text=Dengangvar de ikke ligefrem venner , men det kom efterhånden , som det gik op for dem , at de havde flere interesser til fælles , og i_dag er de bedste venner .
+5-1	Dengang	O	
+5-2	var	B-verb.TOP|B-verb.social|B-verb.stative	
+5-3	de	O	
+5-4	ikke	O	
+5-5	ligefrem	O	
+5-6	venner	B-noun.person	
+5-7	,	O	
+5-8	men	O	
+5-9	det	O	
+5-10	kom	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+5-11	efterhånden	O	
+5-12	,	O	
+5-13	som	O	
+5-14	det	O	
+5-15	gik	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+5-16	op	O	
+5-17	for	O	
+5-18	dem	O	
+5-19	,	O	
+5-20	at	O	
+5-21	de	O	
+5-22	havde	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+5-23	flere	O	
+5-24	interesser	B-noun.act|B-noun.motive|B-noun.feeling|B-noun.cognition	
+5-25	til	O	
+5-26	fælles	B-adj.social	
+5-27	,	O	
+5-28	og	O	
+5-29	i_dag	O	
+5-30	er	B-verb.TOP|B-verb.social|B-verb.stative	
+5-31	de	O	
+5-32	bedste	B-adj.all	
+5-33	venner	B-noun.person	
+5-34	.	O	
+
+#id=6
+#text="Vi er tvillinger , der ikke ligner hinanden " , siger Smith .
+6-1	"	O	
+6-2	Vi	O	
+6-3	er	B-verb.TOP|B-verb.social|B-verb.stative	
+6-4	tvillinger	B-noun.person	
+6-5	,	O	
+6-6	der	O	
+6-7	ikke	O	
+6-8	ligner	O	
+6-9	hinanden	O	
+6-10	"	O	
+6-11	,	O	
+6-12	siger	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+6-13	Smith	O	
+6-14	.	O	
+
+#id=7
+#text=Én af yndlingsbeskæftigelserne er at gå en tur i parken og filosofere lidt over tilværelsen .
+7-1	É	O	
+7-2	n	O	
+7-3	af	O	
+7-4	yndlingsbeskæftigelserne	B-noun.act	
+7-5	er	B-verb.TOP|B-verb.social|B-verb.stative	
+7-6	at	O	
+7-7	gå	B-verb.change|B-verb.motion|B-verb.act|B-verb.stative	
+7-8	en	O	
+7-9	tur	B-noun.event|B-noun.attribute|B-noun.time|B-noun.act|B-noun.state	
+7-10	i	O	
+7-11	parken	B-noun.location|B-noun.building	
+7-12	og	O	
+7-13	filosofere	B-verb.cognition	
+7-14	lidt	O	
+7-15	over	O	
+7-16	tilværelsen	B-noun.event	
+7-17	.	O	
+
+#id=8
+#text=Detvar i parken ,  den 19-årige producer Jermaine Dupri fik øje på dem .
+8-1	Det	O	
+8-2	var	B-verb.TOP|B-verb.social|B-verb.stative	
+8-3	i	O	
+8-4	parken	B-noun.location|B-noun.building	
+8-5	,	O	
+8-6	den	O	
+8-7	19-årige	B-adj.time	
+8-8	producer	B-noun.person	
+8-9	Jermaine	O	
+8-10	Dupri	O	
+8-11	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+8-12	øje	B-noun.body|B-noun.phenomenon|B-noun.artifact	
+8-13	på	O	
+8-14	dem	O	
+8-15	.	O	
+
+#id=9
+#text="De havde bare dét , " fortæller Dupri .
+9-1	"	O	
+9-2	De	O	
+9-3	havde	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+9-4	bare	O	
+9-5	dét	O	
+9-6	,	O	
+9-7	"	O	
+9-8	fortæller	B-verb.communication	
+9-9	Dupri	O	
+9-10	.	O	
+
+#id=10
+#text="Jeg vidste , at de kunne blive til et eller andet stort , så jeg gik hen og spurgte , om de kunne rappe . "
+10-1	"	O	
+10-2	Jeg	O	
+10-3	vidste	B-verb.cognition|B-verb.emotion	
+10-4	,	O	
+10-5	at	O	
+10-6	de	O	
+10-7	kunne	B-verb.social	
+10-8	blive	B-verb.motion|B-verb.act|B-verb.change|B-verb.stative|B-verb.phenomenon|B-verb.TOP	
+10-9	til	O	
+10-10	et	O	
+10-11	eller	O	
+10-12	andet	O	
+10-13	stort	B-adj.phys	
+10-14	,	O	
+10-15	så	O	
+10-16	jeg	O	
+10-17	gik	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+10-18	hen	O	
+10-19	og	O	
+10-20	spurgte	B-verb.communication	
+10-21	,	O	
+10-22	om	O	
+10-23	de	O	
+10-24	kunne	B-verb.social	
+10-25	rappe	B-verb.motion|B-verb.communication|B-verb.creation|B-verb.act	
+10-26	.	O	
+10-27	"	O	
+

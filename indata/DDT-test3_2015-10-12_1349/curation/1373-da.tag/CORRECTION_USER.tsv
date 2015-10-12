@@ -1,0 +1,195 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ToRS'ere
+1-1	To	O	
+1-2	RS'ere	O	
+
+#id=2
+#text=Iforvejen har Ford allerede lavet en anden og lidt mindre raket , Escort RS 2000 med 150 hk. .
+2-1	I	O	
+2-2	forvejen	O	
+2-3	har	B-verb.perception|B-verb.phenomenon|B-verb.act|B-verb.communication|B-verb.cognition|B-verb.TOP	
+2-4	Ford	O	
+2-5	allerede	O	
+2-6	lavet	B-verb.change|B-verb.creation|B-verb.act|B-verb.phenomenon	
+2-7	en	O	
+2-8	anden	O	
+2-9	og	O	
+2-10	lidt	O	
+2-11	mindre	B-adj.phys	
+2-12	raket	B-noun.artifact|B-noun.container|B-noun.vehicle	
+2-13	,	O	
+2-14	Escort	O	
+2-15	RS	O	
+2-16	2000	O	
+2-17	med	O	
+2-18	150	O	
+2-19	hk.	O	
+2-20	.	O	
+
+#id=3
+#text=Beggemotorer er 4-cyl. og vandkølede 2-liter twincamrmaskiner med 16-ventilet topstykke , men hvor den " lille " RS'er har motoren på tværs , har den hidsige udgave med Cosworth-topstykket motoren på langs .
+3-1	Begge	O	
+3-2	motorer	B-noun.artifact	
+3-3	er	B-verb.TOP|B-verb.social|B-verb.stative	
+3-4	4-cyl.	O	
+3-5	og	O	
+3-6	vandkølede	O	
+3-7	2-liter	O	
+3-8	twincamrmaskiner	O	
+3-9	med	O	
+3-10	16-ventilet	O	
+3-11	topstykke	B-noun.artifact	
+3-12	,	O	
+3-13	men	O	
+3-14	hvor	O	
+3-15	den	O	
+3-16	"	O	
+3-17	lille	B-adj.phys	
+3-18	"	O	
+3-19	RS'er	O	
+3-20	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.cognition|B-verb.phenomenon|B-verb.TOP	
+3-21	motoren	B-noun.artifact	
+3-22	på	O	
+3-23	tværs	O	
+3-24	,	O	
+3-25	har	B-verb.perception|B-verb.communication|B-verb.act|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+3-26	den	O	
+3-27	hidsige	B-adj.mental|B-adj.all	
+3-28	udgave	B-noun.act|B-noun.artifact|B-noun.communication	
+3-29	med	O	
+3-30	Cosworth-topstykket	O	
+3-31	motoren	B-noun.artifact	
+3-32	på	O	
+3-33	langs	O	
+3-34	.	O	
+
+#id=4
+#text=MensRS 2000 har en kvadratisk motor , det vil sige lige stor boring og slaglængde , er Cosworth-motoren overkvadratisk , boringen er noget større end slaglængden , og så er den forsynet med en Garrett turbolader og intercooler .
+4-1	Mens	O	
+4-2	RS	O	
+4-3	2000	O	
+4-4	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+4-5	en	O	
+4-6	kvadratisk	O	
+4-7	motor	B-noun.artifact	
+4-8	,	O	
+4-9	det	O	
+4-10	vil	B-verb.cognition	
+4-11	sige	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+4-12	lige	O	
+4-13	stor	B-adj.phys	
+4-14	boring	B-noun.act|B-noun.location	
+4-15	og	O	
+4-16	slaglængde	O	
+4-17	,	O	
+4-18	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-19	Cosworth-motoren	O	
+4-20	overkvadratisk	O	
+4-21	,	O	
+4-22	boringen	B-noun.act|B-noun.location	
+4-23	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-24	noget	O	
+4-25	større	B-adj.phys|B-adj.all	
+4-26	end	O	
+4-27	slaglængden	O	
+4-28	,	O	
+4-29	og	O	
+4-30	så	O	
+4-31	er	B-verb.TOP|B-verb.social|B-verb.stative	
+4-32	den	O	
+4-33	forsynet	B-verb.act	
+4-34	med	O	
+4-35	en	O	
+4-36	Garrett	O	
+4-37	turbolader	B-noun.artifact	
+4-38	og	O	
+4-39	intercooler	O	
+4-40	.	O	
+
+#id=5
+#text=Derforee der så meget mere rabalder på det permanente 4-hjulstræk med en kraftfordeling på 34:66 for og bag .
+5-1	Derfor	O	
+5-2	ee	O	
+5-3	der	O	
+5-4	så	O	
+5-5	meget	O	
+5-6	mere	O	
+5-7	rabalder	O	
+5-8	på	O	
+5-9	det	O	
+5-10	permanente	B-adj.time	
+5-11	4-hjulstræk	O	
+5-12	med	O	
+5-13	en	O	
+5-14	kraftfordeling	O	
+5-15	på	O	
+5-16	34:66	O	
+5-17	for	O	
+5-18	og	O	
+5-19	bag	O	
+5-20	.	O	
+
+#id=6
+#text=Beggebiler er udstyret med Fords egen 5-trins MTX75-gearkasse .
+6-1	Begge	O	
+6-2	biler	B-noun.vehicle	
+6-3	er	B-verb.TOP|B-verb.social|B-verb.stative	
+6-4	udstyret	B-verb.act	
+6-5	med	O	
+6-6	Fords	O	
+6-7	egen	O	
+6-8	5-trins	O	
+6-9	MTX75-gearkasse	O	
+6-10	.	O	
+
+#id=7
+#text=Forskellenpå de to biler er , bortset_fra det skrækkelige " hollandske udtræk " bag på Cosworth'en , transmissionen og visse udstyrsdetaljer , at RS 2000 har en fladere momentkurve end rallyraketten ,  der skal sparkes op i omdrejninger for få alle 227 hestekræfter i arbejde .
+7-1	Forskellen	B-noun.attribute|B-noun.quantity	
+7-2	på	O	
+7-3	de	O	
+7-4	to	O	
+7-5	biler	B-noun.vehicle	
+7-6	er	B-verb.TOP|B-verb.social|B-verb.stative	
+7-7	,	O	
+7-8	bortset_fra	O	
+7-9	det	O	
+7-10	skrækkelige	B-adj.all	
+7-11	"	O	
+7-12	hollandske	O	
+7-13	udtræk	B-noun.artifact	
+7-14	"	O	
+7-15	bag	O	
+7-16	på	O	
+7-17	Cosworth'en	O	
+7-18	,	O	
+7-19	transmissionen	B-noun.act	
+7-20	og	O	
+7-21	visse	B-adj.phys	
+7-22	udstyrsdetaljer	O	
+7-23	,	O	
+7-24	at	O	
+7-25	RS	O	
+7-26	2000	O	
+7-27	har	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+7-28	en	O	
+7-29	fladere	O	
+7-30	momentkurve	O	
+7-31	end	O	
+7-32	rallyraketten	O	
+7-33	,	O	
+7-34	der	O	
+7-35	skal	B-verb.motion|B-verb.phenomenon	
+7-36	sparkes	B-verb.act	
+7-37	op	O	
+7-38	i	O	
+7-39	omdrejninger	B-noun.event|B-noun.quantity|B-noun.act	
+7-40	for	O	
+7-41	få	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+7-42	alle	O	
+7-43	227	O	
+7-44	hestekræfter	B-noun.attribute|B-noun.phenomenon|B-noun.quantity	
+7-45	i	O	
+7-46	arbejde	B-noun.act|B-noun.building|B-noun.artifact	
+7-47	.	O	
+

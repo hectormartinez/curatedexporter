@@ -1,0 +1,201 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Pået tidspunkt , hvor der også manglede glød i Olé-sangen , fordi der skete for lidt , så det fik afsmittende virkning  på tribunerne , huggede han til bolden .
+1-1	På	O	
+1-2	et	O	
+1-3	tidspunkt	B-noun.time	
+1-4	,	O	
+1-5	hvor	O	
+1-6	der	O	
+1-7	også	O	
+1-8	manglede	B-verb.stative|B-verb.act|B-verb.motion	
+1-9	glød	B-noun.attribute|B-noun.phenomenon	
+1-10	i	O	
+1-11	Olé-sangen	O	
+1-12	,	O	
+1-13	fordi	O	
+1-14	der	O	
+1-15	skete	B-verb.phenomenon|B-verb.act	
+1-16	for	O	
+1-17	lidt	O	
+1-18	,	O	
+1-19	så	O	
+1-20	det	O	
+1-21	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+1-22	afsmittende	O	
+1-23	virkning	B-noun.act|B-noun.phenomenon	
+1-24	på	O	
+1-25	tribunerne	B-noun.location|B-noun.building|B-person	
+1-26	,	O	
+1-27	huggede	B-verb.change|B-verb.act|B-verb.motion	
+1-28	han	O	
+1-29	til	O	
+1-30	bolden	B-noun.object|B-noun.artifact|B-noun.body|B-noun.act	
+1-31	.	O	
+
+#id=2
+#text=Bom... sagde det .
+2-1	Bom	O	
+2-2	...	O	
+2-3	sagde	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+2-4	det	O	
+2-5	.	O	
+
+#id=3
+#text=Ogtyskerne havde fået det chok , de aldrig overvandt .
+3-1	Og	O	
+3-2	tyskerne	B-noun.person	
+3-3	havde	B-verb.perception|B-verb.communication|B-verb.phenomenon|B-verb.act|B-verb.cognition|B-verb.TOP	
+3-4	fået	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+3-5	det	O	
+3-6	chok	B-noun.act|B-noun.feeling	
+3-7	,	O	
+3-8	de	O	
+3-9	aldrig	O	
+3-10	overvandt	B-verb.act	
+3-11	.	O	
+
+#id=4
+#text=Måletvar den doping , de trætte mænd havde behov for .
+4-1	Målet	B-noun.communication|B-noun.location|B-noun.quantity|B-noun.artifact|B-noun.building|B-noun.motive	
+4-2	var	B-verb.TOP|B-verb.social|B-verb.stative	
+4-3	den	O	
+4-4	doping	B-noun.artifact	
+4-5	,	O	
+4-6	de	O	
+4-7	trætte	B-adj.phys|B-adj.all	
+4-8	mænd	B-noun.object|B-noun.person	
+4-9	havde	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+4-10	behov	B-noun.attribute|B-noun.feeling	
+4-11	for	O	
+4-12	.	O	
+
+#id=5
+#text=Detvar det , der skulle til for at " tænde " dynamitten , og med John Jensen som inspirator begyndte danskerne at  udfordre tyskerne på deres banehalvdel - en spillefacon de ikke er vant til i Bundesligaen , hvor de plejer at få tid og plads i egen zone .
+5-1	Det	O	
+5-2	var	B-verb.TOP|B-verb.social|B-verb.stative	
+5-3	det	O	
+5-4	,	O	
+5-5	der	O	
+5-6	skulle	B-verb.phenomenon	
+5-7	til	O	
+5-8	for	O	
+5-9	at	O	
+5-10	"	O	
+5-11	tænde	B-verb.change|B-verb.act|B-verb.phenomenon	
+5-12	"	O	
+5-13	dynamitten	B-noun.act|B-noun.artifact	
+5-14	,	O	
+5-15	og	O	
+5-16	med	O	
+5-17	John	O	
+5-18	Jensen	O	
+5-19	som	O	
+5-20	inspirator	B-noun.person	
+5-21	begyndte	B-verb.social|B-verb.communication|B-verb.act	
+5-22	danskerne	B-noun.person	
+5-23	at	O	
+5-24	udfordre	B-verb.phenomenon|B-verb.communication	
+5-25	tyskerne	B-noun.person	
+5-26	på	O	
+5-27	deres	O	
+5-28	banehalvdel	B-noun.cognition	
+5-29	-	O	
+5-30	en	O	
+5-31	spillefacon	O	
+5-32	de	O	
+5-33	ikke	O	
+5-34	er	B-verb.TOP|B-verb.social|B-verb.stative	
+5-35	vant	B-adj.social	
+5-36	til	O	
+5-37	i	O	
+5-38	Bundesligaen	O	
+5-39	,	O	
+5-40	hvor	O	
+5-41	de	O	
+5-42	plejer	B-verb.social|B-verb.act	
+5-43	at	O	
+5-44	få	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+5-45	tid	B-noun.communication|B-noun.motive|B-noun.attribute|B-noun.time|B-noun.quantity|B-noun.TOP	
+5-46	og	O	
+5-47	plads	B-noun.TOP|B-noun.quantity|B-noun.artifact|B-noun.location|B-noun.act|B-noun.motive	
+5-48	i	O	
+5-49	egen	O	
+5-50	zone	B-noun.location	
+5-51	.	O	
+
+#id=6
+#text=Menden form for presfodbold kræver kræfter .
+6-1	Men	O	
+6-2	den	O	
+6-3	form	B-noun.communication|B-noun.cognition|B-noun.shape|B-noun.container|B-noun.TOP|B-noun.object|B-noun.motive	
+6-4	for	O	
+6-5	presfodbold	O	
+6-6	kræver	B-verb.communication	
+6-7	kræfter	B-noun.attribute|B-noun.phenomenon|B-noun.feeling	
+6-8	.	O	
+
+#id=7
+#text=Ogdem var der ikke mange tilbage af i det danske kollektiv , der i perioder måtte slippe grebet , så tyskerne fik sat gang i deres opslidende omend forudsigelige tempospil .
+7-1	Og	O	
+7-2	dem	O	
+7-3	var	B-verb.TOP|B-verb.social|B-verb.stative	
+7-4	der	O	
+7-5	ikke	O	
+7-6	mange	O	
+7-7	tilbage	O	
+7-8	af	O	
+7-9	i	O	
+7-10	det	O	
+7-11	danske	B-adj.social|B-adj.phys	
+7-12	kollektiv	B-noun.communication|B-noun.person	
+7-13	,	O	
+7-14	der	O	
+7-15	i	O	
+7-16	perioder	B-noun.time	
+7-17	måtte	B-verb.cognition|B-verb.emotion|B-verb.phenomenon	
+7-18	slippe	B-verb.motion|B-verb.act|B-verb.possession|B-verb.phenomenon	
+7-19	grebet	B-noun.motive|B-noun.artifact|B-noun.act|B-noun.cognition	
+7-20	,	O	
+7-21	så	O	
+7-22	tyskerne	B-noun.person	
+7-23	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+7-24	sat	B-verb.motion|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.change|B-verb.phenomenon	
+7-25	gang	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+7-26	i	O	
+7-27	deres	O	
+7-28	opslidende	O	
+7-29	omend	O	
+7-30	forudsigelige	B-adj.phys	
+7-31	tempospil	O	
+7-32	.	O	
+
+#id=8
+#text=Mendet var til at se :
+8-1	Men	O	
+8-2	det	O	
+8-3	var	B-verb.TOP|B-verb.social|B-verb.stative	
+8-4	til	O	
+8-5	at	O	
+8-6	se	B-verb.motion|B-verb.act|B-verb.communication|B-verb.cognition|B-verb.change|B-verb.social|B-verb.emotion|B-verb.phenomenon	
+8-7	:	O	
+
+#id=9
+#text=Kunnedanskerne klare belastningen og sætte de rådvilde modstandere under pres , kunne kampen vindes .
+9-1	Kunne	B-verb.social	
+9-2	danskerne	B-noun.person	
+9-3	klare	B-verb.phenomenon|B-verb.act|B-verb.change|B-verb.emotion	
+9-4	belastningen	B-noun.phenomenon	
+9-5	og	O	
+9-6	sætte	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.change|B-verb.phenomenon	
+9-7	de	O	
+9-8	rådvilde	O	
+9-9	modstandere	B-noun.cognition|B-noun.person	
+9-10	under	O	
+9-11	pres	B-noun.phenomenon|B-noun.feeling	
+9-12	,	O	
+9-13	kunne	B-verb.social	
+9-14	kampen	B-noun.act|B-noun.motive	
+9-15	vindes	B-verb.change|B-verb.act|B-verb.phenomenon	
+9-16	.	O	
+

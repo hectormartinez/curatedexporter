@@ -1,0 +1,204 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=DronningElizabeths evindelige krav om royal ro i rækkerne anfægtede heller ikke hendes to svigerdøtre Diana og Fergie , da de under det fornemme hestevæddeløb i Ascot i 1987 optrådte " usømmeligt " .
+1-1	Dronning	B-noun.animal|B-noun.person|B-noun.artifact	
+1-2	Elizabeths	O	
+1-3	evindelige	O	
+1-4	krav	B-noun.quantity|B-noun.TOP|B-noun.cognition	
+1-5	om	O	
+1-6	royal	O	
+1-7	ro	B-noun.attribute|B-noun.feeling|B-noun.phenomenon	
+1-8	i	O	
+1-9	rækkerne	B-noun.location|B-noun.motive|B-noun.group|B-noun.person|B-noun.quantity	
+1-10	anfægtede	B-verb.communication	
+1-11	heller	O	
+1-12	ikke	O	
+1-13	hendes	O	
+1-14	to	O	
+1-15	svigerdøtre	B-noun.person	
+1-16	Diana	O	
+1-17	og	O	
+1-18	Fergie	O	
+1-19	,	O	
+1-20	da	O	
+1-21	de	O	
+1-22	under	O	
+1-23	det	O	
+1-24	fornemme	B-adj.mental|B-adj.all	
+1-25	hestevæddeløb	B-noun.act	
+1-26	i	O	
+1-27	Ascot	O	
+1-28	i	O	
+1-29	1987	O	
+1-30	optrådte	B-verb.phenomenon|B-verb.act	
+1-31	"	O	
+1-32	usømmeligt	O	
+1-33	"	O	
+1-34	.	O	
+
+#id=2
+#text=Medandre ord de kyssede alt for mange kønne unge mænd og tog nogle af dem på bagdelen , ligesom de kåde prinsesser havde stor fornøjelse af at prikke til diverse mænd med deres paraplyer .
+2-1	Med	O	
+2-2	andre	O	
+2-3	ord	B-noun.act|B-noun.communication	
+2-4	de	O	
+2-5	kyssede	B-verb.act	
+2-6	alt	O	
+2-7	for	O	
+2-8	mange	O	
+2-9	kønne	O	
+2-10	unge	B-adj.phys	
+2-11	mænd	B-noun.object|B-noun.person	
+2-12	og	O	
+2-13	tog	B-verb.motion|B-verb.act|B-verb.creation|B-verb.cognition|B-verb.change|B-verb.social|B-verb.possession	
+2-14	nogle	O	
+2-15	af	O	
+2-16	dem	O	
+2-17	på	O	
+2-18	bagdelen	B-noun.body|B-noun.artifact	
+2-19	,	O	
+2-20	ligesom	O	
+2-21	de	O	
+2-22	kåde	O	
+2-23	prinsesser	B-noun.body	
+2-24	havde	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+2-25	stor	B-adj.phys	
+2-26	fornøjelse	B-noun.act|B-noun.feeling	
+2-27	af	O	
+2-28	at	O	
+2-29	prikke	B-verb.motion|B-verb.act|B-verb.creation|B-verb.communication	
+2-30	til	O	
+2-31	diverse	O	
+2-32	mænd	B-noun.object|B-noun.person	
+2-33	med	O	
+2-34	deres	O	
+2-35	paraplyer	B-noun.institution|B-noun.artifact	
+2-36	.	O	
+
+#id=3
+#text="Værdighed frem for alt ! " buldrede det ansete dagblad The Times på vegne af dronning Elizabeth .
+3-1	"	O	
+3-2	Værdighed	B-noun.attribute|B-noun.cognition|B-noun.act	
+3-3	frem	O	
+3-4	for	O	
+3-5	alt	O	
+3-6	!	O	
+3-7	"	O	
+3-8	buldrede	B-verb.change|B-verb.phenomenon|B-verb.communication|B-verb.motion	
+3-9	det	O	
+3-10	ansete	O	
+3-11	dagblad	B-noun.communication	
+3-12	The	O	
+3-13	Times	B-noun.time	
+3-14	på	O	
+3-15	vegne	O	
+3-16	af	O	
+3-17	dronning	B-noun.animal|B-noun.person|B-noun.artifact	
+3-18	Elizabeth	O	
+3-19	.	O	
+
+#id=4
+#text=DII BIKINI
+4-1	DI	O	
+4-2	I	O	
+4-3	BIKINI	B-noun.artifact	
+
+#id=5
+#text=Mender skal nu heller ikke ret meget til , før man bliver dømt uværdig i det britiske kongehus .
+5-1	Men	O	
+5-2	der	O	
+5-3	skal	B-verb.motion|B-verb.phenomenon	
+5-4	nu	O	
+5-5	heller	O	
+5-6	ikke	O	
+5-7	ret	O	
+5-8	meget	O	
+5-9	til	O	
+5-10	,	O	
+5-11	før	O	
+5-12	man	O	
+5-13	bliver	B-verb.TOP|B-verb.act|B-verb.stative	
+5-14	dømt	B-verb.cognition|B-verb.communication	
+5-15	uværdig	O	
+5-16	i	O	
+5-17	det	O	
+5-18	britiske	B-adj.social	
+5-19	kongehus	B-noun.institution|B-noun.person	
+5-20	.	O	
+
+#id=6
+#text=Etbillede af Diana i bikini i 1987 fik både presse og kongehus til at gå helt amok , for sådan fører man sig ikke frem som kongelig .
+6-1	Et	O	
+6-2	billede	B-noun.object|B-noun.artifact|B-noun.cognition	
+6-3	af	O	
+6-4	Diana	O	
+6-5	i	O	
+6-6	bikini	B-noun.artifact	
+6-7	i	O	
+6-8	1987	O	
+6-9	fik	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.possession	
+6-10	både	O	
+6-11	presse	B-noun.motive|B-noun.artifact|B-noun.act|B-noun.person	
+6-12	og	O	
+6-13	kongehus	B-noun.institution|B-noun.person	
+6-14	til	O	
+6-15	at	O	
+6-16	gå	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+6-17	helt	B-adj.phys	
+6-18	amok	O	
+6-19	,	O	
+6-20	for	O	
+6-21	sådan	O	
+6-22	fører	B-n|B-verb.creation|B-verb.act|B-verb.phenomenon	
+6-23	man	O	
+6-24	sig	O	
+6-25	ikke	O	
+6-26	frem	O	
+6-27	som	O	
+6-28	kongelig	B-adj.social|B-adj.all	
+6-29	.	O	
+
+#id=7
+#text=Vedvarendereprimander har hjulpet så meget som den berømte skrædder i helvede .
+7-1	Vedvarende	B-adj.time	
+7-2	reprimander	B-noun.communication	
+7-3	har	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+7-4	hjulpet	B-verb.act	
+7-5	så	O	
+7-6	meget	O	
+7-7	som	O	
+7-8	den	O	
+7-9	berømte	B-adj.social	
+7-10	skrædder	B-noun.person	
+7-11	i	O	
+7-12	helvede	B-noun.cognition|B-noun.state|B-noun.communication	
+7-13	.	O	
+
+#id=8
+#text=Tilsidstbegyndte den frustrerede Fergie  at gå Diana i bedene og begyndte at gå i byen og rejse rundt i verden på egen hånd .
+8-1	Tilsidst	O	
+8-2	begyndte	B-verb.social|B-verb.communication|B-verb.act	
+8-3	den	O	
+8-4	frustrerede	B-verb.change	
+8-5	Fergie	O	
+8-6	at	O	
+8-7	gå	B-verb.change|B-otion|B-verb.act|B-verb.stative	
+8-8	Diana	O	
+8-9	i	O	
+8-10	bedene	B-noun.location	
+8-11	og	O	
+8-12	begyndte	B-verb.social|B-verb.communication|B-verb.act	
+8-13	at	O	
+8-14	gå	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+8-15	i	O	
+8-16	byen	B-noun.location|B-noun.artifact|B-noun.person	
+8-17	og	O	
+8-18	rejse	B-verb.possession|B-verb.communication|B-verb.change|B-verb.act|B-verb.motion|B-verb.phenomenon	
+8-19	rundt	O	
+8-20	i	O	
+8-21	verden	B-noun.location|B-noun.act|B-noun.quantity|B-henomenon|B-noun.group|B-noun.person|B-noun.cognition|B-noun.object	
+8-22	på	O	
+8-23	egen	O	
+8-24	hånd	B-noun.act|B-noun.location|B-noun.communication|B-noun.body	
+8-25	.	O	
+
